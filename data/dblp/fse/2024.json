@@ -1,0 +1,5237 @@
+[
+    {
+        "@score": "1",
+        "@id": "154315",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "258/6304",
+                        "text": "Po-Chun Chien"
+                    },
+                    {
+                        "@pid": "372/9707",
+                        "text": "Marek Jankola"
+                    },
+                    {
+                        "@pid": "154/3010",
+                        "text": "Nian-Ze Lee"
+                    }
+                ]
+            },
+            "title": "A Transferability Study of Interpolation-Based Hardware Model Checking for Software Verification.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2028-2050",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0001CJL24",
+            "doi": "10.1145/3660797",
+            "ee": "https://doi.org/10.1145/3660797",
+            "url": "https://dblp.org/rec/journals/pacmse/0001CJL24"
+        },
+        "url": "URL#154315"
+    },
+    {
+        "@score": "1",
+        "@id": "154316",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "317/4322",
+                        "text": "Matthias Kettl"
+                    },
+                    {
+                        "@pid": "186/9680-2",
+                        "text": "Thomas Lemberger 0002"
+                    }
+                ]
+            },
+            "title": "Decomposing Software Verification using Distributed Summary Synthesis.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1307-1329",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0001K024",
+            "doi": "10.1145/3660766",
+            "ee": "https://doi.org/10.1145/3660766",
+            "url": "https://dblp.org/rec/journals/pacmse/0001K024"
+        },
+        "url": "URL#154316"
+    },
+    {
+        "@score": "1",
+        "@id": "154317",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/510-1",
+                        "text": "Tao Chen 0001"
+                    },
+                    {
+                        "@pid": "05/3393",
+                        "text": "Miqing Li"
+                    }
+                ]
+            },
+            "title": "Adapting Multi-objectivized Software Configuration Tuning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "539-561",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0001L24",
+            "doi": "10.1145/3643751",
+            "ee": "https://doi.org/10.1145/3643751",
+            "url": "https://dblp.org/rec/journals/pacmse/0001L24"
+        },
+        "url": "URL#154317"
+    },
+    {
+        "@score": "1",
+        "@id": "154318",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/1713-2",
+                        "text": "Xiao Cheng 0002"
+                    },
+                    {
+                        "@pid": "122/3626",
+                        "text": "Jiawei Ren"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    }
+                ]
+            },
+            "title": "Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "494-516",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0002RS24",
+            "doi": "10.1145/3643749",
+            "ee": "https://doi.org/10.1145/3643749",
+            "url": "https://dblp.org/rec/journals/pacmse/0002RS24"
+        },
+        "url": "URL#154318"
+    },
+    {
+        "@score": "1",
+        "@id": "154319",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "22/6620-2",
+                        "text": "Yi Qin 0002"
+                    },
+                    {
+                        "@pid": "155/4352",
+                        "text": "Yanxiang Tong"
+                    },
+                    {
+                        "@pid": "11/504",
+                        "text": "Yifei Xu"
+                    },
+                    {
+                        "@pid": "16/1889",
+                        "text": "Chun Cao"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    }
+                ]
+            },
+            "title": "Active Monitoring Mechanism for Control-Based Self-Adaptive Systems.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1841-1864",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0002TXCM24",
+            "doi": "10.1145/3660789",
+            "ee": "https://doi.org/10.1145/3660789",
+            "url": "https://dblp.org/rec/journals/pacmse/0002TXCM24"
+        },
+        "url": "URL#154319"
+    },
+    {
+        "@score": "1",
+        "@id": "154320",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "59/2227-14",
+                        "text": "Yan Wang 0014"
+                    },
+                    {
+                        "@pid": "31/5395",
+                        "text": "Xiaoning Li"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    },
+                    {
+                        "@pid": "09/486-2",
+                        "text": "Shaohua Wang 0002"
+                    },
+                    {
+                        "@pid": "95/3829-1",
+                        "text": "Chao Ni 0001"
+                    },
+                    {
+                        "@pid": "19/5147",
+                        "text": "Ling Ding"
+                    }
+                ]
+            },
+            "title": "Natural Is the Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "586-608",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0014LN00D24",
+            "doi": "10.1145/3643753",
+            "ee": "https://doi.org/10.1145/3643753",
+            "url": "https://dblp.org/rec/journals/pacmse/0014LN00D24"
+        },
+        "url": "URL#154320"
+    },
+    {
+        "@score": "1",
+        "@id": "154321",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/7092-353",
+                        "text": "Wei Wang 0353"
+                    },
+                    {
+                        "@pid": "368/3405",
+                        "text": "Huilong Ning"
+                    },
+                    {
+                        "@pid": "168/0801",
+                        "text": "Gaowei Zhang"
+                    },
+                    {
+                        "@pid": "364/9307",
+                        "text": "Libo Liu"
+                    },
+                    {
+                        "@pid": "67/6649-13",
+                        "text": "Yi Wang 0013"
+                    }
+                ]
+            },
+            "title": "Rocks Coding, Not Development: A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "699-721",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/0353NZLW24",
+            "doi": "10.1145/3643758",
+            "ee": "https://doi.org/10.1145/3643758",
+            "url": "https://dblp.org/rec/journals/pacmse/0353NZLW24"
+        },
+        "url": "URL#154321"
+    },
+    {
+        "@score": "1",
+        "@id": "154322",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5583",
+                        "text": "Tarek Alakmeh"
+                    },
+                    {
+                        "@pid": "321/1783",
+                        "text": "David R. Reich"
+                    },
+                    {
+                        "@pid": "198/0994",
+                        "text": "Lena A. J\u00e4ger"
+                    },
+                    {
+                        "@pid": "67/6766-1",
+                        "text": "Thomas Fritz 0001"
+                    }
+                ]
+            },
+            "title": "Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code using Deep Neural Networks.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1982-2004",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/AlakmehRJ024",
+            "doi": "10.1145/3660795",
+            "ee": "https://doi.org/10.1145/3660795",
+            "url": "https://dblp.org/rec/journals/pacmse/AlakmehRJ024"
+        },
+        "url": "URL#154322"
+    },
+    {
+        "@score": "1",
+        "@id": "154323",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "138/2598",
+                        "text": "Ramakrishna Bairi"
+                    },
+                    {
+                        "@pid": "304/5322",
+                        "text": "Atharv Sonwane"
+                    },
+                    {
+                        "@pid": "61/2636",
+                        "text": "Aditya Kanade"
+                    },
+                    {
+                        "@pid": "149/4583",
+                        "text": "Vageesh D. C."
+                    },
+                    {
+                        "@pid": "262/6555",
+                        "text": "Arun Iyer"
+                    },
+                    {
+                        "@pid": "121/4147",
+                        "text": "Suresh Parthasarathy"
+                    },
+                    {
+                        "@pid": "r/SriramKRajamani",
+                        "text": "Sriram K. Rajamani"
+                    },
+                    {
+                        "@pid": "183/0602",
+                        "text": "Balasubramanyan Ashok"
+                    },
+                    {
+                        "@pid": "357/5143",
+                        "text": "Shashank Shet"
+                    }
+                ]
+            },
+            "title": "CodePlan: Repository-Level Coding using LLMs and Planning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "675-698",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/BairiSKCIPRAS24",
+            "doi": "10.1145/3643757",
+            "ee": "https://doi.org/10.1145/3643757",
+            "url": "https://dblp.org/rec/journals/pacmse/BairiSKCIPRAS24"
+        },
+        "url": "URL#154323"
+    },
+    {
+        "@score": "1",
+        "@id": "154324",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "298/1159",
+                        "text": "Christian Birchler"
+                    },
+                    {
+                        "@pid": "367/4706",
+                        "text": "Tanzil Kombarabettu Mohammed"
+                    },
+                    {
+                        "@pid": "153/4246-1",
+                        "text": "Pooja Rani 0001"
+                    },
+                    {
+                        "@pid": "325/5796",
+                        "text": "Teodora Nechita"
+                    },
+                    {
+                        "@pid": "24/9748",
+                        "text": "Timo Kehrer"
+                    },
+                    {
+                        "@pid": "37/7547",
+                        "text": "Sebastiano Panichella"
+                    }
+                ]
+            },
+            "title": "How Does Simulation-Based Testing for Self-Driving Cars Match Human Perception?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "929-950",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/BirchlerM0NKP24",
+            "doi": "10.1145/3643768",
+            "ee": "https://doi.org/10.1145/3643768",
+            "url": "https://dblp.org/rec/journals/pacmse/BirchlerM0NKP24"
+        },
+        "url": "URL#154324"
+    },
+    {
+        "@score": "1",
+        "@id": "154325",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "324/8017",
+                        "text": "Islem Bouzenia"
+                    },
+                    {
+                        "@pid": "371/9093",
+                        "text": "Bajaj Piyush Krishan"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "DyPyBench: A Benchmark of Executable Python Software.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "338-358",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/BouzeniaKP24",
+            "doi": "10.1145/3643742",
+            "ee": "https://doi.org/10.1145/3643742",
+            "url": "https://dblp.org/rec/journals/pacmse/BouzeniaKP24"
+        },
+        "url": "URL#154325"
+    },
+    {
+        "@score": "1",
+        "@id": "154326",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "98/11442",
+                        "text": "David Broneske"
+                    },
+                    {
+                        "@pid": "381/5814",
+                        "text": "Sebastian Kittan"
+                    },
+                    {
+                        "@pid": "186/2756",
+                        "text": "Jacob Kr\u00fcger"
+                    }
+                ]
+            },
+            "title": "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2051-2074",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/BroneskeKK24",
+            "doi": "10.1145/3660798",
+            "ee": "https://doi.org/10.1145/3660798",
+            "url": "https://dblp.org/rec/journals/pacmse/BroneskeKK24"
+        },
+        "url": "URL#154326"
+    },
+    {
+        "@score": "1",
+        "@id": "154327",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "321/4336",
+                        "text": "Luwei Cai"
+                    },
+                    {
+                        "@pid": "09/10016",
+                        "text": "Fu Song"
+                    },
+                    {
+                        "@pid": "28/4743",
+                        "text": "Taolue Chen 0001"
+                    }
+                ]
+            },
+            "title": "Towards Efficient Verification of Constant-Time Cryptographic Implementations.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1019-1042",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/CaiSC24",
+            "doi": "10.1145/3643772",
+            "ee": "https://doi.org/10.1145/3643772",
+            "url": "https://dblp.org/rec/journals/pacmse/CaiSC24"
+        },
+        "url": "URL#154327"
+    },
+    {
+        "@score": "1",
+        "@id": "154328",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "356/3695",
+                        "text": "Ophir M. Carmel"
+                    },
+                    {
+                        "@pid": "23/10321",
+                        "text": "Guy Katz"
+                    }
+                ]
+            },
+            "title": "On Reducing Undesirable Behavior in Deep-Reinforcement-Learning-Based Software.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1518-1539",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/CarmelK24",
+            "doi": "10.1145/3660775",
+            "ee": "https://doi.org/10.1145/3660775",
+            "url": "https://dblp.org/rec/journals/pacmse/CarmelK24"
+        },
+        "url": "URL#154328"
+    },
+    {
+        "@score": "1",
+        "@id": "154329",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/0143",
+                        "text": "Simin Chen"
+                    },
+                    {
+                        "@pid": "221/0808-1",
+                        "text": "Zexin Li 0001"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    },
+                    {
+                        "@pid": "95/6404-5",
+                        "text": "Cong Liu 0005"
+                    }
+                ]
+            },
+            "title": "DeciX: Explain Deep Learning Based Code Generation Applications.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2424-2446",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Chen00024",
+            "doi": "10.1145/3660814",
+            "ee": "https://doi.org/10.1145/3660814",
+            "url": "https://dblp.org/rec/journals/pacmse/Chen00024"
+        },
+        "url": "URL#154329"
+    },
+    {
+        "@score": "1",
+        "@id": "154330",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/4346-4",
+                        "text": "Zhiyang Chen 0004"
+                    },
+                    {
+                        "@pid": "96/2615-12",
+                        "text": "Ye Liu 0012"
+                    },
+                    {
+                        "@pid": "162/3997",
+                        "text": "Sidi Mohamed Beillahi"
+                    },
+                    {
+                        "@pid": "59/871-8",
+                        "text": "Yi Li 0008"
+                    },
+                    {
+                        "@pid": "55/3921",
+                        "text": "Fan Long"
+                    }
+                ]
+            },
+            "title": "Demystifying Invariant Effectiveness for Securing Smart Contracts.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1772-1795",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Chen0B0L24",
+            "doi": "10.1145/3660786",
+            "ee": "https://doi.org/10.1145/3660786",
+            "url": "https://dblp.org/rec/journals/pacmse/Chen0B0L24"
+        },
+        "url": "URL#154330"
+    },
+    {
+        "@score": "1",
+        "@id": "154331",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/4395",
+                        "text": "Jesse Chen"
+                    },
+                    {
+                        "@pid": "323/4496",
+                        "text": "Dharun Anandayuvaraj"
+                    },
+                    {
+                        "@pid": "182/5618-1",
+                        "text": "James C. Davis 0001"
+                    },
+                    {
+                        "@pid": "208/7323",
+                        "text": "Sazzadur Rahaman"
+                    }
+                ]
+            },
+            "title": "On the Contents and Utility of IoT Cybersecurity Guidelines.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1400-1423",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ChenA0R24",
+            "doi": "10.1145/3660770",
+            "ee": "https://doi.org/10.1145/3660770",
+            "url": "https://dblp.org/rec/journals/pacmse/ChenA0R24"
+        },
+        "url": "URL#154331"
+    },
+    {
+        "@score": "1",
+        "@id": "154332",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/0143",
+                        "text": "Simin Chen"
+                    },
+                    {
+                        "@pid": "59/2775",
+                        "text": "Xiaoning Feng"
+                    },
+                    {
+                        "@pid": "254/6722",
+                        "text": "Xiaohong Han"
+                    },
+                    {
+                        "@pid": "95/6404-5",
+                        "text": "Cong Liu 0005"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    }
+                ]
+            },
+            "title": "PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1194-1215",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ChenFH0024",
+            "doi": "10.1145/3643780",
+            "ee": "https://doi.org/10.1145/3643780",
+            "url": "https://dblp.org/rec/journals/pacmse/ChenFH0024"
+        },
+        "url": "URL#154332"
+    },
+    {
+        "@score": "1",
+        "@id": "154333",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "256/1948",
+                        "text": "Yuntianyi Chen"
+                    },
+                    {
+                        "@pid": "309/6095",
+                        "text": "Yuqi Huai"
+                    },
+                    {
+                        "@pid": "27/4931",
+                        "text": "Shilong Li"
+                    },
+                    {
+                        "@pid": "381/5530",
+                        "text": "Changnam Hong"
+                    },
+                    {
+                        "@pid": "06/6932",
+                        "text": "Joshua Garcia"
+                    }
+                ]
+            },
+            "title": "Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1913-1936",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ChenHLHG24",
+            "doi": "10.1145/3660792",
+            "ee": "https://doi.org/10.1145/3660792",
+            "url": "https://dblp.org/rec/journals/pacmse/ChenHLHG24"
+        },
+        "url": "URL#154333"
+    },
+    {
+        "@score": "1",
+        "@id": "154334",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/415",
+                        "text": "Jinyin Chen"
+                    },
+                    {
+                        "@pid": "226/8354",
+                        "text": "Chengyu Jia"
+                    },
+                    {
+                        "@pid": "381/5611",
+                        "text": "Yunjie Yan"
+                    },
+                    {
+                        "@pid": "324/4001",
+                        "text": "Jie Ge"
+                    },
+                    {
+                        "@pid": "175/7149",
+                        "text": "Haibin Zheng"
+                    },
+                    {
+                        "@pid": "14/8823",
+                        "text": "Yao Cheng"
+                    }
+                ]
+            },
+            "title": "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2005-2027",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ChenJYGZC24",
+            "doi": "10.1145/3660796",
+            "ee": "https://doi.org/10.1145/3660796",
+            "url": "https://dblp.org/rec/journals/pacmse/ChenJYGZC24"
+        },
+        "url": "URL#154334"
+    },
+    {
+        "@score": "1",
+        "@id": "154335",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "45/2913",
+                        "text": "Xiangping Chen"
+                    },
+                    {
+                        "@pid": "319/2622",
+                        "text": "Furen Xu"
+                    },
+                    {
+                        "@pid": "15/8391-2",
+                        "text": "Yuan Huang 0002"
+                    },
+                    {
+                        "@pid": "128/4245-1",
+                        "text": "Neng Zhang 0001"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    }
+                ]
+            },
+            "title": "JIT-Smart: A Multi-task Learning Framework for Just-in-Time Defect Prediction and Localization.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1-23",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ChenX00Z24",
+            "doi": "10.1145/3643727",
+            "ee": "https://doi.org/10.1145/3643727",
+            "url": "https://dblp.org/rec/journals/pacmse/ChenX00Z24"
+        },
+        "url": "URL#154335"
+    },
+    {
+        "@score": "1",
+        "@id": "154336",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "236/4770",
+                        "text": "Sourav Deb"
+                    },
+                    {
+                        "@pid": "276/3275",
+                        "text": "Kush Jain"
+                    },
+                    {
+                        "@pid": "150/5987",
+                        "text": "Rijnard van Tonder"
+                    },
+                    {
+                        "@pid": "93/4573",
+                        "text": "Claire Le Goues"
+                    },
+                    {
+                        "@pid": "g/AlexGroce",
+                        "text": "Alex Groce"
+                    }
+                ]
+            },
+            "title": "Syntax Is All You Need: A Universal-Language Approach to Mutant Generation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "654-674",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/DebJTGG24",
+            "doi": "10.1145/3643756",
+            "ee": "https://doi.org/10.1145/3643756",
+            "url": "https://dblp.org/rec/journals/pacmse/DebJTGG24"
+        },
+        "url": "URL#154336"
+    },
+    {
+        "@score": "1",
+        "@id": "154337",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "85/4864",
+                        "text": "Giovanni Denaro"
+                    },
+                    {
+                        "@pid": "299/8729",
+                        "text": "Noura El Moussa"
+                    },
+                    {
+                        "@pid": "327/7022",
+                        "text": "Rahim Heydarov"
+                    },
+                    {
+                        "@pid": "225/4563",
+                        "text": "Francesco Lomio"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    },
+                    {
+                        "@pid": "375/9671",
+                        "text": "Ketai Qiu"
+                    }
+                ]
+            },
+            "title": "Predicting Failures of Autoscaling Distributed Applications.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1960-1981",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/DenaroMHLPQ24",
+            "doi": "10.1145/3660794",
+            "ee": "https://doi.org/10.1145/3660794",
+            "url": "https://dblp.org/rec/journals/pacmse/DenaroMHLPQ24"
+        },
+        "url": "URL#154337"
+    },
+    {
+        "@score": "1",
+        "@id": "154338",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/3868",
+                        "text": "Malinda Dilhara"
+                    },
+                    {
+                        "@pid": "367/4542",
+                        "text": "Abhiram Bellur"
+                    },
+                    {
+                        "@pid": "136/0260",
+                        "text": "Timofey Bryksin"
+                    },
+                    {
+                        "@pid": "36/5445",
+                        "text": "Danny Dig"
+                    }
+                ]
+            },
+            "title": "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "631-653",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/DilharaBBD24",
+            "doi": "10.1145/3643755",
+            "ee": "https://doi.org/10.1145/3643755",
+            "url": "https://dblp.org/rec/journals/pacmse/DilharaBBD24"
+        },
+        "url": "URL#154338"
+    },
+    {
+        "@score": "1",
+        "@id": "154339",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "282/6213",
+                        "text": "Shihan Dou"
+                    },
+                    {
+                        "@pid": "77/8060-1",
+                        "text": "Yueming Wu 0001"
+                    },
+                    {
+                        "@pid": "351/6716",
+                        "text": "Haoxiang Jia"
+                    },
+                    {
+                        "@pid": "121/6722",
+                        "text": "Yuhao Zhou"
+                    },
+                    {
+                        "@pid": "l/YanLiu12",
+                        "text": "Yan Liu 0012"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1564-1584",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/DouWJZL024",
+            "doi": "10.1145/3660777",
+            "ee": "https://doi.org/10.1145/3660777",
+            "url": "https://dblp.org/rec/journals/pacmse/DouWJZL024"
+        },
+        "url": "URL#154339"
+    },
+    {
+        "@score": "1",
+        "@id": "154340",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "305/1043",
+                        "text": "Georgios-Petros Drosos"
+                    },
+                    {
+                        "@pid": "234/7643",
+                        "text": "Thodoris Sotiropoulos"
+                    },
+                    {
+                        "@pid": "s/DiomidisSpinellis",
+                        "text": "Diomidis Spinellis"
+                    },
+                    {
+                        "@pid": "29/8061",
+                        "text": "Dimitris Mitropoulos"
+                    }
+                ]
+            },
+            "title": "Bloat beneath Python&apos;s Scales: A Fine-Grained Inter-Project Dependency Analysis.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2584-2607",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/DrososSSM24",
+            "doi": "10.1145/3660821",
+            "ee": "https://doi.org/10.1145/3660821",
+            "url": "https://dblp.org/rec/journals/pacmse/DrososSSM24"
+        },
+        "url": "URL#154340"
+    },
+    {
+        "@score": "1",
+        "@id": "154341",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "322/8139",
+                        "text": "Hai Duong"
+                    },
+                    {
+                        "@pid": "09/3493-21",
+                        "text": "Dong Xu 0021"
+                    },
+                    {
+                        "@pid": "19/7057",
+                        "text": "ThanhVu Nguyen"
+                    },
+                    {
+                        "@pid": "d/MatthewBDwyer",
+                        "text": "Matthew B. Dwyer"
+                    }
+                ]
+            },
+            "title": "Harnessing Neuron Stability to Improve DNN Verification.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "859-881",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Duong0ND24",
+            "doi": "10.1145/3643765",
+            "ee": "https://doi.org/10.1145/3643765",
+            "url": "https://dblp.org/rec/journals/pacmse/Duong0ND24"
+        },
+        "url": "URL#154341"
+    },
+    {
+        "@score": "1",
+        "@id": "154342",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "256/6206",
+                        "text": "Madeline Endres"
+                    },
+                    {
+                        "@pid": "217/3729",
+                        "text": "Sarah Fakhoury"
+                    },
+                    {
+                        "@pid": "137/5220",
+                        "text": "Saikat Chakraborty"
+                    },
+                    {
+                        "@pid": "32/2903",
+                        "text": "Shuvendu K. Lahiri"
+                    }
+                ]
+            },
+            "title": "Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1889-1912",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/EndresFCL24",
+            "doi": "10.1145/3660791",
+            "ee": "https://doi.org/10.1145/3660791",
+            "url": "https://dblp.org/rec/journals/pacmse/EndresFCL24"
+        },
+        "url": "URL#154342"
+    },
+    {
+        "@score": "1",
+        "@id": "154343",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5599",
+                        "text": "Haeun Eom"
+                    },
+                    {
+                        "@pid": "75/8133",
+                        "text": "Dohee Kim"
+                    },
+                    {
+                        "@pid": "381/5636",
+                        "text": "Sori Lim"
+                    },
+                    {
+                        "@pid": "169/8810",
+                        "text": "Hyungjoon Koo"
+                    },
+                    {
+                        "@pid": "86/2055",
+                        "text": "Sungjae Hwang"
+                    }
+                ]
+            },
+            "title": "R2I: A Relative Readability Metric for Decompiled Code.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "383-405",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/EomKLKH24",
+            "doi": "10.1145/3643744",
+            "ee": "https://doi.org/10.1145/3643744",
+            "url": "https://dblp.org/rec/journals/pacmse/EomKLKH24"
+        },
+        "url": "URL#154343"
+    },
+    {
+        "@score": "1",
+        "@id": "154344",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5555",
+                        "text": "Farbod Farhour"
+                    },
+                    {
+                        "@pid": "241/5936",
+                        "text": "Ahmad Abdellatif"
+                    },
+                    {
+                        "@pid": "m/EssamMansour",
+                        "text": "Essam Mansour 0001"
+                    },
+                    {
+                        "@pid": "05/5996",
+                        "text": "Emad Shihab"
+                    }
+                ]
+            },
+            "title": "A Weak Supervision-Based Approach to Improve Chatbots for Code Repositories.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2378-2401",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/FarhourA0S24",
+            "doi": "10.1145/3660812",
+            "ee": "https://doi.org/10.1145/3660812",
+            "url": "https://dblp.org/rec/journals/pacmse/FarhourA0S24"
+        },
+        "url": "URL#154344"
+    },
+    {
+        "@score": "1",
+        "@id": "154345",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/4000",
+                        "text": "Kai Gao"
+                    },
+                    {
+                        "@pid": "56/3321",
+                        "text": "Weiwei Xu"
+                    },
+                    {
+                        "@pid": "233/4699",
+                        "text": "Wenhao Yang"
+                    },
+                    {
+                        "@pid": "07/4732-1",
+                        "text": "Minghui Zhou 0001"
+                    }
+                ]
+            },
+            "title": "PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2608-2631",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/GaoXY024",
+            "doi": "10.1145/3660822",
+            "ee": "https://doi.org/10.1145/3660822",
+            "url": "https://dblp.org/rec/journals/pacmse/GaoXY024"
+        },
+        "url": "URL#154345"
+    },
+    {
+        "@score": "1",
+        "@id": "154346",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "317/5179",
+                        "text": "Jingzhi Gong"
+                    },
+                    {
+                        "@pid": "69/510-1",
+                        "text": "Tao Chen 0001"
+                    }
+                ]
+            },
+            "title": "Predicting Configuration Performance in Multiple Environments with Sequential Meta-Learning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "359-382",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Gong024",
+            "doi": "10.1145/3643743",
+            "ee": "https://doi.org/10.1145/3643743",
+            "url": "https://dblp.org/rec/journals/pacmse/Gong024"
+        },
+        "url": "URL#154346"
+    },
+    {
+        "@score": "1",
+        "@id": "154347",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "367/1625",
+                        "text": "Sabaat Haroon"
+                    },
+                    {
+                        "@pid": "126/9627",
+                        "text": "Chris Brown 0001"
+                    },
+                    {
+                        "@pid": "172/6776",
+                        "text": "Muhammad Ali Gulzar"
+                    }
+                ]
+            },
+            "title": "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "767-788",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Haroon0G24",
+            "doi": "10.1145/3643761",
+            "ee": "https://doi.org/10.1145/3643761",
+            "url": "https://dblp.org/rec/journals/pacmse/Haroon0G24"
+        },
+        "url": "URL#154347"
+    },
+    {
+        "@score": "1",
+        "@id": "154348",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "32/8575",
+                        "text": "Md. Mahadi Hassan"
+                    },
+                    {
+                        "@pid": "371/4073",
+                        "text": "John Salvador"
+                    },
+                    {
+                        "@pid": "150/3985",
+                        "text": "Shubhra Kanti Karmaker Santu"
+                    },
+                    {
+                        "@pid": "06/10426",
+                        "text": "Akond Rahman"
+                    }
+                ]
+            },
+            "title": "State Reconciliation Defects in Infrastructure as Code.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1865-1888",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HassanSSR24",
+            "doi": "10.1145/3660790",
+            "ee": "https://doi.org/10.1145/3660790",
+            "url": "https://dblp.org/rec/journals/pacmse/HassanSSR24"
+        },
+        "url": "URL#154348"
+    },
+    {
+        "@score": "1",
+        "@id": "154349",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/9102",
+                        "text": "Weigang He"
+                    },
+                    {
+                        "@pid": "00/9301",
+                        "text": "Peng Di"
+                    },
+                    {
+                        "@pid": "381/5877",
+                        "text": "Mengli Ming"
+                    },
+                    {
+                        "@pid": "01/7515-1",
+                        "text": "Chengyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "141/7586",
+                        "text": "Shijie Li"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    }
+                ]
+            },
+            "title": "Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1656-1678",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HeDM00LS24",
+            "doi": "10.1145/3660781",
+            "ee": "https://doi.org/10.1145/3660781",
+            "url": "https://dblp.org/rec/journals/pacmse/HeDM00LS24"
+        },
+        "url": "URL#154349"
+    },
+    {
+        "@score": "1",
+        "@id": "154350",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/0077",
+                        "text": "Yibo He"
+                    },
+                    {
+                        "@pid": "233/6209",
+                        "text": "Jiaming Huang"
+                    },
+                    {
+                        "@pid": "64/4832",
+                        "text": "Hao Yu"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1750-1771",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HeHY024",
+            "doi": "10.1145/3660785",
+            "ee": "https://doi.org/10.1145/3660785",
+            "url": "https://dblp.org/rec/journals/pacmse/HeHY024"
+        },
+        "url": "URL#154350"
+    },
+    {
+        "@score": "1",
+        "@id": "154351",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "336/3396",
+                        "text": "Soneya Binta Hossain"
+                    },
+                    {
+                        "@pid": "06/4489-12",
+                        "text": "Nan Jiang 0012"
+                    },
+                    {
+                        "@pid": "43/3182",
+                        "text": "Qiang Zhou"
+                    },
+                    {
+                        "@pid": "45/1827-2",
+                        "text": "Xiaopeng Li 0002"
+                    },
+                    {
+                        "@pid": "172/6597",
+                        "text": "Wen-Hao Chiang"
+                    },
+                    {
+                        "@pid": "167/7867",
+                        "text": "Yingjun Lyu"
+                    },
+                    {
+                        "@pid": "51/6992",
+                        "text": "Hoan Anh Nguyen"
+                    },
+                    {
+                        "@pid": "08/7062",
+                        "text": "Omer Tripp"
+                    }
+                ]
+            },
+            "title": "A Deep Dive into Large Language Models for Automated Bug Localization and Repair.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1471-1493",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Hossain0Z0CLNT24",
+            "doi": "10.1145/3660773",
+            "ee": "https://doi.org/10.1145/3660773",
+            "url": "https://dblp.org/rec/journals/pacmse/Hossain0Z0CLNT24"
+        },
+        "url": "URL#154351"
+    },
+    {
+        "@score": "1",
+        "@id": "154352",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "317/6982",
+                        "text": "Yizhan Huang"
+                    },
+                    {
+                        "@pid": "27/2248-3",
+                        "text": "Yichen Li 0003"
+                    },
+                    {
+                        "@pid": "07/10638-2",
+                        "text": "Weibin Wu 0002"
+                    },
+                    {
+                        "@pid": "03/2548-2",
+                        "text": "Jianping Zhang 0002"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-Coded Credentials.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2515-2537",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HuangL00L24",
+            "doi": "10.1145/3660818",
+            "ee": "https://doi.org/10.1145/3660818",
+            "url": "https://dblp.org/rec/journals/pacmse/HuangL00L24"
+        },
+        "url": "URL#154352"
+    },
+    {
+        "@score": "1",
+        "@id": "154353",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/7450",
+                        "text": "Haiyu Huang"
+                    },
+                    {
+                        "@pid": "12/5927",
+                        "text": "Xiaoyu Zhang"
+                    },
+                    {
+                        "@pid": "13/3788-2",
+                        "text": "Pengfei Chen 0002"
+                    },
+                    {
+                        "@pid": "185/8496",
+                        "text": "Zilong He"
+                    },
+                    {
+                        "@pid": "25/2326",
+                        "text": "Zhiming Chen"
+                    },
+                    {
+                        "@pid": "248/2943",
+                        "text": "Guangba Yu"
+                    },
+                    {
+                        "@pid": "13/3715",
+                        "text": "Hongyang Chen"
+                    },
+                    {
+                        "@pid": "01/6072-5",
+                        "text": "Chen Sun 0005"
+                    }
+                ]
+            },
+            "title": "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "473-493",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HuangZ0HCYC024",
+            "doi": "10.1145/3643748",
+            "ee": "https://doi.org/10.1145/3643748",
+            "url": "https://dblp.org/rec/journals/pacmse/HuangZ0HCYC024"
+        },
+        "url": "URL#154353"
+    },
+    {
+        "@score": "1",
+        "@id": "154354",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "211/9352",
+                        "text": "Hsin-Wei Hung"
+                    },
+                    {
+                        "@pid": "20/8069",
+                        "text": "Ardalan Amiri Sani"
+                    }
+                ]
+            },
+            "title": "BRF: Fuzzing the eBPF Runtime.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1152-1171",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/HungS24",
+            "doi": "10.1145/3643778",
+            "ee": "https://doi.org/10.1145/3643778",
+            "url": "https://dblp.org/rec/journals/pacmse/HungS24"
+        },
+        "url": "URL#154354"
+    },
+    {
+        "@score": "1",
+        "@id": "154355",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "323/7571",
+                        "text": "Mohayeminul Islam"
+                    },
+                    {
+                        "@pid": "137/7223",
+                        "text": "Ajay Kumar Jha"
+                    },
+                    {
+                        "@pid": "341/8928",
+                        "text": "Ildar Akhmetov"
+                    },
+                    {
+                        "@pid": "00/9162",
+                        "text": "Sarah Nadi"
+                    }
+                ]
+            },
+            "title": "Characterizing Python Library Migrations.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "92-114",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/IslamJAN24",
+            "doi": "10.1145/3643731",
+            "ee": "https://doi.org/10.1145/3643731",
+            "url": "https://dblp.org/rec/journals/pacmse/IslamJAN24"
+        },
+        "url": "URL#154355"
+    },
+    {
+        "@score": "1",
+        "@id": "154356",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "334/9036",
+                        "text": "Dhanushka Jayasuriya"
+                    },
+                    {
+                        "@pid": "167/0208",
+                        "text": "Valerio Terragni"
+                    },
+                    {
+                        "@pid": "82/2970",
+                        "text": "Jens Dietrich 0001"
+                    },
+                    {
+                        "@pid": "50/10438",
+                        "text": "Kelly Blincoe"
+                    }
+                ]
+            },
+            "title": "Understanding the Impact of APIs Behavioral Breaking Changes on Client Applications.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1238-1261",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/JayasuriyaT0B24",
+            "doi": "10.1145/3643782",
+            "ee": "https://doi.org/10.1145/3643782",
+            "url": "https://dblp.org/rec/journals/pacmse/JayasuriyaT0B24"
+        },
+        "url": "URL#154356"
+    },
+    {
+        "@score": "1",
+        "@id": "154357",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5896",
+                        "text": "Shaokang Jiang"
+                    },
+                    {
+                        "@pid": "74/3855",
+                        "text": "Michael Coblenz"
+                    }
+                ]
+            },
+            "title": "An Analysis of the Costs and Benefits of Autocomplete in IDEs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1284-1306",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/JiangC24",
+            "doi": "10.1145/3660765",
+            "ee": "https://doi.org/10.1145/3660765",
+            "url": "https://dblp.org/rec/journals/pacmse/JiangC24"
+        },
+        "url": "URL#154357"
+    },
+    {
+        "@score": "1",
+        "@id": "154358",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "238/9462",
+                        "text": "Zhihan Jiang"
+                    },
+                    {
+                        "@pid": "36/1731-2",
+                        "text": "Jinyang Liu 0002"
+                    },
+                    {
+                        "@pid": "195/1927",
+                        "text": "Zhuangbin Chen"
+                    },
+                    {
+                        "@pid": "27/2248-3",
+                        "text": "Yichen Li 0003"
+                    },
+                    {
+                        "@pid": "85/774-8",
+                        "text": "Junjie Huang 0008"
+                    },
+                    {
+                        "@pid": "281/6760",
+                        "text": "Yintong Huo"
+                    },
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    },
+                    {
+                        "@pid": "185/1472",
+                        "text": "Jiazhen Gu"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "LILAC: Log Parsing using LLMs with Adaptive Parsing Cache.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "137-160",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/JiangLCLHHHGL24",
+            "doi": "10.1145/3643733",
+            "ee": "https://doi.org/10.1145/3643733",
+            "url": "https://dblp.org/rec/journals/pacmse/JiangLCLHHHGL24"
+        },
+        "url": "URL#154358"
+    },
+    {
+        "@score": "1",
+        "@id": "154359",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/0961",
+                        "text": "Weipeng Jiang"
+                    },
+                    {
+                        "@pid": "154/5678",
+                        "text": "Juan Zhai"
+                    },
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "12/5927",
+                        "text": "Xiaoyu Zhang"
+                    },
+                    {
+                        "@pid": "48/4825-1",
+                        "text": "Chao Shen 0001"
+                    }
+                ]
+            },
+            "title": "COSTELLO: Contrastive Testing for Embedding-Based Large Language Model as a Service Embeddings.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "906-928",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/JiangZMZ024",
+            "doi": "10.1145/3643767",
+            "ee": "https://doi.org/10.1145/3643767",
+            "url": "https://dblp.org/rec/journals/pacmse/JiangZMZ024"
+        },
+        "url": "URL#154359"
+    },
+    {
+        "@score": "1",
+        "@id": "154360",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "68/3340",
+                        "text": "Xin Jin"
+                    },
+                    {
+                        "@pid": "49/4102-1",
+                        "text": "Zhiqiang Lin 0001"
+                    }
+                ]
+            },
+            "title": "SimLLM: Calculating Semantic Similarity in Code Summaries using a Large Language Model-Based Approach.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1376-1399",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/JinL24",
+            "doi": "10.1145/3660769",
+            "ee": "https://doi.org/10.1145/3660769",
+            "url": "https://dblp.org/rec/journals/pacmse/JinL24"
+        },
+        "url": "URL#154360"
+    },
+    {
+        "@score": "1",
+        "@id": "154361",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "34/3815",
+                        "text": "Sungmin Kang"
+                    },
+                    {
+                        "@pid": "225/3675",
+                        "text": "Gabin An"
+                    },
+                    {
+                        "@pid": "06/1626",
+                        "text": "Shin Yoo"
+                    }
+                ]
+            },
+            "title": "A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1424-1446",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/KangAY24",
+            "doi": "10.1145/3660771",
+            "ee": "https://doi.org/10.1145/3660771",
+            "url": "https://dblp.org/rec/journals/pacmse/KangAY24"
+        },
+        "url": "URL#154361"
+    },
+    {
+        "@score": "1",
+        "@id": "154362",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "243/3156",
+                        "text": "Mehdi Keshani"
+                    },
+                    {
+                        "@pid": "381/5468",
+                        "text": "Tudor-Gabriel Velican"
+                    },
+                    {
+                        "@pid": "381/5679",
+                        "text": "Gideon Bot"
+                    },
+                    {
+                        "@pid": "145/7686-1",
+                        "text": "Sebastian Proksch 0001"
+                    }
+                ]
+            },
+            "title": "AROMA: Automatic Reproduction of Maven Artifacts.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "836-858",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/KeshaniVBP24",
+            "doi": "10.1145/3643764",
+            "ee": "https://doi.org/10.1145/3643764",
+            "url": "https://dblp.org/rec/journals/pacmse/KeshaniVBP24"
+        },
+        "url": "URL#154362"
+    },
+    {
+        "@score": "1",
+        "@id": "154363",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "331/4737",
+                        "text": "Ranim Khojah"
+                    },
+                    {
+                        "@pid": "206/9414",
+                        "text": "Mazen Mohamad"
+                    },
+                    {
+                        "@pid": "03/5268",
+                        "text": "Philipp Leitner 0001"
+                    },
+                    {
+                        "@pid": "56/1704",
+                        "text": "Francisco Gomes de Oliveira Neto"
+                    }
+                ]
+            },
+            "title": "Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1819-1840",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/KhojahM0N24",
+            "doi": "10.1145/3660788",
+            "ee": "https://doi.org/10.1145/3660788",
+            "url": "https://dblp.org/rec/journals/pacmse/KhojahM0N24"
+        },
+        "url": "URL#154363"
+    },
+    {
+        "@score": "1",
+        "@id": "154364",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "353/7636",
+                        "text": "Tae Eun Kim"
+                    },
+                    {
+                        "@pid": "176/6203-2",
+                        "text": "Jaeseung Choi 0002"
+                    },
+                    {
+                        "@pid": "381/5523",
+                        "text": "Seongjae Im"
+                    },
+                    {
+                        "@pid": "17/11515",
+                        "text": "Kihong Heo"
+                    },
+                    {
+                        "@pid": "49/8463",
+                        "text": "Sang Kil Cha"
+                    }
+                ]
+            },
+            "title": "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "316-337",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Kim0IHC24",
+            "doi": "10.1145/3643741",
+            "ee": "https://doi.org/10.1145/3643741",
+            "url": "https://dblp.org/rec/journals/pacmse/Kim0IHC24"
+        },
+        "url": "URL#154364"
+    },
+    {
+        "@score": "1",
+        "@id": "154365",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5869",
+                        "text": "Yoel Kim"
+                    },
+                    {
+                        "@pid": "63/3195",
+                        "text": "Yunja Choi"
+                    }
+                ]
+            },
+            "title": "PBE-Based Selective Abstraction and Refinement for Efficient Property Falsification of Embedded Software.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "293-315",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/KimC24",
+            "doi": "10.1145/3643740",
+            "ee": "https://doi.org/10.1145/3643740",
+            "url": "https://dblp.org/rec/journals/pacmse/KimC24"
+        },
+        "url": "URL#154365"
+    },
+    {
+        "@score": "1",
+        "@id": "154366",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "322/8818",
+                        "text": "Bonan Kou"
+                    },
+                    {
+                        "@pid": "348/8934",
+                        "text": "Shengmai Chen"
+                    },
+                    {
+                        "@pid": "64/5749",
+                        "text": "Zhijie Wang"
+                    },
+                    {
+                        "@pid": "20/6534-3",
+                        "text": "Lei Ma 0003"
+                    },
+                    {
+                        "@pid": "17/322-1",
+                        "text": "Tianyi Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2261-2284",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/KouCW0024",
+            "doi": "10.1145/3660807",
+            "ee": "https://doi.org/10.1145/3660807",
+            "url": "https://dblp.org/rec/journals/pacmse/KouCW0024"
+        },
+        "url": "URL#154366"
+    },
+    {
+        "@score": "1",
+        "@id": "154367",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "204/4022",
+                        "text": "Max Landauer"
+                    },
+                    {
+                        "@pid": "29/3125",
+                        "text": "Florian Skopik"
+                    },
+                    {
+                        "@pid": "170/4209",
+                        "text": "Markus Wurzenberger"
+                    }
+                ]
+            },
+            "title": "A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-Based Anomaly Detection Techniques.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1354-1375",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LandauerSW24",
+            "doi": "10.1145/3660768",
+            "ee": "https://doi.org/10.1145/3660768",
+            "url": "https://dblp.org/rec/journals/pacmse/LandauerSW24"
+        },
+        "url": "URL#154367"
+    },
+    {
+        "@score": "1",
+        "@id": "154368",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/3242",
+                        "text": "Jiawei Li"
+                    },
+                    {
+                        "@pid": "28/7125",
+                        "text": "David Farag\u00f3"
+                    },
+                    {
+                        "@pid": "184/1680",
+                        "text": "Christian Petrov"
+                    },
+                    {
+                        "@pid": "57/5553",
+                        "text": "Iftekhar Ahmed 0001"
+                    }
+                ]
+            },
+            "title": "Only diff Is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "745-766",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiFP024",
+            "doi": "10.1145/3643760",
+            "ee": "https://doi.org/10.1145/3643760",
+            "url": "https://dblp.org/rec/journals/pacmse/LiFP024"
+        },
+        "url": "URL#154368"
+    },
+    {
+        "@score": "1",
+        "@id": "154369",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/7513",
+                        "text": "Shuqing Li"
+                    },
+                    {
+                        "@pid": "46/10222",
+                        "text": "Cuiyun Gao"
+                    },
+                    {
+                        "@pid": "03/2548-2",
+                        "text": "Jianping Zhang 0002"
+                    },
+                    {
+                        "@pid": "116/1506",
+                        "text": "Yujia Zhang"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "185/1472",
+                        "text": "Jiazhen Gu"
+                    },
+                    {
+                        "@pid": "86/1825-3",
+                        "text": "Yun Peng 0003"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2167-2189",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiG0Z0GPL24",
+            "doi": "10.1145/3660803",
+            "ee": "https://doi.org/10.1145/3660803",
+            "url": "https://dblp.org/rec/journals/pacmse/LiG0Z0GPL24"
+        },
+        "url": "URL#154369"
+    },
+    {
+        "@score": "1",
+        "@id": "154370",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "27/2248-3",
+                        "text": "Yichen Li 0003"
+                    },
+                    {
+                        "@pid": "281/6760",
+                        "text": "Yintong Huo"
+                    },
+                    {
+                        "@pid": "352/3093",
+                        "text": "Renyi Zhong"
+                    },
+                    {
+                        "@pid": "238/9462",
+                        "text": "Zhihan Jiang"
+                    },
+                    {
+                        "@pid": "36/1731-2",
+                        "text": "Jinyang Liu 0002"
+                    },
+                    {
+                        "@pid": "85/774-8",
+                        "text": "Junjie Huang 0008"
+                    },
+                    {
+                        "@pid": "185/1472",
+                        "text": "Jiazhen Gu"
+                    },
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "Go Static: Contextualized Logging Statement Generation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "609-630",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiHZJLHGHL24",
+            "doi": "10.1145/3643754",
+            "ee": "https://doi.org/10.1145/3643754",
+            "url": "https://dblp.org/rec/journals/pacmse/LiHZJLHGHL24"
+        },
+        "url": "URL#154370"
+    },
+    {
+        "@score": "1",
+        "@id": "154371",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/3591",
+                        "text": "Yuxi Li"
+                    },
+                    {
+                        "@pid": "97/4626-69",
+                        "text": "Yi Liu 0069"
+                    },
+                    {
+                        "@pid": "236/9144",
+                        "text": "Gelei Deng"
+                    },
+                    {
+                        "@pid": "13/6769-66",
+                        "text": "Ying Zhang 0066"
+                    },
+                    {
+                        "@pid": "288/0339",
+                        "text": "Wenjia Song"
+                    },
+                    {
+                        "@pid": "97/6316",
+                        "text": "Ling Shi"
+                    },
+                    {
+                        "@pid": "171/1258",
+                        "text": "Kailong Wang 0001"
+                    },
+                    {
+                        "@pid": "204/3729",
+                        "text": "Yuekang Li"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "50/8499-1",
+                        "text": "Haoyu Wang 0001"
+                    }
+                ]
+            },
+            "title": "Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2075-2097",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiLDZSSWL0024",
+            "doi": "10.1145/3660799",
+            "ee": "https://doi.org/10.1145/3660799",
+            "url": "https://dblp.org/rec/journals/pacmse/LiLDZSSWL0024"
+        },
+        "url": "URL#154371"
+    },
+    {
+        "@score": "1",
+        "@id": "154372",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0866",
+                        "text": "Bolun Li"
+                    },
+                    {
+                        "@pid": "134/1212",
+                        "text": "Zhihong Sun"
+                    },
+                    {
+                        "@pid": "34/808",
+                        "text": "Tao Huang"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "167/0275",
+                        "text": "Yao Wan 0001"
+                    },
+                    {
+                        "@pid": "24/712-1",
+                        "text": "Ge Li 0001"
+                    },
+                    {
+                        "@pid": "22/3510",
+                        "text": "Zhi Jin"
+                    },
+                    {
+                        "@pid": "132/7875",
+                        "text": "Chen Lyu"
+                    }
+                ]
+            },
+            "title": "IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "182-203",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiSH000JL24",
+            "doi": "10.1145/3643735",
+            "ee": "https://doi.org/10.1145/3643735",
+            "url": "https://dblp.org/rec/journals/pacmse/LiSH000JL24"
+        },
+        "url": "URL#154372"
+    },
+    {
+        "@score": "1",
+        "@id": "154373",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "219/9925-2",
+                        "text": "Kaixuan Li 0002"
+                    },
+                    {
+                        "@pid": "83/7503",
+                        "text": "Yue Xue"
+                    },
+                    {
+                        "@pid": "180/8218-1",
+                        "text": "Sen Chen 0001"
+                    },
+                    {
+                        "@pid": "35/2899-12",
+                        "text": "Han Liu 0012"
+                    },
+                    {
+                        "@pid": "85/10699",
+                        "text": "Kairan Sun"
+                    },
+                    {
+                        "@pid": "82/378-3",
+                        "text": "Ming Hu 0003"
+                    },
+                    {
+                        "@pid": "46/1165",
+                        "text": "Haijun Wang"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "11/1917",
+                        "text": "Yixiang Chen"
+                    }
+                ]
+            },
+            "title": "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1447-1470",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiX0LS0W0C24",
+            "doi": "10.1145/3660772",
+            "ee": "https://doi.org/10.1145/3660772",
+            "url": "https://dblp.org/rec/journals/pacmse/LiX0LS0W0C24"
+        },
+        "url": "URL#154373"
+    },
+    {
+        "@score": "1",
+        "@id": "154374",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "27/2248-4",
+                        "text": "Yichen Li 0004"
+                    },
+                    {
+                        "@pid": "315/9934",
+                        "text": "Dongwei Xiao"
+                    },
+                    {
+                        "@pid": "193/9286",
+                        "text": "Zhibo Liu"
+                    },
+                    {
+                        "@pid": "44/8421",
+                        "text": "Qi Pang"
+                    },
+                    {
+                        "@pid": "42/1503-11",
+                        "text": "Shuai Wang 0011"
+                    }
+                ]
+            },
+            "title": "Metamorphic Testing of Secure Multi-party Computation (MPC) Compilers.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1216-1237",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiXLP024",
+            "doi": "10.1145/3643781",
+            "ee": "https://doi.org/10.1145/3643781",
+            "url": "https://dblp.org/rec/journals/pacmse/LiXLP024"
+        },
+        "url": "URL#154374"
+    },
+    {
+        "@score": "1",
+        "@id": "154375",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "272/8304",
+                        "text": "Keke Lian"
+                    },
+                    {
+                        "@pid": "97/8704-96",
+                        "text": "Lei Zhang 0096"
+                    },
+                    {
+                        "@pid": "153/5855",
+                        "text": "Guangliang Yang 0001"
+                    },
+                    {
+                        "@pid": "150/5662",
+                        "text": "Shuo Mao"
+                    },
+                    {
+                        "@pid": "40/10176",
+                        "text": "Xinjie Wang"
+                    },
+                    {
+                        "@pid": "48/2168-9",
+                        "text": "Yuan Zhang 0009"
+                    },
+                    {
+                        "@pid": "02/1640-2",
+                        "text": "Min Yang 0002"
+                    }
+                ]
+            },
+            "title": "Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "70-91",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Lian00MW0024",
+            "doi": "10.1145/3643730",
+            "ee": "https://doi.org/10.1145/3643730",
+            "url": "https://dblp.org/rec/journals/pacmse/Lian00MW0024"
+        },
+        "url": "URL#154375"
+    },
+    {
+        "@score": "1",
+        "@id": "154376",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "315/0300",
+                        "text": "Jenny T. Liang"
+                    },
+                    {
+                        "@pid": "24/4247",
+                        "text": "Carmen Badea"
+                    },
+                    {
+                        "@pid": "b/ChristianBird",
+                        "text": "Christian Bird"
+                    },
+                    {
+                        "@pid": "d/RobertDeLine",
+                        "text": "Robert DeLine"
+                    },
+                    {
+                        "@pid": "166/1017",
+                        "text": "Denae Ford"
+                    },
+                    {
+                        "@pid": "26/2514",
+                        "text": "Nicole Forsgren"
+                    },
+                    {
+                        "@pid": "19/3622-1",
+                        "text": "Thomas Zimmermann 0001"
+                    }
+                ]
+            },
+            "title": "Can GPT-4 Replicate Empirical Software Engineering Research?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1330-1353",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiangBBDFF024",
+            "doi": "10.1145/3660767",
+            "ee": "https://doi.org/10.1145/3660767",
+            "url": "https://dblp.org/rec/journals/pacmse/LiangBBDFF024"
+        },
+        "url": "URL#154376"
+    },
+    {
+        "@score": "1",
+        "@id": "154377",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "291/2034",
+                        "text": "Zeqin Liao"
+                    },
+                    {
+                        "@pid": "167/0416",
+                        "text": "Yuhong Nan"
+                    },
+                    {
+                        "@pid": "380/6486",
+                        "text": "Henglong Liang"
+                    },
+                    {
+                        "@pid": "239/8200-1",
+                        "text": "Sicheng Hao 0001"
+                    },
+                    {
+                        "@pid": "154/5678",
+                        "text": "Juan Zhai"
+                    },
+                    {
+                        "@pid": "119/4079",
+                        "text": "Jiajing Wu"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    }
+                ]
+            },
+            "title": "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "249-270",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiaoNL0ZWZ24",
+            "doi": "10.1145/3643738",
+            "ee": "https://doi.org/10.1145/3643738",
+            "url": "https://dblp.org/rec/journals/pacmse/LiaoNL0ZWZ24"
+        },
+        "url": "URL#154377"
+    },
+    {
+        "@score": "1",
+        "@id": "154378",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "91/4193",
+                        "text": "Haoran Liu"
+                    },
+                    {
+                        "@pid": "162/7150",
+                        "text": "Zhouyang Jia"
+                    },
+                    {
+                        "@pid": "66/5479-1",
+                        "text": "Shanshan Li 0001"
+                    },
+                    {
+                        "@pid": "94/3609",
+                        "text": "Yan Lei"
+                    },
+                    {
+                        "@pid": "55/2008-1",
+                        "text": "Yue Yu 0001"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    },
+                    {
+                        "@pid": "81/8725",
+                        "text": "Xiaoguang Mao"
+                    },
+                    {
+                        "@pid": "22/562",
+                        "text": "Xiangke Liao"
+                    }
+                ]
+            },
+            "title": "Cut to the Chase: An Error-Oriented Approach to Detect Error-Handling Bugs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1796-1818",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LiuJ0L00ML24",
+            "doi": "10.1145/3660787",
+            "ee": "https://doi.org/10.1145/3660787",
+            "url": "https://dblp.org/rec/journals/pacmse/LiuJ0L00ML24"
+        },
+        "url": "URL#154378"
+    },
+    {
+        "@score": "1",
+        "@id": "154379",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/6723",
+                        "text": "Hongyi Lu"
+                    },
+                    {
+                        "@pid": "193/9286",
+                        "text": "Zhibo Liu"
+                    },
+                    {
+                        "@pid": "42/1503-11",
+                        "text": "Shuai Wang 0011"
+                    },
+                    {
+                        "@pid": "20/11242",
+                        "text": "Fengwei Zhang"
+                    }
+                ]
+            },
+            "title": "DTD: Comprehensive and Scalable Testing for Debuggers.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1172-1193",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/LuL0Z24",
+            "doi": "10.1145/3643779",
+            "ee": "https://doi.org/10.1145/3643779",
+            "url": "https://dblp.org/rec/journals/pacmse/LuL0Z24"
+        },
+        "url": "URL#154379"
+    },
+    {
+        "@score": "1",
+        "@id": "154380",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "271/3096",
+                        "text": "Jun Lyu"
+                    },
+                    {
+                        "@pid": "66/5479-2",
+                        "text": "Shanshan Li 0002"
+                    },
+                    {
+                        "@pid": "161/9602",
+                        "text": "He Zhang 0001"
+                    },
+                    {
+                        "@pid": "264/3015",
+                        "text": "Lanxin Yang"
+                    },
+                    {
+                        "@pid": "32/3191",
+                        "text": "Bohan Liu"
+                    },
+                    {
+                        "@pid": "133/8711",
+                        "text": "Manuel Rigger"
+                    }
+                ]
+            },
+            "title": "Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1494-1517",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Lyu00YLR24",
+            "doi": "10.1145/3660774",
+            "ee": "https://doi.org/10.1145/3660774",
+            "url": "https://dblp.org/rec/journals/pacmse/Lyu00YLR24"
+        },
+        "url": "URL#154380"
+    },
+    {
+        "@score": "1",
+        "@id": "154381",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "273/5453",
+                        "text": "Yubo Mai"
+                    },
+                    {
+                        "@pid": "25/2165",
+                        "text": "Zhipeng Gao"
+                    },
+                    {
+                        "@pid": "49/10052-8",
+                        "text": "Xing Hu 0008"
+                    },
+                    {
+                        "@pid": "161/1073",
+                        "text": "Lingfeng Bao"
+                    },
+                    {
+                        "@pid": "97/2274",
+                        "text": "Yu Liu"
+                    },
+                    {
+                        "@pid": "53/3693",
+                        "text": "Jianling Sun"
+                    }
+                ]
+            },
+            "title": "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2355-2377",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/MaiG0BLS24",
+            "doi": "10.1145/3660811",
+            "ee": "https://doi.org/10.1145/3660811",
+            "url": "https://dblp.org/rec/journals/pacmse/MaiG0BLS24"
+        },
+        "url": "URL#154381"
+    },
+    {
+        "@score": "1",
+        "@id": "154382",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "215/7735",
+                        "text": "Md Rakib Hossain Misu"
+                    },
+                    {
+                        "@pid": "l/CristinaVideiraLopes",
+                        "text": "Cristina V. Lopes"
+                    },
+                    {
+                        "@pid": "185/1692",
+                        "text": "Iris Ma"
+                    },
+                    {
+                        "@pid": "n/JamesNoble",
+                        "text": "James Noble 0001"
+                    }
+                ]
+            },
+            "title": "Towards AI-Assisted Synthesis of Verified Dafny Methods.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "812-835",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/MisuLM024",
+            "doi": "10.1145/3643763",
+            "ee": "https://doi.org/10.1145/3643763",
+            "url": "https://dblp.org/rec/journals/pacmse/MisuLM024"
+        },
+        "url": "URL#154382"
+    },
+    {
+        "@score": "1",
+        "@id": "154383",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/2326",
+                        "text": "Fangwen Mu"
+                    },
+                    {
+                        "@pid": "15/5412-6",
+                        "text": "Lin Shi 0006"
+                    },
+                    {
+                        "@pid": "62/3151-9",
+                        "text": "Song Wang 0009"
+                    },
+                    {
+                        "@pid": "319/6890",
+                        "text": "Zhuohao Yu"
+                    },
+                    {
+                        "@pid": "219/6768",
+                        "text": "Binquan Zhang"
+                    },
+                    {
+                        "@pid": "22/10320",
+                        "text": "Chenxue Wang"
+                    },
+                    {
+                        "@pid": "134/5661",
+                        "text": "Shichao Liu"
+                    },
+                    {
+                        "@pid": "97/6505-1",
+                        "text": "Qing Wang 0001"
+                    }
+                ]
+            },
+            "title": "ClarifyGPT: A Framework for Enhancing LLM-Based Code Generation via Requirements Clarification.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2332-2354",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Mu00YZWL024",
+            "doi": "10.1145/3660810",
+            "ee": "https://doi.org/10.1145/3660810",
+            "url": "https://dblp.org/rec/journals/pacmse/Mu00YZWL024"
+        },
+        "url": "URL#154383"
+    },
+    {
+        "@score": "1",
+        "@id": "154384",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/7449",
+                        "text": "Vijayaraghavan Murali"
+                    },
+                    {
+                        "@pid": "203/9619",
+                        "text": "Chandra Shekhar Maddila"
+                    },
+                    {
+                        "@pid": "140/7342",
+                        "text": "Imad Ahmad"
+                    },
+                    {
+                        "@pid": "61/6549",
+                        "text": "Michael Bolin"
+                    },
+                    {
+                        "@pid": "20/2560",
+                        "text": "Daniel Cheng"
+                    },
+                    {
+                        "@pid": "204/3571",
+                        "text": "Negar Ghorbani"
+                    },
+                    {
+                        "@pid": "348/0453",
+                        "text": "Renuka Fernandez"
+                    },
+                    {
+                        "@pid": "91/1758",
+                        "text": "Nachiappan Nagappan"
+                    },
+                    {
+                        "@pid": "20/1971",
+                        "text": "Peter C. Rigby"
+                    }
+                ]
+            },
+            "title": "AI-Assisted Code Authoring at Scale: Fine-Tuning, Deploying, and Mixed Methods Evaluation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1066-1085",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/MuraliMABCGFNR24",
+            "doi": "10.1145/3643774",
+            "ee": "https://doi.org/10.1145/3643774",
+            "url": "https://dblp.org/rec/journals/pacmse/MuraliMABCGFNR24"
+        },
+        "url": "URL#154384"
+    },
+    {
+        "@score": "1",
+        "@id": "154385",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/3498",
+                        "text": "Liming Nie"
+                    },
+                    {
+                        "@pid": "122/0269",
+                        "text": "Yangyang Zhao"
+                    },
+                    {
+                        "@pid": "07/7910",
+                        "text": "Chenglin Li"
+                    },
+                    {
+                        "@pid": "07/7695",
+                        "text": "Xuqiong Luo"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "Shadows in the Interface: A Comprehensive Study on Dark Patterns.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "204-225",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/NieZLL024",
+            "doi": "10.1145/3643736",
+            "ee": "https://doi.org/10.1145/3643736",
+            "url": "https://dblp.org/rec/journals/pacmse/NieZLL024"
+        },
+        "url": "URL#154385"
+    },
+    {
+        "@score": "1",
+        "@id": "154386",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "338/9758",
+                        "text": "Agust\u00edn Nolasco"
+                    },
+                    {
+                        "@pid": "189/6361",
+                        "text": "Facundo Molina"
+                    },
+                    {
+                        "@pid": "24/9840",
+                        "text": "Renzo Degiovanni"
+                    },
+                    {
+                        "@pid": "54/2159",
+                        "text": "Alessandra Gorla"
+                    },
+                    {
+                        "@pid": "g/DiegoGarbervetsky",
+                        "text": "Diego Garbervetsky"
+                    },
+                    {
+                        "@pid": "00/7677",
+                        "text": "Mike Papadakis"
+                    },
+                    {
+                        "@pid": "21/1391",
+                        "text": "Sebasti\u00e1n Uchitel"
+                    },
+                    {
+                        "@pid": "69/610",
+                        "text": "Nazareno Aguirre"
+                    },
+                    {
+                        "@pid": "13/1323",
+                        "text": "Marcelo F. Frias"
+                    }
+                ]
+            },
+            "title": "Abstraction-Aware Inference of Metamorphic Relations.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "450-472",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/NolascoMDGGPUAF24",
+            "doi": "10.1145/3643747",
+            "ee": "https://doi.org/10.1145/3643747",
+            "url": "https://dblp.org/rec/journals/pacmse/NolascoMDGGPUAF24"
+        },
+        "url": "URL#154386"
+    },
+    {
+        "@score": "1",
+        "@id": "154387",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "322/7777",
+                        "text": "Doriane Olewicki"
+                    },
+                    {
+                        "@pid": "202/9996",
+                        "text": "Sarra Habchi"
+                    },
+                    {
+                        "@pid": "98/6356",
+                        "text": "Bram Adams"
+                    }
+                ]
+            },
+            "title": "An Empirical Study on Code Review Activity Prediction and Its Impact in Practice.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2238-2260",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/OlewickiHA24",
+            "doi": "10.1145/3660806",
+            "ee": "https://doi.org/10.1145/3660806",
+            "url": "https://dblp.org/rec/journals/pacmse/OlewickiHA24"
+        },
+        "url": "URL#154387"
+    },
+    {
+        "@score": "1",
+        "@id": "154388",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "206/5735",
+                        "text": "Anderson Oliveira"
+                    },
+                    {
+                        "@pid": "221/1636",
+                        "text": "Jo\u00e3o Lucas Correia"
+                    },
+                    {
+                        "@pid": "90/9459",
+                        "text": "Wesley K. G. Assun\u00e7\u00e3o"
+                    },
+                    {
+                        "@pid": "139/6642",
+                        "text": "Juliana Alves Pereira"
+                    },
+                    {
+                        "@pid": "121/2507",
+                        "text": "Rafael Maiani de Mello"
+                    },
+                    {
+                        "@pid": "87/1273",
+                        "text": "Daniel Coutinho"
+                    },
+                    {
+                        "@pid": "221/1638",
+                        "text": "Caio Barbosa"
+                    },
+                    {
+                        "@pid": "378/0816",
+                        "text": "Paulo V\u00edtor C. F. Lib\u00f3rio"
+                    },
+                    {
+                        "@pid": "g/AlessandroFGarcia",
+                        "text": "Alessandro Garcia 0001"
+                    }
+                ]
+            },
+            "title": "Understanding Developers&apos; Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "517-538",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/OliveiraCAPMCBL24",
+            "doi": "10.1145/3643750",
+            "ee": "https://doi.org/10.1145/3643750",
+            "url": "https://dblp.org/rec/journals/pacmse/OliveiraCAPMCBL24"
+        },
+        "url": "URL#154388"
+    },
+    {
+        "@score": "1",
+        "@id": "154389",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "378/1227",
+                        "text": "Khouloud Oueslati"
+                    },
+                    {
+                        "@pid": "248/8241",
+                        "text": "Gabriel Laberge"
+                    },
+                    {
+                        "@pid": "223/4602",
+                        "text": "Maxime Lamothe"
+                    },
+                    {
+                        "@pid": "32/147",
+                        "text": "Foutse Khomh"
+                    }
+                ]
+            },
+            "title": "Mining Action Rules for Defect Reduction Planning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2309-2331",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/OueslatiLLK24",
+            "doi": "10.1145/3660809",
+            "ee": "https://doi.org/10.1145/3660809",
+            "url": "https://dblp.org/rec/journals/pacmse/OueslatiLLK24"
+        },
+        "url": "URL#154389"
+    },
+    {
+        "@score": "1",
+        "@id": "154390",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "304/8700",
+                        "text": "Matteo Paltenghi"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "Analyzing Quantum Programs with LintQ: A Static Analysis Framework for Qiskit.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2144-2166",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/PaltenghiP24",
+            "doi": "10.1145/3660802",
+            "ee": "https://doi.org/10.1145/3660802",
+            "url": "https://dblp.org/rec/journals/pacmse/PaltenghiP24"
+        },
+        "url": "URL#154390"
+    },
+    {
+        "@score": "1",
+        "@id": "154391",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/11464",
+                        "text": "Luan Pham"
+                    },
+                    {
+                        "@pid": "10/10019",
+                        "text": "Huong Ha"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    }
+                ]
+            },
+            "title": "BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2214-2237",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/PhamH024",
+            "doi": "10.1145/3660805",
+            "ee": "https://doi.org/10.1145/3660805",
+            "url": "https://dblp.org/rec/journals/pacmse/PhamH024"
+        },
+        "url": "URL#154391"
+    },
+    {
+        "@score": "1",
+        "@id": "154392",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "359/6012",
+                        "text": "Md Nakhla Rafi"
+                    },
+                    {
+                        "@pid": "276/3316",
+                        "text": "Dong Jae Kim"
+                    },
+                    {
+                        "@pid": "242/3929",
+                        "text": "An Ran Chen"
+                    },
+                    {
+                        "@pid": "116/6782",
+                        "text": "Tse-Hsun (Peter) Chen"
+                    },
+                    {
+                        "@pid": "49/6937-2",
+                        "text": "Shaowei Wang 0002"
+                    }
+                ]
+            },
+            "title": "Towards Better Graph Neural Network-Based Fault Localization through Enhanced Code Representation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1937-1959",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/RafiKCC024",
+            "doi": "10.1145/3660793",
+            "ee": "https://doi.org/10.1145/3660793",
+            "url": "https://dblp.org/rec/journals/pacmse/RafiKCC024"
+        },
+        "url": "URL#154392"
+    },
+    {
+        "@score": "1",
+        "@id": "154393",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "224/6214",
+                        "text": "Md Shamimur Rahman"
+                    },
+                    {
+                        "@pid": "150/3264",
+                        "text": "Zadia Codabux"
+                    },
+                    {
+                        "@pid": "03/5761",
+                        "text": "Chanchal K. Roy"
+                    }
+                ]
+            },
+            "title": "Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1632-1655",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/RahmanCR24",
+            "doi": "10.1145/3660780",
+            "ee": "https://doi.org/10.1145/3660780",
+            "url": "https://dblp.org/rec/journals/pacmse/RahmanCR24"
+        },
+        "url": "URL#154393"
+    },
+    {
+        "@score": "1",
+        "@id": "154394",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "224/1564",
+                        "text": "Gabriel Ryan"
+                    },
+                    {
+                        "@pid": "81/8212-1",
+                        "text": "Siddhartha Jain 0001"
+                    },
+                    {
+                        "@pid": "220/3102",
+                        "text": "Mingyue Shang"
+                    },
+                    {
+                        "@pid": "58/9145-2",
+                        "text": "Shiqi Wang 0002"
+                    },
+                    {
+                        "@pid": "120/1069-1",
+                        "text": "Xiaofei Ma 0001"
+                    },
+                    {
+                        "@pid": "75/541",
+                        "text": "Murali Krishna Ramanathan"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    }
+                ]
+            },
+            "title": "Code-Aware Prompting: A Study of Coverage-Guided Test Generation in Regression Setting using LLM.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "951-971",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Ryan0S00RR24",
+            "doi": "10.1145/3643769",
+            "ee": "https://doi.org/10.1145/3643769",
+            "url": "https://dblp.org/rec/journals/pacmse/Ryan0S00RR24"
+        },
+        "url": "URL#154394"
+    },
+    {
+        "@score": "1",
+        "@id": "154395",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    },
+                    {
+                        "@pid": "230/7626",
+                        "text": "Nina Chen"
+                    }
+                ]
+            },
+            "title": "Effective Teaching through Code Reviews: Patterns and Anti-patterns.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1262-1283",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SarmaC24",
+            "doi": "10.1145/3660764",
+            "ee": "https://doi.org/10.1145/3660764",
+            "url": "https://dblp.org/rec/journals/pacmse/SarmaC24"
+        },
+        "url": "URL#154395"
+    },
+    {
+        "@score": "1",
+        "@id": "154396",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "255/0716",
+                        "text": "Oussama Ben Sghaier"
+                    },
+                    {
+                        "@pid": "s/HouariASahraoui",
+                        "text": "Houari A. Sahraoui"
+                    }
+                ]
+            },
+            "title": "Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1086-1106",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SghaierS24",
+            "doi": "10.1145/3643775",
+            "ee": "https://doi.org/10.1145/3643775",
+            "url": "https://dblp.org/rec/journals/pacmse/SghaierS24"
+        },
+        "url": "URL#154396"
+    },
+    {
+        "@score": "1",
+        "@id": "154397",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "241/0945",
+                        "text": "Ziqi Shuai"
+                    },
+                    {
+                        "@pid": "02/4907",
+                        "text": "Zhenbang Chen"
+                    },
+                    {
+                        "@pid": "341/0543",
+                        "text": "Kelin Ma"
+                    },
+                    {
+                        "@pid": "88/4788",
+                        "text": "Kunlin Liu"
+                    },
+                    {
+                        "@pid": "17/1651-1",
+                        "text": "Yufeng Zhang 0001"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "64/856-1",
+                        "text": "Ji Wang 0001"
+                    }
+                ]
+            },
+            "title": "Partial Solution Based Constraint Solving Cache in Symbolic Execution.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2493-2514",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ShuaiCMLZ0024",
+            "doi": "10.1145/3660817",
+            "ee": "https://doi.org/10.1145/3660817",
+            "url": "https://dblp.org/rec/journals/pacmse/ShuaiCMLZ0024"
+        },
+        "url": "URL#154397"
+    },
+    {
+        "@score": "1",
+        "@id": "154398",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "156/1172",
+                        "text": "Yahui Song"
+                    },
+                    {
+                        "@pid": "14/3881-12",
+                        "text": "Xiang Gao 0012"
+                    },
+                    {
+                        "@pid": "41/337",
+                        "text": "Wenhua Li"
+                    },
+                    {
+                        "@pid": "c/WeiNganChin",
+                        "text": "Wei-Ngan Chin"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "ProveNFix: Temporal Property-Guided Program Repair.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "226-248",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Song0LCR24",
+            "doi": "10.1145/3643737",
+            "ee": "https://doi.org/10.1145/3643737",
+            "url": "https://dblp.org/rec/journals/pacmse/Song0LCR24"
+        },
+        "url": "URL#154398"
+    },
+    {
+        "@score": "1",
+        "@id": "154399",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "331/4574",
+                        "text": "Zirui Song"
+                    },
+                    {
+                        "@pid": "224/2480",
+                        "text": "Jiongyi Chen"
+                    },
+                    {
+                        "@pid": "66/6560",
+                        "text": "Kehuan Zhang"
+                    }
+                ]
+            },
+            "title": "Bin2Summary: Beyond Function Name Prediction in Stripped Binaries with Functionality-Specific Code Embeddings.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "47-69",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SongCZ24",
+            "doi": "10.1145/3643729",
+            "ee": "https://doi.org/10.1145/3643729",
+            "url": "https://dblp.org/rec/journals/pacmse/SongCZ24"
+        },
+        "url": "URL#154399"
+    },
+    {
+        "@score": "1",
+        "@id": "154400",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "29/7640",
+                        "text": "Cleidson R. B. de Souza"
+                    },
+                    {
+                        "@pid": "381/5449",
+                        "text": "Emilie Ma"
+                    },
+                    {
+                        "@pid": "308/0835",
+                        "text": "Jesse Wong"
+                    },
+                    {
+                        "@pid": "43/9597",
+                        "text": "Dongwook Yoon"
+                    },
+                    {
+                        "@pid": "98/5324",
+                        "text": "Ivan Beschastnikh"
+                    }
+                ]
+            },
+            "title": "Revealing Software Development Work Patterns with PR-Issue Graph Topologies.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2402-2423",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SouzaMWYB24",
+            "doi": "10.1145/3660813",
+            "ee": "https://doi.org/10.1145/3660813",
+            "url": "https://dblp.org/rec/journals/pacmse/SouzaMWYB24"
+        },
+        "url": "URL#154400"
+    },
+    {
+        "@score": "1",
+        "@id": "154401",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "231/6045",
+                        "text": "Zian Su"
+                    },
+                    {
+                        "@pid": "276/3462",
+                        "text": "Xiangzhe Xu"
+                    },
+                    {
+                        "@pid": "240/8001",
+                        "text": "Ziyang Huang"
+                    },
+                    {
+                        "@pid": "16/1234-2",
+                        "text": "Zhuo Zhang 0002"
+                    },
+                    {
+                        "@pid": "184/8303",
+                        "text": "Yapeng Ye"
+                    },
+                    {
+                        "@pid": "41/2181-1",
+                        "text": "Jianjun Huang 0001"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "562-585",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SuXH0Y0024",
+            "doi": "10.1145/3643752",
+            "ee": "https://doi.org/10.1145/3643752",
+            "url": "https://dblp.org/rec/journals/pacmse/SuXH0Y0024"
+        },
+        "url": "URL#154401"
+    },
+    {
+        "@score": "1",
+        "@id": "154402",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "376/7813",
+                        "text": "Gengyi Sun"
+                    },
+                    {
+                        "@pid": "202/9996",
+                        "text": "Sarra Habchi"
+                    },
+                    {
+                        "@pid": "31/8127",
+                        "text": "Shane McIntosh"
+                    }
+                ]
+            },
+            "title": "RavenBuild: Context, Relevance, and Dependency Aware Build Outcome Prediction.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "996-1018",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/SunHM24",
+            "doi": "10.1145/3643771",
+            "ee": "https://doi.org/10.1145/3643771",
+            "url": "https://dblp.org/rec/journals/pacmse/SunHM24"
+        },
+        "url": "URL#154402"
+    },
+    {
+        "@score": "1",
+        "@id": "154403",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/6413-3",
+                        "text": "Xin Tan 0003"
+                    },
+                    {
+                        "@pid": "35/4532",
+                        "text": "Yan Gong"
+                    },
+                    {
+                        "@pid": "377/3780",
+                        "text": "Geyu Huang"
+                    },
+                    {
+                        "@pid": "339/8986",
+                        "text": "Haohua Wu"
+                    },
+                    {
+                        "@pid": "89/5992-29",
+                        "text": "Li Zhang 0029"
+                    }
+                ]
+            },
+            "title": "How to Gain Commit Rights in Modern Top Open Source Communities?",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1727-1749",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/TanGHW024",
+            "doi": "10.1145/3660784",
+            "ee": "https://doi.org/10.1145/3660784",
+            "url": "https://dblp.org/rec/journals/pacmse/TanGHW024"
+        },
+        "url": "URL#154403"
+    },
+    {
+        "@score": "1",
+        "@id": "154404",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "357/5146",
+                        "text": "Nalin Wadhwa"
+                    },
+                    {
+                        "@pid": "357/5196",
+                        "text": "Jui Pradhan"
+                    },
+                    {
+                        "@pid": "304/5322",
+                        "text": "Atharv Sonwane"
+                    },
+                    {
+                        "@pid": "329/6740",
+                        "text": "Surya Prakash Sahu"
+                    },
+                    {
+                        "@pid": "82/8778",
+                        "text": "Nagarajan Natarajan"
+                    },
+                    {
+                        "@pid": "61/2636",
+                        "text": "Aditya Kanade"
+                    },
+                    {
+                        "@pid": "121/4147",
+                        "text": "Suresh Parthasarathy"
+                    },
+                    {
+                        "@pid": "r/SriramKRajamani",
+                        "text": "Sriram K. Rajamani"
+                    }
+                ]
+            },
+            "title": "CORE: Resolving Code Quality Issues using LLMs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "789-811",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WadhwaPSSNKPR24",
+            "doi": "10.1145/3643762",
+            "ee": "https://doi.org/10.1145/3643762",
+            "url": "https://dblp.org/rec/journals/pacmse/WadhwaPSSNKPR24"
+        },
+        "url": "URL#154404"
+    },
+    {
+        "@score": "1",
+        "@id": "154405",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/3976",
+                        "text": "Neil Walkinshaw"
+                    },
+                    {
+                        "@pid": "10/2282-1",
+                        "text": "Michael Foster 0001"
+                    },
+                    {
+                        "@pid": "94/5122",
+                        "text": "Jos\u00e9 Miguel Rojas"
+                    },
+                    {
+                        "@pid": "h/RobertMHierons",
+                        "text": "Robert M. Hierons"
+                    }
+                ]
+            },
+            "title": "Bounding Random Test Set Size with Computational Learning Theory.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2538-2560",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Walkinshaw0RH24",
+            "doi": "10.1145/3660819",
+            "ee": "https://doi.org/10.1145/3660819",
+            "url": "https://dblp.org/rec/journals/pacmse/Walkinshaw0RH24"
+        },
+        "url": "URL#154405"
+    },
+    {
+        "@score": "1",
+        "@id": "154406",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "278/4418",
+                        "text": "Zexu Wang"
+                    },
+                    {
+                        "@pid": "181/3422",
+                        "text": "Jiachi Chen"
+                    },
+                    {
+                        "@pid": "41/3458-1",
+                        "text": "Yanlin Wang 0001"
+                    },
+                    {
+                        "@pid": "50/671-36",
+                        "text": "Yu Zhang 0036"
+                    },
+                    {
+                        "@pid": "z/WeizheZhang",
+                        "text": "Weizhe Zhang"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    }
+                ]
+            },
+            "title": "Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "161-181",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WangC00ZZ24",
+            "doi": "10.1145/3643734",
+            "ee": "https://doi.org/10.1145/3643734",
+            "url": "https://dblp.org/rec/journals/pacmse/WangC00ZZ24"
+        },
+        "url": "URL#154406"
+    },
+    {
+        "@score": "1",
+        "@id": "154407",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "240/2235",
+                        "text": "Chengpeng Wang"
+                    },
+                    {
+                        "@pid": "245/3547",
+                        "text": "Jipeng Zhang"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "51/7008-1",
+                        "text": "Charles Zhang 0001"
+                    }
+                ]
+            },
+            "title": "DAInfer: Inferring API Aliasing Specifications from Library Documentation via Neurosymbolic Optimization.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2469-2492",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WangZW024",
+            "doi": "10.1145/3660816",
+            "ee": "https://doi.org/10.1145/3660816",
+            "url": "https://dblp.org/rec/journals/pacmse/WangZW024"
+        },
+        "url": "URL#154407"
+    },
+    {
+        "@score": "1",
+        "@id": "154408",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "360/9680",
+                        "text": "Nimmi Rashinika Weeraddana"
+                    },
+                    {
+                        "@pid": "272/9685",
+                        "text": "Mahmoud Alfadel"
+                    },
+                    {
+                        "@pid": "31/8127",
+                        "text": "Shane McIntosh"
+                    }
+                ]
+            },
+            "title": "Dependency-Induced Waste in Continuous Integration: An Empirical Study of Unused Dependencies in the npm Ecosystem.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2632-2655",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WeeraddanaAM24",
+            "doi": "10.1145/3660823",
+            "ee": "https://doi.org/10.1145/3660823",
+            "url": "https://dblp.org/rec/journals/pacmse/WeeraddanaAM24"
+        },
+        "url": "URL#154408"
+    },
+    {
+        "@score": "1",
+        "@id": "154409",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "357/3422",
+                        "text": "Nathan Wintersgill"
+                    },
+                    {
+                        "@pid": "357/3001",
+                        "text": "Trevor Stalnaker"
+                    },
+                    {
+                        "@pid": "372/4961",
+                        "text": "Laura A. Heymann"
+                    },
+                    {
+                        "@pid": "123/7738",
+                        "text": "Oscar Chaparro"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "&quot;The Law Doesn&apos;t Work Like a Computer&quot;: Exploring Software Licensing Issues Faced by Legal Practitioners.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "882-905",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WintersgillSHCP24",
+            "doi": "10.1145/3643766",
+            "ee": "https://doi.org/10.1145/3643766",
+            "url": "https://dblp.org/rec/journals/pacmse/WintersgillSHCP24"
+        },
+        "url": "URL#154409"
+    },
+    {
+        "@score": "1",
+        "@id": "154410",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "353/7588",
+                        "text": "Yaoxuan Wu"
+                    },
+                    {
+                        "@pid": "36/9989",
+                        "text": "Ahmad Humayun"
+                    },
+                    {
+                        "@pid": "172/6776",
+                        "text": "Muhammad Ali Gulzar"
+                    },
+                    {
+                        "@pid": "56/5320",
+                        "text": "Miryung Kim"
+                    }
+                ]
+            },
+            "title": "Natural Symbolic Execution-Based Testing for Big Data Analytics.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2677-2700",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/WuHGK24",
+            "doi": "10.1145/3660825",
+            "ee": "https://doi.org/10.1145/3660825",
+            "url": "https://dblp.org/rec/journals/pacmse/WuHGK24"
+        },
+        "url": "URL#154410"
+    },
+    {
+        "@score": "1",
+        "@id": "154411",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/6441",
+                        "text": "Tao Xiao"
+                    },
+                    {
+                        "@pid": "57/4288",
+                        "text": "Hideaki Hata"
+                    },
+                    {
+                        "@pid": "29/1074",
+                        "text": "Christoph Treude"
+                    },
+                    {
+                        "@pid": "73/942",
+                        "text": "Kenichi Matsumoto"
+                    }
+                ]
+            },
+            "title": "Generative AI for Pull Request Descriptions: Adoption, Impact, and Developer Interventions.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1043-1065",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/XiaoHTM24",
+            "doi": "10.1145/3643773",
+            "ee": "https://doi.org/10.1145/3643773",
+            "url": "https://dblp.org/rec/journals/pacmse/XiaoHTM24"
+        },
+        "url": "URL#154411"
+    },
+    {
+        "@score": "1",
+        "@id": "154412",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/18",
+                        "text": "Ying Xiao"
+                    },
+                    {
+                        "@pid": "84/6889-50",
+                        "text": "Jie M. Zhang"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "m/MohammadRezaMousavi",
+                        "text": "Mohammad Reza Mousavi 0001"
+                    },
+                    {
+                        "@pid": "128/0637",
+                        "text": "Sicen Liu"
+                    },
+                    {
+                        "@pid": "318/8494",
+                        "text": "Dingyuan Xue"
+                    }
+                ]
+            },
+            "title": "MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2121-2143",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/XiaoZ00LX24",
+            "doi": "10.1145/3660801",
+            "ee": "https://doi.org/10.1145/3660801",
+            "url": "https://dblp.org/rec/journals/pacmse/XiaoZ00LX24"
+        },
+        "url": "URL#154412"
+    },
+    {
+        "@score": "1",
+        "@id": "154413",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "298/4402",
+                        "text": "Yongzheng Xie"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "03/1909",
+                        "text": "Muhammad Ali Babar 0001"
+                    }
+                ]
+            },
+            "title": "LogSD: Detecting Anomalies from System Logs through Self-Supervised Learning and Frequency-Based Masking.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2098-2120",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Xie0024",
+            "doi": "10.1145/3660800",
+            "ee": "https://doi.org/10.1145/3660800",
+            "url": "https://dblp.org/rec/journals/pacmse/Xie0024"
+        },
+        "url": "URL#154413"
+    },
+    {
+        "@score": "1",
+        "@id": "154414",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "77/2901",
+                        "text": "Qi Xin"
+                    },
+                    {
+                        "@pid": "132/7010",
+                        "text": "Haojun Wu"
+                    },
+                    {
+                        "@pid": "381/5687",
+                        "text": "Jinran Tang"
+                    },
+                    {
+                        "@pid": "98/738",
+                        "text": "Xinyu Liu"
+                    },
+                    {
+                        "@pid": "r/StevenPReiss",
+                        "text": "Steven P. Reiss"
+                    },
+                    {
+                        "@pid": "86/4142",
+                        "text": "Jifeng Xuan"
+                    }
+                ]
+            },
+            "title": "Detecting, Creating, Repairing, and Understanding Indivisible Multi-Hunk Bugs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2747-2770",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/XinWTLRX24",
+            "doi": "10.1145/3660828",
+            "ee": "https://doi.org/10.1145/3660828",
+            "url": "https://dblp.org/rec/journals/pacmse/XinWTLRX24"
+        },
+        "url": "URL#154414"
+    },
+    {
+        "@score": "1",
+        "@id": "154415",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "325/0687",
+                        "text": "Aashish Yadavally"
+                    },
+                    {
+                        "@pid": "59/871",
+                        "text": "Yi Li"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    }
+                ]
+            },
+            "title": "Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "271-292",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YadavallyLN24",
+            "doi": "10.1145/3643739",
+            "ee": "https://doi.org/10.1145/3643739",
+            "url": "https://dblp.org/rec/journals/pacmse/YadavallyLN24"
+        },
+        "url": "URL#154415"
+    },
+    {
+        "@score": "1",
+        "@id": "154416",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "74/8828",
+                        "text": "Yanfu Yan"
+                    },
+                    {
+                        "@pid": "210/7846",
+                        "text": "Nathan Cooper"
+                    },
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    },
+                    {
+                        "@pid": "381/5484",
+                        "text": "Steve Rich"
+                    }
+                ]
+            },
+            "title": "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "972-995",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YanCMBPR24",
+            "doi": "10.1145/3643770",
+            "ee": "https://doi.org/10.1145/3643770",
+            "url": "https://dblp.org/rec/journals/pacmse/YanCMBPR24"
+        },
+        "url": "URL#154416"
+    },
+    {
+        "@score": "1",
+        "@id": "154417",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "122/7526",
+                        "text": "Chuan Yan"
+                    },
+                    {
+                        "@pid": "218/5770",
+                        "text": "Mark Huasong Meng"
+                    },
+                    {
+                        "@pid": "312/7216",
+                        "text": "Fuman Xie"
+                    },
+                    {
+                        "@pid": "86/9673",
+                        "text": "Guangdong Bai"
+                    }
+                ]
+            },
+            "title": "Investigating Documented Privacy Changes in Android OS.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2701-2724",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YanMXB24",
+            "doi": "10.1145/3660826",
+            "ee": "https://doi.org/10.1145/3660826",
+            "url": "https://dblp.org/rec/journals/pacmse/YanMXB24"
+        },
+        "url": "URL#154417"
+    },
+    {
+        "@score": "1",
+        "@id": "154418",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "70/2539",
+                        "text": "Zhen Yang"
+                    },
+                    {
+                        "@pid": "67/5807-32",
+                        "text": "Fang Liu 0032"
+                    },
+                    {
+                        "@pid": "04/10702",
+                        "text": "Zhongxing Yu"
+                    },
+                    {
+                        "@pid": "86/7853",
+                        "text": "Jacky Wai Keung"
+                    },
+                    {
+                        "@pid": "23/6950-11",
+                        "text": "Jia Li 0011"
+                    },
+                    {
+                        "@pid": "07/6773",
+                        "text": "Shuo Liu"
+                    },
+                    {
+                        "@pid": "319/0442",
+                        "text": "Yifan Hong"
+                    },
+                    {
+                        "@pid": "59/10361",
+                        "text": "Xiaoxue Ma"
+                    },
+                    {
+                        "@pid": "22/3510",
+                        "text": "Zhi Jin"
+                    },
+                    {
+                        "@pid": "24/712-1",
+                        "text": "Ge Li 0001"
+                    }
+                ]
+            },
+            "title": "Exploring and Unleashing the Power of Large Language Models in Automated Code Translation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1585-1608",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Yang0YK0LHMJ024",
+            "doi": "10.1145/3660778",
+            "ee": "https://doi.org/10.1145/3660778",
+            "url": "https://dblp.org/rec/journals/pacmse/Yang0YK0LHMJ024"
+        },
+        "url": "URL#154418"
+    },
+    {
+        "@score": "1",
+        "@id": "154419",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "241/5752",
+                        "text": "Haoran Yang"
+                    },
+                    {
+                        "@pid": "237/4644",
+                        "text": "Yu Nong"
+                    },
+                    {
+                        "@pid": "15/4777-1",
+                        "text": "Tao Zhang 0001"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "117/7062",
+                        "text": "Haipeng Cai"
+                    }
+                ]
+            },
+            "title": "Learning to Detect and Localize Multilingual Bugs.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2190-2213",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YangN0LC24",
+            "doi": "10.1145/3660804",
+            "ee": "https://doi.org/10.1145/3660804",
+            "url": "https://dblp.org/rec/journals/pacmse/YangN0LC24"
+        },
+        "url": "URL#154419"
+    },
+    {
+        "@score": "1",
+        "@id": "154420",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "251/3134",
+                        "text": "Necip Fazil Yildiran"
+                    },
+                    {
+                        "@pid": "148/4267",
+                        "text": "Jeho Oh"
+                    },
+                    {
+                        "@pid": "l/JuliaLLawall",
+                        "text": "Julia Lawall"
+                    },
+                    {
+                        "@pid": "11/11515",
+                        "text": "Paul Gazzillo"
+                    }
+                ]
+            },
+            "title": "Maximizing Patch Coverage for Testing of Highly-Configurable Software without Exploding Build Times.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "427-449",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YildiranOLG24",
+            "doi": "10.1145/3643746",
+            "ee": "https://doi.org/10.1145/3643746",
+            "url": "https://dblp.org/rec/journals/pacmse/YildiranOLG24"
+        },
+        "url": "URL#154420"
+    },
+    {
+        "@score": "1",
+        "@id": "154421",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "381/5697",
+                        "text": "Jaehan Yoon"
+                    },
+                    {
+                        "@pid": "187/3120",
+                        "text": "Sooyoung Cha"
+                    }
+                ]
+            },
+            "title": "FeatMaker: Automated Feature Engineering for Search Strategy of Symbolic Execution.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2447-2468",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YoonC24",
+            "doi": "10.1145/3660815",
+            "ee": "https://doi.org/10.1145/3660815",
+            "url": "https://dblp.org/rec/journals/pacmse/YoonC24"
+        },
+        "url": "URL#154421"
+    },
+    {
+        "@score": "1",
+        "@id": "154422",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "248/2943",
+                        "text": "Guangba Yu"
+                    },
+                    {
+                        "@pid": "13/3788-2",
+                        "text": "Pengfei Chen 0002"
+                    },
+                    {
+                        "@pid": "185/8496",
+                        "text": "Zilong He"
+                    },
+                    {
+                        "@pid": "337/0786",
+                        "text": "Qiuyu Yan"
+                    },
+                    {
+                        "@pid": "45/6469",
+                        "text": "Yu Luo"
+                    },
+                    {
+                        "@pid": "162/4687",
+                        "text": "Fangyuan Li"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    }
+                ]
+            },
+            "title": "ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "24-46",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Yu0HYLLZ24",
+            "doi": "10.1145/3643728",
+            "ee": "https://doi.org/10.1145/3643728",
+            "url": "https://dblp.org/rec/journals/pacmse/Yu0HYLLZ24"
+        },
+        "url": "URL#154422"
+    },
+    {
+        "@score": "1",
+        "@id": "154423",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "243/7123",
+                        "text": "Shengcheng Yu"
+                    },
+                    {
+                        "@pid": "124/0310",
+                        "text": "Chunrong Fang"
+                    },
+                    {
+                        "@pid": "231/4867",
+                        "text": "Quanjun Zhang"
+                    },
+                    {
+                        "@pid": "216/5435",
+                        "text": "Mingzhe Du"
+                    },
+                    {
+                        "@pid": "49/1245-15",
+                        "text": "Jia Liu 0015"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    }
+                ]
+            },
+            "title": "Semi-supervised Crowdsourced Test Report Clustering via Screenshot-Text Binding Rules.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1540-1563",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/YuFZD0024",
+            "doi": "10.1145/3660776",
+            "ee": "https://doi.org/10.1145/3660776",
+            "url": "https://dblp.org/rec/journals/pacmse/YuFZD0024"
+        },
+        "url": "URL#154423"
+    },
+    {
+        "@score": "1",
+        "@id": "154424",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "251/2888",
+                        "text": "Zhiqiang Yuan"
+                    },
+                    {
+                        "@pid": "136/5528-2",
+                        "text": "Mingwei Liu 0002"
+                    },
+                    {
+                        "@pid": "346/6999",
+                        "text": "Shiji Ding"
+                    },
+                    {
+                        "@pid": "66/9297",
+                        "text": "Kaixin Wang"
+                    },
+                    {
+                        "@pid": "346/7295",
+                        "text": "Yixuan Chen 0012"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    },
+                    {
+                        "@pid": "174/3394",
+                        "text": "Yiling Lou"
+                    }
+                ]
+            },
+            "title": "Evaluating and Improving ChatGPT for Unit Test Generation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1703-1726",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Yuan0DW00L24",
+            "doi": "10.1145/3660783",
+            "ee": "https://doi.org/10.1145/3660783",
+            "url": "https://dblp.org/rec/journals/pacmse/Yuan0DW00L24"
+        },
+        "url": "URL#154424"
+    },
+    {
+        "@score": "1",
+        "@id": "154425",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "305/5798",
+                        "text": "Daoguang Zan"
+                    },
+                    {
+                        "@pid": "307/3569",
+                        "text": "Ailun Yu"
+                    },
+                    {
+                        "@pid": "181/2857",
+                        "text": "Bo Shen"
+                    },
+                    {
+                        "@pid": "11/8555",
+                        "text": "Bei Chen"
+                    },
+                    {
+                        "@pid": "64/6025",
+                        "text": "Wei Li"
+                    },
+                    {
+                        "@pid": "194/1824",
+                        "text": "Yongshun Gong"
+                    },
+                    {
+                        "@pid": "80/4171",
+                        "text": "Xiaolin Chen"
+                    },
+                    {
+                        "@pid": "355/5841",
+                        "text": "Yafen Yao"
+                    },
+                    {
+                        "@pid": "22/1116",
+                        "text": "Weihua Luo"
+                    },
+                    {
+                        "@pid": "117/5499",
+                        "text": "Bei Guan"
+                    },
+                    {
+                        "@pid": "150/4295",
+                        "text": "Yan Liu"
+                    },
+                    {
+                        "@pid": "06/771-2",
+                        "text": "Yongji Wang 0002"
+                    },
+                    {
+                        "@pid": "47/3932",
+                        "text": "Qianxiang Wang"
+                    },
+                    {
+                        "@pid": "82/5713",
+                        "text": "Lizhen Cui"
+                    }
+                ]
+            },
+            "title": "DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "406-426",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZanYSCLGCYLGLWW24",
+            "doi": "10.1145/3643745",
+            "ee": "https://doi.org/10.1145/3643745",
+            "url": "https://dblp.org/rec/journals/pacmse/ZanYSCLGCYLGLWW24"
+        },
+        "url": "URL#154425"
+    },
+    {
+        "@score": "1",
+        "@id": "154426",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3959",
+                        "text": "Zhiqiang Zang"
+                    },
+                    {
+                        "@pid": "351/7220",
+                        "text": "Fu-Yao Yu"
+                    },
+                    {
+                        "@pid": "293/0646",
+                        "text": "Aditya Thimmaiah"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "43/6015",
+                        "text": "Milos Gligoric 0001"
+                    }
+                ]
+            },
+            "title": "Java JIT Testing with Template Extraction.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1129-1151",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZangYTS024",
+            "doi": "10.1145/3643777",
+            "ee": "https://doi.org/10.1145/3643777",
+            "url": "https://dblp.org/rec/journals/pacmse/ZangYTS024"
+        },
+        "url": "URL#154426"
+    },
+    {
+        "@score": "1",
+        "@id": "154427",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "353/2415",
+                        "text": "Huaien Zhang"
+                    },
+                    {
+                        "@pid": "76/8304-1",
+                        "text": "Yu Pei 0001"
+                    },
+                    {
+                        "@pid": "371/2550",
+                        "text": "Shuyun Liang"
+                    },
+                    {
+                        "@pid": "16/9656",
+                        "text": "Shin Hwei Tan"
+                    }
+                ]
+            },
+            "title": "Understanding and Detecting Annotation-Induced Faults of Static Analyzers.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "722-744",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/Zhang0LT24",
+            "doi": "10.1145/3643759",
+            "ee": "https://doi.org/10.1145/3643759",
+            "url": "https://dblp.org/rec/journals/pacmse/Zhang0LT24"
+        },
+        "url": "URL#154427"
+    },
+    {
+        "@score": "1",
+        "@id": "154428",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/4707",
+                        "text": "Yifan Zhang"
+                    },
+                    {
+                        "@pid": "01/4503",
+                        "text": "Jiliang Li"
+                    },
+                    {
+                        "@pid": "286/5225",
+                        "text": "Zachary Karas"
+                    },
+                    {
+                        "@pid": "257/3242",
+                        "text": "Aakash Bansal"
+                    },
+                    {
+                        "@pid": "158/9197",
+                        "text": "Toby Jia-Jun Li"
+                    },
+                    {
+                        "@pid": "78/7505",
+                        "text": "Collin McMillan"
+                    },
+                    {
+                        "@pid": "133/3698",
+                        "text": "Kevin Leach"
+                    },
+                    {
+                        "@pid": "39/6301-15",
+                        "text": "Yu Huang 0015"
+                    }
+                ]
+            },
+            "title": "EyeTrans: Merging Human and Machine Attention for Neural Code Summarization.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "115-136",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhangLKBLML024",
+            "doi": "10.1145/3643732",
+            "ee": "https://doi.org/10.1145/3643732",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhangLKBLML024"
+        },
+        "url": "URL#154428"
+    },
+    {
+        "@score": "1",
+        "@id": "154429",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "262/5583",
+                        "text": "Zhaoxu Zhang"
+                    },
+                    {
+                        "@pid": "329/0713",
+                        "text": "Fazle Mohammed Tawsif"
+                    },
+                    {
+                        "@pid": "381/5815",
+                        "text": "Komei Ryu"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "04/4583",
+                        "text": "William G. J. Halfond"
+                    }
+                ]
+            },
+            "title": "Mobile Bug Report Reproduction via Global Search on the App UI Model.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2656-2676",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhangTRYH24",
+            "doi": "10.1145/3660824",
+            "ee": "https://doi.org/10.1145/3660824",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhangTRYH24"
+        },
+        "url": "URL#154429"
+    },
+    {
+        "@score": "1",
+        "@id": "154430",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "199/1036-6",
+                        "text": "Zejun Zhang 0006"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "187/9569",
+                        "text": "Xiaoxue Ren"
+                    },
+                    {
+                        "@pid": "19/9978",
+                        "text": "Qinghua Lu 0001"
+                    },
+                    {
+                        "@pid": "47/3196-1",
+                        "text": "Xiwei Xu 0001"
+                    }
+                ]
+            },
+            "title": "Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1107-1128",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhangXR0024",
+            "doi": "10.1145/3643776",
+            "ee": "https://doi.org/10.1145/3643776",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhangXR0024"
+        },
+        "url": "URL#154430"
+    },
+    {
+        "@score": "1",
+        "@id": "154431",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/6951-9",
+                        "text": "Xiaoling Zhang 0009"
+                    },
+                    {
+                        "@pid": "183/0183",
+                        "text": "Zhengzi Xu"
+                    },
+                    {
+                        "@pid": "189/2409",
+                        "text": "Shouguo Yang"
+                    },
+                    {
+                        "@pid": "43/3166-18",
+                        "text": "Zhi Li 0018"
+                    },
+                    {
+                        "@pid": "19/6306",
+                        "text": "Zhiqiang Shi"
+                    },
+                    {
+                        "@pid": "37/4705-1",
+                        "text": "Limin Sun 0001"
+                    }
+                ]
+            },
+            "title": "Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-task Learning.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1679-1702",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhangXY0S024",
+            "doi": "10.1145/3660782",
+            "ee": "https://doi.org/10.1145/3660782",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhangXY0S024"
+        },
+        "url": "URL#154431"
+    },
+    {
+        "@score": "1",
+        "@id": "154432",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/1133",
+                        "text": "Shasha Zhou"
+                    },
+                    {
+                        "@pid": "226/9256",
+                        "text": "Mingyu Huang"
+                    },
+                    {
+                        "@pid": "44/8711-1",
+                        "text": "Yanan Sun 0001"
+                    },
+                    {
+                        "@pid": "75/6627-1",
+                        "text": "Ke Li 0001"
+                    }
+                ]
+            },
+            "title": "Evolutionary Multi-objective Optimization for Contextual Adversarial Example Generation.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2285-2308",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhouHS024",
+            "doi": "10.1145/3660808",
+            "ee": "https://doi.org/10.1145/3660808",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhouHS024"
+        },
+        "url": "URL#154432"
+    },
+    {
+        "@score": "1",
+        "@id": "154433",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "244/4493",
+                        "text": "Qilin Zhou"
+                    },
+                    {
+                        "@pid": "41/5172",
+                        "text": "Zhengyuan Wei"
+                    },
+                    {
+                        "@pid": "14/6633-5",
+                        "text": "Haipeng Wang 0005"
+                    },
+                    {
+                        "@pid": "34/2005-1",
+                        "text": "Bo Jiang 0001"
+                    },
+                    {
+                        "@pid": "c/WingKwonChan",
+                        "text": "Wing-Kwong Chan"
+                    }
+                ]
+            },
+            "title": "CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2725-2746",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhouW00C24",
+            "doi": "10.1145/3660827",
+            "ee": "https://doi.org/10.1145/3660827",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhouW00C24"
+        },
+        "url": "URL#154433"
+    },
+    {
+        "@score": "1",
+        "@id": "154434",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/1222",
+                        "text": "Xiaoyan Zhu"
+                    },
+                    {
+                        "@pid": "82/7064",
+                        "text": "Mingyue Jiang"
+                    },
+                    {
+                        "@pid": "98/4236-5",
+                        "text": "Xiao-Yi Zhang 0005"
+                    },
+                    {
+                        "@pid": "130/3498",
+                        "text": "Liming Nie"
+                    },
+                    {
+                        "@pid": "75/157",
+                        "text": "Zuohua Ding"
+                    }
+                ]
+            },
+            "title": "MTAS: A Reference-Free Approach for Evaluating Abstractive Summarization Systems.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "2561-2583",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZhuJZND24",
+            "doi": "10.1145/3660820",
+            "ee": "https://doi.org/10.1145/3660820",
+            "url": "https://dblp.org/rec/journals/pacmse/ZhuJZND24"
+        },
+        "url": "URL#154434"
+    },
+    {
+        "@score": "1",
+        "@id": "154435",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "230/3306",
+                        "text": "Changwei Zou"
+                    },
+                    {
+                        "@pid": "194/7670",
+                        "text": "Dongjie He"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "TIPS: Tracking Integer-Pointer Value Flows for C++ Member Function Pointers.",
+            "venue": "Proc. ACM Softw. Eng.",
+            "volume": "1",
+            "number": "FSE",
+            "pages": "1609-1631",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/pacmse/ZouHSX24",
+            "doi": "10.1145/3660779",
+            "ee": "https://doi.org/10.1145/3660779",
+            "url": "https://dblp.org/rec/journals/pacmse/ZouHSX24"
+        },
+        "url": "URL#154435"
+    }
+]

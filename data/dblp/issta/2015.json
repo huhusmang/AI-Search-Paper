@@ -1,0 +1,1514 @@
+[
+    {
+        "@score": "1",
+        "@id": "4101566",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9632",
+                        "text": "Christoffer Quist Adamsen"
+                    },
+                    {
+                        "@pid": "96/10107",
+                        "text": "Gianluca Mezzetti"
+                    },
+                    {
+                        "@pid": "55/6739",
+                        "text": "Anders M\u00f8ller"
+                    }
+                ]
+            },
+            "title": "Systematic execution of Android test suites in adverse conditions.",
+            "venue": "ISSTA",
+            "pages": "83-93",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AdamsenMM15",
+            "doi": "10.1145/2771783.2771786",
+            "ee": "https://doi.org/10.1145/2771783.2771786",
+            "url": "https://dblp.org/rec/conf/issta/AdamsenMM15"
+        },
+        "url": "URL#4101566"
+    },
+    {
+        "@score": "1",
+        "@id": "4101567",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "165/9618",
+                    "text": "Andrea Aquino"
+                }
+            },
+            "title": "Scalable program analysis through proof caching (doctoral symposium).",
+            "venue": "ISSTA",
+            "pages": "432-435",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Aquino15",
+            "doi": "10.1145/2771783.2784773",
+            "ee": "https://doi.org/10.1145/2771783.2784773",
+            "url": "https://dblp.org/rec/conf/issta/Aquino15"
+        },
+        "url": "URL#4101567"
+    },
+    {
+        "@score": "1",
+        "@id": "4101568",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9618",
+                        "text": "Andrea Aquino"
+                    },
+                    {
+                        "@pid": "165/9644",
+                        "text": "Francesco A. Bianchi"
+                    },
+                    {
+                        "@pid": "117/5484",
+                        "text": "Meixian Chen"
+                    },
+                    {
+                        "@pid": "85/4864",
+                        "text": "Giovanni Denaro"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    }
+                ]
+            },
+            "title": "Reusing constraint proofs in program analysis.",
+            "venue": "ISSTA",
+            "pages": "305-315",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AquinoBCDP15",
+            "doi": "10.1145/2771783.2771802",
+            "ee": "https://doi.org/10.1145/2771783.2771802",
+            "url": "https://dblp.org/rec/conf/issta/AquinoBCDP15"
+        },
+        "url": "URL#4101568"
+    },
+    {
+        "@score": "1",
+        "@id": "4101569",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/1088",
+                        "text": "Earl T. Barr"
+                    },
+                    {
+                        "@pid": "h/MarkHarman",
+                        "text": "Mark Harman"
+                    },
+                    {
+                        "@pid": "44/4993-1",
+                        "text": "Yue Jia 0001"
+                    },
+                    {
+                        "@pid": "148/4976",
+                        "text": "Alexandru Marginean"
+                    },
+                    {
+                        "@pid": "23/8779",
+                        "text": "Justyna Petke"
+                    }
+                ]
+            },
+            "title": "Automated software transplantation.",
+            "venue": "ISSTA",
+            "pages": "257-269",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BarrHJMP15",
+            "doi": "10.1145/2771783.2771796",
+            "ee": "https://doi.org/10.1145/2771783.2771796",
+            "url": "https://dblp.org/rec/conf/issta/BarrHJMP15"
+        },
+        "url": "URL#4101569"
+    },
+    {
+        "@score": "1",
+        "@id": "4101570",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    },
+                    {
+                        "@pid": "k/GailEKaiser",
+                        "text": "Gail E. Kaiser"
+                    }
+                ]
+            },
+            "title": "Dynamic taint tracking for Java with phosphor (demo).",
+            "venue": "ISSTA",
+            "pages": "409-413",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BellK15",
+            "doi": "10.1145/2771783.2784768",
+            "ee": "https://doi.org/10.1145/2771783.2784768",
+            "url": "https://dblp.org/rec/conf/issta/BellK15"
+        },
+        "url": "URL#4101570"
+    },
+    {
+        "@score": "1",
+        "@id": "4101571",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9634",
+                        "text": "Lazaro Clapp"
+                    },
+                    {
+                        "@pid": "95/5667",
+                        "text": "Saswat Anand"
+                    },
+                    {
+                        "@pid": "a/AAiken",
+                        "text": "Alex Aiken"
+                    }
+                ]
+            },
+            "title": "Modelgen: mining explicit information flow specifications from concrete executions.",
+            "venue": "ISSTA",
+            "pages": "129-140",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ClappAA15",
+            "doi": "10.1145/2771783.2771810",
+            "ee": "https://doi.org/10.1145/2771783.2771810",
+            "url": "https://dblp.org/rec/conf/issta/ClappAA15"
+        },
+        "url": "URL#4101571"
+    },
+    {
+        "@score": "1",
+        "@id": "4101573",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/1352",
+                        "text": "Kai Cong"
+                    },
+                    {
+                        "@pid": "39/2735",
+                        "text": "Li Lei"
+                    },
+                    {
+                        "@pid": "65/996",
+                        "text": "Zhenkun Yang"
+                    },
+                    {
+                        "@pid": "51/1316",
+                        "text": "Fei Xie"
+                    }
+                ]
+            },
+            "title": "Automatic fault injection for driver robustness testing.",
+            "venue": "ISSTA",
+            "pages": "361-372",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/CongLYX15",
+            "doi": "10.1145/2771783.2771811",
+            "ee": "https://doi.org/10.1145/2771783.2771811",
+            "url": "https://dblp.org/rec/conf/issta/CongLYX15"
+        },
+        "url": "URL#4101573"
+    },
+    {
+        "@score": "1",
+        "@id": "4101574",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5368",
+                        "text": "Johannes Dahse"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "Experience report: an empirical study of PHP security mechanism usage.",
+            "venue": "ISSTA",
+            "pages": "60-70",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DahseH15",
+            "doi": "10.1145/2771783.2771787",
+            "ee": "https://doi.org/10.1145/2771783.2771787",
+            "url": "https://dblp.org/rec/conf/issta/DahseH15"
+        },
+        "url": "URL#4101574"
+    },
+    {
+        "@score": "1",
+        "@id": "4101575",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "42/30",
+                    "text": "G\u00fclsen Demir\u00f6z"
+                }
+            },
+            "title": "Cost-aware combinatorial interaction testing (doctoral symposium).",
+            "venue": "ISSTA",
+            "pages": "440-443",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Demiroz15",
+            "doi": "10.1145/2771783.2784775",
+            "ee": "https://doi.org/10.1145/2771783.2784775",
+            "url": "https://dblp.org/rec/conf/issta/Demiroz15"
+        },
+        "url": "URL#4101575"
+    },
+    {
+        "@score": "1",
+        "@id": "4101576",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9612",
+                        "text": "Monika Dhok"
+                    },
+                    {
+                        "@pid": "143/2688",
+                        "text": "Rashmi Mudduluru"
+                    },
+                    {
+                        "@pid": "75/541",
+                        "text": "Murali Krishna Ramanathan"
+                    }
+                ]
+            },
+            "title": "Pegasus: automatic barrier inference for stable multithreaded systems.",
+            "venue": "ISSTA",
+            "pages": "153-164",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DhokMR15",
+            "doi": "10.1145/2771783.2771813",
+            "ee": "https://doi.org/10.1145/2771783.2771813",
+            "url": "https://dblp.org/rec/conf/issta/DhokMR15"
+        },
+        "url": "URL#4101576"
+    },
+    {
+        "@score": "1",
+        "@id": "4101577",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "158/1033",
+                        "text": "Marko Dimjasevic"
+                    },
+                    {
+                        "@pid": "39/117",
+                        "text": "Dimitra Giannakopoulou"
+                    }
+                ]
+            },
+            "title": "Test-case generation for runtime analysis and vice versa: verification of aircraft separation assurance.",
+            "venue": "ISSTA",
+            "pages": "282-292",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DimjasevicG15",
+            "doi": "10.1145/2771783.2771804",
+            "ee": "https://doi.org/10.1145/2771783.2771804",
+            "url": "https://dblp.org/rec/conf/issta/DimjasevicG15"
+        },
+        "url": "URL#4101577"
+    },
+    {
+        "@score": "1",
+        "@id": "4101578",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "22/2288",
+                        "text": "Michael G. Epitropakis"
+                    },
+                    {
+                        "@pid": "06/1626",
+                        "text": "Shin Yoo"
+                    },
+                    {
+                        "@pid": "h/MarkHarman",
+                        "text": "Mark Harman"
+                    },
+                    {
+                        "@pid": "b/EdmundKBurke",
+                        "text": "Edmund K. Burke"
+                    }
+                ]
+            },
+            "title": "Empirical evaluation of pareto efficient multi-objective regression test case prioritisation.",
+            "venue": "ISSTA",
+            "pages": "234-245",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/EpitropakisYHB15",
+            "doi": "10.1145/2771783.2771788",
+            "ee": "https://doi.org/10.1145/2771783.2771788",
+            "url": "https://dblp.org/rec/conf/issta/EpitropakisYHB15"
+        },
+        "url": "URL#4101578"
+    },
+    {
+        "@score": "1",
+        "@id": "4101581",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "43/6015",
+                        "text": "Milos Gligoric 0001"
+                    },
+                    {
+                        "@pid": "147/4361",
+                        "text": "Lamyaa Eloussi"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "Practical regression test selection with dynamic file dependencies.",
+            "venue": "ISSTA",
+            "pages": "211-222",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GligoricEM15",
+            "doi": "10.1145/2771783.2771784",
+            "ee": "https://doi.org/10.1145/2771783.2771784",
+            "url": "https://dblp.org/rec/conf/issta/GligoricEM15"
+        },
+        "url": "URL#4101581"
+    },
+    {
+        "@score": "1",
+        "@id": "4101582",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "28/7849",
+                        "text": "Liang Gong"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    },
+                    {
+                        "@pid": "83/2559",
+                        "text": "Manu Sridharan"
+                    },
+                    {
+                        "@pid": "04/418",
+                        "text": "Koushik Sen"
+                    }
+                ]
+            },
+            "title": "DLint: dynamically checking bad coding practices in JavaScript.",
+            "venue": "ISSTA",
+            "pages": "94-105",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GongPSS15",
+            "doi": "10.1145/2771783.2771809",
+            "ee": "https://doi.org/10.1145/2771783.2771809",
+            "url": "https://dblp.org/rec/conf/issta/GongPSS15"
+        },
+        "url": "URL#4101582"
+    },
+    {
+        "@score": "1",
+        "@id": "4101583",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "g/AlexGroce",
+                        "text": "Alex Groce"
+                    },
+                    {
+                        "@pid": "89/7618",
+                        "text": "Jervis Pinto"
+                    },
+                    {
+                        "@pid": "165/9658",
+                        "text": "Pooria Azimi"
+                    },
+                    {
+                        "@pid": "165/9657",
+                        "text": "Pranjal Mittal"
+                    }
+                ]
+            },
+            "title": "TSTL: a language and tool for testing (demo).",
+            "venue": "ISSTA",
+            "pages": "414-417",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GrocePAM15",
+            "doi": "10.1145/2771783.2784769",
+            "ee": "https://doi.org/10.1145/2771783.2784769",
+            "url": "https://dblp.org/rec/conf/issta/GrocePAM15"
+        },
+        "url": "URL#4101583"
+    },
+    {
+        "@score": "1",
+        "@id": "4101584",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "34/8605-2",
+                        "text": "Lin Gui 0002"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "33/6517",
+                        "text": "Jin Song Dong"
+                    }
+                ]
+            },
+            "title": "Reliability assessment for distributed systems via communication abstraction and refinement.",
+            "venue": "ISSTA",
+            "pages": "293-304",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuiSLD15",
+            "doi": "10.1145/2771783.2771794",
+            "ee": "https://doi.org/10.1145/2771783.2771794",
+            "url": "https://dblp.org/rec/conf/issta/GuiSLD15"
+        },
+        "url": "URL#4101584"
+    },
+    {
+        "@score": "1",
+        "@id": "4101585",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "129/8214",
+                        "text": "Alex Gyori"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "153/5340",
+                        "text": "Farah Hariri"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "Reliable testing: detecting state-polluting tests to prevent test dependency.",
+            "venue": "ISSTA",
+            "pages": "223-233",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GyoriSHM15",
+            "doi": "10.1145/2771783.2771793",
+            "ee": "https://doi.org/10.1145/2771783.2771793",
+            "url": "https://dblp.org/rec/conf/issta/GyoriSHM15"
+        },
+        "url": "URL#4101585"
+    },
+    {
+        "@score": "1",
+        "@id": "4101586",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/2062",
+                        "text": "Roee Hay"
+                    },
+                    {
+                        "@pid": "08/7062",
+                        "text": "Omer Tripp"
+                    },
+                    {
+                        "@pid": "p/MarcoPistoia",
+                        "text": "Marco Pistoia"
+                    }
+                ]
+            },
+            "title": "Dynamic detection of inter-application communication vulnerabilities in Android.",
+            "venue": "ISSTA",
+            "pages": "118-128",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/HayTP15",
+            "doi": "10.1145/2771783.2771800",
+            "ee": "https://doi.org/10.1145/2771783.2771800",
+            "url": "https://dblp.org/rec/conf/issta/HayTP15"
+        },
+        "url": "URL#4101586"
+    },
+    {
+        "@score": "1",
+        "@id": "4101588",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9661",
+                        "text": "Charlie Hothersall-Thomas"
+                    },
+                    {
+                        "@pid": "m/SergioMaffeis",
+                        "text": "Sergio Maffeis"
+                    },
+                    {
+                        "@pid": "125/8259",
+                        "text": "Chris Novakovic"
+                    }
+                ]
+            },
+            "title": "BrowserAudit: automated testing of browser security features.",
+            "venue": "ISSTA",
+            "pages": "37-47",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Hothersall-Thomas15",
+            "doi": "10.1145/2771783.2771789",
+            "ee": "https://doi.org/10.1145/2771783.2771789",
+            "url": "https://dblp.org/rec/conf/issta/Hothersall-Thomas15"
+        },
+        "url": "URL#4101588"
+    },
+    {
+        "@score": "1",
+        "@id": "4101589",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "81/6685-1",
+                        "text": "Wei Huang 0001"
+                    },
+                    {
+                        "@pid": "80/8588-1",
+                        "text": "Yao Dong 0001"
+                    },
+                    {
+                        "@pid": "252/3794",
+                        "text": "Ana L. Milanova"
+                    },
+                    {
+                        "@pid": "08/7028",
+                        "text": "Julian Dolby"
+                    }
+                ]
+            },
+            "title": "Scalable and precise taint analysis for Android.",
+            "venue": "ISSTA",
+            "pages": "106-117",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/HuangDMD15",
+            "doi": "10.1145/2771783.2771803",
+            "ee": "https://doi.org/10.1145/2771783.2771803",
+            "url": "https://dblp.org/rec/conf/issta/HuangDMD15"
+        },
+        "url": "URL#4101589"
+    },
+    {
+        "@score": "1",
+        "@id": "4101590",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "82/2706",
+                        "text": "Xiangyang Jia"
+                    },
+                    {
+                        "@pid": "g/CarloGhezzi",
+                        "text": "Carlo Ghezzi"
+                    },
+                    {
+                        "@pid": "75/3547",
+                        "text": "Shi Ying"
+                    }
+                ]
+            },
+            "title": "Enhancing reuse of constraint solutions to improve symbolic execution.",
+            "venue": "ISSTA",
+            "pages": "177-187",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JiaGY15",
+            "doi": "10.1145/2771783.2771806",
+            "ee": "https://doi.org/10.1145/2771783.2771806",
+            "url": "https://dblp.org/rec/conf/issta/JiaGY15"
+        },
+        "url": "URL#4101590"
+    },
+    {
+        "@score": "1",
+        "@id": "4101591",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9648",
+                        "text": "Sepideh Khoshnood"
+                    },
+                    {
+                        "@pid": "139/6963",
+                        "text": "Markus Kusano"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs.",
+            "venue": "ISSTA",
+            "pages": "165-176",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KhoshnoodKW15",
+            "doi": "10.1145/2771783.2771798",
+            "ee": "https://doi.org/10.1145/2771783.2771798",
+            "url": "https://dblp.org/rec/conf/issta/KhoshnoodKW15"
+        },
+        "url": "URL#4101591"
+    },
+    {
+        "@score": "1",
+        "@id": "4101592",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "00/2651-2",
+                        "text": "Vu Le 0002"
+                    },
+                    {
+                        "@pid": "04/7120",
+                        "text": "Chengnian Sun"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Randomized stress-testing of link-time optimizers.",
+            "venue": "ISSTA",
+            "pages": "327-337",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LeSS15",
+            "doi": "10.1145/2771783.2771785",
+            "ee": "https://doi.org/10.1145/2771783.2771785",
+            "url": "https://dblp.org/rec/conf/issta/LeSS15"
+        },
+        "url": "URL#4101592"
+    },
+    {
+        "@score": "1",
+        "@id": "4101593",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "141/9097",
+                        "text": "Tanakorn Leesatapornwongsa"
+                    },
+                    {
+                        "@pid": "84/5664",
+                        "text": "Haryadi S. Gunawi"
+                    }
+                ]
+            },
+            "title": "SAMC: a fast model checker for finding heisenbugs in distributed systems (demo).",
+            "venue": "ISSTA",
+            "pages": "423-427",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Leesatapornwongsa15",
+            "doi": "10.1145/2771783.2784771",
+            "ee": "https://doi.org/10.1145/2771783.2784771",
+            "url": "https://dblp.org/rec/conf/issta/Leesatapornwongsa15"
+        },
+        "url": "URL#4101593"
+    },
+    {
+        "@score": "1",
+        "@id": "4101594",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "16/4996",
+                    "text": "Teng Long"
+                }
+            },
+            "title": "Collaborative testing across shared software components (doctoral symposium).",
+            "venue": "ISSTA",
+            "pages": "436-439",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Long15",
+            "doi": "10.1145/2771783.2784774",
+            "ee": "https://doi.org/10.1145/2771783.2784774",
+            "url": "https://dblp.org/rec/conf/issta/Long15"
+        },
+        "url": "URL#4101594"
+    },
+    {
+        "@score": "1",
+        "@id": "4101595",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/8730",
+                        "text": "Kivan\u00e7 Muslu"
+                    },
+                    {
+                        "@pid": "51/1518",
+                        "text": "Yuriy Brun"
+                    },
+                    {
+                        "@pid": "04/1835",
+                        "text": "Alexandra Meliou"
+                    }
+                ]
+            },
+            "title": "Preventing data errors with continuous testing.",
+            "venue": "ISSTA",
+            "pages": "373-384",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MusluBM15",
+            "doi": "10.1145/2771783.2771792",
+            "ee": "https://doi.org/10.1145/2771783.2771792",
+            "url": "https://dblp.org/rec/conf/issta/MusluBM15"
+        },
+        "url": "URL#4101595"
+    },
+    {
+        "@score": "1",
+        "@id": "4101596",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "12/6271",
+                    "text": "Ganesh Narayanaswamy"
+                }
+            },
+            "title": "When truth is efficient: analysing concurrency.",
+            "venue": "ISSTA",
+            "pages": "141-152",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Narayanaswamy15",
+            "doi": "10.1145/2771783.2771790",
+            "ee": "https://doi.org/10.1145/2771783.2771790",
+            "url": "https://dblp.org/rec/conf/issta/Narayanaswamy15"
+        },
+        "url": "URL#4101596"
+    },
+    {
+        "@score": "1",
+        "@id": "4101597",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "136/1148",
+                    "text": "Peter Ohmann"
+                }
+            },
+            "title": "Making your crashes work for you (doctoral symposium).",
+            "venue": "ISSTA",
+            "pages": "428-431",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Ohmann15",
+            "doi": "10.1145/2771783.2784772",
+            "ee": "https://doi.org/10.1145/2771783.2784772",
+            "url": "https://dblp.org/rec/conf/issta/Ohmann15"
+        },
+        "url": "URL#4101597"
+    },
+    {
+        "@score": "1",
+        "@id": "4101598",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "134/5836",
+                        "text": "Zichao Qi"
+                    },
+                    {
+                        "@pid": "55/3921",
+                        "text": "Fan Long"
+                    },
+                    {
+                        "@pid": "152/5845",
+                        "text": "Sara Achour"
+                    },
+                    {
+                        "@pid": "r/MartinCRinard",
+                        "text": "Martin C. Rinard"
+                    }
+                ]
+            },
+            "title": "An analysis of patch plausibility and correctness for generate-and-validate patch generation systems.",
+            "venue": "ISSTA",
+            "pages": "24-36",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/QiLAR15",
+            "doi": "10.1145/2771783.2771791",
+            "ee": "https://doi.org/10.1145/2771783.2771791",
+            "url": "https://dblp.org/rec/conf/issta/QiLAR15"
+        },
+        "url": "URL#4101598"
+    },
+    {
+        "@score": "1",
+        "@id": "4101599",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/5122",
+                        "text": "Jos\u00e9 Miguel Rojas"
+                    },
+                    {
+                        "@pid": "74/2259",
+                        "text": "Gordon Fraser 0001"
+                    },
+                    {
+                        "@pid": "59/2858",
+                        "text": "Andrea Arcuri"
+                    }
+                ]
+            },
+            "title": "Automated unit test generation during software development: a controlled experiment and think-aloud observations.",
+            "venue": "ISSTA",
+            "pages": "338-349",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/RojasFA15",
+            "doi": "10.1145/2771783.2771801",
+            "ee": "https://doi.org/10.1145/2771783.2771801",
+            "url": "https://dblp.org/rec/conf/issta/RojasFA15"
+        },
+        "url": "URL#4101599"
+    },
+    {
+        "@score": "1",
+        "@id": "4101600",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "165/9613",
+                    "text": "Thomas Rolfsnes"
+                }
+            },
+            "title": "Mining change history for test-plan generation (doctoral symposium).",
+            "venue": "ISSTA",
+            "pages": "444-447",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Rolfsnes15",
+            "doi": "10.1145/2771783.2784776",
+            "ee": "https://doi.org/10.1145/2771783.2784776",
+            "url": "https://dblp.org/rec/conf/issta/Rolfsnes15"
+        },
+        "url": "URL#4101600"
+    },
+    {
+        "@score": "1",
+        "@id": "4101601",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "92/202",
+                        "text": "Yoshiki Sato"
+                    },
+                    {
+                        "@pid": "165/9633",
+                        "text": "Shumpei Hozumi"
+                    },
+                    {
+                        "@pid": "c/ShigeruChiba",
+                        "text": "Shigeru Chiba"
+                    }
+                ]
+            },
+            "title": "Calculation coverage testing in scientific applications.",
+            "venue": "ISSTA",
+            "pages": "350-360",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SatoHC15",
+            "doi": "10.1145/2771783.2771807",
+            "ee": "https://doi.org/10.1145/2771783.2771807",
+            "url": "https://dblp.org/rec/conf/issta/SatoHC15"
+        },
+        "url": "URL#4101601"
+    },
+    {
+        "@score": "1",
+        "@id": "4101602",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9650",
+                        "text": "Du Shen"
+                    },
+                    {
+                        "@pid": "53/2808",
+                        "text": "Qi Luo"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    },
+                    {
+                        "@pid": "p/MGrechanik",
+                        "text": "Mark Grechanik"
+                    }
+                ]
+            },
+            "title": "Automating performance bottleneck detection using search-based application profiling.",
+            "venue": "ISSTA",
+            "pages": "270-281",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ShenLPG15",
+            "doi": "10.1145/2771783.2771816",
+            "ee": "https://doi.org/10.1145/2771783.2771816",
+            "url": "https://dblp.org/rec/conf/issta/ShenLPG15"
+        },
+        "url": "URL#4101602"
+    },
+    {
+        "@score": "1",
+        "@id": "4101603",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/9862",
+                        "text": "Tian Huat Tan"
+                    },
+                    {
+                        "@pid": "73/7055",
+                        "text": "Yinxing Xue"
+                    },
+                    {
+                        "@pid": "129/8204",
+                        "text": "Manman Chen"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "33/6517",
+                        "text": "Jin Song Dong"
+                    }
+                ]
+            },
+            "title": "Optimizing selection of competing features via feedback-directed evolutionary algorithms.",
+            "venue": "ISSTA",
+            "pages": "246-256",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/TanXCSLD15",
+            "doi": "10.1145/2771783.2771808",
+            "ee": "https://doi.org/10.1145/2771783.2771808",
+            "url": "https://dblp.org/rec/conf/issta/TanXCSLD15"
+        },
+        "url": "URL#4101603"
+    },
+    {
+        "@score": "1",
+        "@id": "4101604",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/6543",
+                        "text": "Alexander Tarvo"
+                    },
+                    {
+                        "@pid": "89/1353",
+                        "text": "Peter F. Sweeney"
+                    },
+                    {
+                        "@pid": "25/3824",
+                        "text": "Nick Mitchell"
+                    },
+                    {
+                        "@pid": "44/3960",
+                        "text": "V. T. Rajan"
+                    },
+                    {
+                        "@pid": "78/6495",
+                        "text": "Matthew Arnold"
+                    },
+                    {
+                        "@pid": "140/2229",
+                        "text": "Ioana Baldini"
+                    }
+                ]
+            },
+            "title": "CanaryAdvisor: a statistical-based tool for canary testing (demo).",
+            "venue": "ISSTA",
+            "pages": "418-422",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/TarvoSMRAB15",
+            "doi": "10.1145/2771783.2784770",
+            "ee": "https://doi.org/10.1145/2771783.2784770",
+            "url": "https://dblp.org/rec/conf/issta/TarvoSMRAB15"
+        },
+        "url": "URL#4101604"
+    },
+    {
+        "@score": "1",
+        "@id": "4101605",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/8499-1",
+                        "text": "Haoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "07/6300-1",
+                        "text": "Yao Guo 0001"
+                    },
+                    {
+                        "@pid": "165/9621",
+                        "text": "Ziang Ma"
+                    },
+                    {
+                        "@pid": "49/628",
+                        "text": "Xiangqun Chen"
+                    }
+                ]
+            },
+            "title": "WuKong: a scalable and accurate two-phase approach to Android app clone detection.",
+            "venue": "ISSTA",
+            "pages": "71-82",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangGMC15",
+            "doi": "10.1145/2771783.2771795",
+            "ee": "https://doi.org/10.1145/2771783.2771795",
+            "url": "https://dblp.org/rec/conf/issta/WangGMC15"
+        },
+        "url": "URL#4101605"
+    },
+    {
+        "@score": "1",
+        "@id": "4101606",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/8339",
+                        "text": "Chunhui Wang"
+                    },
+                    {
+                        "@pid": "61/1343",
+                        "text": "Fabrizio Pastore"
+                    },
+                    {
+                        "@pid": "44/4521",
+                        "text": "Arda Goknil"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "19/6723",
+                        "text": "Muhammad Zohaib Z. Iqbal"
+                    }
+                ]
+            },
+            "title": "Automatic generation of system test cases from use case specifications.",
+            "venue": "ISSTA",
+            "pages": "385-396",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangPGBI15",
+            "doi": "10.1145/2771783.2771812",
+            "ee": "https://doi.org/10.1145/2771783.2771812",
+            "url": "https://dblp.org/rec/conf/issta/WangPGBI15"
+        },
+        "url": "URL#4101606"
+    },
+    {
+        "@score": "1",
+        "@id": "4101607",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/6735",
+                        "text": "Qianqian Wang"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    },
+                    {
+                        "@pid": "35/805",
+                        "text": "Alessandro Orso"
+                    }
+                ]
+            },
+            "title": "Evaluating the usefulness of IR-based fault localization techniques.",
+            "venue": "ISSTA",
+            "pages": "1-11",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangPO15",
+            "doi": "10.1145/2771783.2771797",
+            "ee": "https://doi.org/10.1145/2771783.2771797",
+            "url": "https://dblp.org/rec/conf/issta/WangPO15"
+        },
+        "url": "URL#4101607"
+    },
+    {
+        "@score": "1",
+        "@id": "4101608",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "04/10007",
+                        "text": "Philip Tanofsky"
+                    }
+                ]
+            },
+            "title": "Experience report: how is dynamic symbolic execution different from manual testing? a study on KLEE.",
+            "venue": "ISSTA",
+            "pages": "199-210",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangZT15",
+            "doi": "10.1145/2771783.2771818",
+            "ee": "https://doi.org/10.1145/2771783.2771818",
+            "url": "https://dblp.org/rec/conf/issta/WangZT15"
+        },
+        "url": "URL#4101608"
+    },
+    {
+        "@score": "1",
+        "@id": "4101609",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "76/5788",
+                        "text": "Wei Le"
+                    },
+                    {
+                        "@pid": "08/2489-1",
+                        "text": "Xiaohong Li 0001"
+                    },
+                    {
+                        "@pid": "147/5824-1",
+                        "text": "Hongxu Chen 0001"
+                    }
+                ]
+            },
+            "title": "S-looper: automatic summarization for multipath string loops.",
+            "venue": "ISSTA",
+            "pages": "188-198",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/XieLLLC15",
+            "doi": "10.1145/2771783.2771815",
+            "ee": "https://doi.org/10.1145/2771783.2771815",
+            "url": "https://dblp.org/rec/conf/issta/XieLLLC15"
+        },
+        "url": "URL#4101609"
+    },
+    {
+        "@score": "1",
+        "@id": "4101610",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/7055",
+                        "text": "Yinxing Xue"
+                    },
+                    {
+                        "@pid": "14/1915-7",
+                        "text": "Junjie Wang 0007"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "67/7741",
+                        "text": "Hao Xiao"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "45/8423",
+                        "text": "Mahinthan Chandramohan"
+                    }
+                ]
+            },
+            "title": "Detection and classification of malicious JavaScript via attack behavior modelling.",
+            "venue": "ISSTA",
+            "pages": "48-59",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/XueWLXSC15",
+            "doi": "10.1145/2771783.2771814",
+            "ee": "https://doi.org/10.1145/2771783.2771814",
+            "url": "https://dblp.org/rec/conf/issta/XueWLXSC15"
+        },
+        "url": "URL#4101610"
+    },
+    {
+        "@score": "1",
+        "@id": "4101611",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/4331",
+                        "text": "Kohsuke Yatoh"
+                    },
+                    {
+                        "@pid": "74/2521",
+                        "text": "Kazunori Sakamoto"
+                    },
+                    {
+                        "@pid": "03/2671",
+                        "text": "Fuyuki Ishikawa"
+                    },
+                    {
+                        "@pid": "11/2522",
+                        "text": "Shinichi Honiden"
+                    }
+                ]
+            },
+            "title": "Feedback-controlled random test generation.",
+            "venue": "ISSTA",
+            "pages": "316-326",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YatohSIH15",
+            "doi": "10.1145/2771783.2771805",
+            "ee": "https://doi.org/10.1145/2771783.2771805",
+            "url": "https://dblp.org/rec/conf/issta/YatohSIH15"
+        },
+        "url": "URL#4101611"
+    },
+    {
+        "@score": "1",
+        "@id": "4101612",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "40/7423-2",
+                        "text": "Tao Yue 0002"
+                    },
+                    {
+                        "@pid": "25/5352-1",
+                        "text": "Shaukat Ali 0001"
+                    },
+                    {
+                        "@pid": "49/5096-1",
+                        "text": "Man Zhang 0001"
+                    }
+                ]
+            },
+            "title": "RTCM: a natural language based, automated, and practical test case generation framework.",
+            "venue": "ISSTA",
+            "pages": "397-408",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YueAZ15",
+            "doi": "10.1145/2771783.2771799",
+            "ee": "https://doi.org/10.1145/2771783.2771799",
+            "url": "https://dblp.org/rec/conf/issta/YueAZ15"
+        },
+        "url": "URL#4101612"
+    },
+    {
+        "@score": "1",
+        "@id": "4101613",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/3963-1",
+                        "text": "Sai Zhang 0001"
+                    },
+                    {
+                        "@pid": "e/MDErnst",
+                        "text": "Michael D. Ernst"
+                    }
+                ]
+            },
+            "title": "Proactive detection of inadequate diagnostic messages for software configuration errors.",
+            "venue": "ISSTA",
+            "pages": "12-23",
+            "year": "2015",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangE15",
+            "doi": "10.1145/2771783.2771817",
+            "ee": "https://doi.org/10.1145/2771783.2771817",
+            "url": "https://dblp.org/rec/conf/issta/ZhangE15"
+        },
+        "url": "URL#4101613"
+    },
+    {
+        "@score": "1",
+        "@id": "4157661",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/2946",
+                        "text": "Michal Young"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 2015 International Symposium on Software Testing and Analysis, ISSTA 2015, Baltimore, MD, USA, July 12-17, 2015",
+            "venue": "ISSTA",
+            "publisher": "ACM",
+            "year": "2015",
+            "type": "Editorship",
+            "key": "conf/issta/2015",
+            "doi": "10.1145/2771783",
+            "ee": "https://doi.org/10.1145/2771783",
+            "url": "https://dblp.org/rec/conf/issta/2015"
+        },
+        "url": "URL#4157661"
+    }
+]

@@ -1,0 +1,4066 @@
+[
+    {
+        "@score": "1",
+        "@id": "3115301",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "186/9680-2",
+                        "text": "Thomas Lemberger 0002"
+                    }
+                ]
+            },
+            "title": "CPA-SymExec: efficient symbolic execution in CPAchecker.",
+            "venue": "ASE",
+            "pages": "900-903",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/0001018",
+            "doi": "10.1145/3238147.3240478",
+            "ee": "https://doi.org/10.1145/3238147.3240478",
+            "url": "https://dblp.org/rec/conf/kbse/0001018"
+        },
+        "url": "URL#3115301"
+    },
+    {
+        "@score": "1",
+        "@id": "3115302",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "130/3897",
+                        "text": "Karlheinz Friedberger"
+                    }
+                ]
+            },
+            "title": "Domain-independent multi-threaded software model checking.",
+            "venue": "ASE",
+            "pages": "634-644",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/0001F18",
+            "doi": "10.1145/3238147.3238195",
+            "ee": "https://doi.org/10.1145/3238147.3238195",
+            "url": "https://dblp.org/rec/conf/kbse/0001F18"
+        },
+        "url": "URL#3115302"
+    },
+    {
+        "@score": "1",
+        "@id": "3115303",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "34/2005-1",
+                        "text": "Bo Jiang 0001"
+                    },
+                    {
+                        "@pid": "96/2615",
+                        "text": "Ye Liu"
+                    },
+                    {
+                        "@pid": "c/WingKwonChan",
+                        "text": "W. K. Chan 0001"
+                    }
+                ]
+            },
+            "title": "ContractFuzzer: fuzzing smart contracts for vulnerability detection.",
+            "venue": "ASE",
+            "pages": "259-269",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/0001LC18",
+            "doi": "10.1145/3238147.3238177",
+            "ee": "https://doi.org/10.1145/3238147.3238177",
+            "url": "https://dblp.org/rec/conf/kbse/0001LC18"
+        },
+        "url": "URL#3115303"
+    },
+    {
+        "@score": "1",
+        "@id": "3115304",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "184/8061",
+                        "text": "Raja Ben Abdessalem"
+                    },
+                    {
+                        "@pid": "90/7547",
+                        "text": "Annibale Panichella"
+                    },
+                    {
+                        "@pid": "57/3937",
+                        "text": "Shiva Nejati"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "184/8081",
+                        "text": "Thomas Stifter"
+                    }
+                ]
+            },
+            "title": "Testing autonomous cars for feature interaction failures using many-objective search.",
+            "venue": "ASE",
+            "pages": "143-154",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/AbdessalemPNBS18",
+            "doi": "10.1145/3238147.3238192",
+            "ee": "https://doi.org/10.1145/3238147.3238192",
+            "url": "https://dblp.org/rec/conf/kbse/AbdessalemPNBS18"
+        },
+        "url": "URL#3115304"
+    },
+    {
+        "@score": "1",
+        "@id": "3115305",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "53/7000",
+                        "text": "Paola R. G. Accioly"
+                    },
+                    {
+                        "@pid": "b/PauloBorba",
+                        "text": "Paulo Borba"
+                    },
+                    {
+                        "@pid": "170/6113",
+                        "text": "Guilherme Cavalcanti"
+                    }
+                ]
+            },
+            "title": "Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract).",
+            "venue": "ASE",
+            "pages": "955",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/AcciolyBC18",
+            "doi": "10.1145/3238147.3241983",
+            "ee": "https://doi.org/10.1145/3238147.3241983",
+            "url": "https://dblp.org/rec/conf/kbse/AcciolyBC18"
+        },
+        "url": "URL#3115305"
+    },
+    {
+        "@score": "1",
+        "@id": "3115306",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "192/5071",
+                        "text": "Vahid Alizadeh"
+                    },
+                    {
+                        "@pid": "90/382",
+                        "text": "Marouane Kessentini"
+                    }
+                ]
+            },
+            "title": "Reducing interactive refactoring effort via clustering-based multi-objective search.",
+            "venue": "ASE",
+            "pages": "464-474",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/AlizadehK18",
+            "doi": "10.1145/3238147.3238217",
+            "ee": "https://doi.org/10.1145/3238147.3238217",
+            "url": "https://dblp.org/rec/conf/kbse/AlizadehK18"
+        },
+        "url": "URL#3115306"
+    },
+    {
+        "@score": "1",
+        "@id": "3115307",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/0963",
+                        "text": "Nada Almasri"
+                    },
+                    {
+                        "@pid": "56/5369",
+                        "text": "Luay Tahat 0001"
+                    },
+                    {
+                        "@pid": "19/3835",
+                        "text": "Bogdan Korel"
+                    }
+                ]
+            },
+            "title": "Automatically quantifying the impact of a change in systems (journal-first abstract).",
+            "venue": "ASE",
+            "pages": "952",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/AlmasriTK18",
+            "doi": "10.1145/3238147.3241984",
+            "ee": "https://doi.org/10.1145/3238147.3241984",
+            "url": "https://dblp.org/rec/conf/kbse/AlmasriTK18"
+        },
+        "url": "URL#3115307"
+    },
+    {
+        "@score": "1",
+        "@id": "3115309",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/2861",
+                        "text": "Nipun Arora"
+                    },
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    },
+                    {
+                        "@pid": "i/FranjoIvancic",
+                        "text": "Franjo Ivancic"
+                    },
+                    {
+                        "@pid": "k/GailEKaiser",
+                        "text": "Gail E. Kaiser"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    }
+                ]
+            },
+            "title": "Replay without recording of production bugs for service oriented applications.",
+            "venue": "ASE",
+            "pages": "452-463",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Arora0IKR18",
+            "doi": "10.1145/3238147.3238186",
+            "ee": "https://doi.org/10.1145/3238147.3238186",
+            "url": "https://dblp.org/rec/conf/kbse/Arora0IKR18"
+        },
+        "url": "URL#3115309"
+    },
+    {
+        "@score": "1",
+        "@id": "3115310",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/7834",
+                        "text": "Mohammad Bajammal"
+                    },
+                    {
+                        "@pid": "153/5280",
+                        "text": "Davood Mazinanian"
+                    },
+                    {
+                        "@pid": "72/4471-1",
+                        "text": "Ali Mesbah 0001"
+                    }
+                ]
+            },
+            "title": "Generating reusable web components from mockups.",
+            "venue": "ASE",
+            "pages": "601-611",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/BajammalM018",
+            "doi": "10.1145/3238147.3238194",
+            "ee": "https://doi.org/10.1145/3238147.3238194",
+            "url": "https://dblp.org/rec/conf/kbse/BajammalM018"
+        },
+        "url": "URL#3115310"
+    },
+    {
+        "@score": "1",
+        "@id": "3115311",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/6207",
+                        "text": "Liang Bao"
+                    },
+                    {
+                        "@pid": "76/1820-2",
+                        "text": "Xin Liu 0002"
+                    },
+                    {
+                        "@pid": "225/0260",
+                        "text": "Ziheng Xu"
+                    },
+                    {
+                        "@pid": "225/0400",
+                        "text": "Baoyin Fang"
+                    }
+                ]
+            },
+            "title": "AutoConfig: automatic configuration tuning for distributed message systems.",
+            "venue": "ASE",
+            "pages": "29-40",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/BaoLXF18",
+            "doi": "10.1145/3238147.3238175",
+            "ee": "https://doi.org/10.1145/3238147.3238175",
+            "url": "https://dblp.org/rec/conf/kbse/BaoLXF18"
+        },
+        "url": "URL#3115311"
+    },
+    {
+        "@score": "1",
+        "@id": "3115313",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8462",
+                        "text": "Nataniel P. Borges Jr."
+                    },
+                    {
+                        "@pid": "202/8388",
+                        "text": "Jenny Hotzkow"
+                    },
+                    {
+                        "@pid": "z/AndreasZeller",
+                        "text": "Andreas Zeller"
+                    }
+                ]
+            },
+            "title": "DroidMate-2: a platform for Android test generation.",
+            "venue": "ASE",
+            "pages": "916-919",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/BorgesHZ18",
+            "doi": "10.1145/3238147.3240479",
+            "ee": "https://doi.org/10.1145/3238147.3240479",
+            "url": "https://dblp.org/rec/conf/kbse/BorgesHZ18"
+        },
+        "url": "URL#3115313"
+    },
+    {
+        "@score": "1",
+        "@id": "3115314",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/6016",
+                        "text": "Julien Brunel"
+                    },
+                    {
+                        "@pid": "65/4674",
+                        "text": "David Chemouil"
+                    },
+                    {
+                        "@pid": "65/603",
+                        "text": "Alcino Cunha"
+                    },
+                    {
+                        "@pid": "118/5967",
+                        "text": "Nuno Macedo 0001"
+                    }
+                ]
+            },
+            "title": "The electrum analyzer: model checking relational first-order temporal specifications.",
+            "venue": "ASE",
+            "pages": "884-887",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/BrunelCCM18",
+            "doi": "10.1145/3238147.3240475",
+            "ee": "https://doi.org/10.1145/3238147.3240475",
+            "url": "https://dblp.org/rec/conf/kbse/BrunelCCM18"
+        },
+        "url": "URL#3115314"
+    },
+    {
+        "@score": "1",
+        "@id": "3115316",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0371",
+                        "text": "Alexandra Bugariu"
+                    },
+                    {
+                        "@pid": "28/9798",
+                        "text": "Valentin W\u00fcstholz"
+                    },
+                    {
+                        "@pid": "05/7730",
+                        "text": "Maria Christakis"
+                    },
+                    {
+                        "@pid": "m/PMuller1",
+                        "text": "Peter M\u00fcller 0001"
+                    }
+                ]
+            },
+            "title": "Automatically testing implementations of numerical abstract domains.",
+            "venue": "ASE",
+            "pages": "768-778",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/BugariuWC018",
+            "doi": "10.1145/3238147.3240464",
+            "ee": "https://doi.org/10.1145/3238147.3240464",
+            "url": "https://dblp.org/rec/conf/kbse/BugariuWC018"
+        },
+        "url": "URL#3115316"
+    },
+    {
+        "@score": "1",
+        "@id": "3115317",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "224/1601",
+                        "text": "Jialun Cao"
+                    },
+                    {
+                        "@pid": "68/398",
+                        "text": "Yongjian Li"
+                    },
+                    {
+                        "@pid": "p/JunPang",
+                        "text": "Jun Pang 0001"
+                    }
+                ]
+            },
+            "title": "L-CMP: an automatic learning-based parameterized verification tool.",
+            "venue": "ASE",
+            "pages": "892-895",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/CaoLP18",
+            "doi": "10.1145/3238147.3240487",
+            "ee": "https://doi.org/10.1145/3238147.3240487",
+            "url": "https://dblp.org/rec/conf/kbse/CaoLP18"
+        },
+        "url": "URL#3115317"
+    },
+    {
+        "@score": "1",
+        "@id": "3115319",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/8267",
+                        "text": "Mikaela Cashman"
+                    },
+                    {
+                        "@pid": "79/5975",
+                        "text": "Myra B. Cohen"
+                    },
+                    {
+                        "@pid": "31/221",
+                        "text": "Priya Ranjan"
+                    },
+                    {
+                        "@pid": "55/1469",
+                        "text": "Robert W. Cottingham"
+                    }
+                ]
+            },
+            "title": "Navigating the maze: the impact of configurability in bioinformatics software.",
+            "venue": "ASE",
+            "pages": "757-767",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/CashmanCRC18",
+            "doi": "10.1145/3238147.3240466",
+            "ee": "https://doi.org/10.1145/3238147.3240466",
+            "url": "https://dblp.org/rec/conf/kbse/CashmanCRC18"
+        },
+        "url": "URL#3115319"
+    },
+    {
+        "@score": "1",
+        "@id": "3115321",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/3120",
+                        "text": "Sooyoung Cha"
+                    },
+                    {
+                        "@pid": "225/0239",
+                        "text": "Seonho Lee"
+                    },
+                    {
+                        "@pid": "13/7537",
+                        "text": "Hakjoo Oh"
+                    }
+                ]
+            },
+            "title": "Template-guided concolic testing via online learning.",
+            "venue": "ASE",
+            "pages": "408-418",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ChaLO18",
+            "doi": "10.1145/3238147.3238227",
+            "ee": "https://doi.org/10.1145/3238147.3238227",
+            "url": "https://dblp.org/rec/conf/kbse/ChaLO18"
+        },
+        "url": "URL#3115321"
+    },
+    {
+        "@score": "1",
+        "@id": "3115322",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "86/6709",
+                        "text": "Jianhui Chen"
+                    },
+                    {
+                        "@pid": "13/6794-1",
+                        "text": "Fei He 0001"
+                    }
+                ]
+            },
+            "title": "Control flow-guided SMT solving for program verification.",
+            "venue": "ASE",
+            "pages": "351-361",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ChenH18",
+            "doi": "10.1145/3238147.3238218",
+            "ee": "https://doi.org/10.1145/3238147.3238218",
+            "url": "https://dblp.org/rec/conf/kbse/ChenH18"
+        },
+        "url": "URL#3115322"
+    },
+    {
+        "@score": "1",
+        "@id": "3115323",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "193/7174-2",
+                        "text": "Boyuan Chen 0002"
+                    },
+                    {
+                        "@pid": "00/6342",
+                        "text": "Jian Song"
+                    },
+                    {
+                        "@pid": "84/586",
+                        "text": "Peng Xu"
+                    },
+                    {
+                        "@pid": "49/10052-1",
+                        "text": "Xing Hu 0001"
+                    },
+                    {
+                        "@pid": "50/23",
+                        "text": "Zhen Ming (Jack) Jiang"
+                    }
+                ]
+            },
+            "title": "An automated approach to estimating code coverage measures via execution logs.",
+            "venue": "ASE",
+            "pages": "305-316",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ChenSXHJ18",
+            "doi": "10.1145/3238147.3238214",
+            "ee": "https://doi.org/10.1145/3238147.3238214",
+            "url": "https://dblp.org/rec/conf/kbse/ChenSXHJ18"
+        },
+        "url": "URL#3115323"
+    },
+    {
+        "@score": "1",
+        "@id": "3115324",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/6682",
+                        "text": "Qingying Chen"
+                    },
+                    {
+                        "@pid": "07/4732-1",
+                        "text": "Minghui Zhou 0001"
+                    }
+                ]
+            },
+            "title": "A neural framework for retrieval and summarization of source code.",
+            "venue": "ASE",
+            "pages": "826-831",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ChenZ18",
+            "doi": "10.1145/3238147.3240471",
+            "ee": "https://doi.org/10.1145/3238147.3240471",
+            "url": "https://dblp.org/rec/conf/kbse/ChenZ18"
+        },
+        "url": "URL#3115324"
+    },
+    {
+        "@score": "1",
+        "@id": "3115327",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "c/JaneClelandHuang",
+                    "text": "Jane Cleland-Huang"
+                }
+            },
+            "title": "Automated requirements engineering challenges with examples from small unmanned aerial systems (keynote).",
+            "venue": "ASE",
+            "pages": "3",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Cleland-Huang18",
+            "doi": "10.1145/3238147.3241986",
+            "ee": "https://doi.org/10.1145/3238147.3241986",
+            "url": "https://dblp.org/rec/conf/kbse/Cleland-Huang18"
+        },
+        "url": "URL#3115327"
+    },
+    {
+        "@score": "1",
+        "@id": "3115328",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "34/6390",
+                    "text": "Roberto Di Cosmo"
+                }
+            },
+            "title": "Software heritage: collecting, preserving, and sharing all our source code (keynote).",
+            "venue": "ASE",
+            "pages": "1-2",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Cosmo18",
+            "doi": "10.1145/3238147.3241985",
+            "ee": "https://doi.org/10.1145/3238147.3241985",
+            "url": "https://dblp.org/rec/conf/kbse/Cosmo18"
+        },
+        "url": "URL#3115328"
+    },
+    {
+        "@score": "1",
+        "@id": "3115329",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/9840",
+                        "text": "Renzo Degiovanni"
+                    },
+                    {
+                        "@pid": "189/6361",
+                        "text": "Facundo Molina"
+                    },
+                    {
+                        "@pid": "33/4870",
+                        "text": "Germ\u00e1n Regis"
+                    },
+                    {
+                        "@pid": "69/610",
+                        "text": "Nazareno Aguirre"
+                    }
+                ]
+            },
+            "title": "A genetic algorithm for goal-conflict identification.",
+            "venue": "ASE",
+            "pages": "520-531",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/DegiovanniMRA18",
+            "doi": "10.1145/3238147.3238220",
+            "ee": "https://doi.org/10.1145/3238147.3238220",
+            "url": "https://dblp.org/rec/conf/kbse/DegiovanniMRA18"
+        },
+        "url": "URL#3115329"
+    },
+    {
+        "@score": "1",
+        "@id": "3115330",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "197/4456",
+                    "text": "Julien Delplanque"
+                }
+            },
+            "title": "Software engineering techniques applied to relational databases.",
+            "venue": "ASE",
+            "pages": "948-951",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Delplanque18",
+            "doi": "10.1145/3238147.3241534",
+            "ee": "https://doi.org/10.1145/3238147.3241534",
+            "url": "https://dblp.org/rec/conf/kbse/Delplanque18"
+        },
+        "url": "URL#3115330"
+    },
+    {
+        "@score": "1",
+        "@id": "3115331",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "225/0343",
+                    "text": "Rokiatou Diarra"
+                }
+            },
+            "title": "Towards automatic restrictification of CUDA kernel arguments.",
+            "venue": "ASE",
+            "pages": "928-931",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Diarra18",
+            "doi": "10.1145/3238147.3241533",
+            "ee": "https://doi.org/10.1145/3238147.3241533",
+            "url": "https://dblp.org/rec/conf/kbse/Diarra18"
+        },
+        "url": "URL#3115331"
+    },
+    {
+        "@score": "1",
+        "@id": "3115332",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/8963",
+                        "text": "Wensheng Dou"
+                    },
+                    {
+                        "@pid": "23/3395",
+                        "text": "Shi Han"
+                    },
+                    {
+                        "@pid": "54/3420",
+                        "text": "Liang Xu"
+                    },
+                    {
+                        "@pid": "87/461-1",
+                        "text": "Dongmei Zhang 0001"
+                    },
+                    {
+                        "@pid": "68/6546-1",
+                        "text": "Jun Wei 0001"
+                    }
+                ]
+            },
+            "title": "Expandable group identification in spreadsheets.",
+            "venue": "ASE",
+            "pages": "498-508",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/DouHXZ018",
+            "doi": "10.1145/3238147.3238222",
+            "ee": "https://doi.org/10.1145/3238147.3238222",
+            "url": "https://dblp.org/rec/conf/kbse/DouHXZ018"
+        },
+        "url": "URL#3115332"
+    },
+    {
+        "@score": "1",
+        "@id": "3115333",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/8919",
+                        "text": "Oscar Soria Dustmann"
+                    },
+                    {
+                        "@pid": "w/KlausWehrle",
+                        "text": "Klaus Wehrle"
+                    },
+                    {
+                        "@pid": "86/4141",
+                        "text": "Cristian Cadar"
+                    }
+                ]
+            },
+            "title": "PARTI: a multi-interval theory solver for symbolic execution.",
+            "venue": "ASE",
+            "pages": "430-440",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/DustmannWC18",
+            "doi": "10.1145/3238147.3238179",
+            "ee": "https://doi.org/10.1145/3238147.3238179",
+            "url": "https://dblp.org/rec/conf/kbse/DustmannWC18"
+        },
+        "url": "URL#3115333"
+    },
+    {
+        "@score": "1",
+        "@id": "3115334",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/1262",
+                        "text": "Ameni Ben Fadhel"
+                    },
+                    {
+                        "@pid": "b/DomenicoBianculli",
+                        "text": "Domenico Bianculli"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    }
+                ]
+            },
+            "title": "Model-driven run-time enforcement of complex role-based access control policies.",
+            "venue": "ASE",
+            "pages": "248-258",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/FadhelBB18",
+            "doi": "10.1145/3238147.3238167",
+            "ee": "https://doi.org/10.1145/3238147.3238167",
+            "url": "https://dblp.org/rec/conf/kbse/FadhelBB18"
+        },
+        "url": "URL#3115334"
+    },
+    {
+        "@score": "1",
+        "@id": "3115335",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/536",
+                        "text": "Davide Falessi"
+                    },
+                    {
+                        "@pid": "d/MassimilianoDiPenta",
+                        "text": "Massimiliano Di Penta"
+                    },
+                    {
+                        "@pid": "63/4434",
+                        "text": "Gerardo Canfora"
+                    },
+                    {
+                        "@pid": "95/2139",
+                        "text": "Giovanni Cantone"
+                    }
+                ]
+            },
+            "title": "Estimating the number of remaining links in traceability recovery (journal-first abstract).",
+            "venue": "ASE",
+            "pages": "953",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/FalessiPCC18",
+            "doi": "10.1145/3238147.3241982",
+            "ee": "https://doi.org/10.1145/3238147.3241982",
+            "url": "https://dblp.org/rec/conf/kbse/FalessiPCC18"
+        },
+        "url": "URL#3115335"
+    },
+    {
+        "@score": "1",
+        "@id": "3115336",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/2636-3",
+                        "text": "Lingling Fan 0003"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "180/8218-1",
+                        "text": "Sen Chen 0001"
+                    },
+                    {
+                        "@pid": "134/8681",
+                        "text": "Guozhu Meng"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "89/2985",
+                        "text": "Lihua Xu"
+                    },
+                    {
+                        "@pid": "33/1678",
+                        "text": "Geguang Pu"
+                    }
+                ]
+            },
+            "title": "Efficiently manifesting asynchronous programming errors in Android apps.",
+            "venue": "ASE",
+            "pages": "486-497",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/FanSCMLXP18",
+            "doi": "10.1145/3238147.3238170",
+            "ee": "https://doi.org/10.1145/3238147.3238170",
+            "url": "https://dblp.org/rec/conf/kbse/FanSCMLXP18"
+        },
+        "url": "URL#3115336"
+    },
+    {
+        "@score": "1",
+        "@id": "3115337",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/1726",
+                        "text": "Mikhail Y. R. Gadelha"
+                    },
+                    {
+                        "@pid": "185/1029",
+                        "text": "Felipe R. Monteiro"
+                    },
+                    {
+                        "@pid": "36/10315",
+                        "text": "Jeremy Morse"
+                    },
+                    {
+                        "@pid": "42/4311",
+                        "text": "Lucas C. Cordeiro"
+                    },
+                    {
+                        "@pid": "27/3809-2",
+                        "text": "Bernd Fischer 0002"
+                    },
+                    {
+                        "@pid": "04/2787",
+                        "text": "Denis A. Nicole"
+                    }
+                ]
+            },
+            "title": "ESBMC 5.0: an industrial-strength C model checker.",
+            "venue": "ASE",
+            "pages": "888-891",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GadelhaMMC0N18",
+            "doi": "10.1145/3238147.3240481",
+            "ee": "https://doi.org/10.1145/3238147.3240481",
+            "url": "https://dblp.org/rec/conf/kbse/GadelhaMMC0N18"
+        },
+        "url": "URL#3115337"
+    },
+    {
+        "@score": "1",
+        "@id": "3115338",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/925",
+                        "text": "Davrondzhon Gafurov"
+                    },
+                    {
+                        "@pid": "225/0312",
+                        "text": "Arne Erik Hurum"
+                    },
+                    {
+                        "@pid": "225/0240",
+                        "text": "Martin Markman"
+                    }
+                ]
+            },
+            "title": "Achieving test automation with testers without coding skills: an industrial report.",
+            "venue": "ASE",
+            "pages": "749-756",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GafurovHM18",
+            "doi": "10.1145/3238147.3240463",
+            "ee": "https://doi.org/10.1145/3238147.3240463",
+            "url": "https://dblp.org/rec/conf/kbse/GafurovHM18"
+        },
+        "url": "URL#3115338"
+    },
+    {
+        "@score": "1",
+        "@id": "3115339",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "199/1855",
+                    "text": "Florian Galinier"
+                }
+            },
+            "title": "A DSL for requirements in the context of a seamless approach.",
+            "venue": "ASE",
+            "pages": "932-935",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Galinier18",
+            "doi": "10.1145/3238147.3241538",
+            "ee": "https://doi.org/10.1145/3238147.3241538",
+            "url": "https://dblp.org/rec/conf/kbse/Galinier18"
+        },
+        "url": "URL#3115339"
+    },
+    {
+        "@score": "1",
+        "@id": "3115340",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/2374",
+                        "text": "Keheliya Gallaba"
+                    },
+                    {
+                        "@pid": "180/7271",
+                        "text": "Christian Macho"
+                    },
+                    {
+                        "@pid": "98/5177",
+                        "text": "Martin Pinzger 0001"
+                    },
+                    {
+                        "@pid": "31/8127",
+                        "text": "Shane McIntosh"
+                    }
+                ]
+            },
+            "title": "Noise and heterogeneity in historical build data: an empirical study of Travis CI.",
+            "venue": "ASE",
+            "pages": "87-97",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GallabaM0M18",
+            "doi": "10.1145/3238147.3238171",
+            "ee": "https://doi.org/10.1145/3238147.3238171",
+            "url": "https://dblp.org/rec/conf/kbse/GallabaM0M18"
+        },
+        "url": "URL#3115340"
+    },
+    {
+        "@score": "1",
+        "@id": "3115341",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/7001",
+                        "text": "Jianxiong Gao"
+                    },
+                    {
+                        "@pid": "l/StevenSLumetta",
+                        "text": "Steven S. Lumetta"
+                    }
+                ]
+            },
+            "title": "Loop path reduction by state pruning.",
+            "venue": "ASE",
+            "pages": "838-843",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GaoL18",
+            "doi": "10.1145/3238147.3240731",
+            "ee": "https://doi.org/10.1145/3238147.3240731",
+            "url": "https://dblp.org/rec/conf/kbse/GaoL18"
+        },
+        "url": "URL#3115341"
+    },
+    {
+        "@score": "1",
+        "@id": "3115342",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/3881-12",
+                        "text": "Xiang Gao 0012"
+                    },
+                    {
+                        "@pid": "16/9656",
+                        "text": "Shin Hwei Tan"
+                    },
+                    {
+                        "@pid": "60/1749",
+                        "text": "Zhen Dong"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "Android testing via synthetic symbolic execution.",
+            "venue": "ASE",
+            "pages": "419-429",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GaoTDR18",
+            "doi": "10.1145/3238147.3238225",
+            "ee": "https://doi.org/10.1145/3238147.3238225",
+            "url": "https://dblp.org/rec/conf/kbse/GaoTDR18"
+        },
+        "url": "URL#3115342"
+    },
+    {
+        "@score": "1",
+        "@id": "3115343",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/563-8",
+                        "text": "Jian Gao 0008"
+                    },
+                    {
+                        "@pid": "44/1152",
+                        "text": "Xin Yang"
+                    },
+                    {
+                        "@pid": "89/1229",
+                        "text": "Ying Fu"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    },
+                    {
+                        "@pid": "s/JiaGuangSun-1",
+                        "text": "Jiaguang Sun 0001"
+                    }
+                ]
+            },
+            "title": "VulSeeker: a semantic learning based vulnerability seeker for cross-platform binary.",
+            "venue": "ASE",
+            "pages": "896-899",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GaoYFJS18",
+            "doi": "10.1145/3238147.3240480",
+            "ee": "https://doi.org/10.1145/3238147.3240480",
+            "url": "https://dblp.org/rec/conf/kbse/GaoYFJS18"
+        },
+        "url": "URL#3115343"
+    },
+    {
+        "@score": "1",
+        "@id": "3115346",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/1746",
+                        "text": "Gharib Gharibi"
+                    },
+                    {
+                        "@pid": "184/0249",
+                        "text": "Rashmi Tripathi"
+                    },
+                    {
+                        "@pid": "14/1589",
+                        "text": "Yugyung Lee"
+                    }
+                ]
+            },
+            "title": "Code2graph: automatic generation of static call graphs for Python source code.",
+            "venue": "ASE",
+            "pages": "880-883",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GharibiTL18",
+            "doi": "10.1145/3238147.3240484",
+            "ee": "https://doi.org/10.1145/3238147.3240484",
+            "url": "https://dblp.org/rec/conf/kbse/GharibiTL18"
+        },
+        "url": "URL#3115346"
+    },
+    {
+        "@score": "1",
+        "@id": "3115347",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/6746",
+                        "text": "Juli\u00e1n Grigera"
+                    },
+                    {
+                        "@pid": "225/0340",
+                        "text": "Juan Cruz Gardey"
+                    },
+                    {
+                        "@pid": "59/386",
+                        "text": "Alejandra Garrido 0001"
+                    },
+                    {
+                        "@pid": "r/GustavoRossi",
+                        "text": "Gustavo Rossi"
+                    }
+                ]
+            },
+            "title": "Live versioning of web applications through refactoring.",
+            "venue": "ASE",
+            "pages": "872-875",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/GrigeraGGR18",
+            "doi": "10.1145/3238147.3240483",
+            "ee": "https://doi.org/10.1145/3238147.3240483",
+            "url": "https://dblp.org/rec/conf/kbse/GrigeraGGR18"
+        },
+        "url": "URL#3115347"
+    },
+    {
+        "@score": "1",
+        "@id": "3115348",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/9996",
+                        "text": "Sarra Habchi"
+                    },
+                    {
+                        "@pid": "37/3159-1",
+                        "text": "Xavier Blanc 0001"
+                    },
+                    {
+                        "@pid": "52/2030",
+                        "text": "Romain Rouvoy"
+                    }
+                ]
+            },
+            "title": "On adopting linters to deal with performance concerns in Android apps.",
+            "venue": "ASE",
+            "pages": "6-16",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HabchiBR18",
+            "doi": "10.1145/3238147.3238197",
+            "ee": "https://doi.org/10.1145/3238147.3238197",
+            "url": "https://dblp.org/rec/conf/kbse/HabchiBR18"
+        },
+        "url": "URL#3115348"
+    },
+    {
+        "@score": "1",
+        "@id": "3115349",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "123/4524",
+                        "text": "Andrew Habib"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "Is this class thread-safe? inferring documentation using graph-based learning.",
+            "venue": "ASE",
+            "pages": "41-52",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HabibP18",
+            "doi": "10.1145/3238147.3238212",
+            "ee": "https://doi.org/10.1145/3238147.3238212",
+            "url": "https://dblp.org/rec/conf/kbse/HabibP18"
+        },
+        "url": "URL#3115349"
+    },
+    {
+        "@score": "1",
+        "@id": "3115350",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "123/4524",
+                        "text": "Andrew Habib"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "How many of all bugs do we find? a study of static bug detectors.",
+            "venue": "ASE",
+            "pages": "317-328",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HabibP18a",
+            "doi": "10.1145/3238147.3238213",
+            "ee": "https://doi.org/10.1145/3238147.3238213",
+            "url": "https://dblp.org/rec/conf/kbse/HabibP18a"
+        },
+        "url": "URL#3115350"
+    },
+    {
+        "@score": "1",
+        "@id": "3115351",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "27/5739",
+                    "text": "Philipp Haindl"
+                }
+            },
+            "title": "Assessing and evaluating functional suitability of software.",
+            "venue": "ASE",
+            "pages": "920-923",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Haindl18",
+            "doi": "10.1145/3238147.3241531",
+            "ee": "https://doi.org/10.1145/3238147.3241531",
+            "url": "https://dblp.org/rec/conf/kbse/Haindl18"
+        },
+        "url": "URL#3115351"
+    },
+    {
+        "@score": "1",
+        "@id": "3115352",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/2671",
+                        "text": "Mahmoud Hammad"
+                    },
+                    {
+                        "@pid": "06/6932",
+                        "text": "Joshua Garcia"
+                    },
+                    {
+                        "@pid": "88/4685",
+                        "text": "Sam Malek"
+                    }
+                ]
+            },
+            "title": "Self-protection of Android systems from inter-component communication attacks.",
+            "venue": "ASE",
+            "pages": "726-737",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HammadGM18",
+            "doi": "10.1145/3238147.3238207",
+            "ee": "https://doi.org/10.1145/3238147.3238207",
+            "url": "https://dblp.org/rec/conf/kbse/HammadGM18"
+        },
+        "url": "URL#3115352"
+    },
+    {
+        "@score": "1",
+        "@id": "3115353",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/6400",
+                        "text": "Xue Han"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    }
+                ]
+            },
+            "title": "PerfLearner: learning from bug reports to understand and generate performance test frames.",
+            "venue": "ASE",
+            "pages": "17-28",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HanYL18",
+            "doi": "10.1145/3238147.3238204",
+            "ee": "https://doi.org/10.1145/3238147.3238204",
+            "url": "https://dblp.org/rec/conf/kbse/HanYL18"
+        },
+        "url": "URL#3115353"
+    },
+    {
+        "@score": "1",
+        "@id": "3115354",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/5340",
+                        "text": "Farah Hariri"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    }
+                ]
+            },
+            "title": "SRCIROR: a toolset for mutation testing of C source code and LLVM intermediate representation.",
+            "venue": "ASE",
+            "pages": "860-863",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HaririS18",
+            "doi": "10.1145/3238147.3240482",
+            "ee": "https://doi.org/10.1145/3238147.3240482",
+            "url": "https://dblp.org/rec/conf/kbse/HaririS18"
+        },
+        "url": "URL#3115354"
+    },
+    {
+        "@score": "1",
+        "@id": "3115355",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/9943",
+                        "text": "Foyzul Hassan"
+                    },
+                    {
+                        "@pid": "200/2854",
+                        "text": "Rodney Rodriguez"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    }
+                ]
+            },
+            "title": "RUDSEA: recommending updates of Dockerfiles via software environment analysis.",
+            "venue": "ASE",
+            "pages": "796-801",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HassanRW18",
+            "doi": "10.1145/3238147.3240470",
+            "ee": "https://doi.org/10.1145/3238147.3240470",
+            "url": "https://dblp.org/rec/conf/kbse/HassanRW18"
+        },
+        "url": "URL#3115355"
+    },
+    {
+        "@score": "1",
+        "@id": "3115356",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "194/7670",
+                        "text": "Dongjie He"
+                    },
+                    {
+                        "@pid": "l/LianLi0002",
+                        "text": "Lian Li 0002"
+                    },
+                    {
+                        "@pid": "w/LeiWang4",
+                        "text": "Lei Wang 0004"
+                    },
+                    {
+                        "@pid": "225/0256",
+                        "text": "Hengjie Zheng"
+                    },
+                    {
+                        "@pid": "02/2145",
+                        "text": "Guangwei Li"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "Understanding and detecting evolution-induced compatibility issues in Android apps.",
+            "venue": "ASE",
+            "pages": "167-177",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/He0WZLX18",
+            "doi": "10.1145/3238147.3238185",
+            "ee": "https://doi.org/10.1145/3238147.3238185",
+            "url": "https://dblp.org/rec/conf/kbse/He0WZLX18"
+        },
+        "url": "URL#3115356"
+    },
+    {
+        "@score": "1",
+        "@id": "3115357",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    },
+                    {
+                        "@pid": "195/1927",
+                        "text": "Zhuangbin Chen"
+                    },
+                    {
+                        "@pid": "187/0843",
+                        "text": "Shilin He"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "Characterizing the natural language descriptions in software logging statements.",
+            "venue": "ASE",
+            "pages": "178-189",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HeCHL18",
+            "doi": "10.1145/3238147.3238193",
+            "ee": "https://doi.org/10.1145/3238147.3238193",
+            "url": "https://dblp.org/rec/conf/kbse/HeCHL18"
+        },
+        "url": "URL#3115357"
+    },
+    {
+        "@score": "1",
+        "@id": "3115358",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/7210",
+                        "text": "Dominik Helm"
+                    },
+                    {
+                        "@pid": "200/7258",
+                        "text": "Florian K\u00fcbler"
+                    },
+                    {
+                        "@pid": "66/3818",
+                        "text": "Michael Eichberg"
+                    },
+                    {
+                        "@pid": "167/7837",
+                        "text": "Michael Reif"
+                    },
+                    {
+                        "@pid": "m/MiraMezini",
+                        "text": "Mira Mezini"
+                    }
+                ]
+            },
+            "title": "A unified lattice model and framework for purity analyses.",
+            "venue": "ASE",
+            "pages": "340-350",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HelmKERM18",
+            "doi": "10.1145/3238147.3238226",
+            "ee": "https://doi.org/10.1145/3238147.3238226",
+            "url": "https://dblp.org/rec/conf/kbse/HelmKERM18"
+        },
+        "url": "URL#3115358"
+    },
+    {
+        "@score": "1",
+        "@id": "3115359",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "225/0333",
+                    "text": "Lauren Herckis"
+                }
+            },
+            "title": "Implementation science for software engineering: bridging the gap between research and practice (keynote).",
+            "venue": "ASE",
+            "pages": "4",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Herckis18",
+            "doi": "10.1145/3238147.3264581",
+            "ee": "https://doi.org/10.1145/3238147.3264581",
+            "url": "https://dblp.org/rec/conf/kbse/Herckis18"
+        },
+        "url": "URL#3115359"
+    },
+    {
+        "@score": "1",
+        "@id": "3115361",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/7598",
+                        "text": "Michael Hilton"
+                    },
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "A large-scale study of test coverage evolution.",
+            "venue": "ASE",
+            "pages": "53-63",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Hilton0M18",
+            "doi": "10.1145/3238147.3238183",
+            "ee": "https://doi.org/10.1145/3238147.3238183",
+            "url": "https://dblp.org/rec/conf/kbse/Hilton0M18"
+        },
+        "url": "URL#3115361"
+    },
+    {
+        "@score": "1",
+        "@id": "3115362",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/8513",
+                        "text": "Jiajun Hu"
+                    },
+                    {
+                        "@pid": "47/5973",
+                        "text": "Lili Wei"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "225/0242",
+                        "text": "Huaxun Huang"
+                    }
+                ]
+            },
+            "title": "A tale of two cities: how WebView induces bugs to Android applications.",
+            "venue": "ASE",
+            "pages": "702-713",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HuWLCH18",
+            "doi": "10.1145/3238147.3238180",
+            "ee": "https://doi.org/10.1145/3238147.3238180",
+            "url": "https://dblp.org/rec/conf/kbse/HuWLCH18"
+        },
+        "url": "URL#3115362"
+    },
+    {
+        "@score": "1",
+        "@id": "3115363",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0416",
+                        "text": "Kaifeng Huang 0001"
+                    },
+                    {
+                        "@pid": "61/9197",
+                        "text": "Bihuan Chen 0001"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    },
+                    {
+                        "@pid": "210/3666",
+                        "text": "Daihong Zhou"
+                    },
+                    {
+                        "@pid": "94/3104",
+                        "text": "Ying Wang"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "37/4220",
+                        "text": "Wenyun Zhao"
+                    }
+                ]
+            },
+            "title": "ClDiff: generating concise linked code differences.",
+            "venue": "ASE",
+            "pages": "679-690",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HuangCPZWLZ18",
+            "doi": "10.1145/3238147.3238219",
+            "ee": "https://doi.org/10.1145/3238147.3238219",
+            "url": "https://dblp.org/rec/conf/kbse/HuangCPZWLZ18"
+        },
+        "url": "URL#3115363"
+    },
+    {
+        "@score": "1",
+        "@id": "3115364",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/6040",
+                        "text": "Yi Huang"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "51/7820",
+                        "text": "Tian Lin"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "Tell them apart: distilling technology differences from crowd-scale comparison discussions.",
+            "venue": "ASE",
+            "pages": "214-224",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HuangCXLL18",
+            "doi": "10.1145/3238147.3238208",
+            "ee": "https://doi.org/10.1145/3238147.3238208",
+            "url": "https://dblp.org/rec/conf/kbse/HuangCXLL18"
+        },
+        "url": "URL#3115364"
+    },
+    {
+        "@score": "1",
+        "@id": "3115365",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0242",
+                        "text": "Huaxun Huang"
+                    },
+                    {
+                        "@pid": "47/5973",
+                        "text": "Lili Wei"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    }
+                ]
+            },
+            "title": "Understanding and detecting callback compatibility issues for Android applications.",
+            "venue": "ASE",
+            "pages": "532-542",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HuangWLC18",
+            "doi": "10.1145/3238147.3238181",
+            "ee": "https://doi.org/10.1145/3238147.3238181",
+            "url": "https://dblp.org/rec/conf/kbse/HuangWLC18"
+        },
+        "url": "URL#3115365"
+    },
+    {
+        "@score": "1",
+        "@id": "3115366",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "51/6049",
+                        "text": "Qiao Huang"
+                    },
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    },
+                    {
+                        "@pid": "68/1277-1",
+                        "text": "Xinyu Wang 0001"
+                    }
+                ]
+            },
+            "title": "API method recommendation without worrying about the task-API knowledge gap.",
+            "venue": "ASE",
+            "pages": "293-304",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/HuangXXLW18",
+            "doi": "10.1145/3238147.3238191",
+            "ee": "https://doi.org/10.1145/3238147.3238191",
+            "url": "https://dblp.org/rec/conf/kbse/HuangXXLW18"
+        },
+        "url": "URL#3115366"
+    },
+    {
+        "@score": "1",
+        "@id": "3115367",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "04/2902",
+                        "text": "Andrea Janes"
+                    },
+                    {
+                        "@pid": "166/5809",
+                        "text": "Michael Mairegger"
+                    },
+                    {
+                        "@pid": "r/BarbaraRusso",
+                        "text": "Barbara Russo"
+                    }
+                ]
+            },
+            "title": "code_call_lens: raising the developer awareness of critical code.",
+            "venue": "ASE",
+            "pages": "876-879",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/JanesMR18",
+            "doi": "10.1145/3238147.3240488",
+            "ee": "https://doi.org/10.1145/3238147.3240488",
+            "url": "https://dblp.org/rec/conf/kbse/JanesMR18"
+        },
+        "url": "URL#3115367"
+    },
+    {
+        "@score": "1",
+        "@id": "3115369",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/9996",
+                        "text": "Gabri\u00ebl Konat"
+                    },
+                    {
+                        "@pid": "69/9170",
+                        "text": "Sebastian Erdweg"
+                    },
+                    {
+                        "@pid": "00/5705",
+                        "text": "Eelco Visser"
+                    }
+                ]
+            },
+            "title": "Scalable incremental building with dynamic task dependencies.",
+            "venue": "ASE",
+            "pages": "76-86",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/KonatEV18",
+            "doi": "10.1145/3238147.3238196",
+            "ee": "https://doi.org/10.1145/3238147.3238196",
+            "url": "https://dblp.org/rec/conf/kbse/KonatEV18"
+        },
+        "url": "URL#3115369"
+    },
+    {
+        "@score": "1",
+        "@id": "3115370",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/2599",
+                        "text": "Vladimir Kovalenko"
+                    },
+                    {
+                        "@pid": "116/6732",
+                        "text": "Fabio Palomba"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    }
+                ]
+            },
+            "title": "Mining file histories: should we consider branches?",
+            "venue": "ASE",
+            "pages": "202-213",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/KovalenkoPB18",
+            "doi": "10.1145/3238147.3238169",
+            "ee": "https://doi.org/10.1145/3238147.3238169",
+            "url": "https://dblp.org/rec/conf/kbse/KovalenkoPB18"
+        },
+        "url": "URL#3115370"
+    },
+    {
+        "@score": "1",
+        "@id": "3115372",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "169/0414",
+                    "text": "Thomas Krismayer"
+                }
+            },
+            "title": "Automatic mining of constraints for monitoring systems of systems.",
+            "venue": "ASE",
+            "pages": "924-927",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Krismayer18",
+            "doi": "10.1145/3238147.3241532",
+            "ee": "https://doi.org/10.1145/3238147.3241532",
+            "url": "https://dblp.org/rec/conf/kbse/Krismayer18"
+        },
+        "url": "URL#3115372"
+    },
+    {
+        "@score": "1",
+        "@id": "3115373",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0227",
+                        "text": "Caroline Lemieux"
+                    },
+                    {
+                        "@pid": "04/418",
+                        "text": "Koushik Sen"
+                    }
+                ]
+            },
+            "title": "FairFuzz: a targeted mutation strategy for increasing greybox fuzz testing coverage.",
+            "venue": "ASE",
+            "pages": "475-485",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LemieuxS18",
+            "doi": "10.1145/3238147.3238176",
+            "ee": "https://doi.org/10.1145/3238147.3238176",
+            "url": "https://dblp.org/rec/conf/kbse/LemieuxS18"
+        },
+        "url": "URL#3115373"
+    },
+    {
+        "@score": "1",
+        "@id": "3115374",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "77/1513-1",
+                        "text": "Yun Lin 0001"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "225/0246",
+                        "text": "Lyly Tran"
+                    },
+                    {
+                        "@pid": "86/9673",
+                        "text": "Guangdong Bai"
+                    },
+                    {
+                        "@pid": "46/1165",
+                        "text": "Haijun Wang"
+                    },
+                    {
+                        "@pid": "33/6517",
+                        "text": "Jin Song Dong"
+                    }
+                ]
+            },
+            "title": "Break the dead end of dynamic slicing: localizing data and control omission bug.",
+            "venue": "ASE",
+            "pages": "509-519",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Lin0TBWD18",
+            "doi": "10.1145/3238147.3238163",
+            "ee": "https://doi.org/10.1145/3238147.3238163",
+            "url": "https://dblp.org/rec/conf/kbse/Lin0TBWD18"
+        },
+        "url": "URL#3115374"
+    },
+    {
+        "@score": "1",
+        "@id": "3115375",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0247",
+                        "text": "Huarui Lin"
+                    },
+                    {
+                        "@pid": "71/7089",
+                        "text": "Zan Wang"
+                    },
+                    {
+                        "@pid": "58/6609-7",
+                        "text": "Shuang Liu 0007"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "225/0304",
+                        "text": "Dongdi Zhang"
+                    },
+                    {
+                        "@pid": "225/0372",
+                        "text": "Guangning Wei"
+                    }
+                ]
+            },
+            "title": "PFix: fixing concurrency bugs based on memory access patterns.",
+            "venue": "ASE",
+            "pages": "589-600",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LinWLSZW18",
+            "doi": "10.1145/3238147.3238198",
+            "ee": "https://doi.org/10.1145/3238147.3238198",
+            "url": "https://dblp.org/rec/conf/kbse/LinWLSZW18"
+        },
+        "url": "URL#3115375"
+    },
+    {
+        "@score": "1",
+        "@id": "3115376",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "78/6195",
+                        "text": "Xiaoyu Liu"
+                    },
+                    {
+                        "@pid": "28/3956",
+                        "text": "LiGuo Huang"
+                    },
+                    {
+                        "@pid": "67/3142",
+                        "text": "Vincent Ng 0001"
+                    }
+                ]
+            },
+            "title": "Effective API recommendation without historical software repositories.",
+            "venue": "ASE",
+            "pages": "282-292",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuHN18",
+            "doi": "10.1145/3238147.3238216",
+            "ee": "https://doi.org/10.1145/3238147.3238216",
+            "url": "https://dblp.org/rec/conf/kbse/LiuHN18"
+        },
+        "url": "URL#3115376"
+    },
+    {
+        "@score": "1",
+        "@id": "3115377",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0302",
+                        "text": "Bingchang Liu"
+                    },
+                    {
+                        "@pid": "24/679",
+                        "text": "Wei Huo"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    },
+                    {
+                        "@pid": "23/5721",
+                        "text": "Wenchao Li"
+                    },
+                    {
+                        "@pid": "92/2954",
+                        "text": "Feng Li"
+                    },
+                    {
+                        "@pid": "225/0326",
+                        "text": "Aihua Piao"
+                    },
+                    {
+                        "@pid": "10/328",
+                        "text": "Wei Zou"
+                    }
+                ]
+            },
+            "title": "\u03b1Diff: cross-version binary code similarity detection with DNN.",
+            "venue": "ASE",
+            "pages": "667-678",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuHZLLPZ18",
+            "doi": "10.1145/3238147.3238199",
+            "ee": "https://doi.org/10.1145/3238147.3238199",
+            "url": "https://dblp.org/rec/conf/kbse/LiuHZLLPZ18"
+        },
+        "url": "URL#3115377"
+    },
+    {
+        "@score": "1",
+        "@id": "3115378",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/2899-10",
+                        "text": "Han Liu 0010"
+                    },
+                    {
+                        "@pid": "15/5923-32",
+                        "text": "Chao Liu 0032"
+                    },
+                    {
+                        "@pid": "75/1007",
+                        "text": "Wenqi Zhao"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    },
+                    {
+                        "@pid": "s/JiaGuangSun-1",
+                        "text": "Jiaguang Sun 0001"
+                    }
+                ]
+            },
+            "title": "S-gram: towards semantic-aware security auditing for Ethereum smart contracts.",
+            "venue": "ASE",
+            "pages": "814-819",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuLZJS18",
+            "doi": "10.1145/3238147.3240728",
+            "ee": "https://doi.org/10.1145/3238147.3240728",
+            "url": "https://dblp.org/rec/conf/kbse/LiuLZJS18"
+        },
+        "url": "URL#3115378"
+    },
+    {
+        "@score": "1",
+        "@id": "3115379",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/2134-20",
+                        "text": "Jie Liu 0020"
+                    },
+                    {
+                        "@pid": "225/0440",
+                        "text": "Diyu Wu"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "TDroid: exposing app switching attacks in Android with control flow specialization.",
+            "venue": "ASE",
+            "pages": "236-247",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuWX18",
+            "doi": "10.1145/3238147.3238188",
+            "ee": "https://doi.org/10.1145/3238147.3238188",
+            "url": "https://dblp.org/rec/conf/kbse/LiuWX18"
+        },
+        "url": "URL#3115379"
+    },
+    {
+        "@score": "1",
+        "@id": "3115380",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/3235",
+                        "text": "Zhongxin Liu"
+                    },
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "h/AhmedEHassan",
+                        "text": "Ahmed E. Hassan"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "68/1277-1",
+                        "text": "Xinyu Wang 0001"
+                    }
+                ]
+            },
+            "title": "Neural-machine-translation-based commit message generation: how far are we?",
+            "venue": "ASE",
+            "pages": "373-384",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuXHLXW18",
+            "doi": "10.1145/3238147.3238190",
+            "ee": "https://doi.org/10.1145/3238147.3238190",
+            "url": "https://dblp.org/rec/conf/kbse/LiuXHLXW18"
+        },
+        "url": "URL#3115380"
+    },
+    {
+        "@score": "1",
+        "@id": "3115381",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "93/4010-3",
+                        "text": "Hui Liu 0003"
+                    },
+                    {
+                        "@pid": "135/7384",
+                        "text": "Zhifeng Xu"
+                    },
+                    {
+                        "@pid": "53/3766",
+                        "text": "Yanzhen Zou"
+                    }
+                ]
+            },
+            "title": "Deep learning based feature envy detection.",
+            "venue": "ASE",
+            "pages": "385-396",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/LiuXZ18",
+            "doi": "10.1145/3238147.3238166",
+            "ee": "https://doi.org/10.1145/3238147.3238166",
+            "url": "https://dblp.org/rec/conf/kbse/LiuXZ18"
+        },
+        "url": "URL#3115381"
+    },
+    {
+        "@score": "1",
+        "@id": "3115382",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/6534-3",
+                        "text": "Lei Ma 0003"
+                    },
+                    {
+                        "@pid": "35/11103",
+                        "text": "Felix Juefei-Xu"
+                    },
+                    {
+                        "@pid": "08/7637",
+                        "text": "Fuyuan Zhang"
+                    },
+                    {
+                        "@pid": "160/6224",
+                        "text": "Jiyuan Sun"
+                    },
+                    {
+                        "@pid": "166/1912",
+                        "text": "Minhui Xue 0001"
+                    },
+                    {
+                        "@pid": "50/3402-26",
+                        "text": "Bo Li 0026"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "53/2189-29",
+                        "text": "Li Li 0029"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "71/6948-1",
+                        "text": "Jianjun Zhao 0001"
+                    },
+                    {
+                        "@pid": "68/782",
+                        "text": "Yadong Wang"
+                    }
+                ]
+            },
+            "title": "DeepGauge: multi-granularity testing criteria for deep learning systems.",
+            "venue": "ASE",
+            "pages": "120-131",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/MaJZSXLCSLLZW18",
+            "doi": "10.1145/3238147.3238202",
+            "ee": "https://doi.org/10.1145/3238147.3238202",
+            "url": "https://dblp.org/rec/conf/kbse/MaJZSXLCSLLZW18"
+        },
+        "url": "URL#3115382"
+    },
+    {
+        "@score": "1",
+        "@id": "3115385",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/3125",
+                        "text": "Ran Mo"
+                    },
+                    {
+                        "@pid": "34/4128",
+                        "text": "Will Snipes"
+                    },
+                    {
+                        "@pid": "45/6816",
+                        "text": "Yuanfang Cai"
+                    },
+                    {
+                        "@pid": "46/3087",
+                        "text": "Srini Ramaswamy"
+                    },
+                    {
+                        "@pid": "90/3774",
+                        "text": "Rick Kazman"
+                    },
+                    {
+                        "@pid": "93/3447",
+                        "text": "Martin Naedele"
+                    }
+                ]
+            },
+            "title": "Experiences applying automated architecture analysis tool suites.",
+            "venue": "ASE",
+            "pages": "779-789",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/MoSCRKN18",
+            "doi": "10.1145/3238147.3240467",
+            "ee": "https://doi.org/10.1145/3238147.3240467",
+            "url": "https://dblp.org/rec/conf/kbse/MoSCRKN18"
+        },
+        "url": "URL#3115385"
+    },
+    {
+        "@score": "1",
+        "@id": "3115386",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "185/1029",
+                        "text": "Felipe R. Monteiro"
+                    },
+                    {
+                        "@pid": "178/2908",
+                        "text": "M\u00e1rio A. P. Garcia"
+                    },
+                    {
+                        "@pid": "42/4311",
+                        "text": "Lucas C. Cordeiro"
+                    },
+                    {
+                        "@pid": "25/6797",
+                        "text": "Eddie Batista de Lima Filho"
+                    }
+                ]
+            },
+            "title": "Bounded model checking of C++ programs based on the Qt cross-platform framework (journal-first abstract).",
+            "venue": "ASE",
+            "pages": "954",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/MonteiroGCF18",
+            "doi": "10.1145/3238147.3241981",
+            "ee": "https://doi.org/10.1145/3238147.3241981",
+            "url": "https://dblp.org/rec/conf/kbse/MonteiroGCF18"
+        },
+        "url": "URL#3115386"
+    },
+    {
+        "@score": "1",
+        "@id": "3115387",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "82/5093-2",
+                        "text": "Federico Mora 0002"
+                    },
+                    {
+                        "@pid": "59/871-8",
+                        "text": "Yi Li 0008"
+                    },
+                    {
+                        "@pid": "26/4417",
+                        "text": "Julia Rubin"
+                    },
+                    {
+                        "@pid": "c/MarshaChechik",
+                        "text": "Marsha Chechik"
+                    }
+                ]
+            },
+            "title": "Client-specific equivalence checking.",
+            "venue": "ASE",
+            "pages": "441-451",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Mora0RC18",
+            "doi": "10.1145/3238147.3238178",
+            "ee": "https://doi.org/10.1145/3238147.3238178",
+            "url": "https://dblp.org/rec/conf/kbse/Mora0RC18"
+        },
+        "url": "URL#3115387"
+    },
+    {
+        "@score": "1",
+        "@id": "3115388",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "201/7334",
+                        "text": "Cody Watson"
+                    },
+                    {
+                        "@pid": "223/9912",
+                        "text": "John Hoskins"
+                    },
+                    {
+                        "@pid": "223/9915",
+                        "text": "George Purnell"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "Detecting and summarizing GUI changes in evolving mobile apps.",
+            "venue": "ASE",
+            "pages": "543-553",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/MoranWHPP18",
+            "doi": "10.1145/3238147.3238203",
+            "ee": "https://doi.org/10.1145/3238147.3238203",
+            "url": "https://dblp.org/rec/conf/kbse/MoranWHPP18"
+        },
+        "url": "URL#3115388"
+    },
+    {
+        "@score": "1",
+        "@id": "3115389",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/5923",
+                        "text": "Mukelabai Mukelabai"
+                    },
+                    {
+                        "@pid": "186/2961",
+                        "text": "Damir Nesic"
+                    },
+                    {
+                        "@pid": "169/6861",
+                        "text": "Salome Maro"
+                    },
+                    {
+                        "@pid": "22/6472",
+                        "text": "Thorsten Berger"
+                    },
+                    {
+                        "@pid": "16/7127",
+                        "text": "Jan-Philipp Stegh\u00f6fer"
+                    }
+                ]
+            },
+            "title": "Tackling combinatorial explosion: a study of industrial needs and practices for analyzing highly configurable systems.",
+            "venue": "ASE",
+            "pages": "155-166",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/MukelabaiNMBS18",
+            "doi": "10.1145/3238147.3238201",
+            "ee": "https://doi.org/10.1145/3238147.3238201",
+            "url": "https://dblp.org/rec/conf/kbse/MukelabaiNMBS18"
+        },
+        "url": "URL#3115389"
+    },
+    {
+        "@score": "1",
+        "@id": "3115390",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "95/712",
+                    "text": "Gail C. Murphy"
+                }
+            },
+            "title": "The need for context in software engineering (IEEE CS Harlan Mills award keynote).",
+            "venue": "ASE",
+            "pages": "5",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Murphy18",
+            "doi": "10.1145/3238147.3241987",
+            "ee": "https://doi.org/10.1145/3238147.3241987",
+            "url": "https://dblp.org/rec/conf/kbse/Murphy18"
+        },
+        "url": "URL#3115390"
+    },
+    {
+        "@score": "1",
+        "@id": "3115391",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "21/607",
+                        "text": "Yutaka Nagashima"
+                    },
+                    {
+                        "@pid": "222/2892",
+                        "text": "Yilun He"
+                    }
+                ]
+            },
+            "title": "PaMpeR: proof method recommendation system for Isabelle/HOL.",
+            "venue": "ASE",
+            "pages": "362-372",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/NagashimaH18",
+            "doi": "10.1145/3238147.3238210",
+            "ee": "https://doi.org/10.1145/3238147.3238210",
+            "url": "https://dblp.org/rec/conf/kbse/NagashimaH18"
+        },
+        "url": "URL#3115391"
+    },
+    {
+        "@score": "1",
+        "@id": "3115394",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "214/0370",
+                    "text": "Yannic Noller"
+                }
+            },
+            "title": "Differential program analysis with fuzzing and symbolic execution.",
+            "venue": "ASE",
+            "pages": "944-947",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Noller18",
+            "doi": "10.1145/3238147.3241537",
+            "ee": "https://doi.org/10.1145/3238147.3241537",
+            "url": "https://dblp.org/rec/conf/kbse/Noller18"
+        },
+        "url": "URL#3115394"
+    },
+    {
+        "@score": "1",
+        "@id": "3115396",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "148/2225",
+                        "text": "John-Paul Ore"
+                    },
+                    {
+                        "@pid": "e/SebastianGElbaum",
+                        "text": "Sebastian G. Elbaum"
+                    },
+                    {
+                        "@pid": "75/119",
+                        "text": "Carrick Detweiler"
+                    },
+                    {
+                        "@pid": "225/0382",
+                        "text": "Lambros Karkazis"
+                    }
+                ]
+            },
+            "title": "Assessing the type annotation burden.",
+            "venue": "ASE",
+            "pages": "190-201",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/OreEDK18",
+            "doi": "10.1145/3238147.3238173",
+            "ee": "https://doi.org/10.1145/3238147.3238173",
+            "url": "https://dblp.org/rec/conf/kbse/OreEDK18"
+        },
+        "url": "URL#3115396"
+    },
+    {
+        "@score": "1",
+        "@id": "3115397",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0397",
+                        "text": "Alim Ozdemir"
+                    },
+                    {
+                        "@pid": "87/963",
+                        "text": "Ayse Tosun"
+                    },
+                    {
+                        "@pid": "e/HakanErdogmus",
+                        "text": "Hakan Erdogmus"
+                    },
+                    {
+                        "@pid": "00/6243",
+                        "text": "Rui Abreu 0001"
+                    }
+                ]
+            },
+            "title": "Lightweight source code monitoring with Triggr.",
+            "venue": "ASE",
+            "pages": "864-867",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/OzdemirTEA18",
+            "doi": "10.1145/3238147.3240486",
+            "ee": "https://doi.org/10.1145/3238147.3240486",
+            "url": "https://dblp.org/rec/conf/kbse/OzdemirTEA18"
+        },
+        "url": "URL#3115397"
+    },
+    {
+        "@score": "1",
+        "@id": "3115398",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "177/7315",
+                        "text": "Manasi Patwardhan 0001"
+                    },
+                    {
+                        "@pid": "78/7937",
+                        "text": "Abhishek Sainani"
+                    },
+                    {
+                        "@pid": "86/11292",
+                        "text": "Richa Sharma"
+                    },
+                    {
+                        "@pid": "136/8377",
+                        "text": "Shirish Karande 0001"
+                    },
+                    {
+                        "@pid": "43/8059",
+                        "text": "Smita Ghaisas"
+                    }
+                ]
+            },
+            "title": "Towards automating disambiguation of regulations: using the wisdom of crowds.",
+            "venue": "ASE",
+            "pages": "850-855",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/PatwardhanSSKG18",
+            "doi": "10.1145/3238147.3240727",
+            "ee": "https://doi.org/10.1145/3238147.3240727",
+            "url": "https://dblp.org/rec/conf/kbse/PatwardhanSSKG18"
+        },
+        "url": "URL#3115398"
+    },
+    {
+        "@score": "1",
+        "@id": "3115399",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "32/6005",
+                        "text": "Rui Pereira"
+                    },
+                    {
+                        "@pid": "225/0369",
+                        "text": "Pedro Sim\u00e3o"
+                    },
+                    {
+                        "@pid": "44/1499",
+                        "text": "J\u00e1come Cunha"
+                    },
+                    {
+                        "@pid": "97/3668",
+                        "text": "Jo\u00e3o Saraiva"
+                    }
+                ]
+            },
+            "title": "jStanley: placing a green thumb on Java collections.",
+            "venue": "ASE",
+            "pages": "856-859",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/PereiraSCS18",
+            "doi": "10.1145/3238147.3240473",
+            "ee": "https://doi.org/10.1145/3238147.3240473",
+            "url": "https://dblp.org/rec/conf/kbse/PereiraSCS18"
+        },
+        "url": "URL#3115399"
+    },
+    {
+        "@score": "1",
+        "@id": "3115401",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "70/7820",
+                        "text": "Yu Qu"
+                    },
+                    {
+                        "@pid": "52/5150-2",
+                        "text": "Ting Liu 0002"
+                    },
+                    {
+                        "@pid": "192/6337",
+                        "text": "Jianlei Chi"
+                    },
+                    {
+                        "@pid": "224/9619",
+                        "text": "Yangxu Jin"
+                    },
+                    {
+                        "@pid": "40/538",
+                        "text": "Di Cui"
+                    },
+                    {
+                        "@pid": "224/9483",
+                        "text": "Ancheng He"
+                    },
+                    {
+                        "@pid": "32/1858",
+                        "text": "Qinghua Zheng"
+                    }
+                ]
+            },
+            "title": "node2defect: using network embedding to improve software defect prediction.",
+            "venue": "ASE",
+            "pages": "844-849",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/QuLCJCHZ18",
+            "doi": "10.1145/3238147.3240469",
+            "ee": "https://doi.org/10.1145/3238147.3240469",
+            "url": "https://dblp.org/rec/conf/kbse/QuLCJCHZ18"
+        },
+        "url": "URL#3115401"
+    },
+    {
+        "@score": "1",
+        "@id": "3115402",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "r/StevenPReiss",
+                        "text": "Steven P. Reiss"
+                    },
+                    {
+                        "@pid": "77/2901",
+                        "text": "Qi Xin"
+                    },
+                    {
+                        "@pid": "68/4706-2",
+                        "text": "Jeff Huang 0002"
+                    }
+                ]
+            },
+            "title": "SEEDE: simultaneous execution and editing in a development environment.",
+            "venue": "ASE",
+            "pages": "270-281",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ReissXH18",
+            "doi": "10.1145/3238147.3238182",
+            "ee": "https://doi.org/10.1145/3238147.3238182",
+            "url": "https://dblp.org/rec/conf/kbse/ReissXH18"
+        },
+        "url": "URL#3115402"
+    },
+    {
+        "@score": "1",
+        "@id": "3115404",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/0632",
+                        "text": "Mohammad Roohitavaf"
+                    },
+                    {
+                        "@pid": "k/SandeepSKulkarni",
+                        "text": "Sandeep S. Kulkarni"
+                    }
+                ]
+            },
+            "title": "DKVF: a framework for rapid prototyping and evaluating distributed key-value stores.",
+            "venue": "ASE",
+            "pages": "912-915",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/RoohitavafK18",
+            "doi": "10.1145/3238147.3240476",
+            "ee": "https://doi.org/10.1145/3238147.3240476",
+            "url": "https://dblp.org/rec/conf/kbse/RoohitavafK18"
+        },
+        "url": "URL#3115404"
+    },
+    {
+        "@score": "1",
+        "@id": "3115407",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/2560",
+                        "text": "Simone Scalabrino"
+                    },
+                    {
+                        "@pid": "186/1073",
+                        "text": "Giovanni Grano"
+                    },
+                    {
+                        "@pid": "165/8639",
+                        "text": "Dario Di Nucci"
+                    },
+                    {
+                        "@pid": "150/0103",
+                        "text": "Michele Guerra"
+                    },
+                    {
+                        "@pid": "33/2785",
+                        "text": "Andrea De Lucia"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    },
+                    {
+                        "@pid": "18/6986",
+                        "text": "Rocco Oliveto"
+                    }
+                ]
+            },
+            "title": "OCELOT: a search-based test-data generation tool for C.",
+            "venue": "ASE",
+            "pages": "868-871",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ScalabrinoGNGLG18",
+            "doi": "10.1145/3238147.3240477",
+            "ee": "https://doi.org/10.1145/3238147.3240477",
+            "url": "https://dblp.org/rec/conf/kbse/ScalabrinoGNGLG18"
+        },
+        "url": "URL#3115407"
+    },
+    {
+        "@score": "1",
+        "@id": "3115408",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/0764",
+                    "text": "David Sferruzza"
+                }
+            },
+            "title": "Top-down model-driven engineering of web services from extended OpenAPI models.",
+            "venue": "ASE",
+            "pages": "940-943",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Sferruzza18",
+            "doi": "10.1145/3238147.3241536",
+            "ee": "https://doi.org/10.1145/3238147.3241536",
+            "url": "https://dblp.org/rec/conf/kbse/Sferruzza18"
+        },
+        "url": "URL#3115408"
+    },
+    {
+        "@score": "1",
+        "@id": "3115409",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/6848",
+                        "text": "Hashim Sharif"
+                    },
+                    {
+                        "@pid": "184/1776",
+                        "text": "Muhammad Abubakar"
+                    },
+                    {
+                        "@pid": "21/2267",
+                        "text": "Ashish Gehani"
+                    },
+                    {
+                        "@pid": "59/3605",
+                        "text": "Fareed Zaffar"
+                    }
+                ]
+            },
+            "title": "TRIMMER: application specialization for code debloating.",
+            "venue": "ASE",
+            "pages": "329-339",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/SharifAGZ18",
+            "doi": "10.1145/3238147.3238160",
+            "ee": "https://doi.org/10.1145/3238147.3238160",
+            "url": "https://dblp.org/rec/conf/kbse/SharifAGZ18"
+        },
+        "url": "URL#3115409"
+    },
+    {
+        "@score": "1",
+        "@id": "3115410",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0325",
+                        "text": "Yuju Shen"
+                    },
+                    {
+                        "@pid": "08/8179-1",
+                        "text": "Yanyan Jiang 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "72/1358-4",
+                        "text": "Ping Yu 0004"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "ReScue: crafting regular expression DoS attacks.",
+            "venue": "ASE",
+            "pages": "225-235",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Shen000ML18",
+            "doi": "10.1145/3238147.3238159",
+            "ee": "https://doi.org/10.1145/3238147.3238159",
+            "url": "https://dblp.org/rec/conf/kbse/Shen000ML18"
+        },
+        "url": "URL#3115410"
+    },
+    {
+        "@score": "1",
+        "@id": "3115411",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/4806-2",
+                        "text": "Benno Stein 0002"
+                    },
+                    {
+                        "@pid": "165/9634",
+                        "text": "Lazaro Clapp"
+                    },
+                    {
+                        "@pid": "83/2559",
+                        "text": "Manu Sridharan"
+                    },
+                    {
+                        "@pid": "68/6029",
+                        "text": "Bor-Yuh Evan Chang"
+                    }
+                ]
+            },
+            "title": "Safe stream-based programming with refinement types.",
+            "venue": "ASE",
+            "pages": "565-576",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/SteinCSC18",
+            "doi": "10.1145/3238147.3238174",
+            "ee": "https://doi.org/10.1145/3238147.3238174",
+            "url": "https://dblp.org/rec/conf/kbse/SteinCSC18"
+        },
+        "url": "URL#3115411"
+    },
+    {
+        "@score": "1",
+        "@id": "3115412",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "126/5212",
+                        "text": "Youcheng Sun"
+                    },
+                    {
+                        "@pid": "16/0-11",
+                        "text": "Min Wu 0011"
+                    },
+                    {
+                        "@pid": "153/5200",
+                        "text": "Wenjie Ruan"
+                    },
+                    {
+                        "@pid": "60/5414-1",
+                        "text": "Xiaowei Huang 0001"
+                    },
+                    {
+                        "@pid": "k/MartaZKwiatkowska",
+                        "text": "Marta Kwiatkowska"
+                    },
+                    {
+                        "@pid": "k/DanielKroening",
+                        "text": "Daniel Kroening"
+                    }
+                ]
+            },
+            "title": "Concolic testing for deep neural networks.",
+            "venue": "ASE",
+            "pages": "109-119",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/SunWRHKK18",
+            "doi": "10.1145/3238147.3238172",
+            "ee": "https://doi.org/10.1145/3238147.3238172",
+            "url": "https://dblp.org/rec/conf/kbse/SunWRHKK18"
+        },
+        "url": "URL#3115412"
+    },
+    {
+        "@score": "1",
+        "@id": "3115413",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1254",
+                        "text": "Chungha Sung"
+                    },
+                    {
+                        "@pid": "32/2903",
+                        "text": "Shuvendu K. Lahiri"
+                    },
+                    {
+                        "@pid": "72/2839",
+                        "text": "Constantin Enea"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "Datalog-based scalable semantic diffing of concurrent programs.",
+            "venue": "ASE",
+            "pages": "656-666",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/SungLEW18",
+            "doi": "10.1145/3238147.3238211",
+            "ee": "https://doi.org/10.1145/3238147.3238211",
+            "url": "https://dblp.org/rec/conf/kbse/SungLEW18"
+        },
+        "url": "URL#3115413"
+    },
+    {
+        "@score": "1",
+        "@id": "3115414",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1254",
+                        "text": "Chungha Sung"
+                    },
+                    {
+                        "@pid": "152/3505",
+                        "text": "Brandon Paulsen"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "CANAL: a cache timing analysis framework via LLVM transformation.",
+            "venue": "ASE",
+            "pages": "904-907",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/SungPW18",
+            "doi": "10.1145/3238147.3240485",
+            "ee": "https://doi.org/10.1145/3238147.3240485",
+            "url": "https://dblp.org/rec/conf/kbse/SungPW18"
+        },
+        "url": "URL#3115414"
+    },
+    {
+        "@score": "1",
+        "@id": "3115416",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "66/8541",
+                        "text": "Zhenhao Tang"
+                    },
+                    {
+                        "@pid": "154/5678",
+                        "text": "Juan Zhai"
+                    },
+                    {
+                        "@pid": "42/7085",
+                        "text": "Minxue Pan"
+                    },
+                    {
+                        "@pid": "138/6356",
+                        "text": "Yousra Aafer"
+                    },
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "31/5664",
+                        "text": "Jianhua Zhao"
+                    }
+                ]
+            },
+            "title": "Dual-force: understanding WebView malware via cross-language forced execution.",
+            "venue": "ASE",
+            "pages": "714-725",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/TangZPAM0Z18",
+            "doi": "10.1145/3238147.3238221",
+            "ee": "https://doi.org/10.1145/3238147.3238221",
+            "url": "https://dblp.org/rec/conf/kbse/TangZPAM0Z18"
+        },
+        "url": "URL#3115416"
+    },
+    {
+        "@score": "1",
+        "@id": "3115417",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0208",
+                        "text": "Valerio Terragni"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    }
+                ]
+            },
+            "title": "Effectiveness and challenges in generating concurrent tests for thread-safe classes.",
+            "venue": "ASE",
+            "pages": "64-75",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/TerragniP18",
+            "doi": "10.1145/3238147.3238224",
+            "ee": "https://doi.org/10.1145/3238147.3238224",
+            "url": "https://dblp.org/rec/conf/kbse/TerragniP18"
+        },
+        "url": "URL#3115417"
+    },
+    {
+        "@score": "1",
+        "@id": "3115418",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5987",
+                        "text": "Rijnard van Tonder"
+                    },
+                    {
+                        "@pid": "225/0243",
+                        "text": "John Kotheimer"
+                    },
+                    {
+                        "@pid": "93/4573",
+                        "text": "Claire Le Goues"
+                    }
+                ]
+            },
+            "title": "Semantic crash bucketing.",
+            "venue": "ASE",
+            "pages": "612-622",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/TonderKG18",
+            "doi": "10.1145/3238147.3238200",
+            "ee": "https://doi.org/10.1145/3238147.3238200",
+            "url": "https://dblp.org/rec/conf/kbse/TonderKG18"
+        },
+        "url": "URL#3115418"
+    },
+    {
+        "@score": "1",
+        "@id": "3115419",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "225/0294",
+                    "text": "Luca Traini"
+                }
+            },
+            "title": "A multi-objective framework for effective performance fault injection in distributed systems.",
+            "venue": "ASE",
+            "pages": "936-939",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Traini18",
+            "doi": "10.1145/3238147.3241535",
+            "ee": "https://doi.org/10.1145/3238147.3241535",
+            "url": "https://dblp.org/rec/conf/kbse/Traini18"
+        },
+        "url": "URL#3115419"
+    },
+    {
+        "@score": "1",
+        "@id": "3115420",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/4957",
+                        "text": "Michele Tufano"
+                    },
+                    {
+                        "@pid": "201/7334",
+                        "text": "Cody Watson"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "d/MassimilianoDiPenta",
+                        "text": "Massimiliano Di Penta"
+                    },
+                    {
+                        "@pid": "56/1682",
+                        "text": "Martin White"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "An empirical investigation into learning bug-fixing patches in the wild via neural machine translation.",
+            "venue": "ASE",
+            "pages": "832-837",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/TufanoWBPWP18",
+            "doi": "10.1145/3238147.3240732",
+            "ee": "https://doi.org/10.1145/3238147.3240732",
+            "url": "https://dblp.org/rec/conf/kbse/TufanoWBPWP18"
+        },
+        "url": "URL#3115420"
+    },
+    {
+        "@score": "1",
+        "@id": "3115421",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/4176",
+                        "text": "Sakshi Udeshi"
+                    },
+                    {
+                        "@pid": "223/4576",
+                        "text": "Pryanshu Arora"
+                    },
+                    {
+                        "@pid": "21/7660-1",
+                        "text": "Sudipta Chattopadhyay 0001"
+                    }
+                ]
+            },
+            "title": "Automated directed fairness testing.",
+            "venue": "ASE",
+            "pages": "98-108",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/UdeshiAC18",
+            "doi": "10.1145/3238147.3238165",
+            "ee": "https://doi.org/10.1145/3238147.3238165",
+            "url": "https://dblp.org/rec/conf/kbse/UdeshiAC18"
+        },
+        "url": "URL#3115421"
+    },
+    {
+        "@score": "1",
+        "@id": "3115422",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/4315",
+                        "text": "Carmine Vassallo"
+                    },
+                    {
+                        "@pid": "116/6732",
+                        "text": "Fabio Palomba"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    }
+                ]
+            },
+            "title": "Continuous code quality: are we (really) doing that?",
+            "venue": "ASE",
+            "pages": "790-795",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/VassalloPBG18",
+            "doi": "10.1145/3238147.3240729",
+            "ee": "https://doi.org/10.1145/3238147.3240729",
+            "url": "https://dblp.org/rec/conf/kbse/VassalloPBG18"
+        },
+        "url": "URL#3115422"
+    },
+    {
+        "@score": "1",
+        "@id": "3115423",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/9044",
+                        "text": "Oscar Luis Vera-P\u00e9rez"
+                    },
+                    {
+                        "@pid": "62/5292",
+                        "text": "Martin Monperrus"
+                    },
+                    {
+                        "@pid": "57/3320",
+                        "text": "Benoit Baudry"
+                    }
+                ]
+            },
+            "title": "Descartes: a PITest engine to detect pseudo-tested methods: tool demonstration.",
+            "venue": "ASE",
+            "pages": "908-911",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Vera-PerezMB18",
+            "doi": "10.1145/3238147.3240474",
+            "ee": "https://doi.org/10.1145/3238147.3240474",
+            "url": "https://dblp.org/rec/conf/kbse/Vera-PerezMB18"
+        },
+        "url": "URL#3115423"
+    },
+    {
+        "@score": "1",
+        "@id": "3115424",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0275",
+                        "text": "Yao Wan 0001"
+                    },
+                    {
+                        "@pid": "75/7785",
+                        "text": "Zhou Zhao"
+                    },
+                    {
+                        "@pid": "02/1640-7",
+                        "text": "Min Yang 0007"
+                    },
+                    {
+                        "@pid": "59/2340",
+                        "text": "Guandong Xu 0001"
+                    },
+                    {
+                        "@pid": "156/4605",
+                        "text": "Haochao Ying"
+                    },
+                    {
+                        "@pid": "96/2744-1",
+                        "text": "Jian Wu 0001"
+                    },
+                    {
+                        "@pid": "y/PhilipSYu",
+                        "text": "Philip S. Yu"
+                    }
+                ]
+            },
+            "title": "Improving automatic source code summarization via deep reinforcement learning.",
+            "venue": "ASE",
+            "pages": "397-407",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/WanZYXY0Y18",
+            "doi": "10.1145/3238147.3238206",
+            "ee": "https://doi.org/10.1145/3238147.3238206",
+            "url": "https://dblp.org/rec/conf/kbse/WanZYXY0Y18"
+        },
+        "url": "URL#3115424"
+    },
+    {
+        "@score": "1",
+        "@id": "3115425",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "97/8389",
+                        "text": "Jianghao Wang"
+                    },
+                    {
+                        "@pid": "88/2247",
+                        "text": "Hamid Bagheri"
+                    },
+                    {
+                        "@pid": "79/5975",
+                        "text": "Myra B. Cohen"
+                    }
+                ]
+            },
+            "title": "An evolutionary approach for analyzing Alloy specifications.",
+            "venue": "ASE",
+            "pages": "820-825",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/WangBC18",
+            "doi": "10.1145/3238147.3240468",
+            "ee": "https://doi.org/10.1145/3238147.3240468",
+            "url": "https://dblp.org/rec/conf/kbse/WangBC18"
+        },
+        "url": "URL#3115425"
+    },
+    {
+        "@score": "1",
+        "@id": "3115426",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/9081",
+                        "text": "Hung-En Wang"
+                    },
+                    {
+                        "@pid": "94/10341",
+                        "text": "Shih-Yu Chen"
+                    },
+                    {
+                        "@pid": "44/3505-1",
+                        "text": "Fang Yu 0001"
+                    },
+                    {
+                        "@pid": "13/2622",
+                        "text": "Jie-Hong R. Jiang"
+                    }
+                ]
+            },
+            "title": "A symbolic model checking approach to the analysis of string and length constraints.",
+            "venue": "ASE",
+            "pages": "623-633",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/WangCYJ18",
+            "doi": "10.1145/3238147.3238189",
+            "ee": "https://doi.org/10.1145/3238147.3238189",
+            "url": "https://dblp.org/rec/conf/kbse/WangCYJ18"
+        },
+        "url": "URL#3115426"
+    },
+    {
+        "@score": "1",
+        "@id": "3115427",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/6234",
+                        "text": "Wenyu Wang"
+                    },
+                    {
+                        "@pid": "46/5907-3",
+                        "text": "Dengfeng Li 0003"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    },
+                    {
+                        "@pid": "217/5706",
+                        "text": "Yurui Cao"
+                    },
+                    {
+                        "@pid": "39/10151",
+                        "text": "Zhenwen Zhang"
+                    },
+                    {
+                        "@pid": "79/3181",
+                        "text": "Yuetang Deng"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "An empirical study of Android test generation tools in industrial cases.",
+            "venue": "ASE",
+            "pages": "738-748",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/WangLYCZDX18",
+            "doi": "10.1145/3238147.3240465",
+            "ee": "https://doi.org/10.1145/3238147.3240465",
+            "url": "https://dblp.org/rec/conf/kbse/WangLYCZDX18"
+        },
+        "url": "URL#3115427"
+    },
+    {
+        "@score": "1",
+        "@id": "3115428",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "193/4231",
+                        "text": "Kaiyuan Wang"
+                    },
+                    {
+                        "@pid": "148/1296",
+                        "text": "Allison Sullivan"
+                    },
+                    {
+                        "@pid": "k/SarfrazKhurshid",
+                        "text": "Sarfraz Khurshid"
+                    }
+                ]
+            },
+            "title": "Automated model repair for Alloy.",
+            "venue": "ASE",
+            "pages": "577-588",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/WangSK18",
+            "doi": "10.1145/3238147.3238162",
+            "ee": "https://doi.org/10.1145/3238147.3238162",
+            "url": "https://dblp.org/rec/conf/kbse/WangSK18"
+        },
+        "url": "URL#3115428"
+    },
+    {
+        "@score": "1",
+        "@id": "3115429",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/6386",
+                        "text": "Jiwei Yan"
+                    },
+                    {
+                        "@pid": "15/4660",
+                        "text": "Xi Deng"
+                    },
+                    {
+                        "@pid": "37/1304",
+                        "text": "Ping Wang"
+                    },
+                    {
+                        "@pid": "117/5500",
+                        "text": "Tianyong Wu"
+                    },
+                    {
+                        "@pid": "89/5901-9",
+                        "text": "Jun Yan 0009"
+                    },
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Characterizing and identifying misexposed activities in Android applications.",
+            "venue": "ASE",
+            "pages": "691-701",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/YanDWW0Z18",
+            "doi": "10.1145/3238147.3238164",
+            "ee": "https://doi.org/10.1145/3238147.3238164",
+            "url": "https://dblp.org/rec/conf/kbse/YanDWW0Z18"
+        },
+        "url": "URL#3115429"
+    },
+    {
+        "@score": "1",
+        "@id": "3115430",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "207/7196",
+                        "text": "Luting Ye"
+                    },
+                    {
+                        "@pid": "21/1509-1",
+                        "text": "Hailong Sun 0001"
+                    },
+                    {
+                        "@pid": "w/XuWang7",
+                        "text": "Xu Wang 0007"
+                    },
+                    {
+                        "@pid": "225/0342",
+                        "text": "Jiaruijue Wang"
+                    }
+                ]
+            },
+            "title": "Personalized teammate recommendation for crowdsourced software developers.",
+            "venue": "ASE",
+            "pages": "808-813",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Ye0WW18",
+            "doi": "10.1145/3238147.3240472",
+            "ee": "https://doi.org/10.1145/3238147.3240472",
+            "url": "https://dblp.org/rec/conf/kbse/Ye0WW18"
+        },
+        "url": "URL#3115430"
+    },
+    {
+        "@score": "1",
+        "@id": "3115431",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "23/10811",
+                        "text": "Liangze Yin"
+                    },
+                    {
+                        "@pid": "92/748-6",
+                        "text": "Wei Dong 0006"
+                    },
+                    {
+                        "@pid": "04/5600",
+                        "text": "Wanwei Liu"
+                    },
+                    {
+                        "@pid": "64/856-1",
+                        "text": "Ji Wang 0001"
+                    }
+                ]
+            },
+            "title": "Scheduling constraint based abstraction refinement for weak memory models.",
+            "venue": "ASE",
+            "pages": "645-655",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/Yin0LW18",
+            "doi": "10.1145/3238147.3238223",
+            "ee": "https://doi.org/10.1145/3238147.3238223",
+            "url": "https://dblp.org/rec/conf/kbse/Yin0LW18"
+        },
+        "url": "URL#3115431"
+    },
+    {
+        "@score": "1",
+        "@id": "3115434",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8452",
+                        "text": "Mengshi Zhang"
+                    },
+                    {
+                        "@pid": "65/8968",
+                        "text": "Yuqun Zhang"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "95/6404-5",
+                        "text": "Cong Liu 0005"
+                    },
+                    {
+                        "@pid": "k/SarfrazKhurshid",
+                        "text": "Sarfraz Khurshid"
+                    }
+                ]
+            },
+            "title": "DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems.",
+            "venue": "ASE",
+            "pages": "132-142",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ZhangZZ0K18",
+            "doi": "10.1145/3238147.3238187",
+            "ee": "https://doi.org/10.1145/3238147.3238187",
+            "url": "https://dblp.org/rec/conf/kbse/ZhangZZ0K18"
+        },
+        "url": "URL#3115434"
+    },
+    {
+        "@score": "1",
+        "@id": "3115435",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "179/8606",
+                        "text": "Yixue Zhao"
+                    },
+                    {
+                        "@pid": "225/0238",
+                        "text": "Paul Wat"
+                    },
+                    {
+                        "@pid": "166/4416",
+                        "text": "Marcelo Schmitt Laser"
+                    },
+                    {
+                        "@pid": "65/1728",
+                        "text": "Nenad Medvidovic"
+                    }
+                ]
+            },
+            "title": "Empirically assessing opportunities for prefetching and caching in mobile apps.",
+            "venue": "ASE",
+            "pages": "554-564",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ZhaoWLM18",
+            "doi": "10.1145/3238147.3238215",
+            "ee": "https://doi.org/10.1145/3238147.3238215",
+            "url": "https://dblp.org/rec/conf/kbse/ZhaoWLM18"
+        },
+        "url": "URL#3115435"
+    },
+    {
+        "@score": "1",
+        "@id": "3115436",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/5138",
+                        "text": "Xiang Zhou"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "39/3944",
+                        "text": "Wenhai Li"
+                    },
+                    {
+                        "@pid": "02/8490",
+                        "text": "Chao Ji"
+                    },
+                    {
+                        "@pid": "82/6917",
+                        "text": "Dan Ding"
+                    }
+                ]
+            },
+            "title": "Delta debugging microservice systems.",
+            "venue": "ASE",
+            "pages": "802-807",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/kbse/ZhouPX0LJD18",
+            "doi": "10.1145/3238147.3240730",
+            "ee": "https://doi.org/10.1145/3238147.3240730",
+            "url": "https://dblp.org/rec/conf/kbse/ZhouPX0LJD18"
+        },
+        "url": "URL#3115436"
+    },
+    {
+        "@score": "1",
+        "@id": "3170580",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "h/MarianneHuchard",
+                        "text": "Marianne Huchard"
+                    },
+                    {
+                        "@pid": "85/3873",
+                        "text": "Christian K\u00e4stner"
+                    },
+                    {
+                        "@pid": "74/2259",
+                        "text": "Gordon Fraser 0001"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018",
+            "venue": "ASE",
+            "publisher": "ACM",
+            "year": "2018",
+            "type": "Editorship",
+            "key": "conf/kbse/2018",
+            "doi": "10.1145/3238147",
+            "ee": "https://doi.org/10.1145/3238147",
+            "url": "https://dblp.org/rec/conf/kbse/2018"
+        },
+        "url": "URL#3170580"
+    }
+]

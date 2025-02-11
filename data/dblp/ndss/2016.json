@@ -1,0 +1,2311 @@
+[
+    {
+        "@score": "1",
+        "@id": "3806357",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "38/7225",
+                        "text": "David Freeman 0001"
+                    },
+                    {
+                        "@pid": "139/1058",
+                        "text": "Sakshi Jain"
+                    },
+                    {
+                        "@pid": "36/3665",
+                        "text": "Markus D\u00fcrmuth"
+                    },
+                    {
+                        "@pid": "29/1830",
+                        "text": "Battista Biggio"
+                    },
+                    {
+                        "@pid": "52/3657",
+                        "text": "Giorgio Giacinto"
+                    }
+                ]
+            },
+            "title": "Who Are You? A Statistical Approach to Measuring User Authenticity.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/0001JDBG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/who-are-you-statistical-approach-measuring-user-authenticity.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/0001JDBG16"
+        },
+        "url": "URL#3806357"
+    },
+    {
+        "@score": "1",
+        "@id": "3806358",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "115/4575",
+                        "text": "Vitor Monte Afonso"
+                    },
+                    {
+                        "@pid": "79/4220",
+                        "text": "Paulo L. de Geus"
+                    },
+                    {
+                        "@pid": "99/3883",
+                        "text": "Antonio Bianchi"
+                    },
+                    {
+                        "@pid": "11/10929",
+                        "text": "Yanick Fratantonio"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    },
+                    {
+                        "@pid": "28/8280",
+                        "text": "Adam Doup\u00e9"
+                    },
+                    {
+                        "@pid": "163/9937",
+                        "text": "Mario Polino"
+                    }
+                ]
+            },
+            "title": "Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/AfonsoGBFKVDP16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/going-native-large-scale-analysis-android-apps-practical-native-code-sandboxing-policy.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/AfonsoGBFKVDP16"
+        },
+        "url": "URL#3806358"
+    },
+    {
+        "@score": "1",
+        "@id": "3806359",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/2166",
+                        "text": "Ahmed M. Azab"
+                    },
+                    {
+                        "@pid": "182/4693",
+                        "text": "Kirk Swidowski"
+                    },
+                    {
+                        "@pid": "153/5825",
+                        "text": "Rohan Bhutkar"
+                    },
+                    {
+                        "@pid": "66/4611",
+                        "text": "Jia Ma"
+                    },
+                    {
+                        "@pid": "18/5040",
+                        "text": "Wenbo Shen"
+                    },
+                    {
+                        "@pid": "19/8917",
+                        "text": "Ruowen Wang"
+                    },
+                    {
+                        "@pid": "76/1374",
+                        "text": "Peng Ning"
+                    }
+                ]
+            },
+            "title": "SKEE: A lightweight Secure Kernel-level Execution Environment for ARM.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/AzabSBMSWN16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/skee-lightweight-secure-kernel-level-execution-environment-for-arm.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/AzabSBMSWN16"
+        },
+        "url": "URL#3806359"
+    },
+    {
+        "@score": "1",
+        "@id": "3806360",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/9584",
+                        "text": "Cristina Basescu"
+                    },
+                    {
+                        "@pid": "09/7407",
+                        "text": "Raphael M. Reischuk"
+                    },
+                    {
+                        "@pid": "35/11083",
+                        "text": "Pawel Szalachowski"
+                    },
+                    {
+                        "@pid": "16/6873",
+                        "text": "Adrian Perrig"
+                    },
+                    {
+                        "@pid": "57/3892",
+                        "text": "Yao Zhang"
+                    },
+                    {
+                        "@pid": "59/7124",
+                        "text": "Hsu-Chun Hsiao"
+                    },
+                    {
+                        "@pid": "15/2227",
+                        "text": "Ayumu Kubota"
+                    },
+                    {
+                        "@pid": "143/1482",
+                        "text": "Jumpei Urakawa"
+                    }
+                ]
+            },
+            "title": "SIBRA: Scalable Internet Bandwidth Reservation Architecture.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BasescuRSPZHKU16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/sibra-scalable-internet-bandwidth-reservation-architecture.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BasescuRSPZHKU16"
+        },
+        "url": "URL#3806360"
+    },
+    {
+        "@score": "1",
+        "@id": "3806361",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/3503",
+                        "text": "Karthikeyan Bhargavan"
+                    },
+                    {
+                        "@pid": "30/1133",
+                        "text": "Ga\u00ebtan Leurent"
+                    }
+                ]
+            },
+            "title": "Transcript Collision Attacks: Breaking Authentication in TLS, IKE and SSH.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BhargavanL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/transcript-collision-attacks-breaking-authentication-tls-ike-ssh.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BhargavanL16"
+        },
+        "url": "URL#3806361"
+    },
+    {
+        "@score": "1",
+        "@id": "3806362",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/5071",
+                        "text": "Alex Biryukov"
+                    },
+                    {
+                        "@pid": "22/2499",
+                        "text": "Dmitry Khovratovich"
+                    }
+                ]
+            },
+            "title": "Equihash: Asymmetric Proof-of-Work Based on the Generalized Birthday Problem.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BiryukovK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BiryukovK16"
+        },
+        "url": "URL#3806362"
+    },
+    {
+        "@score": "1",
+        "@id": "3806363",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "30/8037",
+                        "text": "Jeremiah Blocki"
+                    },
+                    {
+                        "@pid": "d/AnupamDatta",
+                        "text": "Anupam Datta"
+                    },
+                    {
+                        "@pid": "27/3087",
+                        "text": "Joseph Bonneau"
+                    }
+                ]
+            },
+            "title": "Differentially Private Password Frequency Lists.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BlockiDB16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/differentially-private-password-frequency-lists.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BlockiDB16"
+        },
+        "url": "URL#3806363"
+    },
+    {
+        "@score": "1",
+        "@id": "3806364",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/4661",
+                        "text": "Dimitar Bounov"
+                    },
+                    {
+                        "@pid": "182/4711",
+                        "text": "Rami G\u00f6khan Kici"
+                    },
+                    {
+                        "@pid": "11/3644",
+                        "text": "Sorin Lerner"
+                    }
+                ]
+            },
+            "title": "Protecting C++ Dynamic Dispatch Through VTable Interleaving.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BounovKL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/protecting-cpp-dynamic-dispatch-through-vtable-interleaving.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BounovKL16"
+        },
+        "url": "URL#3806364"
+    },
+    {
+        "@score": "1",
+        "@id": "3806365",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/2161",
+                        "text": "Kjell Braden"
+                    },
+                    {
+                        "@pid": "73/7564",
+                        "text": "Lucas Davi"
+                    },
+                    {
+                        "@pid": "131/5096",
+                        "text": "Christopher Liebchen"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    },
+                    {
+                        "@pid": "05/2746",
+                        "text": "Stephen Crane"
+                    },
+                    {
+                        "@pid": "f/MichaelFranz",
+                        "text": "Michael Franz"
+                    },
+                    {
+                        "@pid": "12/4238",
+                        "text": "Per Larsen"
+                    }
+                ]
+            },
+            "title": "Leakage-Resilient Layout Randomization for Mobile Devices.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BradenDLSCFL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/leakage-resilient-layout-randomization-mobile-devices.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BradenDLSCFL16"
+        },
+        "url": "URL#3806365"
+    },
+    {
+        "@score": "1",
+        "@id": "3806366",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "159/9706",
+                        "text": "Ahmet Salih Buyukkayhan"
+                    },
+                    {
+                        "@pid": "77/8031",
+                        "text": "Kaan Onarlioglu"
+                    },
+                    {
+                        "@pid": "r/WilliamKRobertson",
+                        "text": "William K. Robertson"
+                    },
+                    {
+                        "@pid": "k/EnginKirda",
+                        "text": "Engin Kirda"
+                    }
+                ]
+            },
+            "title": "CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/BuyukkayhanORK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/crossfire-analysis-firefox-extension-reuse-vulnerabilities.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/BuyukkayhanORK16"
+        },
+        "url": "URL#3806366"
+    },
+    {
+        "@score": "1",
+        "@id": "3806367",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8220",
+                        "text": "Curtis Carmony"
+                    },
+                    {
+                        "@pid": "148/1333",
+                        "text": "Xunchao Hu"
+                    },
+                    {
+                        "@pid": "77/6178-1",
+                        "text": "Heng Yin 0001"
+                    },
+                    {
+                        "@pid": "172/8802",
+                        "text": "Abhishek Vasisht Bhaskar"
+                    },
+                    {
+                        "@pid": "28/3341-1",
+                        "text": "Mu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Extract Me If You Can: Abusing PDF Parsers in Malware Detectors.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/CarmonyHYBZ16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/extract-me-if-you-can-abusing-pdf-parsers-malware-detectors.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/CarmonyHYBZ16"
+        },
+        "url": "URL#3806367"
+    },
+    {
+        "@score": "1",
+        "@id": "3806368",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/7859",
+                        "text": "Xavier de Carn\u00e9 de Carnavalet"
+                    },
+                    {
+                        "@pid": "m/MohammadMannan",
+                        "text": "Mohammad Mannan"
+                    }
+                ]
+            },
+            "title": "Killed by Proxy: Analyzing Client-end TLS Interception Software.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/CarnavaletM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/killed-proxy-analyzing-client-end-tls-interception-software.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/CarnavaletM16"
+        },
+        "url": "URL#3806368"
+    },
+    {
+        "@score": "1",
+        "@id": "3806369",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "86/9841",
+                        "text": "Daming D. Chen"
+                    },
+                    {
+                        "@pid": "11/814",
+                        "text": "Maverick Woo"
+                    },
+                    {
+                        "@pid": "40/2434",
+                        "text": "David Brumley"
+                    },
+                    {
+                        "@pid": "27/3108",
+                        "text": "Manuel Egele"
+                    }
+                ]
+            },
+            "title": "Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ChenWBE16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ChenWBE16"
+        },
+        "url": "URL#3806369"
+    },
+    {
+        "@score": "1",
+        "@id": "3806370",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/1036-5",
+                        "text": "Jianjun Chen 0005"
+                    },
+                    {
+                        "@pid": "11/11005",
+                        "text": "Xiaofeng Zheng"
+                    },
+                    {
+                        "@pid": "36/5143",
+                        "text": "Hai-Xin Duan"
+                    },
+                    {
+                        "@pid": "56/8779",
+                        "text": "Jinjin Liang"
+                    },
+                    {
+                        "@pid": "00/2797-2",
+                        "text": "Jian Jiang 0002"
+                    },
+                    {
+                        "@pid": "l/KangLi1",
+                        "text": "Kang Li 0001"
+                    },
+                    {
+                        "@pid": "62/2525-4",
+                        "text": "Tao Wan 0004"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    }
+                ]
+            },
+            "title": "Forwarding-Loop Attacks in Content Delivery Networks.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ChenZDLJLWP16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/forwarding-loop-attacks-content-delivery-networks.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ChenZDLJLWP16"
+        },
+        "url": "URL#3806370"
+    },
+    {
+        "@score": "1",
+        "@id": "3806371",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "31/10907",
+                        "text": "Jakub Czyz"
+                    },
+                    {
+                        "@pid": "12/4563",
+                        "text": "Matthew J. Luckie"
+                    },
+                    {
+                        "@pid": "31/1402",
+                        "text": "Mark Allman"
+                    },
+                    {
+                        "@pid": "359/0958",
+                        "text": "Michael D. Bailey"
+                    }
+                ]
+            },
+            "title": "Don&apos;t Forget to Lock the Back Door! A Characterization of IPv6 Network Security Policy.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/CzyzLAB16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/dont-forget-lock-back-door-characterization-ipv6-network-security-policy.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/CzyzLAB16"
+        },
+        "url": "URL#3806371"
+    },
+    {
+        "@score": "1",
+        "@id": "3806372",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/1148",
+                        "text": "George Danezis"
+                    },
+                    {
+                        "@pid": "94/8813",
+                        "text": "Sarah Meiklejohn"
+                    }
+                ]
+            },
+            "title": "Centrally Banked Cryptocurrencies.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/DanezisM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/centrally-banked-cryptocurrencies.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/DanezisM16"
+        },
+        "url": "URL#3806372"
+    },
+    {
+        "@score": "1",
+        "@id": "3806373",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/5118-1",
+                        "text": "Anupam Das 0001"
+                    },
+                    {
+                        "@pid": "22/2650",
+                        "text": "Nikita Borisov"
+                    },
+                    {
+                        "@pid": "09/384",
+                        "text": "Matthew Caesar 0001"
+                    }
+                ]
+            },
+            "title": "Tracking Mobile Web Users Through Motion Sensors: Attacks and Defenses.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/DasBC16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/tracking-mobile-web-users-through-motion-sensors-attacks-defenses.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/DasBC16"
+        },
+        "url": "URL#3806373"
+    },
+    {
+        "@score": "1",
+        "@id": "3806374",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/8374",
+                        "text": "Soteris Demetriou"
+                    },
+                    {
+                        "@pid": "182/4733",
+                        "text": "Whitney Merrill"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    },
+                    {
+                        "@pid": "142/9150",
+                        "text": "Aston Zhang"
+                    },
+                    {
+                        "@pid": "g/CarlAGunter",
+                        "text": "Carl A. Gunter"
+                    }
+                ]
+            },
+            "title": "Free for All! Assessing User Data Exposure to Advertising Libraries on Android.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/DemetriouMYZG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/free-for-all-assessing-user-data-exposure-advertising-libraries-android.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/DemetriouMYZG16"
+        },
+        "url": "URL#3806374"
+    },
+    {
+        "@score": "1",
+        "@id": "3806375",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/11235",
+                        "text": "Sebastian Eschweiler"
+                    },
+                    {
+                        "@pid": "140/0794",
+                        "text": "Khaled Yakdan"
+                    },
+                    {
+                        "@pid": "61/2236",
+                        "text": "Elmar Gerhards-Padilla"
+                    }
+                ]
+            },
+            "title": "discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/EschweilerYG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/discovre-efficient-cross-architecture-identification-bugs-binary-code.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/EschweilerYG16"
+        },
+        "url": "URL#3806375"
+    },
+    {
+        "@score": "1",
+        "@id": "3806376",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "151/4119",
+                        "text": "David Formby"
+                    },
+                    {
+                        "@pid": "182/4720",
+                        "text": "Preethi Srinivasan"
+                    },
+                    {
+                        "@pid": "248/5847",
+                        "text": "Andrew M. Leonard"
+                    },
+                    {
+                        "@pid": "190/2802",
+                        "text": "Jonathan D. Rogers"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem A. Beyah"
+                    }
+                ]
+            },
+            "title": "Who&apos;s in Control of Your Control System? Device Fingerprinting for Cyber-Physical Systems.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/FormbySLRB16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/who-control-your-control-system-device-fingerprinting-cyber-physical-systems.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/FormbySLRB16"
+        },
+        "url": "URL#3806376"
+    },
+    {
+        "@score": "1",
+        "@id": "3806377",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "81/7020",
+                        "text": "Haichang Gao"
+                    },
+                    {
+                        "@pid": "37/6136",
+                        "text": "Jeff Yan"
+                    },
+                    {
+                        "@pid": "93/10694",
+                        "text": "Fang Cao"
+                    },
+                    {
+                        "@pid": "17/5332",
+                        "text": "Zhengya Zhang"
+                    },
+                    {
+                        "@pid": "09/471",
+                        "text": "Lei Lei"
+                    },
+                    {
+                        "@pid": "130/5724",
+                        "text": "Mengyun Tang"
+                    },
+                    {
+                        "@pid": "13/4682",
+                        "text": "Ping Zhang"
+                    },
+                    {
+                        "@pid": "05/3403",
+                        "text": "Xin Zhou"
+                    },
+                    {
+                        "@pid": "136/8494",
+                        "text": "Xuqin Wang"
+                    },
+                    {
+                        "@pid": "12/3242",
+                        "text": "Jiawei Li"
+                    }
+                ]
+            },
+            "title": "A Simple Generic Attack on Text Captchas.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/GaoYCZLTZZWL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/simple-generic-attack-text-captchas.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/GaoYCZLTZZWL16"
+        },
+        "url": "URL#3806377"
+    },
+    {
+        "@score": "1",
+        "@id": "3806378",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5154",
+                        "text": "Robert Gawlik"
+                    },
+                    {
+                        "@pid": "153/5832",
+                        "text": "Benjamin Kollenda"
+                    },
+                    {
+                        "@pid": "150/9456",
+                        "text": "Philipp Koppe"
+                    },
+                    {
+                        "@pid": "139/2295",
+                        "text": "Behrad Garmany"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "Enabling Client-Side Crash-Resistance to Overcome Diversification and Information Hiding.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/GawlikKKGH16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/enabling-client-side-crash-resistance-overcome-diversification-information-hiding.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/GawlikKKGH16"
+        },
+        "url": "URL#3806378"
+    },
+    {
+        "@score": "1",
+        "@id": "3806379",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/7357",
+                        "text": "Yossi Gilad"
+                    },
+                    {
+                        "@pid": "62/3150",
+                        "text": "Amir Herzberg"
+                    },
+                    {
+                        "@pid": "182/4741",
+                        "text": "Michael Sudkovitch"
+                    },
+                    {
+                        "@pid": "182/4732",
+                        "text": "Michael Goberman"
+                    }
+                ]
+            },
+            "title": "CDN-on-Demand: An affordable DDoS Defense via Untrusted Clouds.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/GiladHSG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/cdn-on-demand-affordable-ddos-defense-via-untrusted-clouds.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/GiladHSG16"
+        },
+        "url": "URL#3806379"
+    },
+    {
+        "@score": "1",
+        "@id": "3806380",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "74/4531-1",
+                    "text": "Matthew D. Green"
+                }
+            },
+            "title": "Keynote: On Subverting Trust.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Green16",
+            "ee": "https://www.ndss-symposium.org/ndss2016/ndss-2016-programme/ndss-2016-keynote-subverting-trust/",
+            "url": "https://dblp.org/rec/conf/ndss/Green16"
+        },
+        "url": "URL#3806380"
+    },
+    {
+        "@score": "1",
+        "@id": "3806381",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/1058",
+                        "text": "Ralph Holz"
+                    },
+                    {
+                        "@pid": "150/8002",
+                        "text": "Johanna Amann"
+                    },
+                    {
+                        "@pid": "69/1569",
+                        "text": "Olivier Mehani"
+                    },
+                    {
+                        "@pid": "71/5612",
+                        "text": "Mohamed Ali K\u00e2afar"
+                    },
+                    {
+                        "@pid": "55/11331",
+                        "text": "Matthias Wachs"
+                    }
+                ]
+            },
+            "title": "TLS in the Wild: An Internet-wide Analysis of TLS-based Protocols for Electronic Communication.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/HolzAMKW16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/tls-wild-internet-wide-analysis-tls-based-protocols-electronic-communication.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/HolzAMKW16"
+        },
+        "url": "URL#3806381"
+    },
+    {
+        "@score": "1",
+        "@id": "3806382",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "77/7581",
+                        "text": "Sungmin Hong"
+                    },
+                    {
+                        "@pid": "153/5757",
+                        "text": "Robert Baykov"
+                    },
+                    {
+                        "@pid": "19/360-24",
+                        "text": "Lei Xu 0024"
+                    },
+                    {
+                        "@pid": "182/4666",
+                        "text": "Srinath Nadimpalli"
+                    },
+                    {
+                        "@pid": "64/1147",
+                        "text": "Guofei Gu"
+                    }
+                ]
+            },
+            "title": "Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/HongBXNG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/towards-sdn-defined-programmable-bring-your-own-device-security.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/HongBXNG16"
+        },
+        "url": "URL#3806382"
+    },
+    {
+        "@score": "1",
+        "@id": "3806383",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/9897",
+                        "text": "Otto Huhta"
+                    },
+                    {
+                        "@pid": "164/7396",
+                        "text": "Swapnil Udar"
+                    },
+                    {
+                        "@pid": "169/0870",
+                        "text": "Mika Juuti"
+                    },
+                    {
+                        "@pid": "171/1820",
+                        "text": "Prakash Shrestha"
+                    },
+                    {
+                        "@pid": "25/1169",
+                        "text": "Nitesh Saxena"
+                    },
+                    {
+                        "@pid": "39/2508",
+                        "text": "N. Asokan"
+                    }
+                ]
+            },
+            "title": "Pitfalls in Designing Zero-Effort Deauthentication: Opportunistic Human Observation Attacks.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/HuhtaUJSSA16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/pitfalls-designing-zero-effort-deauthentication-opportunistic-human-observation-attacks.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/HuhtaUJSSA16"
+        },
+        "url": "URL#3806383"
+    },
+    {
+        "@score": "1",
+        "@id": "3806384",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/4731",
+                        "text": "Prerit Jain"
+                    },
+                    {
+                        "@pid": "175/8561",
+                        "text": "Soham Jayesh Desai"
+                    },
+                    {
+                        "@pid": "117/5466",
+                        "text": "Ming-Wei Shih"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    },
+                    {
+                        "@pid": "124/6964",
+                        "text": "Seong-Min Kim"
+                    },
+                    {
+                        "@pid": "65/1125",
+                        "text": "Jae-Hyuk Lee"
+                    },
+                    {
+                        "@pid": "73/6184",
+                        "text": "Changho Choi"
+                    },
+                    {
+                        "@pid": "172/8962",
+                        "text": "Youjung Shin"
+                    },
+                    {
+                        "@pid": "17/6702",
+                        "text": "Brent ByungHoon Kang"
+                    },
+                    {
+                        "@pid": "12/5388",
+                        "text": "Dongsu Han"
+                    }
+                ]
+            },
+            "title": "OpenSGX: An Open Platform for SGX Research.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/JainDSKKLCSKH16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/opensgx-open-platform-sgx-research.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/JainDSKKLCSKH16"
+        },
+        "url": "URL#3806384"
+    },
+    {
+        "@score": "1",
+        "@id": "3806385",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/8333",
+                        "text": "Min Suk Kang"
+                    },
+                    {
+                        "@pid": "20/2659",
+                        "text": "Virgil D. Gligor"
+                    },
+                    {
+                        "@pid": "45/4044",
+                        "text": "Vyas Sekar"
+                    }
+                ]
+            },
+            "title": "SPIFFY: Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding Attacks.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/KangGS16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/spiffy-inducing-cost-detectability-tradeoffs-persistent-link-flooding-attacks.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/KangGS16"
+        },
+        "url": "URL#3806385"
+    },
+    {
+        "@score": "1",
+        "@id": "3806386",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/8342",
+                        "text": "Sheharbano Khattak"
+                    },
+                    {
+                        "@pid": "116/4822",
+                        "text": "David Fifield"
+                    },
+                    {
+                        "@pid": "29/7562-1",
+                        "text": "Sadia Afroz 0001"
+                    },
+                    {
+                        "@pid": "48/7429",
+                        "text": "Mobin Javed"
+                    },
+                    {
+                        "@pid": "47/8093",
+                        "text": "Srikanth Sundaresan"
+                    },
+                    {
+                        "@pid": "58/4016",
+                        "text": "Damon McCoy"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    },
+                    {
+                        "@pid": "m/SJMurdoch",
+                        "text": "Steven J. Murdoch"
+                    }
+                ]
+            },
+            "title": "Do You See What I See? Differential Treatment of Anonymous Users.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/KhattakFAJSMPM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/do-you-see-what-i-see-differential-treatment-anonymous-users.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/KhattakFAJSMPM16"
+        },
+        "url": "URL#3806386"
+    },
+    {
+        "@score": "1",
+        "@id": "3806387",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "39/8282",
+                        "text": "Eunjo Lee"
+                    },
+                    {
+                        "@pid": "119/3771",
+                        "text": "Jiyoung Woo"
+                    },
+                    {
+                        "@pid": "64/5383",
+                        "text": "Hyoungshick Kim"
+                    },
+                    {
+                        "@pid": "70/2832",
+                        "text": "Aziz Mohaisen"
+                    },
+                    {
+                        "@pid": "82/7427",
+                        "text": "Huy Kang Kim"
+                    }
+                ]
+            },
+            "title": "You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/LeeWKMK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/you-are-game-bot-uncovering-game-bots-mmorpgs-via-self-similarity-wild.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/LeeWKMK16"
+        },
+        "url": "URL#3806387"
+    },
+    {
+        "@score": "1",
+        "@id": "3806388",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/7060",
+                        "text": "Changchang Liu"
+                    },
+                    {
+                        "@pid": "39/6266",
+                        "text": "Prateek Mittal"
+                    }
+                ]
+            },
+            "title": "LinkMirage: Enabling Privacy-preserving Analytics on Social Relationships.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/LiuM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/linkmirage-enabling-privacy-preserving-analytics-social-relationships.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/LiuM16"
+        },
+        "url": "URL#3806388"
+    },
+    {
+        "@score": "1",
+        "@id": "3806389",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/7060",
+                        "text": "Changchang Liu"
+                    },
+                    {
+                        "@pid": "14/7588",
+                        "text": "Supriyo Chakraborty"
+                    },
+                    {
+                        "@pid": "39/6266",
+                        "text": "Prateek Mittal"
+                    }
+                ]
+            },
+            "title": "Dependence Makes You Vulnberable: Differential Privacy Under Dependent Tuples.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/LiuMC16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/dependence-makes-you-vulnerable-differential-privacy-under-dependent-tuples.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/LiuMC16"
+        },
+        "url": "URL#3806389"
+    },
+    {
+        "@score": "1",
+        "@id": "3806390",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "67/10639",
+                        "text": "Kangjie Lu"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    },
+                    {
+                        "@pid": "45/1876",
+                        "text": "Stefan N\u00fcrnberger"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    }
+                ]
+            },
+            "title": "How to Make ASLR Win the Clone Wars: Runtime Re-Randomization.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/LuLN016",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/how-make-aslr-win-clone-wars-runtime-re-randomization.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/LuLN016"
+        },
+        "url": "URL#3806390"
+    },
+    {
+        "@score": "1",
+        "@id": "3806391",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "59/5539",
+                        "text": "Dongyan Xu"
+                    }
+                ]
+            },
+            "title": "ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/MaZX16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/protracer-towards-practical-provenance-tracing-alternating-logging-tainting.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/MaZX16"
+        },
+        "url": "URL#3806391"
+    },
+    {
+        "@score": "1",
+        "@id": "3806392",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "146/7951",
+                        "text": "Aanchal Malhotra"
+                    },
+                    {
+                        "@pid": "170/3597",
+                        "text": "Isaac E. Cohen"
+                    },
+                    {
+                        "@pid": "170/3636",
+                        "text": "Erik Brakke"
+                    },
+                    {
+                        "@pid": "87/2320",
+                        "text": "Sharon Goldberg"
+                    }
+                ]
+            },
+            "title": "Attacking the Network Time Protocol.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/MalhotraCBG16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/attacking-network-time-protocol.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/MalhotraCBG16"
+        },
+        "url": "URL#3806392"
+    },
+    {
+        "@score": "1",
+        "@id": "3806393",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/5104",
+                        "text": "Luca Melis"
+                    },
+                    {
+                        "@pid": "11/1148",
+                        "text": "George Danezis"
+                    },
+                    {
+                        "@pid": "36/6225",
+                        "text": "Emiliano De Cristofaro"
+                    }
+                ]
+            },
+            "title": "Efficient Private Statistics with Succinct Sketches.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/MelisDC16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/efficient-private-statistics-with-succinct-sketches.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/MelisDC16"
+        },
+        "url": "URL#3806393"
+    },
+    {
+        "@score": "1",
+        "@id": "3806394",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "05/3920-1",
+                        "text": "Wei Meng 0001"
+                    },
+                    {
+                        "@pid": "19/2685-1",
+                        "text": "Ren Ding 0001"
+                    },
+                    {
+                        "@pid": "38/860",
+                        "text": "Simon P. Chung"
+                    },
+                    {
+                        "@pid": "182/4742",
+                        "text": "Steven Han"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    }
+                ]
+            },
+            "title": "The Price of Free: Privacy Leakage in Personalized Mobile In-Apps Ads.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/MengDCHL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/price-of-free-privacy-leakage-personalized-mobile-in-app-ads.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/MengDCHL16"
+        },
+        "url": "URL#3806394"
+    },
+    {
+        "@score": "1",
+        "@id": "3806395",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/8412",
+                        "text": "Rishab Nithyanand"
+                    },
+                    {
+                        "@pid": "134/8950",
+                        "text": "Oleksii Starov"
+                    },
+                    {
+                        "@pid": "52/2893",
+                        "text": "Phillipa Gill"
+                    },
+                    {
+                        "@pid": "149/9522",
+                        "text": "Adva Zair"
+                    },
+                    {
+                        "@pid": "15/5634",
+                        "text": "Michael Schapira"
+                    }
+                ]
+            },
+            "title": "Measuring and Mitigating AS-level Adversaries Against Tor.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/NithyanandSGZS16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/measuring-mitigating-as-level-adversaries-against-tor.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/NithyanandSGZS16"
+        },
+        "url": "URL#3806395"
+    },
+    {
+        "@score": "1",
+        "@id": "3806396",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "82/5164-1",
+                        "text": "Andriy Panchenko 0001"
+                    },
+                    {
+                        "@pid": "124/2208",
+                        "text": "Fabian Lanze"
+                    },
+                    {
+                        "@pid": "182/4743",
+                        "text": "Jan Pennekamp"
+                    },
+                    {
+                        "@pid": "e/ThomasEngel",
+                        "text": "Thomas Engel 0001"
+                    },
+                    {
+                        "@pid": "10/6032",
+                        "text": "Andreas Zinnen"
+                    },
+                    {
+                        "@pid": "126/0576",
+                        "text": "Martin Henze"
+                    },
+                    {
+                        "@pid": "w/KlausWehrle",
+                        "text": "Klaus Wehrle"
+                    }
+                ]
+            },
+            "title": "Website Fingerprinting at Internet Scale.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/PanchenkoLPEZHW16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/website-fingerprinting-internet-scale.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/PanchenkoLPEZHW16"
+        },
+        "url": "URL#3806396"
+    },
+    {
+        "@score": "1",
+        "@id": "3806397",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "56/7910",
+                        "text": "M. Zubair Rafique"
+                    },
+                    {
+                        "@pid": "147/2244",
+                        "text": "Tom van Goethem"
+                    },
+                    {
+                        "@pid": "13/86",
+                        "text": "Wouter Joosen"
+                    },
+                    {
+                        "@pid": "94/5628",
+                        "text": "Christophe Huygens"
+                    },
+                    {
+                        "@pid": "04/8280",
+                        "text": "Nick Nikiforakis"
+                    }
+                ]
+            },
+            "title": "It&apos;s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/RafiqueGJHN16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/free-reason-exploring-ecosystem-free-live-streaming-services.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/RafiqueGJHN16"
+        },
+        "url": "URL#3806397"
+    },
+    {
+        "@score": "1",
+        "@id": "3806398",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/1650",
+                        "text": "Siegfried Rasthofer"
+                    },
+                    {
+                        "@pid": "132/3414",
+                        "text": "Steven Arzt"
+                    },
+                    {
+                        "@pid": "182/4728",
+                        "text": "Marc Miltenberger"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    }
+                ]
+            },
+            "title": "Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/RasthoferAMB16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/harvesting-runtime-values-android-applications-feature-anti-analysis-techniques.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/RasthoferAMB16"
+        },
+        "url": "URL#3806398"
+    },
+    {
+        "@score": "1",
+        "@id": "3806399",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "91/8736",
+                        "text": "Vaibhav Rastogi"
+                    },
+                    {
+                        "@pid": "182/4717",
+                        "text": "Rui Shao"
+                    },
+                    {
+                        "@pid": "88/2827-4",
+                        "text": "Yan Chen 0004"
+                    },
+                    {
+                        "@pid": "59/749",
+                        "text": "Xiang Pan"
+                    },
+                    {
+                        "@pid": "16/4301",
+                        "text": "Shihong Zou"
+                    },
+                    {
+                        "@pid": "59/8396",
+                        "text": "Ryan D. Riley"
+                    }
+                ]
+            },
+            "title": "Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/RastogiSCPZR16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/ads-safe-detecting-hidden-attacks-through-mobile-app-web-interfaces.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/RastogiSCPZR16"
+        },
+        "url": "URL#3806399"
+    },
+    {
+        "@score": "1",
+        "@id": "3806400",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/0086",
+                        "text": "Jaebaek Seo"
+                    },
+                    {
+                        "@pid": "115/6369",
+                        "text": "Daehyeok Kim"
+                    },
+                    {
+                        "@pid": "05/4226",
+                        "text": "Donghyun Cho"
+                    },
+                    {
+                        "@pid": "45/4154",
+                        "text": "Insik Shin"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    }
+                ]
+            },
+            "title": "FLEXDROID: Enforcing In-App Privilege Separation in Android.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SeoKCSK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/flexdroid-enforcing-in-app-privilege-separation-android.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SeoKCSK16"
+        },
+        "url": "URL#3806400"
+    },
+    {
+        "@score": "1",
+        "@id": "3806401",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "170/0074",
+                        "text": "Altaf Shaik"
+                    },
+                    {
+                        "@pid": "98/117",
+                        "text": "Jean-Pierre Seifert"
+                    },
+                    {
+                        "@pid": "75/7408",
+                        "text": "Ravishankar Borgaonkar"
+                    },
+                    {
+                        "@pid": "39/2508",
+                        "text": "N. Asokan"
+                    },
+                    {
+                        "@pid": "17/1565",
+                        "text": "Valtteri Niemi"
+                    }
+                ]
+            },
+            "title": "Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ShaikSBAN16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ShaikSBAN16"
+        },
+        "url": "URL#3806401"
+    },
+    {
+        "@score": "1",
+        "@id": "3806402",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "147/2116",
+                        "text": "Yuru Shao"
+                    },
+                    {
+                        "@pid": "150/3272",
+                        "text": "Qi Alfred Chen"
+                    },
+                    {
+                        "@pid": "91/584",
+                        "text": "Zhuoqing Morley Mao"
+                    },
+                    {
+                        "@pid": "182/4680",
+                        "text": "Jason Ott"
+                    },
+                    {
+                        "@pid": "31/8302",
+                        "text": "Zhiyun Qian"
+                    }
+                ]
+            },
+            "title": "Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ShaoCMOQ16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/kratos-discovering-inconsistent-security-policy-enforcement-android-framework_0.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ShaoCMOQ16"
+        },
+        "url": "URL#3806402"
+    },
+    {
+        "@score": "1",
+        "@id": "3806403",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "123/3243",
+                        "text": "Charles Smutz"
+                    },
+                    {
+                        "@pid": "14/5349",
+                        "text": "Angelos Stavrou"
+                    }
+                ]
+            },
+            "title": "When a Tree Falls: Using Diversity in Ensemble Classifiers to Identify Evasion in Malware Detectors.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SmutzS16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/when-tree-falls-using-diversity-ensemble-classifiers-identify-evasion-malware-detectors.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SmutzS16"
+        },
+        "url": "URL#3806403"
+    },
+    {
+        "@score": "1",
+        "@id": "3806404",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/3668",
+                        "text": "Sooel Son"
+                    },
+                    {
+                        "@pid": "115/6369",
+                        "text": "Daehyeok Kim"
+                    },
+                    {
+                        "@pid": "46/6275",
+                        "text": "Vitaly Shmatikov"
+                    }
+                ]
+            },
+            "title": "What Mobile Ads Know About Mobile Users.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SonKS16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/what-mobile-ads-know-about-mobile-users.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SonKS16"
+        },
+        "url": "URL#3806404"
+    },
+    {
+        "@score": "1",
+        "@id": "3806405",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/2967",
+                        "text": "John Sonchack"
+                    },
+                    {
+                        "@pid": "s/JonathanMSmith",
+                        "text": "Jonathan M. Smith"
+                    },
+                    {
+                        "@pid": "94/1554",
+                        "text": "Adam J. Aviv"
+                    },
+                    {
+                        "@pid": "87/2882",
+                        "text": "Eric Keller"
+                    }
+                ]
+            },
+            "title": "Enabling Practical Software-defined Networking Security Applications with OFX.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SonchackSAK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/enabling-practical-software-defined-networking-security-applications-ofx.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SonchackSAK16"
+        },
+        "url": "URL#3806405"
+    },
+    {
+        "@score": "1",
+        "@id": "3806406",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    },
+                    {
+                        "@pid": "45/7986",
+                        "text": "Byoungyoung Lee"
+                    },
+                    {
+                        "@pid": "67/10639",
+                        "text": "Kangjie Lu"
+                    },
+                    {
+                        "@pid": "09/4583",
+                        "text": "William Harris"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    }
+                ]
+            },
+            "title": "Enforcing Kernel Security Invariants with Data Flow Integrity.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SongLLHKL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/enforcing-kernal-security-invariants-data-flow-integrity.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SongLLHKL16"
+        },
+        "url": "URL#3806406"
+    },
+    {
+        "@score": "1",
+        "@id": "3806407",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "30/7555",
+                        "text": "Chad Spensky"
+                    },
+                    {
+                        "@pid": "17/6061",
+                        "text": "Hongyi Hu"
+                    },
+                    {
+                        "@pid": "133/3698",
+                        "text": "Kevin Leach"
+                    }
+                ]
+            },
+            "title": "LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SpenskyHL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/lo-phi-low-observable-physical-host-instrumentation-malware-analysis.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SpenskyHL16"
+        },
+        "url": "URL#3806407"
+    },
+    {
+        "@score": "1",
+        "@id": "3806408",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/4668",
+                        "text": "Nick Stephens"
+                    },
+                    {
+                        "@pid": "182/4713",
+                        "text": "John Grosen"
+                    },
+                    {
+                        "@pid": "182/4681",
+                        "text": "Christopher Salls"
+                    },
+                    {
+                        "@pid": "182/4707",
+                        "text": "Andrew Dutcher"
+                    },
+                    {
+                        "@pid": "127/9829",
+                        "text": "Ruoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "150/5084",
+                        "text": "Jacopo Corbetta"
+                    },
+                    {
+                        "@pid": "119/7712",
+                        "text": "Yan Shoshitaishvili"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "Driller: Augmenting Fuzzing Through Selective Symbolic Execution.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/StephensGSDWCSK16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/StephensGSDWCSK16"
+        },
+        "url": "URL#3806408"
+    },
+    {
+        "@score": "1",
+        "@id": "3806409",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/4673",
+                        "text": "Avinash Sudhodanan"
+                    },
+                    {
+                        "@pid": "a/AArmando",
+                        "text": "Alessandro Armando"
+                    },
+                    {
+                        "@pid": "51/717",
+                        "text": "Roberto Carbone"
+                    },
+                    {
+                        "@pid": "c/LucaCompagna",
+                        "text": "Luca Compagna"
+                    }
+                ]
+            },
+            "title": "Attack Patterns for Black-Box Security Testing of Multi-Party Web Applications.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SudhodananACC16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/attack-patterns-black-box-security-testing-multi-party-web-applications.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SudhodananACC16"
+        },
+        "url": "URL#3806409"
+    },
+    {
+        "@score": "1",
+        "@id": "3806410",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/10608",
+                        "text": "Jingchao Sun"
+                    },
+                    {
+                        "@pid": "11/9004",
+                        "text": "Xiaocong Jin"
+                    },
+                    {
+                        "@pid": "38/1020-4",
+                        "text": "Yimin Chen 0004"
+                    },
+                    {
+                        "@pid": "67/7760",
+                        "text": "Jinxue Zhang"
+                    },
+                    {
+                        "@pid": "83/888",
+                        "text": "Yanchao Zhang"
+                    },
+                    {
+                        "@pid": "60/2536-7",
+                        "text": "Rui Zhang 0007"
+                    }
+                ]
+            },
+            "title": "VISIBLE: Video-Assisted Keystroke Inference from Tablet Backside Motion.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/SunJCZZ016",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/visible-video-assisted-keystroke-inference-tablet-backside-motion.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/SunJCZZ016"
+        },
+        "url": "URL#3806410"
+    },
+    {
+        "@score": "1",
+        "@id": "3806411",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "124/0389",
+                        "text": "Teryl Taylor"
+                    },
+                    {
+                        "@pid": "29/8732",
+                        "text": "Kevin Z. Snow"
+                    },
+                    {
+                        "@pid": "137/3819",
+                        "text": "Nathan Otterness"
+                    },
+                    {
+                        "@pid": "50/6700",
+                        "text": "Fabian Monrose"
+                    }
+                ]
+            },
+            "title": "Cache, Trigger, Impersonate: Enabling Context-Sensitive Honeyclient Analysis On-the-Wire.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/TaylorSOM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/cache-trigger-impersonate-enabling-context-sensitive-honeyclient-analysis-wire.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/TaylorSOM16"
+        },
+        "url": "URL#3806411"
+    },
+    {
+        "@score": "1",
+        "@id": "3806412",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/4674",
+                        "text": "Michelle Y. Wong"
+                    },
+                    {
+                        "@pid": "l/DavidLie",
+                        "text": "David Lie"
+                    }
+                ]
+            },
+            "title": "IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/WongL16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/intellidroid-targeted-input-generator-dynamic-analysis-android-malware.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/WongL16"
+        },
+        "url": "URL#3806412"
+    },
+    {
+        "@score": "1",
+        "@id": "3806413",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "32/10400-1",
+                        "text": "David J. Wu 0001"
+                    },
+                    {
+                        "@pid": "52/1348",
+                        "text": "Joe Zimmerman"
+                    },
+                    {
+                        "@pid": "99/7266",
+                        "text": "J\u00e9r\u00e9my Planul"
+                    },
+                    {
+                        "@pid": "m/JohnCMitchell",
+                        "text": "John C. Mitchell"
+                    }
+                ]
+            },
+            "title": "Privacy-Preserving Shortest Path Computation.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/WuZPM16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/privacy-preserving-shortest-path-computation.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/WuZPM16"
+        },
+        "url": "URL#3806413"
+    },
+    {
+        "@score": "1",
+        "@id": "3806414",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "44/10356",
+                        "text": "Weilin Xu"
+                    },
+                    {
+                        "@pid": "81/3848",
+                        "text": "Yanjun Qi"
+                    },
+                    {
+                        "@pid": "e/DavidEvans",
+                        "text": "David Evans 0001"
+                    }
+                ]
+            },
+            "title": "Automatically Evading Classifiers: A Case Study on PDF Malware Classifiers.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/XuQE16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/automatically-evading-classifiers.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/XuQE16"
+        },
+        "url": "URL#3806414"
+    },
+    {
+        "@score": "1",
+        "@id": "3806415",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    },
+                    {
+                        "@pid": "s/DXSong",
+                        "text": "Dawn Song"
+                    },
+                    {
+                        "@pid": "176/5333",
+                        "text": "Scott A. Carr"
+                    },
+                    {
+                        "@pid": "31/1273",
+                        "text": "Mathias Payer"
+                    },
+                    {
+                        "@pid": "140/7353",
+                        "text": "Tongxin Li"
+                    },
+                    {
+                        "@pid": "77/6871",
+                        "text": "Yu Ding"
+                    },
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    }
+                ]
+            },
+            "title": "VTrust: Regaining Trust on Virtual Calls.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ZhangSCPLDS16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/vtrust-regaining-trust-virtual-calls.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ZhangSCPLDS16"
+        },
+        "url": "URL#3806415"
+    },
+    {
+        "@score": "1",
+        "@id": "3806416",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/4478",
+                        "text": "Xiao Zhang"
+                    },
+                    {
+                        "@pid": "153/5839",
+                        "text": "Kailiang Ying"
+                    },
+                    {
+                        "@pid": "138/6356",
+                        "text": "Yousra Aafer"
+                    },
+                    {
+                        "@pid": "182/4705",
+                        "text": "Zhenshen Qiu"
+                    },
+                    {
+                        "@pid": "d/WenliangDu",
+                        "text": "Wenliang Du"
+                    }
+                ]
+            },
+            "title": "Life after App Uninstallation: Are the Data Still Alive? Data Residue Attacks on Android.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ZhangYAQD16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/life-after-app-installation-data-still-alive-data-residue-attacks-android.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ZhangYAQD16"
+        },
+        "url": "URL#3806416"
+    },
+    {
+        "@score": "1",
+        "@id": "3806417",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/8302",
+                        "text": "Chaoshun Zuo"
+                    },
+                    {
+                        "@pid": "182/4724",
+                        "text": "Wubing Wang"
+                    },
+                    {
+                        "@pid": "49/4102-1",
+                        "text": "Zhiqiang Lin 0001"
+                    },
+                    {
+                        "@pid": "06/2293",
+                        "text": "Rui Wang"
+                    }
+                ]
+            },
+            "title": "Automatic Forgery of Cryptographically Consistent Messages to Identify Security Vulnerabilities in Mobile Services.",
+            "venue": "NDSS",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/ndss/ZuoWLW16",
+            "ee": "http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/automatic-forgery-cryptographically-consistent-messages-identify-security-vulnerabilities.pdf",
+            "url": "https://dblp.org/rec/conf/ndss/ZuoWLW16"
+        },
+        "url": "URL#3806417"
+    },
+    {
+        "@score": "1",
+        "@id": "3848988",
+        "info": {
+            "title": "23rd Annual Network and Distributed System Security Symposium, NDSS 2016, San Diego, California, USA, February 21-24, 2016",
+            "venue": "NDSS",
+            "publisher": "The Internet Society",
+            "year": "2016",
+            "type": "Editorship",
+            "access": "open",
+            "key": "conf/ndss/2016",
+            "ee": "https://www.ndss-symposium.org/ndss2016/",
+            "url": "https://dblp.org/rec/conf/ndss/2016"
+        },
+        "url": "URL#3848988"
+    }
+]

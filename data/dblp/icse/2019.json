@@ -1,0 +1,4390 @@
+[
+    {
+        "@score": "1",
+        "@id": "2691172",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "11/7182",
+                        "text": "Zhiyuan Wan"
+                    },
+                    {
+                        "@pid": "128/5691",
+                        "text": "Pavneet Singh Kochhar"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    }
+                ]
+            },
+            "title": "How practitioners perceive coding proficiency.",
+            "venue": "ICSE",
+            "pages": "924-935",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001WK019",
+            "doi": "10.1109/ICSE.2019.00098",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00098",
+            "url": "https://dblp.org/rec/conf/icse/0001WK019"
+        },
+        "url": "URL#2691172"
+    },
+    {
+        "@score": "1",
+        "@id": "2691173",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/322-1",
+                        "text": "Tianyi Zhang 0001"
+                    },
+                    {
+                        "@pid": "29/5427-1",
+                        "text": "Di Yang 0001"
+                    },
+                    {
+                        "@pid": "l/CristinaVideiraLopes",
+                        "text": "Cristina V. Lopes"
+                    },
+                    {
+                        "@pid": "56/5320",
+                        "text": "Miryung Kim"
+                    }
+                ]
+            },
+            "title": "Analyzing and supporting adaptation of online code examples.",
+            "venue": "ICSE",
+            "pages": "316-327",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001YLK19",
+            "doi": "10.1109/ICSE.2019.00046",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00046",
+            "url": "https://dblp.org/rec/conf/icse/0001YLK19"
+        },
+        "url": "URL#2691173"
+    },
+    {
+        "@score": "1",
+        "@id": "2691174",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "176/6203-2",
+                        "text": "Jaeseung Choi 0002"
+                    },
+                    {
+                        "@pid": "242/3961",
+                        "text": "Joonun Jang"
+                    },
+                    {
+                        "@pid": "190/3337",
+                        "text": "Choongwoo Han"
+                    },
+                    {
+                        "@pid": "49/8463",
+                        "text": "Sang Kil Cha"
+                    }
+                ]
+            },
+            "title": "Grey-box concolic testing on binary code.",
+            "venue": "ICSE",
+            "pages": "736-747",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0002JHC19",
+            "doi": "10.1109/ICSE.2019.00082",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00082",
+            "url": "https://dblp.org/rec/conf/icse/0002JHC19"
+        },
+        "url": "URL#2691174"
+    },
+    {
+        "@score": "1",
+        "@id": "2691177",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/1186-8",
+                        "text": "Bin Lin 0008"
+                    },
+                    {
+                        "@pid": "193/4226",
+                        "text": "Fiorella Zampetti"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "d/MassimilianoDiPenta",
+                        "text": "Massimiliano Di Penta"
+                    },
+                    {
+                        "@pid": "53/6708",
+                        "text": "Michele Lanza"
+                    }
+                ]
+            },
+            "title": "Pattern-based mining of opinions in Q&amp;A websites.",
+            "venue": "ICSE",
+            "pages": "548-559",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0008ZBPL19",
+            "doi": "10.1109/ICSE.2019.00066",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00066",
+            "url": "https://dblp.org/rec/conf/icse/0008ZBPL19"
+        },
+        "url": "URL#2691177"
+    },
+    {
+        "@score": "1",
+        "@id": "2691179",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/9106",
+                        "text": "Zahra Shakeri Hossein Abad"
+                    },
+                    {
+                        "@pid": "g/VincenzoGervasi",
+                        "text": "Vincenzo Gervasi"
+                    },
+                    {
+                        "@pid": "57/215",
+                        "text": "Didar Zowghi"
+                    },
+                    {
+                        "@pid": "f/BehrouzHomayounFar",
+                        "text": "Behrouz H. Far"
+                    }
+                ]
+            },
+            "title": "Supporting analysts by dynamic extraction and classification of requirements-related knowledge.",
+            "venue": "ICSE",
+            "pages": "442-453",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AbadGZF19",
+            "doi": "10.1109/ICSE.2019.00057",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00057",
+            "url": "https://dblp.org/rec/conf/icse/AbadGZF19"
+        },
+        "url": "URL#2691179"
+    },
+    {
+        "@score": "1",
+        "@id": "2691180",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "171/5134",
+                        "text": "Nahla J. Abid"
+                    },
+                    {
+                        "@pid": "08/3315",
+                        "text": "Bonita Sharif"
+                    },
+                    {
+                        "@pid": "69/3918",
+                        "text": "Natalia Dragan"
+                    },
+                    {
+                        "@pid": "151/4174",
+                        "text": "Hend Alrasheed"
+                    },
+                    {
+                        "@pid": "m/JonathanIMaletic",
+                        "text": "Jonathan I. Maletic"
+                    }
+                ]
+            },
+            "title": "Developer reading behavior while summarizing Java methods: size and context matters.",
+            "venue": "ICSE",
+            "pages": "384-395",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AbidSDAM19",
+            "doi": "10.1109/ICSE.2019.00052",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00052",
+            "url": "https://dblp.org/rec/conf/icse/AbidSDAM19"
+        },
+        "url": "URL#2691180"
+    },
+    {
+        "@score": "1",
+        "@id": "2691181",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/9157",
+                        "text": "Emad Aghajani"
+                    },
+                    {
+                        "@pid": "30/5528-1",
+                        "text": "Csaba Nagy 0001"
+                    },
+                    {
+                        "@pid": "242/3904",
+                        "text": "Olga Lucero Vega-M\u00e1rquez"
+                    },
+                    {
+                        "@pid": "65/7207",
+                        "text": "Mario Linares-V\u00e1squez"
+                    },
+                    {
+                        "@pid": "65/119",
+                        "text": "Laura Moreno"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "53/6708",
+                        "text": "Michele Lanza"
+                    }
+                ]
+            },
+            "title": "Software documentation issues unveiled.",
+            "venue": "ICSE",
+            "pages": "1199-1210",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AghajaniNVLMBL19",
+            "doi": "10.1109/ICSE.2019.00122",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00122",
+            "url": "https://dblp.org/rec/conf/icse/AghajaniNVLMBL19"
+        },
+        "url": "URL#2691181"
+    },
+    {
+        "@score": "1",
+        "@id": "2691182",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "55/5176-2",
+                        "text": "Ankit Agrawal 0002"
+                    },
+                    {
+                        "@pid": "230/2364",
+                        "text": "Seyedehzahra Khoshmanesh"
+                    },
+                    {
+                        "@pid": "15/8191",
+                        "text": "Michael Vierhauser"
+                    },
+                    {
+                        "@pid": "150/9109",
+                        "text": "Mona Rahimi"
+                    },
+                    {
+                        "@pid": "c/JaneClelandHuang",
+                        "text": "Jane Cleland-Huang"
+                    },
+                    {
+                        "@pid": "49/3478",
+                        "text": "Robyn R. Lutz"
+                    }
+                ]
+            },
+            "title": "Leveraging artifact trees to evolve and reuse safety cases.",
+            "venue": "ICSE",
+            "pages": "1222-1233",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AgrawalKVRCL19",
+            "doi": "10.1109/ICSE.2019.00124",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00124",
+            "url": "https://dblp.org/rec/conf/icse/AgrawalKVRCL19"
+        },
+        "url": "URL#2691182"
+    },
+    {
+        "@score": "1",
+        "@id": "2691187",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/2634",
+                        "text": "Adam Alami"
+                    },
+                    {
+                        "@pid": "11/7620",
+                        "text": "Marisa Leavitt Cohn"
+                    },
+                    {
+                        "@pid": "18/3339",
+                        "text": "Andrzej Wasowski"
+                    }
+                ]
+            },
+            "title": "Why does code review work for open source software communities?",
+            "venue": "ICSE",
+            "pages": "1073-1083",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AlamiCW19",
+            "doi": "10.1109/ICSE.2019.00111",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00111",
+            "url": "https://dblp.org/rec/conf/icse/AlamiCW19"
+        },
+        "url": "URL#2691187"
+    },
+    {
+        "@score": "1",
+        "@id": "2691193",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3893",
+                        "text": "Anunay Amar"
+                    },
+                    {
+                        "@pid": "20/1971",
+                        "text": "Peter C. Rigby"
+                    }
+                ]
+            },
+            "title": "Mining historical test logs to predict bugs and localize faults in the test logs.",
+            "venue": "ICSE",
+            "pages": "140-151",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AmarR19",
+            "doi": "10.1109/ICSE.2019.00031",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00031",
+            "url": "https://dblp.org/rec/conf/icse/AmarR19"
+        },
+        "url": "URL#2691193"
+    },
+    {
+        "@score": "1",
+        "@id": "2691206",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/1958",
+                        "text": "Deeksha M. Arya"
+                    },
+                    {
+                        "@pid": "49/8549",
+                        "text": "Wenting Wang"
+                    },
+                    {
+                        "@pid": "73/4155-4",
+                        "text": "Jin L. C. Guo"
+                    },
+                    {
+                        "@pid": "120/4206",
+                        "text": "Jinghui Cheng"
+                    }
+                ]
+            },
+            "title": "Analysis and detection of information types of open source software issue discussions.",
+            "venue": "ICSE",
+            "pages": "454-464",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AryaWGC19",
+            "doi": "10.1109/ICSE.2019.00058",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00058",
+            "url": "https://dblp.org/rec/conf/icse/AryaWGC19"
+        },
+        "url": "URL#2691206"
+    },
+    {
+        "@score": "1",
+        "@id": "2691208",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/6972",
+                        "text": "Vaggelis Atlidakis"
+                    },
+                    {
+                        "@pid": "20/1639",
+                        "text": "Patrice Godefroid"
+                    },
+                    {
+                        "@pid": "42/6416",
+                        "text": "Marina Polishchuk"
+                    }
+                ]
+            },
+            "title": "RESTler: stateful REST API fuzzing.",
+            "venue": "ICSE",
+            "pages": "748-758",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AtlidakisGP19",
+            "doi": "10.1109/ICSE.2019.00083",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00083",
+            "url": "https://dblp.org/rec/conf/icse/AtlidakisGP19"
+        },
+        "url": "URL#2691208"
+    },
+    {
+        "@score": "1",
+        "@id": "2691213",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "129/8213",
+                        "text": "Tanzirul Azim"
+                    },
+                    {
+                        "@pid": "183/0175-1",
+                        "text": "Arash Alavi 0001"
+                    },
+                    {
+                        "@pid": "46/2869",
+                        "text": "Iulian Neamtiu"
+                    },
+                    {
+                        "@pid": "g/RajivGupta",
+                        "text": "Rajiv Gupta 0001"
+                    }
+                ]
+            },
+            "title": "Dynamic slicing for Android.",
+            "venue": "ICSE",
+            "pages": "1154-1164",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AzimAN019",
+            "doi": "10.1109/ICSE.2019.00118",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00118",
+            "url": "https://dblp.org/rec/conf/icse/AzimAN019"
+        },
+        "url": "URL#2691213"
+    },
+    {
+        "@score": "1",
+        "@id": "2691219",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "144/4268",
+                        "text": "Sora Bae"
+                    },
+                    {
+                        "@pid": "21/1162",
+                        "text": "Sungho Lee"
+                    },
+                    {
+                        "@pid": "03/2760",
+                        "text": "Sukyoung Ryu"
+                    }
+                ]
+            },
+            "title": "Towards understanding and reasoning about Android interoperations.",
+            "venue": "ICSE",
+            "pages": "223-233",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BaeLR19",
+            "doi": "10.1109/ICSE.2019.00038",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00038",
+            "url": "https://dblp.org/rec/conf/icse/BaeLR19"
+        },
+        "url": "URL#2691219"
+    },
+    {
+        "@score": "1",
+        "@id": "2691225",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "159/6043",
+                        "text": "Ann Barcomb"
+                    },
+                    {
+                        "@pid": "08/7091",
+                        "text": "Klaas-Jan Stol"
+                    },
+                    {
+                        "@pid": "38/5697",
+                        "text": "Dirk Riehle"
+                    },
+                    {
+                        "@pid": "f/BrianFitzgerald",
+                        "text": "Brian Fitzgerald 0001"
+                    }
+                ]
+            },
+            "title": "Why do episodic volunteers stay in FLOSS communities?",
+            "venue": "ICSE",
+            "pages": "948-954",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BarcombSR019",
+            "doi": "10.1109/ICSE.2019.00100",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00100",
+            "url": "https://dblp.org/rec/conf/icse/BarcombSR019"
+        },
+        "url": "URL#2691225"
+    },
+    {
+        "@score": "1",
+        "@id": "2691261",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/5737",
+                        "text": "George G. Cabral"
+                    },
+                    {
+                        "@pid": "55/7992",
+                        "text": "Leandro L. Minku"
+                    },
+                    {
+                        "@pid": "05/5996",
+                        "text": "Emad Shihab"
+                    },
+                    {
+                        "@pid": "203/0013",
+                        "text": "Suhaib Mujahid"
+                    }
+                ]
+            },
+            "title": "Class imbalance evolution and verification latency in just-in-time software defect prediction.",
+            "venue": "ICSE",
+            "pages": "666-676",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/CabralMSM19",
+            "doi": "10.1109/ICSE.2019.00076",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00076",
+            "url": "https://dblp.org/rec/conf/icse/CabralMSM19"
+        },
+        "url": "URL#2691261"
+    },
+    {
+        "@score": "1",
+        "@id": "2691276",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3957",
+                        "text": "Xiaoning Chang"
+                    },
+                    {
+                        "@pid": "167/8963",
+                        "text": "Wensheng Dou"
+                    },
+                    {
+                        "@pid": "46/2974-2",
+                        "text": "Yu Gao 0002"
+                    },
+                    {
+                        "@pid": "29/5259-35",
+                        "text": "Jie Wang 0035"
+                    },
+                    {
+                        "@pid": "68/6546-1",
+                        "text": "Jun Wei 0001"
+                    },
+                    {
+                        "@pid": "34/808-1",
+                        "text": "Tao Huang 0001"
+                    }
+                ]
+            },
+            "title": "Detecting atomicity violations for event-driven Node.js applications.",
+            "venue": "ICSE",
+            "pages": "631-642",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChangDGW0H19",
+            "doi": "10.1109/ICSE.2019.00073",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00073",
+            "url": "https://dblp.org/rec/conf/icse/ChangDGW0H19"
+        },
+        "url": "URL#2691276"
+    },
+    {
+        "@score": "1",
+        "@id": "2691281",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "208/7391",
+                        "text": "Souti Chattopadhyay"
+                    },
+                    {
+                        "@pid": "47/6907-2",
+                        "text": "Nicholas Nelson 0002"
+                    },
+                    {
+                        "@pid": "242/3898",
+                        "text": "Yenifer Ramirez Gonzalez"
+                    },
+                    {
+                        "@pid": "242/3896",
+                        "text": "Annel Amelia Leon"
+                    },
+                    {
+                        "@pid": "05/9103",
+                        "text": "Rahul Pandita"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    }
+                ]
+            },
+            "title": "Latent patterns in activities: a field study of how developers manage context.",
+            "venue": "ICSE",
+            "pages": "373-383",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Chattopadhyay0G19",
+            "doi": "10.1109/ICSE.2019.00051",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00051",
+            "url": "https://dblp.org/rec/conf/icse/Chattopadhyay0G19"
+        },
+        "url": "URL#2691281"
+    },
+    {
+        "@score": "1",
+        "@id": "2691285",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8218-1",
+                        "text": "Sen Chen 0001"
+                    },
+                    {
+                        "@pid": "11/2636-3",
+                        "text": "Lingling Fan 0003"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "148/7179",
+                        "text": "Wenhe Li"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "89/2985",
+                        "text": "Lihua Xu"
+                    }
+                ]
+            },
+            "title": "StoryDroid: automated generation of storyboard for Android apps.",
+            "venue": "ICSE",
+            "pages": "596-607",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenFCSLLX19",
+            "doi": "10.1109/ICSE.2019.00070",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00070",
+            "url": "https://dblp.org/rec/conf/icse/ChenFCSLLX19"
+        },
+        "url": "URL#2691285"
+    },
+    {
+        "@score": "1",
+        "@id": "2691286",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "234/6256",
+                        "text": "Mengsu Chen"
+                    },
+                    {
+                        "@pid": "f/FelixFischer-1",
+                        "text": "Felix Fischer 0001"
+                    },
+                    {
+                        "@pid": "60/6376",
+                        "text": "Na Meng 0001"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "28/3855",
+                        "text": "Jens Grossklags"
+                    }
+                ]
+            },
+            "title": "How reliable is the crowdsourced knowledge of security implementation?",
+            "venue": "ICSE",
+            "pages": "536-547",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenFMWG19",
+            "doi": "10.1109/ICSE.2019.00065",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00065",
+            "url": "https://dblp.org/rec/conf/icse/ChenFMWG19"
+        },
+        "url": "URL#2691286"
+    },
+    {
+        "@score": "1",
+        "@id": "2691287",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "21/6510-1",
+                        "text": "Yuting Chen 0001"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Deep differential testing of JVM implementations.",
+            "venue": "ICSE",
+            "pages": "1257-1268",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenSS19",
+            "doi": "10.1109/ICSE.2019.00127",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00127",
+            "url": "https://dblp.org/rec/conf/icse/ChenSS19"
+        },
+        "url": "URL#2691287"
+    },
+    {
+        "@score": "1",
+        "@id": "2691292",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "122/3522",
+                        "text": "Shaiful Alam Chowdhury"
+                    },
+                    {
+                        "@pid": "76/2009",
+                        "text": "Abram Hindle"
+                    },
+                    {
+                        "@pid": "90/3774",
+                        "text": "Rick Kazman"
+                    },
+                    {
+                        "@pid": "242/3920",
+                        "text": "Takumi Shuto"
+                    },
+                    {
+                        "@pid": "31/473",
+                        "text": "Ken Matsui"
+                    },
+                    {
+                        "@pid": "88/3251",
+                        "text": "Yasutaka Kamei"
+                    }
+                ]
+            },
+            "title": "GreenBundle: an empirical study on the energy impact of bundled processing.",
+            "venue": "ICSE",
+            "pages": "1107-1118",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChowdhuryHKSMK19",
+            "doi": "10.1109/ICSE.2019.00114",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00114",
+            "url": "https://dblp.org/rec/conf/icse/ChowdhuryHKSMK19"
+        },
+        "url": "URL#2691292"
+    },
+    {
+        "@score": "1",
+        "@id": "2691296",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/6416",
+                        "text": "J\u00fcrgen Cito"
+                    },
+                    {
+                        "@pid": "03/5268",
+                        "text": "Philipp Leitner 0001"
+                    },
+                    {
+                        "@pid": "r/MartinCRinard",
+                        "text": "Martin C. Rinard"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    }
+                ]
+            },
+            "title": "Interactive production performance feedback in the IDE.",
+            "venue": "ICSE",
+            "pages": "971-981",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/CitoLRG19",
+            "doi": "10.1109/ICSE.2019.00102",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00102",
+            "url": "https://dblp.org/rec/conf/icse/CitoLRG19"
+        },
+        "url": "URL#2691296"
+    },
+    {
+        "@score": "1",
+        "@id": "2691307",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "218/6663",
+                        "text": "Emilio Cruciani"
+                    },
+                    {
+                        "@pid": "119/0420",
+                        "text": "Breno Miranda"
+                    },
+                    {
+                        "@pid": "210/6216",
+                        "text": "Roberto Verdecchia"
+                    },
+                    {
+                        "@pid": "03/3919",
+                        "text": "Antonia Bertolino"
+                    }
+                ]
+            },
+            "title": "Scalable approaches for test suite reduction.",
+            "venue": "ICSE",
+            "pages": "419-429",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/CrucianiMVB19",
+            "doi": "10.1109/ICSE.2019.00055",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00055",
+            "url": "https://dblp.org/rec/conf/icse/CrucianiMVB19"
+        },
+        "url": "URL#2691307"
+    },
+    {
+        "@score": "1",
+        "@id": "2691311",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "40/538",
+                        "text": "Di Cui"
+                    },
+                    {
+                        "@pid": "52/5150-2",
+                        "text": "Ting Liu 0002"
+                    },
+                    {
+                        "@pid": "45/6816",
+                        "text": "Yuanfang Cai"
+                    },
+                    {
+                        "@pid": "32/1858",
+                        "text": "Qinghua Zheng"
+                    },
+                    {
+                        "@pid": "167/0160",
+                        "text": "Qiong Feng"
+                    },
+                    {
+                        "@pid": "192/6334",
+                        "text": "Wuxia Jin"
+                    },
+                    {
+                        "@pid": "173/0121",
+                        "text": "Jiaqi Guo"
+                    },
+                    {
+                        "@pid": "70/7820",
+                        "text": "Yu Qu"
+                    }
+                ]
+            },
+            "title": "Investigating the impact of multiple dependency structures on software defects.",
+            "venue": "ICSE",
+            "pages": "584-595",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/CuiLCZFJGQ19",
+            "doi": "10.1109/ICSE.2019.00069",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00069",
+            "url": "https://dblp.org/rec/conf/icse/CuiLCZFJGQ19"
+        },
+        "url": "URL#2691311"
+    },
+    {
+        "@score": "1",
+        "@id": "2691318",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "197/4456",
+                        "text": "Julien Delplanque"
+                    },
+                    {
+                        "@pid": "d/SDucasse",
+                        "text": "St\u00e9phane Ducasse"
+                    },
+                    {
+                        "@pid": "123/4544",
+                        "text": "Guillermo Polito"
+                    },
+                    {
+                        "@pid": "b/APBlack",
+                        "text": "Andrew P. Black"
+                    },
+                    {
+                        "@pid": "03/4195",
+                        "text": "Anne Etien"
+                    }
+                ]
+            },
+            "title": "Rotten green tests.",
+            "venue": "ICSE",
+            "pages": "500-511",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DelplanqueDPBE19",
+            "doi": "10.1109/ICSE.2019.00062",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00062",
+            "url": "https://dblp.org/rec/conf/icse/DelplanqueDPBE19"
+        },
+        "url": "URL#2691318"
+    },
+    {
+        "@score": "1",
+        "@id": "2691323",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "228/5719",
+                        "text": "David A. Tomassi"
+                    },
+                    {
+                        "@pid": "238/0475",
+                        "text": "Naji Dmeiri"
+                    },
+                    {
+                        "@pid": "74/8792-4",
+                        "text": "Yichen Wang 0004"
+                    },
+                    {
+                        "@pid": "238/0395",
+                        "text": "Antara Bhowmick"
+                    },
+                    {
+                        "@pid": "238/0203",
+                        "text": "Yen-Chuan Liu"
+                    },
+                    {
+                        "@pid": "d/PremkumarTDevanbu",
+                        "text": "Premkumar T. Devanbu"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    },
+                    {
+                        "@pid": "69/495",
+                        "text": "Cindy Rubio-Gonz\u00e1lez"
+                    }
+                ]
+            },
+            "title": "BugSwarm: mining and continuously growing a dataset of reproducible failures and fixes.",
+            "venue": "ICSE",
+            "pages": "339-349",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DmeiriTWBLDVR19",
+            "doi": "10.1109/ICSE.2019.00048",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00048",
+            "url": "https://dblp.org/rec/conf/icse/DmeiriTWBLDVR19"
+        },
+        "url": "URL#2691323"
+    },
+    {
+        "@score": "1",
+        "@id": "2691325",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "97/6476-1",
+                        "text": "Xiaoning Du 0001"
+                    },
+                    {
+                        "@pid": "61/9197",
+                        "text": "Bihuan Chen 0001"
+                    },
+                    {
+                        "@pid": "204/3729",
+                        "text": "Yuekang Li"
+                    },
+                    {
+                        "@pid": "200/7328",
+                        "text": "Jianmin Guo"
+                    },
+                    {
+                        "@pid": "45/7033",
+                        "text": "Yaqin Zhou"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    }
+                ]
+            },
+            "title": "Leopard: identifying vulnerable code for vulnerability assessment through program metrics.",
+            "venue": "ICSE",
+            "pages": "60-71",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Du0LGZLJ19",
+            "doi": "10.1109/ICSE.2019.00024",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00024",
+            "url": "https://dblp.org/rec/conf/icse/Du0LGZLJ19"
+        },
+        "url": "URL#2691325"
+    },
+    {
+        "@score": "1",
+        "@id": "2691339",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "99/9655",
+                        "text": "Jonathan Eyolfson"
+                    },
+                    {
+                        "@pid": "l/PatrickLam",
+                        "text": "Patrick Lam 0001"
+                    }
+                ]
+            },
+            "title": "How C++ developers use immutability declarations: an empirical study.",
+            "venue": "ICSE",
+            "pages": "362-372",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Eyolfson019",
+            "doi": "10.1109/ICSE.2019.00050",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00050",
+            "url": "https://dblp.org/rec/conf/icse/Eyolfson019"
+        },
+        "url": "URL#2691339"
+    },
+    {
+        "@score": "1",
+        "@id": "2691342",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "63/6525-2",
+                        "text": "Ming Fan 0002"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "95/3736-2",
+                        "text": "Jun Liu 0002"
+                    },
+                    {
+                        "@pid": "93/6765-9",
+                        "text": "Meng Wang 0009"
+                    },
+                    {
+                        "@pid": "242/2051",
+                        "text": "Chunyin Nong"
+                    },
+                    {
+                        "@pid": "32/1858",
+                        "text": "Qinghua Zheng"
+                    },
+                    {
+                        "@pid": "52/5150-2",
+                        "text": "Ting Liu 0002"
+                    }
+                ]
+            },
+            "title": "Graph embedding based familial analysis of Android malware using unsupervised learning.",
+            "venue": "ICSE",
+            "pages": "771-782",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/FanLLWNZL19",
+            "doi": "10.1109/ICSE.2019.00085",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00085",
+            "url": "https://dblp.org/rec/conf/icse/FanLLWNZL19"
+        },
+        "url": "URL#2691342"
+    },
+    {
+        "@score": "1",
+        "@id": "2691343",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/1495",
+                        "text": "Gang Fan"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "145/3943",
+                        "text": "Qingkai Shi"
+                    },
+                    {
+                        "@pid": "89/6248-3",
+                        "text": "Xiao Xiao 0003"
+                    },
+                    {
+                        "@pid": "57/9656",
+                        "text": "Jinguo Zhou"
+                    },
+                    {
+                        "@pid": "51/7008-1",
+                        "text": "Charles Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Smoke: scalable path-sensitive memory leak detection for millions of lines of code.",
+            "venue": "ICSE",
+            "pages": "72-82",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/FanWS0ZZ19",
+            "doi": "10.1109/ICSE.2019.00025",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00025",
+            "url": "https://dblp.org/rec/conf/icse/FanWS0ZZ19"
+        },
+        "url": "URL#2691343"
+    },
+    {
+        "@score": "1",
+        "@id": "2691374",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "204/3571",
+                        "text": "Negar Ghorbani"
+                    },
+                    {
+                        "@pid": "06/6932",
+                        "text": "Joshua Garcia"
+                    },
+                    {
+                        "@pid": "88/4685",
+                        "text": "Sam Malek"
+                    }
+                ]
+            },
+            "title": "Detection and repair of architectural inconsistencies in Java.",
+            "venue": "ICSE",
+            "pages": "560-571",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GhorbaniGM19",
+            "doi": "10.1109/ICSE.2019.00067",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00067",
+            "url": "https://dblp.org/rec/conf/icse/GhorbaniGM19"
+        },
+        "url": "URL#2691374"
+    },
+    {
+        "@score": "1",
+        "@id": "2691381",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/9116",
+                        "text": "Neville Grech"
+                    },
+                    {
+                        "@pid": "208/4302",
+                        "text": "Lexi Brent"
+                    },
+                    {
+                        "@pid": "35/2834",
+                        "text": "Bernhard Scholz"
+                    },
+                    {
+                        "@pid": "s/YSmaragdakis",
+                        "text": "Yannis Smaragdakis"
+                    }
+                ]
+            },
+            "title": "Gigahorse: thorough, declarative decompilation of smart contracts.",
+            "venue": "ICSE",
+            "pages": "1176-1186",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GrechBSS19",
+            "doi": "10.1109/ICSE.2019.00120",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00120",
+            "url": "https://dblp.org/rec/conf/icse/GrechBSS19"
+        },
+        "url": "URL#2691381"
+    },
+    {
+        "@score": "1",
+        "@id": "2691385",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/0906",
+                        "text": "Tianxiao Gu"
+                    },
+                    {
+                        "@pid": "04/7120",
+                        "text": "Chengnian Sun"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "16/1889",
+                        "text": "Chun Cao"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "25/4120-1",
+                        "text": "Yuan Yao 0001"
+                    },
+                    {
+                        "@pid": "18/8523",
+                        "text": "Qirun Zhang"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Practical GUI testing of Android applications via model abstraction and refinement.",
+            "venue": "ICSE",
+            "pages": "269-280",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GuSMC0YZLS19",
+            "doi": "10.1109/ICSE.2019.00042",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00042",
+            "url": "https://dblp.org/rec/conf/icse/GuSMC0YZLS19"
+        },
+        "url": "URL#2691385"
+    },
+    {
+        "@score": "1",
+        "@id": "2691391",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "10/10019",
+                        "text": "Huong Ha"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    }
+                ]
+            },
+            "title": "DeepPerf: performance prediction for configurable software with deep sparse neural network.",
+            "venue": "ICSE",
+            "pages": "1095-1106",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HaZ19",
+            "doi": "10.1109/ICSE.2019.00113",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00113",
+            "url": "https://dblp.org/rec/conf/icse/HaZ19"
+        },
+        "url": "URL#2691391"
+    },
+    {
+        "@score": "1",
+        "@id": "2691398",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/7131",
+                        "text": "Rui Hao"
+                    },
+                    {
+                        "@pid": "07/6095-3",
+                        "text": "Yang Feng 0003"
+                    },
+                    {
+                        "@pid": "57/6158",
+                        "text": "James A. Jones"
+                    },
+                    {
+                        "@pid": "74/3697-5",
+                        "text": "Yuying Li 0005"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    }
+                ]
+            },
+            "title": "CTRAS: crowdsourced test report aggregation and summarization.",
+            "venue": "ICSE",
+            "pages": "900-910",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HaoFJL019",
+            "doi": "10.1109/ICSE.2019.00096",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00096",
+            "url": "https://dblp.org/rec/conf/icse/HaoFJL019"
+        },
+        "url": "URL#2691398"
+    },
+    {
+        "@score": "1",
+        "@id": "2691400",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/4288",
+                        "text": "Hideaki Hata"
+                    },
+                    {
+                        "@pid": "29/1074",
+                        "text": "Christoph Treude"
+                    },
+                    {
+                        "@pid": "64/7675",
+                        "text": "Raula Gaikovina Kula"
+                    },
+                    {
+                        "@pid": "66/39",
+                        "text": "Takashi Ishio"
+                    }
+                ]
+            },
+            "title": "9.6 million links in source code comments: purpose, evolution, and decay.",
+            "venue": "ICSE",
+            "pages": "1211-1221",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HataTKI19",
+            "doi": "10.1109/ICSE.2019.00123",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00123",
+            "url": "https://dblp.org/rec/conf/icse/HataTKI19"
+        },
+        "url": "URL#2691400"
+    },
+    {
+        "@score": "1",
+        "@id": "2691402",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "140/4276",
+                        "text": "Zhijian He"
+                    },
+                    {
+                        "@pid": "70/3621",
+                        "text": "Yao Chen"
+                    },
+                    {
+                        "@pid": "177/1397",
+                        "text": "Enyan Huang"
+                    },
+                    {
+                        "@pid": "17/6932",
+                        "text": "Qixin Wang"
+                    },
+                    {
+                        "@pid": "76/8304-1",
+                        "text": "Yu Pei 0001"
+                    },
+                    {
+                        "@pid": "10/3145",
+                        "text": "Haidong Yuan"
+                    }
+                ]
+            },
+            "title": "A system identification based Oracle for control-CPS software fault localization.",
+            "venue": "ICSE",
+            "pages": "116-127",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HeCHWPY19",
+            "doi": "10.1109/ICSE.2019.00029",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00029",
+            "url": "https://dblp.org/rec/conf/icse/HeCHWPY19"
+        },
+        "url": "URL#2691402"
+    },
+    {
+        "@score": "1",
+        "@id": "2691405",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "164/5751",
+                        "text": "Vincent J. Hellendoorn"
+                    },
+                    {
+                        "@pid": "145/7686-1",
+                        "text": "Sebastian Proksch 0001"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    }
+                ]
+            },
+            "title": "When code completion fails: a case study on real-world completions.",
+            "venue": "ICSE",
+            "pages": "960-970",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HellendoornPGB19",
+            "doi": "10.1109/ICSE.2019.00101",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00101",
+            "url": "https://dblp.org/rec/conf/icse/HellendoornPGB19"
+        },
+        "url": "URL#2691405"
+    },
+    {
+        "@score": "1",
+        "@id": "2691406",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/11515",
+                        "text": "Kihong Heo"
+                    },
+                    {
+                        "@pid": "13/7537",
+                        "text": "Hakjoo Oh"
+                    },
+                    {
+                        "@pid": "82/5808",
+                        "text": "Hongseok Yang"
+                    }
+                ]
+            },
+            "title": "Resource-aware program analysis via online abstraction coarsening.",
+            "venue": "ICSE",
+            "pages": "94-104",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HeoOY19",
+            "doi": "10.1109/ICSE.2019.00027",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00027",
+            "url": "https://dblp.org/rec/conf/icse/HeoOY19"
+        },
+        "url": "URL#2691406"
+    },
+    {
+        "@score": "1",
+        "@id": "2691407",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/9",
+                        "text": "Ruben Heradio"
+                    },
+                    {
+                        "@pid": "83/5191",
+                        "text": "David Fern\u00e1ndez-Amor\u00f3s"
+                    },
+                    {
+                        "@pid": "68/7033",
+                        "text": "Christoph Mayr-Dorn"
+                    },
+                    {
+                        "@pid": "20/5529",
+                        "text": "Alexander Egyed"
+                    }
+                ]
+            },
+            "title": "Supporting the statistical analysis of variability models.",
+            "venue": "ICSE",
+            "pages": "843-853",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HeradioFME19",
+            "doi": "10.1109/ICSE.2019.00091",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00091",
+            "url": "https://dblp.org/rec/conf/icse/HeradioFME19"
+        },
+        "url": "URL#2691407"
+    },
+    {
+        "@score": "1",
+        "@id": "2691413",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "218/6656",
+                        "text": "Eric Horton"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    }
+                ]
+            },
+            "title": "DockerizeMe: automatic inference of environment dependencies for python code snippets.",
+            "venue": "ICSE",
+            "pages": "328-338",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HortonP19",
+            "doi": "10.1109/ICSE.2019.00047",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00047",
+            "url": "https://dblp.org/rec/conf/icse/HortonP19"
+        },
+        "url": "URL#2691413"
+    },
+    {
+        "@score": "1",
+        "@id": "2691416",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9672",
+                        "text": "Shiyou Huang"
+                    },
+                    {
+                        "@pid": "69/6953",
+                        "text": "Jianmei Guo"
+                    },
+                    {
+                        "@pid": "198/7528",
+                        "text": "Sanhong Li"
+                    },
+                    {
+                        "@pid": "40/1491",
+                        "text": "Xiang Li"
+                    },
+                    {
+                        "@pid": "242/3965",
+                        "text": "Yumin Qi"
+                    },
+                    {
+                        "@pid": "71/6278",
+                        "text": "Kingsum Chow"
+                    },
+                    {
+                        "@pid": "68/4706-1",
+                        "text": "Jeff Huang 0001"
+                    }
+                ]
+            },
+            "title": "SafeCheck: safety enhancement of Java unsafe API.",
+            "venue": "ICSE",
+            "pages": "889-899",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HuangGLLQC019",
+            "doi": "10.1109/ICSE.2019.00095",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00095",
+            "url": "https://dblp.org/rec/conf/icse/HuangGLLQC019"
+        },
+        "url": "URL#2691416"
+    },
+    {
+        "@score": "1",
+        "@id": "2691417",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "39/6301-15",
+                        "text": "Yu Huang 0015"
+                    },
+                    {
+                        "@pid": "98/738",
+                        "text": "Xinyu Liu"
+                    },
+                    {
+                        "@pid": "242/3967",
+                        "text": "Ryan Krueger"
+                    },
+                    {
+                        "@pid": "200/1177",
+                        "text": "Tyler Santander"
+                    },
+                    {
+                        "@pid": "63/9772",
+                        "text": "Xiaosu Hu"
+                    },
+                    {
+                        "@pid": "133/3698",
+                        "text": "Kevin Leach"
+                    },
+                    {
+                        "@pid": "05/4127",
+                        "text": "Westley Weimer"
+                    }
+                ]
+            },
+            "title": "Distilling neural representations of data structure manipulation using fMRI and fNIRS.",
+            "venue": "ICSE",
+            "pages": "396-407",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HuangLKSHLW19",
+            "doi": "10.1109/ICSE.2019.00053",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00053",
+            "url": "https://dblp.org/rec/conf/icse/HuangLKSHLW19"
+        },
+        "url": "URL#2691417"
+    },
+    {
+        "@score": "1",
+        "@id": "2691424",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/4885",
+                        "text": "Nasif Imtiaz"
+                    },
+                    {
+                        "@pid": "177/6937",
+                        "text": "Justin Middleton"
+                    },
+                    {
+                        "@pid": "239/5715",
+                        "text": "Joymallya Chakraborty"
+                    },
+                    {
+                        "@pid": "228/5725",
+                        "text": "Neill Robson"
+                    },
+                    {
+                        "@pid": "237/8508",
+                        "text": "Gina R. Bai"
+                    },
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    }
+                ]
+            },
+            "title": "Investigating the effects of gender bias on GitHub.",
+            "venue": "ICSE",
+            "pages": "700-711",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ImtiazMCRBM19",
+            "doi": "10.1109/ICSE.2019.00079",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00079",
+            "url": "https://dblp.org/rec/conf/icse/ImtiazMCRBM19"
+        },
+        "url": "URL#2691424"
+    },
+    {
+        "@score": "1",
+        "@id": "2691430",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "18/10505",
+                        "text": "Reyhaneh Jabbarvand"
+                    },
+                    {
+                        "@pid": "87/5404",
+                        "text": "Jun-Wei Lin"
+                    },
+                    {
+                        "@pid": "88/4685",
+                        "text": "Sam Malek"
+                    }
+                ]
+            },
+            "title": "Search-based energy testing of Android.",
+            "venue": "ICSE",
+            "pages": "1119-1130",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/JabbarvandLM19",
+            "doi": "10.1109/ICSE.2019.00115",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00115",
+            "url": "https://dblp.org/rec/conf/icse/JabbarvandLM19"
+        },
+        "url": "URL#2691430"
+    },
+    {
+        "@score": "1",
+        "@id": "2691448",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3932-1",
+                        "text": "Keyur Joshi 0001"
+                    },
+                    {
+                        "@pid": "238/5419",
+                        "text": "Vimuth Fernando"
+                    },
+                    {
+                        "@pid": "00/4734",
+                        "text": "Sasa Misailovic"
+                    }
+                ]
+            },
+            "title": "Statistical algorithmic profiling for randomized approximate programs.",
+            "venue": "ICSE",
+            "pages": "608-618",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/JoshiFM19",
+            "doi": "10.1109/ICSE.2019.00071",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00071",
+            "url": "https://dblp.org/rec/conf/icse/JoshiFM19"
+        },
+        "url": "URL#2691448"
+    },
+    {
+        "@score": "1",
+        "@id": "2691451",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3948",
+                        "text": "Christian Kaltenecker"
+                    },
+                    {
+                        "@pid": "04/9656",
+                        "text": "Alexander Grebhahn"
+                    },
+                    {
+                        "@pid": "99/1780",
+                        "text": "Norbert Siegmund"
+                    },
+                    {
+                        "@pid": "69/6953",
+                        "text": "Jianmei Guo"
+                    },
+                    {
+                        "@pid": "a/SvenApel",
+                        "text": "Sven Apel"
+                    }
+                ]
+            },
+            "title": "Distance-based sampling of software configuration spaces.",
+            "venue": "ICSE",
+            "pages": "1084-1094",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KalteneckerGSGA19",
+            "doi": "10.1109/ICSE.2019.00112",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00112",
+            "url": "https://dblp.org/rec/conf/icse/KalteneckerGSGA19"
+        },
+        "url": "URL#2691451"
+    },
+    {
+        "@score": "1",
+        "@id": "2691461",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/3609",
+                        "text": "David Kavaler"
+                    },
+                    {
+                        "@pid": "221/1541",
+                        "text": "Asher Trockman"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    },
+                    {
+                        "@pid": "f/VladimirFilkov",
+                        "text": "Vladimir Filkov"
+                    }
+                ]
+            },
+            "title": "Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects.",
+            "venue": "ICSE",
+            "pages": "476-487",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KavalerTVF19",
+            "doi": "10.1109/ICSE.2019.00060",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00060",
+            "url": "https://dblp.org/rec/conf/icse/KavalerTVF19"
+        },
+        "url": "URL#2691461"
+    },
+    {
+        "@score": "1",
+        "@id": "2691469",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "207/6554",
+                        "text": "Ameya Ketkar"
+                    },
+                    {
+                        "@pid": "72/4471-1",
+                        "text": "Ali Mesbah 0001"
+                    },
+                    {
+                        "@pid": "153/5280",
+                        "text": "Davood Mazinanian"
+                    },
+                    {
+                        "@pid": "36/5445",
+                        "text": "Danny Dig"
+                    },
+                    {
+                        "@pid": "98/5242",
+                        "text": "Edward Aftandilian"
+                    }
+                ]
+            },
+            "title": "Type migration in ultra-large-scale codebases.",
+            "venue": "ICSE",
+            "pages": "1142-1153",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Ketkar0MDA19",
+            "doi": "10.1109/ICSE.2019.00117",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00117",
+            "url": "https://dblp.org/rec/conf/icse/Ketkar0MDA19"
+        },
+        "url": "URL#2691469"
+    },
+    {
+        "@score": "1",
+        "@id": "2691473",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/3722",
+                        "text": "Raffi Khatchadourian"
+                    },
+                    {
+                        "@pid": "98/5588-2",
+                        "text": "Yiming Tang 0002"
+                    },
+                    {
+                        "@pid": "78/8636",
+                        "text": "Mehdi Bagherzadeh 0001"
+                    },
+                    {
+                        "@pid": "126/7796",
+                        "text": "Syed Ahmed"
+                    }
+                ]
+            },
+            "title": "Safe automated refactoring for intelligent parallelization of Java 8 streams.",
+            "venue": "ICSE",
+            "pages": "619-630",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KhatchadourianT19",
+            "doi": "10.1109/ICSE.2019.00072",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00072",
+            "url": "https://dblp.org/rec/conf/icse/KhatchadourianT19"
+        },
+        "url": "URL#2691473"
+    },
+    {
+        "@score": "1",
+        "@id": "2691474",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "146/0081",
+                        "text": "Taeyeon Ki"
+                    },
+                    {
+                        "@pid": "122/0524",
+                        "text": "Chang Min Park"
+                    },
+                    {
+                        "@pid": "89/1614",
+                        "text": "Karthik Dantu"
+                    },
+                    {
+                        "@pid": "22/4235",
+                        "text": "Steven Y. Ko"
+                    },
+                    {
+                        "@pid": "54/645",
+                        "text": "Lukasz Ziarek"
+                    }
+                ]
+            },
+            "title": "Mimic: UI compatibility testing system for Android apps.",
+            "venue": "ICSE",
+            "pages": "246-256",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KiPDKZ19",
+            "doi": "10.1109/ICSE.2019.00040",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00040",
+            "url": "https://dblp.org/rec/conf/icse/KiPDKZ19"
+        },
+        "url": "URL#2691474"
+    },
+    {
+        "@score": "1",
+        "@id": "2691477",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "99/6681",
+                        "text": "Jinhan Kim"
+                    },
+                    {
+                        "@pid": "97/831",
+                        "text": "Robert Feldt"
+                    },
+                    {
+                        "@pid": "06/1626",
+                        "text": "Shin Yoo"
+                    }
+                ]
+            },
+            "title": "Guiding deep learning system testing using surprise adequacy.",
+            "venue": "ICSE",
+            "pages": "1039-1049",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KimFY19",
+            "doi": "10.1109/ICSE.2019.00108",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00108",
+            "url": "https://dblp.org/rec/conf/icse/KimFY19"
+        },
+        "url": "URL#2691477"
+    },
+    {
+        "@score": "1",
+        "@id": "2691488",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "197/3552",
+                        "text": "Erik Krogh Kristensen"
+                    },
+                    {
+                        "@pid": "55/6739",
+                        "text": "Anders M\u00f8ller"
+                    }
+                ]
+            },
+            "title": "Reasonably-most-general clients for JavaScript library analysis.",
+            "venue": "ICSE",
+            "pages": "83-93",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KristensenM19",
+            "doi": "10.1109/ICSE.2019.00026",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00026",
+            "url": "https://dblp.org/rec/conf/icse/KristensenM19"
+        },
+        "url": "URL#2691488"
+    },
+    {
+        "@score": "1",
+        "@id": "2691498",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/3428",
+                        "text": "Sami Lazreg"
+                    },
+                    {
+                        "@pid": "73/10839",
+                        "text": "Maxime Cordy"
+                    },
+                    {
+                        "@pid": "84/1967",
+                        "text": "Philippe Collet"
+                    },
+                    {
+                        "@pid": "83/3086",
+                        "text": "Patrick Heymans"
+                    },
+                    {
+                        "@pid": "48/1683",
+                        "text": "S\u00e9bastien Mosser 0001"
+                    }
+                ]
+            },
+            "title": "Multifaceted automated analyses for variability-intensive embedded systems.",
+            "venue": "ICSE",
+            "pages": "854-865",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LazregCCH019",
+            "doi": "10.1109/ICSE.2019.00092",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00092",
+            "url": "https://dblp.org/rec/conf/icse/LazregCCH019"
+        },
+        "url": "URL#2691498"
+    },
+    {
+        "@score": "1",
+        "@id": "2691499",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "304/2501-1",
+                        "text": "Xuan-Bach Dinh Le 0001"
+                    },
+                    {
+                        "@pid": "161/1073",
+                        "text": "Lingfeng Bao"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    },
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "35/1103",
+                        "text": "Shanping Li"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    }
+                ]
+            },
+            "title": "On reliability of patch correctness assessment.",
+            "venue": "ICSE",
+            "pages": "524-535",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LeB00LP19",
+            "doi": "10.1109/ICSE.2019.00064",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00064",
+            "url": "https://dblp.org/rec/conf/icse/LeB00LP19"
+        },
+        "url": "URL#2691499"
+    },
+    {
+        "@score": "1",
+        "@id": "2691500",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/1983",
+                        "text": "Alexander LeClair"
+                    },
+                    {
+                        "@pid": "84/9918",
+                        "text": "Siyuan Jiang"
+                    },
+                    {
+                        "@pid": "78/7505",
+                        "text": "Collin McMillan"
+                    }
+                ]
+            },
+            "title": "A neural model for generating natural language summaries of program subroutines.",
+            "venue": "ICSE",
+            "pages": "795-806",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LeClairJM19",
+            "doi": "10.1109/ICSE.2019.00087",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00087",
+            "url": "https://dblp.org/rec/conf/icse/LeClairJM19"
+        },
+        "url": "URL#2691500"
+    },
+    {
+        "@score": "1",
+        "@id": "2691504",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/1138",
+                        "text": "Amanda Lee"
+                    },
+                    {
+                        "@pid": "c/JeffreyCCarver",
+                        "text": "Jeffrey C. Carver"
+                    }
+                ]
+            },
+            "title": "FLOSS participants&apos; perceptions about gender and inclusiveness: a survey.",
+            "venue": "ICSE",
+            "pages": "677-687",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LeeC19",
+            "doi": "10.1109/ICSE.2019.00077",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00077",
+            "url": "https://dblp.org/rec/conf/icse/LeeC19"
+        },
+        "url": "URL#2691504"
+    },
+    {
+        "@score": "1",
+        "@id": "2691511",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "46/10202-2",
+                        "text": "Zhenhao Li 0002"
+                    },
+                    {
+                        "@pid": "116/6782",
+                        "text": "Tse-Hsun (Peter) Chen"
+                    },
+                    {
+                        "@pid": "116/6899",
+                        "text": "Jinqiu Yang 0001"
+                    },
+                    {
+                        "@pid": "96/7305",
+                        "text": "Weiyi Shang"
+                    }
+                ]
+            },
+            "title": "Dlfinder: characterizing and detecting duplicate logging code smells.",
+            "venue": "ICSE",
+            "pages": "152-163",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LiC0S19",
+            "doi": "10.1109/ICSE.2019.00032",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00032",
+            "url": "https://dblp.org/rec/conf/icse/LiC0S19"
+        },
+        "url": "URL#2691511"
+    },
+    {
+        "@score": "1",
+        "@id": "2691516",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3930",
+                        "text": "N\u00e1ndor Licker"
+                    },
+                    {
+                        "@pid": "82/8305",
+                        "text": "Andrew Rice"
+                    }
+                ]
+            },
+            "title": "Detecting incorrect build rules.",
+            "venue": "ICSE",
+            "pages": "1234-1244",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LickerR19",
+            "doi": "10.1109/ICSE.2019.00125",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00125",
+            "url": "https://dblp.org/rec/conf/icse/LickerR19"
+        },
+        "url": "URL#2691516"
+    },
+    {
+        "@score": "1",
+        "@id": "2691517",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/10404",
+                        "text": "Max Lillack"
+                    },
+                    {
+                        "@pid": "145/4037",
+                        "text": "Stefan Stanciulescu"
+                    },
+                    {
+                        "@pid": "242/3913",
+                        "text": "Wilhelm Hedman"
+                    },
+                    {
+                        "@pid": "22/6472",
+                        "text": "Thorsten Berger"
+                    },
+                    {
+                        "@pid": "18/3339",
+                        "text": "Andrzej Wasowski"
+                    }
+                ]
+            },
+            "title": "Intention-based integration of software variants.",
+            "venue": "ICSE",
+            "pages": "831-842",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LillackSHBW19",
+            "doi": "10.1109/ICSE.2019.00090",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00090",
+            "url": "https://dblp.org/rec/conf/icse/LillackSHBW19"
+        },
+        "url": "URL#2691517"
+    },
+    {
+        "@score": "1",
+        "@id": "2691521",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/7399-1",
+                        "text": "Kui Liu 0001"
+                    },
+                    {
+                        "@pid": "10/2501-1",
+                        "text": "Dongsun Kim 0001"
+                    },
+                    {
+                        "@pid": "00/8006",
+                        "text": "Tegawend\u00e9 F. Bissyand\u00e9"
+                    },
+                    {
+                        "@pid": "46/6697",
+                        "text": "Tae-young Kim"
+                    },
+                    {
+                        "@pid": "216/3065",
+                        "text": "Kisub Kim"
+                    },
+                    {
+                        "@pid": "202/8373",
+                        "text": "Anil Koyuncu"
+                    },
+                    {
+                        "@pid": "26/690",
+                        "text": "Suntae Kim"
+                    },
+                    {
+                        "@pid": "95/5206",
+                        "text": "Yves Le Traon"
+                    }
+                ]
+            },
+            "title": "Learning to spot and refactor inconsistent method names.",
+            "venue": "ICSE",
+            "pages": "1-12",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Liu0BKKKKT19",
+            "doi": "10.1109/ICSE.2019.00019",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00019",
+            "url": "https://dblp.org/rec/conf/icse/Liu0BKKKKT19"
+        },
+        "url": "URL#2691521"
+    },
+    {
+        "@score": "1",
+        "@id": "2691546",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/7797",
+                        "text": "Rabee Sohail Malik"
+                    },
+                    {
+                        "@pid": "139/0517",
+                        "text": "Jibesh Patra"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "NL2Type: inferring JavaScript function types from natural language information.",
+            "venue": "ICSE",
+            "pages": "304-315",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MalikPP19",
+            "doi": "10.1109/ICSE.2019.00045",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00045",
+            "url": "https://dblp.org/rec/conf/icse/MalikPP19"
+        },
+        "url": "URL#2691546"
+    },
+    {
+        "@score": "1",
+        "@id": "2691549",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "m/ShaharMaoz",
+                        "text": "Shahar Maoz"
+                    },
+                    {
+                        "@pid": "04/7076",
+                        "text": "Jan Oliver Ringert"
+                    },
+                    {
+                        "@pid": "43/8047",
+                        "text": "Rafi Shalom"
+                    }
+                ]
+            },
+            "title": "Symbolic repairs for GR(1) specifications.",
+            "venue": "ICSE",
+            "pages": "1016-1026",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MaozRS19",
+            "doi": "10.1109/ICSE.2019.00106",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00106",
+            "url": "https://dblp.org/rec/conf/icse/MaozRS19"
+        },
+        "url": "URL#2691549"
+    },
+    {
+        "@score": "1",
+        "@id": "2691575",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/8464",
+                        "text": "Kenneth A. Miller"
+                    },
+                    {
+                        "@pid": "139/7034",
+                        "text": "Yonghwi Kwon 0001"
+                    },
+                    {
+                        "@pid": "65/2709-4",
+                        "text": "Yi Sun 0004"
+                    },
+                    {
+                        "@pid": "16/1234-2",
+                        "text": "Zhuo Zhang 0002"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "49/4102-1",
+                        "text": "Zhiqiang Lin 0001"
+                    }
+                ]
+            },
+            "title": "Probabilistic disassembly.",
+            "venue": "ICSE",
+            "pages": "1187-1198",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MillerKSZZL19",
+            "doi": "10.1109/ICSE.2019.00121",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00121",
+            "url": "https://dblp.org/rec/conf/icse/MillerKSZZL19"
+        },
+        "url": "URL#2691575"
+    },
+    {
+        "@score": "1",
+        "@id": "2691580",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "189/6361",
+                        "text": "Facundo Molina"
+                    },
+                    {
+                        "@pid": "24/9840",
+                        "text": "Renzo Degiovanni"
+                    },
+                    {
+                        "@pid": "80/6093",
+                        "text": "Pablo Ponzio"
+                    },
+                    {
+                        "@pid": "33/4870",
+                        "text": "Germ\u00e1n Regis"
+                    },
+                    {
+                        "@pid": "69/610",
+                        "text": "Nazareno Aguirre"
+                    },
+                    {
+                        "@pid": "13/1323",
+                        "text": "Marcelo F. Frias"
+                    }
+                ]
+            },
+            "title": "Training binary classifiers as data structure invariants.",
+            "venue": "ICSE",
+            "pages": "759-770",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MolinaDPRAF19",
+            "doi": "10.1109/ICSE.2019.00084",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00084",
+            "url": "https://dblp.org/rec/conf/icse/MolinaDPRAF19"
+        },
+        "url": "URL#2691580"
+    },
+    {
+        "@score": "1",
+        "@id": "2691587",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "44/6242",
+                        "text": "Manish Motwani"
+                    },
+                    {
+                        "@pid": "51/1518",
+                        "text": "Yuriy Brun"
+                    }
+                ]
+            },
+            "title": "Automatically generating precise Oracles from structured natural language specifications.",
+            "venue": "ICSE",
+            "pages": "188-199",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MotwaniB19",
+            "doi": "10.1109/ICSE.2019.00035",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00035",
+            "url": "https://dblp.org/rec/conf/icse/MotwaniB19"
+        },
+        "url": "URL#2691587"
+    },
+    {
+        "@score": "1",
+        "@id": "2691591",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    },
+                    {
+                        "@pid": "76/9583",
+                        "text": "Edward K. Smith"
+                    },
+                    {
+                        "@pid": "17/2324",
+                        "text": "Caitlin Sadowski"
+                    },
+                    {
+                        "@pid": "36/1500",
+                        "text": "Ciera Jaspan"
+                    },
+                    {
+                        "@pid": "167/0185",
+                        "text": "Collin Winter"
+                    },
+                    {
+                        "@pid": "67/5433",
+                        "text": "Matthew Jorde"
+                    },
+                    {
+                        "@pid": "45/870",
+                        "text": "Andrea Knight"
+                    },
+                    {
+                        "@pid": "242/3919",
+                        "text": "Andrew Trenk"
+                    },
+                    {
+                        "@pid": "242/3901",
+                        "text": "Steve Gross"
+                    }
+                ]
+            },
+            "title": "Do developers discover new tools on the toilet?",
+            "venue": "ICSE",
+            "pages": "465-475",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Murphy-HillSSJW19",
+            "doi": "10.1109/ICSE.2019.00059",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00059",
+            "url": "https://dblp.org/rec/conf/icse/Murphy-HillSSJW19"
+        },
+        "url": "URL#2691591"
+    },
+    {
+        "@score": "1",
+        "@id": "2691603",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "51/6992",
+                        "text": "Hoan Anh Nguyen"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    },
+                    {
+                        "@pid": "36/5445",
+                        "text": "Danny Dig"
+                    },
+                    {
+                        "@pid": "58/2247",
+                        "text": "Son Nguyen"
+                    },
+                    {
+                        "@pid": "41/11356",
+                        "text": "Hieu Tran"
+                    },
+                    {
+                        "@pid": "116/7598",
+                        "text": "Michael Hilton"
+                    }
+                ]
+            },
+            "title": "Graph-based mining of in-the-wild, fine-grained, semantic code change patterns.",
+            "venue": "ICSE",
+            "pages": "819-830",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NguyenNDNTH19",
+            "doi": "10.1109/ICSE.2019.00089",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00089",
+            "url": "https://dblp.org/rec/conf/icse/NguyenNDNTH19"
+        },
+        "url": "URL#2691603"
+    },
+    {
+        "@score": "1",
+        "@id": "2691604",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "178/5921",
+                        "text": "Phuong Thanh Nguyen 0001"
+                    },
+                    {
+                        "@pid": "145/3999",
+                        "text": "Juri Di Rocco"
+                    },
+                    {
+                        "@pid": "r/DavideDiRuscio",
+                        "text": "Davide Di Ruscio"
+                    },
+                    {
+                        "@pid": "169/7054",
+                        "text": "Lina Ochoa"
+                    },
+                    {
+                        "@pid": "138/0578",
+                        "text": "Thomas Degueule"
+                    },
+                    {
+                        "@pid": "d/MassimilianoDiPenta",
+                        "text": "Massimiliano Di Penta"
+                    }
+                ]
+            },
+            "title": "FOCUS: a recommender system for mining API function calls and usage patterns.",
+            "venue": "ICSE",
+            "pages": "1050-1060",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NguyenRRODP19",
+            "doi": "10.1109/ICSE.2019.00109",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00109",
+            "url": "https://dblp.org/rec/conf/icse/NguyenRRODP19"
+        },
+        "url": "URL#2691604"
+    },
+    {
+        "@score": "1",
+        "@id": "2691605",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/10543",
+                        "text": "Shirin Nilizadeh"
+                    },
+                    {
+                        "@pid": "214/0370",
+                        "text": "Yannic Noller"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    }
+                ]
+            },
+            "title": "DifFuzz: differential fuzzing for side-channel analysis.",
+            "venue": "ICSE",
+            "pages": "176-187",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NilizadehNP19",
+            "doi": "10.1109/ICSE.2019.00034",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00034",
+            "url": "https://dblp.org/rec/conf/icse/NilizadehNP19"
+        },
+        "url": "URL#2691605"
+    },
+    {
+        "@score": "1",
+        "@id": "2691616",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/7085",
+                        "text": "Minxue Pan"
+                    },
+                    {
+                        "@pid": "19/2520",
+                        "text": "Shouyu Chen"
+                    },
+                    {
+                        "@pid": "76/8304-1",
+                        "text": "Yu Pei 0001"
+                    },
+                    {
+                        "@pid": "13/2913-1",
+                        "text": "Tian Zhang 0001"
+                    },
+                    {
+                        "@pid": "76/5446",
+                        "text": "Xuandong Li"
+                    }
+                ]
+            },
+            "title": "Easy modelling and verification of unpredictable and preemptive interrupt-driven systems.",
+            "venue": "ICSE",
+            "pages": "212-222",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PanCP0L19",
+            "doi": "10.1109/ICSE.2019.00037",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00037",
+            "url": "https://dblp.org/rec/conf/icse/PanCP0L19"
+        },
+        "url": "URL#2691616"
+    },
+    {
+        "@score": "1",
+        "@id": "2691631",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "163/1941",
+                        "text": "Hung Viet Pham"
+                    },
+                    {
+                        "@pid": "143/6569",
+                        "text": "Thibaud Lutellier"
+                    },
+                    {
+                        "@pid": "242/3895",
+                        "text": "Weizhen Qi"
+                    },
+                    {
+                        "@pid": "13/3957-1",
+                        "text": "Lin Tan 0001"
+                    }
+                ]
+            },
+            "title": "CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries.",
+            "venue": "ICSE",
+            "pages": "1027-1038",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PhamLQT19",
+            "doi": "10.1109/ICSE.2019.00107",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00107",
+            "url": "https://dblp.org/rec/conf/icse/PhamLQT19"
+        },
+        "url": "URL#2691631"
+    },
+    {
+        "@score": "1",
+        "@id": "2691632",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "171/4483",
+                        "text": "Adithya Abraham Philip"
+                    },
+                    {
+                        "@pid": "94/5385",
+                        "text": "Ranjita Bhagwan"
+                    },
+                    {
+                        "@pid": "92/5081-2",
+                        "text": "Rahul Kumar 0002"
+                    },
+                    {
+                        "@pid": "203/9619",
+                        "text": "Chandra Shekhar Maddila"
+                    },
+                    {
+                        "@pid": "91/1758",
+                        "text": "Nachiappan Nagappan"
+                    }
+                ]
+            },
+            "title": "FastLane: test minimization for rapidly deployed large-scale online services.",
+            "venue": "ICSE",
+            "pages": "408-418",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PhilipBKMN19",
+            "doi": "10.1109/ICSE.2019.00054",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00054",
+            "url": "https://dblp.org/rec/conf/icse/PhilipBKMN19"
+        },
+        "url": "URL#2691632"
+    },
+    {
+        "@score": "1",
+        "@id": "2691643",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3941",
+                        "text": "Huilian Sophie Qiu"
+                    },
+                    {
+                        "@pid": "21/5490",
+                        "text": "Alexander Nolte"
+                    },
+                    {
+                        "@pid": "242/3936",
+                        "text": "Anita Brown"
+                    },
+                    {
+                        "@pid": "s/AlexanderSerebrenik",
+                        "text": "Alexander Serebrenik"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    }
+                ]
+            },
+            "title": "Going farther together: the impact of social capital on sustained participation in open source.",
+            "venue": "ICSE",
+            "pages": "688-699",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/QiuNBSV19",
+            "doi": "10.1109/ICSE.2019.00078",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00078",
+            "url": "https://dblp.org/rec/conf/icse/QiuNBSV19"
+        },
+        "url": "URL#2691643"
+    },
+    {
+        "@score": "1",
+        "@id": "2691649",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/0631",
+                        "text": "Musfiqur Rahman"
+                    },
+                    {
+                        "@pid": "229/9266",
+                        "text": "Dharani Palani"
+                    },
+                    {
+                        "@pid": "20/1971",
+                        "text": "Peter C. Rigby"
+                    }
+                ]
+            },
+            "title": "Natural software revisited.",
+            "venue": "ICSE",
+            "pages": "37-48",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RahmanPR19",
+            "doi": "10.1109/ICSE.2019.00022",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00022",
+            "url": "https://dblp.org/rec/conf/icse/RahmanPR19"
+        },
+        "url": "URL#2691649"
+    },
+    {
+        "@score": "1",
+        "@id": "2691650",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "06/10426",
+                        "text": "Akond Rahman"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    },
+                    {
+                        "@pid": "w/LaurieAWilliams",
+                        "text": "Laurie A. Williams"
+                    }
+                ]
+            },
+            "title": "The seven sins: security smells in infrastructure as code scripts.",
+            "venue": "ICSE",
+            "pages": "164-175",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RahmanPW19",
+            "doi": "10.1109/ICSE.2019.00033",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00033",
+            "url": "https://dblp.org/rec/conf/icse/RahmanPW19"
+        },
+        "url": "URL#2691650"
+    },
+    {
+        "@score": "1",
+        "@id": "2691651",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/6570",
+                        "text": "Ralf Ramsauer"
+                    },
+                    {
+                        "@pid": "57/863",
+                        "text": "Daniel Lohmann"
+                    },
+                    {
+                        "@pid": "74/694",
+                        "text": "Wolfgang Mauerer"
+                    }
+                ]
+            },
+            "title": "The list is the process: reliable pre-integration tracking of commits on mailing lists.",
+            "venue": "ICSE",
+            "pages": "807-818",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RamsauerLM19",
+            "doi": "10.1109/ICSE.2019.00088",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00088",
+            "url": "https://dblp.org/rec/conf/icse/RamsauerLM19"
+        },
+        "url": "URL#2691651"
+    },
+    {
+        "@score": "1",
+        "@id": "2691667",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3903",
+                        "text": "Richard Rutledge"
+                    },
+                    {
+                        "@pid": "178/3197",
+                        "text": "Sunjae Park"
+                    },
+                    {
+                        "@pid": "285/7353",
+                        "text": "Haider Adnan Khan"
+                    },
+                    {
+                        "@pid": "35/805",
+                        "text": "Alessandro Orso"
+                    },
+                    {
+                        "@pid": "77/4185",
+                        "text": "Milos Prvulovic"
+                    },
+                    {
+                        "@pid": "42/4332",
+                        "text": "Alenka G. Zajic"
+                    }
+                ]
+            },
+            "title": "Zero-overhead path prediction with progressive symbolic execution.",
+            "venue": "ICSE",
+            "pages": "234-245",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RutledgePKOPZ19",
+            "doi": "10.1109/ICSE.2019.00039",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00039",
+            "url": "https://dblp.org/rec/conf/icse/RutledgePKOPZ19"
+        },
+        "url": "URL#2691667"
+    },
+    {
+        "@score": "1",
+        "@id": "2691670",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/1658",
+                        "text": "Seemanta Saha"
+                    },
+                    {
+                        "@pid": "67/9972",
+                        "text": "Ripon K. Saha"
+                    },
+                    {
+                        "@pid": "52/1173",
+                        "text": "Mukul R. Prasad"
+                    }
+                ]
+            },
+            "title": "Harnessing evolution for multi-hunk program repair.",
+            "venue": "ICSE",
+            "pages": "13-24",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SahaSP19",
+            "doi": "10.1109/ICSE.2019.00020",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00020",
+            "url": "https://dblp.org/rec/conf/icse/SahaSP19"
+        },
+        "url": "URL#2691670"
+    },
+    {
+        "@score": "1",
+        "@id": "2691672",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/3996",
+                        "text": "Vaibhav Saini"
+                    },
+                    {
+                        "@pid": "222/2769",
+                        "text": "Farima Farmahinifarahani"
+                    },
+                    {
+                        "@pid": "64/7873",
+                        "text": "Yadong Lu"
+                    },
+                    {
+                        "@pid": "29/5427-1",
+                        "text": "Di Yang 0001"
+                    },
+                    {
+                        "@pid": "59/2784-1",
+                        "text": "Pedro Martins 0001"
+                    },
+                    {
+                        "@pid": "77/10504",
+                        "text": "Hitesh Sajnani"
+                    },
+                    {
+                        "@pid": "54/1564",
+                        "text": "Pierre Baldi"
+                    },
+                    {
+                        "@pid": "l/CristinaVideiraLopes",
+                        "text": "Cristina V. Lopes"
+                    }
+                ]
+            },
+            "title": "Towards automating precision studies of clone detectors.",
+            "venue": "ICSE",
+            "pages": "49-59",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SainiFLY0SBL19",
+            "doi": "10.1109/ICSE.2019.00023",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00023",
+            "url": "https://dblp.org/rec/conf/icse/SainiFLY0SBL19"
+        },
+        "url": "URL#2691672"
+    },
+    {
+        "@score": "1",
+        "@id": "2691678",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/0466",
+                        "text": "Farhana Sarker"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    },
+                    {
+                        "@pid": "50/10438",
+                        "text": "Kelly Blincoe"
+                    },
+                    {
+                        "@pid": "f/VladimirFilkov",
+                        "text": "Vladimir Filkov"
+                    }
+                ]
+            },
+            "title": "Socio-technical work-rate increase associates with changes in work patterns in online projects.",
+            "venue": "ICSE",
+            "pages": "936-947",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SarkerVBF19",
+            "doi": "10.1109/ICSE.2019.00099",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00099",
+            "url": "https://dblp.org/rec/conf/icse/SarkerVBF19"
+        },
+        "url": "URL#2691678"
+    },
+    {
+        "@score": "1",
+        "@id": "2691681",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/9746",
+                        "text": "Todd Sedano"
+                    },
+                    {
+                        "@pid": "71/2904",
+                        "text": "Paul Ralph"
+                    },
+                    {
+                        "@pid": "88/6473",
+                        "text": "C\u00e9cile P\u00e9raire"
+                    }
+                ]
+            },
+            "title": "The product backlog.",
+            "venue": "ICSE",
+            "pages": "200-211",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SedanoRP19",
+            "doi": "10.1109/ICSE.2019.00036",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00036",
+            "url": "https://dblp.org/rec/conf/icse/SedanoRP19"
+        },
+        "url": "URL#2691681"
+    },
+    {
+        "@score": "1",
+        "@id": "2691707",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/5026",
+                        "text": "Aishwarya Sivaraman"
+                    },
+                    {
+                        "@pid": "17/322-1",
+                        "text": "Tianyi Zhang 0001"
+                    },
+                    {
+                        "@pid": "96/7521",
+                        "text": "Guy Van den Broeck"
+                    },
+                    {
+                        "@pid": "56/5320",
+                        "text": "Miryung Kim"
+                    }
+                ]
+            },
+            "title": "Active inductive logic programming for code search.",
+            "venue": "ICSE",
+            "pages": "292-303",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Sivaraman0BK19",
+            "doi": "10.1109/ICSE.2019.00044",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00044",
+            "url": "https://dblp.org/rec/conf/icse/Sivaraman0BK19"
+        },
+        "url": "URL#2691707"
+    },
+    {
+        "@score": "1",
+        "@id": "2691714",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/1469",
+                        "text": "Davide Spadini"
+                    },
+                    {
+                        "@pid": "116/6732",
+                        "text": "Fabio Palomba"
+                    },
+                    {
+                        "@pid": "92/11428",
+                        "text": "Tobias Baum"
+                    },
+                    {
+                        "@pid": "h/StefanHanenberg",
+                        "text": "Stefan Hanenberg"
+                    },
+                    {
+                        "@pid": "42/5878",
+                        "text": "Magiel Bruntink"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    }
+                ]
+            },
+            "title": "Test-driven code review: an empirical study.",
+            "venue": "ICSE",
+            "pages": "1061-1072",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SpadiniPBHBB19",
+            "doi": "10.1109/ICSE.2019.00110",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00110",
+            "url": "https://dblp.org/rec/conf/icse/SpadiniPBHBB19"
+        },
+        "url": "URL#2691714"
+    },
+    {
+        "@score": "1",
+        "@id": "2691723",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/2828-1",
+                        "text": "Pengfei Su 0001"
+                    },
+                    {
+                        "@pid": "134/6090",
+                        "text": "Shasha Wen"
+                    },
+                    {
+                        "@pid": "94/8072",
+                        "text": "Hailong Yang"
+                    },
+                    {
+                        "@pid": "115/4870",
+                        "text": "Milind Chabbi"
+                    },
+                    {
+                        "@pid": "93/3167-1",
+                        "text": "Xu Liu 0001"
+                    }
+                ]
+            },
+            "title": "Redundant loads: a software inefficiency indicator.",
+            "venue": "ICSE",
+            "pages": "982-993",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SuWYC019",
+            "doi": "10.1109/ICSE.2019.00103",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00103",
+            "url": "https://dblp.org/rec/conf/icse/SuWYC019"
+        },
+        "url": "URL#2691723"
+    },
+    {
+        "@score": "1",
+        "@id": "2691743",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "41/11356",
+                        "text": "Hieu Tran"
+                    },
+                    {
+                        "@pid": "222/5855",
+                        "text": "Ngoc M. Tran"
+                    },
+                    {
+                        "@pid": "58/2247",
+                        "text": "Son Nguyen"
+                    },
+                    {
+                        "@pid": "11/7137",
+                        "text": "Hoan Nguyen"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    }
+                ]
+            },
+            "title": "Recovering variable names for minified code with usage contexts.",
+            "venue": "ICSE",
+            "pages": "1165-1175",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TranTNNN19",
+            "doi": "10.1109/ICSE.2019.00119",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00119",
+            "url": "https://dblp.org/rec/conf/icse/TranTNNN19"
+        },
+        "url": "URL#2691743"
+    },
+    {
+        "@score": "1",
+        "@id": "2691750",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/4957",
+                        "text": "Michele Tufano"
+                    },
+                    {
+                        "@pid": "199/0400",
+                        "text": "Jevgenija Pantiuchina"
+                    },
+                    {
+                        "@pid": "201/7334",
+                        "text": "Cody Watson"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "On learning meaningful code changes via neural machine translation.",
+            "venue": "ICSE",
+            "pages": "25-36",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TufanoPWBP19",
+            "doi": "10.1109/ICSE.2019.00021",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00021",
+            "url": "https://dblp.org/rec/conf/icse/TufanoPWBP19"
+        },
+        "url": "URL#2691750"
+    },
+    {
+        "@score": "1",
+        "@id": "2691756",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/4315",
+                        "text": "Carmine Vassallo"
+                    },
+                    {
+                        "@pid": "145/7686-1",
+                        "text": "Sebastian Proksch 0001"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    },
+                    {
+                        "@pid": "d/MassimilianoDiPenta",
+                        "text": "Massimiliano Di Penta"
+                    }
+                ]
+            },
+            "title": "Automated reporting of anti-patterns and decay in continuous integration.",
+            "venue": "ICSE",
+            "pages": "105-115",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/VassalloPGP19",
+            "doi": "10.1109/ICSE.2019.00028",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00028",
+            "url": "https://dblp.org/rec/conf/icse/VassalloPGP19"
+        },
+        "url": "URL#2691756"
+    },
+    {
+        "@score": "1",
+        "@id": "2691762",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/1915-7",
+                        "text": "Junjie Wang 0007"
+                    },
+                    {
+                        "@pid": "61/9197",
+                        "text": "Bihuan Chen 0001"
+                    },
+                    {
+                        "@pid": "99/4916",
+                        "text": "Lei Wei"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "Superion: grammar-aware greybox fuzzing.",
+            "venue": "ICSE",
+            "pages": "724-735",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Wang0WL19",
+            "doi": "10.1109/ICSE.2019.00081",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00081",
+            "url": "https://dblp.org/rec/conf/icse/Wang0WL19"
+        },
+        "url": "URL#2691762"
+    },
+    {
+        "@score": "1",
+        "@id": "2691763",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "18/3178-4",
+                        "text": "Jingyi Wang 0004"
+                    },
+                    {
+                        "@pid": "232/2133",
+                        "text": "Guoliang Dong"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "68/1277-1",
+                        "text": "Xinyu Wang 0001"
+                    },
+                    {
+                        "@pid": "203/1925-1",
+                        "text": "Peixin Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Adversarial sample detection for deep neural network through model mutation testing.",
+            "venue": "ICSE",
+            "pages": "1245-1256",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangD00Z19",
+            "doi": "10.1109/ICSE.2019.00126",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00126",
+            "url": "https://dblp.org/rec/conf/icse/WangD00Z19"
+        },
+        "url": "URL#2691763"
+    },
+    {
+        "@score": "1",
+        "@id": "2691764",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/7210-1",
+                        "text": "Weihang Wang 0001"
+                    },
+                    {
+                        "@pid": "174/2864",
+                        "text": "I Luk Kim"
+                    },
+                    {
+                        "@pid": "47/702",
+                        "text": "Yunhui Zheng"
+                    }
+                ]
+            },
+            "title": "Adjust: runtime mitigation of resource abusing third-party online ads.",
+            "venue": "ICSE",
+            "pages": "1005-1015",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangKZ19",
+            "doi": "10.1109/ICSE.2019.00105",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00105",
+            "url": "https://dblp.org/rec/conf/icse/WangKZ19"
+        },
+        "url": "URL#2691764"
+    },
+    {
+        "@score": "1",
+        "@id": "2691770",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "86/3338",
+                        "text": "Xie Wang"
+                    },
+                    {
+                        "@pid": "242/3944",
+                        "text": "Huaijin Wang 0001"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    },
+                    {
+                        "@pid": "81/5695",
+                        "text": "Enyi Tang"
+                    },
+                    {
+                        "@pid": "24/1518-27",
+                        "text": "Xin Chen 0027"
+                    },
+                    {
+                        "@pid": "224/7192",
+                        "text": "Weijun Shen"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    },
+                    {
+                        "@pid": "63/829",
+                        "text": "Linzhang Wang"
+                    },
+                    {
+                        "@pid": "242/3916",
+                        "text": "Xianpei Zhang"
+                    },
+                    {
+                        "@pid": "76/5446",
+                        "text": "Xuandong Li"
+                    }
+                ]
+            },
+            "title": "Global optimization of numerical programs via prioritized stochastic algebraic transformations.",
+            "venue": "ICSE",
+            "pages": "1131-1141",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangWSTCS0WZL19",
+            "doi": "10.1109/ICSE.2019.00116",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00116",
+            "url": "https://dblp.org/rec/conf/icse/WangWSTCS0WZL19"
+        },
+        "url": "URL#2691770"
+    },
+    {
+        "@score": "1",
+        "@id": "2691771",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/3104-38",
+                        "text": "Ying Wang 0038"
+                    },
+                    {
+                        "@pid": "99/1109-1",
+                        "text": "Ming Wen 0001"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "29/4473-1",
+                        "text": "Zhenwei Liu 0001"
+                    },
+                    {
+                        "@pid": "16/9656",
+                        "text": "Shin Hwei Tan"
+                    },
+                    {
+                        "@pid": "55/1401-1",
+                        "text": "Zhiliang Zhu 0001"
+                    },
+                    {
+                        "@pid": "22/4635-1",
+                        "text": "Hai Yu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    }
+                ]
+            },
+            "title": "Could I have a stack trace to examine the dependency conflict issue?",
+            "venue": "ICSE",
+            "pages": "572-583",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangWWLTZYC19",
+            "doi": "10.1109/ICSE.2019.00068",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00068",
+            "url": "https://dblp.org/rec/conf/icse/WangWWLTZYC19"
+        },
+        "url": "URL#2691771"
+    },
+    {
+        "@score": "1",
+        "@id": "2691772",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/1915-1",
+                        "text": "Junjie Wang 0001"
+                    },
+                    {
+                        "@pid": "55/4341",
+                        "text": "Ye Yang"
+                    },
+                    {
+                        "@pid": "138/9821",
+                        "text": "Rahul Krishna"
+                    },
+                    {
+                        "@pid": "m/TimMenzies",
+                        "text": "Tim Menzies"
+                    },
+                    {
+                        "@pid": "97/6505-1",
+                        "text": "Qing Wang 0001"
+                    }
+                ]
+            },
+            "title": "iSENSE: completion-aware crowdtesting management.",
+            "venue": "ICSE",
+            "pages": "912-923",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangYKMW19",
+            "doi": "10.1109/ICSE.2019.00097",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00097",
+            "url": "https://dblp.org/rec/conf/icse/WangYKMW19"
+        },
+        "url": "URL#2691772"
+    },
+    {
+        "@score": "1",
+        "@id": "2691775",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/5973",
+                        "text": "Lili Wei"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    }
+                ]
+            },
+            "title": "Pivot: learning API-device correlations to facilitate Android compatibility issue detection.",
+            "venue": "ICSE",
+            "pages": "878-888",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WeiLC19",
+            "doi": "10.1109/ICSE.2019.00094",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00094",
+            "url": "https://dblp.org/rec/conf/icse/WeiLC19"
+        },
+        "url": "URL#2691775"
+    },
+    {
+        "@score": "1",
+        "@id": "2691778",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "99/1109-1",
+                        "text": "Ming Wen 0001"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "22/10184",
+                        "text": "Xuan Xie"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Exposing library API misuses via mutation analysis.",
+            "venue": "ICSE",
+            "pages": "866-877",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WenLWXCS19",
+            "doi": "10.1109/ICSE.2019.00093",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00093",
+            "url": "https://dblp.org/rec/conf/icse/WenLWXCS19"
+        },
+        "url": "URL#2691778"
+    },
+    {
+        "@score": "1",
+        "@id": "2691789",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "13/9656",
+                        "text": "Xusheng Xiao"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "234/7951",
+                        "text": "Zhihao Cao"
+                    },
+                    {
+                        "@pid": "136/7305",
+                        "text": "Hanlin Wang"
+                    },
+                    {
+                        "@pid": "29/5999-8",
+                        "text": "Peng Gao 0008"
+                    }
+                ]
+            },
+            "title": "IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps.",
+            "venue": "ICSE",
+            "pages": "257-268",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/XiaoWCWG19",
+            "doi": "10.1109/ICSE.2019.00041",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00041",
+            "url": "https://dblp.org/rec/conf/icse/XiaoWCWG19"
+        },
+        "url": "URL#2691789"
+    },
+    {
+        "@score": "1",
+        "@id": "2691794",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3922",
+                        "text": "Xuezheng Xu"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    },
+                    {
+                        "@pid": "62/473",
+                        "text": "Hua Yan"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "VFix: value-flow-guided precise program repair for null pointer dereferences.",
+            "venue": "ICSE",
+            "pages": "512-523",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/XuSYX19",
+            "doi": "10.1109/ICSE.2019.00063",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00063",
+            "url": "https://dblp.org/rec/conf/icse/XuSYX19"
+        },
+        "url": "URL#2691794"
+    },
+    {
+        "@score": "1",
+        "@id": "2691798",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "208/0023",
+                        "text": "Junwen Yang"
+                    },
+                    {
+                        "@pid": "129/2744",
+                        "text": "Cong Yan"
+                    },
+                    {
+                        "@pid": "183/4488",
+                        "text": "Chengcheng Wan 0001"
+                    },
+                    {
+                        "@pid": "31/5916-1",
+                        "text": "Shan Lu 0001"
+                    },
+                    {
+                        "@pid": "16/4915",
+                        "text": "Alvin Cheung"
+                    }
+                ]
+            },
+            "title": "View-centric performance optimization for database-backed web applications.",
+            "venue": "ICSE",
+            "pages": "994-1004",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YangYWLC19",
+            "doi": "10.1109/ICSE.2019.00104",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00104",
+            "url": "https://dblp.org/rec/conf/icse/YangYWLC19"
+        },
+        "url": "URL#2691798"
+    },
+    {
+        "@score": "1",
+        "@id": "2691799",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "138/0251",
+                        "text": "Yibiao Yang"
+                    },
+                    {
+                        "@pid": "06/3406",
+                        "text": "Yuming Zhou"
+                    },
+                    {
+                        "@pid": "82/2248",
+                        "text": "Hao Sun"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    },
+                    {
+                        "@pid": "10/964-2",
+                        "text": "Zhiqiang Zuo 0002"
+                    },
+                    {
+                        "@pid": "19/360-3",
+                        "text": "Lei Xu 0003"
+                    },
+                    {
+                        "@pid": "46/5742",
+                        "text": "Baowen Xu"
+                    }
+                ]
+            },
+            "title": "Hunting for bugs in code coverage tools via randomized differential testing.",
+            "venue": "ICSE",
+            "pages": "488-498",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YangZSS00X19",
+            "doi": "10.1109/ICSE.2019.00061",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00061",
+            "url": "https://dblp.org/rec/conf/icse/YangZSS00X19"
+        },
+        "url": "URL#2691799"
+    },
+    {
+        "@score": "1",
+        "@id": "2691801",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3950",
+                        "text": "Suraj Yatish"
+                    },
+                    {
+                        "@pid": "147/6998",
+                        "text": "Jirayus Jiarpakdee"
+                    },
+                    {
+                        "@pid": "138/8517",
+                        "text": "Patanamon Thongtanunam"
+                    },
+                    {
+                        "@pid": "140/7129",
+                        "text": "Chakkrit Tantithamthavorn"
+                    }
+                ]
+            },
+            "title": "Mining software defects: should we consider affected releases?",
+            "venue": "ICSE",
+            "pages": "654-665",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YatishJTT19",
+            "doi": "10.1109/ICSE.2019.00075",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00075",
+            "url": "https://dblp.org/rec/conf/icse/YatishJTT19"
+        },
+        "url": "URL#2691801"
+    },
+    {
+        "@score": "1",
+        "@id": "2691804",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "23/10811",
+                        "text": "Liangze Yin"
+                    },
+                    {
+                        "@pid": "92/748-6",
+                        "text": "Wei Dong 0006"
+                    },
+                    {
+                        "@pid": "04/5600",
+                        "text": "Wanwei Liu"
+                    },
+                    {
+                        "@pid": "64/856-1",
+                        "text": "Ji Wang 0001"
+                    }
+                ]
+            },
+            "title": "Parallel refinement for multi-threaded program verification.",
+            "venue": "ICSE",
+            "pages": "643-653",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Yin0L019",
+            "doi": "10.1109/ICSE.2019.00074",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00074",
+            "url": "https://dblp.org/rec/conf/icse/Yin0L019"
+        },
+        "url": "URL#2691804"
+    },
+    {
+        "@score": "1",
+        "@id": "2691808",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "87/6465",
+                        "text": "Wei You"
+                    },
+                    {
+                        "@pid": "242/3935",
+                        "text": "Xuwei Liu"
+                    },
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "187/9673",
+                        "text": "David Mitchel Perry"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "71/6053-2",
+                        "text": "Bin Liang 0002"
+                    }
+                ]
+            },
+            "title": "SLF: fuzzing without valid seed inputs.",
+            "venue": "ICSE",
+            "pages": "712-723",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YouLMPZ019",
+            "doi": "10.1109/ICSE.2019.00080",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00080",
+            "url": "https://dblp.org/rec/conf/icse/YouLMPZ019"
+        },
+        "url": "URL#2691808"
+    },
+    {
+        "@score": "1",
+        "@id": "2691812",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "229/4234",
+                        "text": "Lefan Zhang"
+                    },
+                    {
+                        "@pid": "198/7178",
+                        "text": "Weijia He"
+                    },
+                    {
+                        "@pid": "304/1426",
+                        "text": "Jesse J. Martinez"
+                    },
+                    {
+                        "@pid": "242/3905",
+                        "text": "Noah Brackenbury"
+                    },
+                    {
+                        "@pid": "31/5916-1",
+                        "text": "Shan Lu 0001"
+                    },
+                    {
+                        "@pid": "66/9786",
+                        "text": "Blase Ur"
+                    }
+                ]
+            },
+            "title": "AutoTap: synthesizing and repairing trigger-action programs using LTL properties.",
+            "venue": "ICSE",
+            "pages": "281-291",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangHMBLU19",
+            "doi": "10.1109/ICSE.2019.00043",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00043",
+            "url": "https://dblp.org/rec/conf/icse/ZhangHMBLU19"
+        },
+        "url": "URL#2691812"
+    },
+    {
+        "@score": "1",
+        "@id": "2691815",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    },
+                    {
+                        "@pid": "w/XuWang7",
+                        "text": "Xu Wang 0007"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "21/1509-1",
+                        "text": "Hailong Sun 0001"
+                    },
+                    {
+                        "@pid": "132/6121",
+                        "text": "Kaixuan Wang"
+                    },
+                    {
+                        "@pid": "90/2144-1",
+                        "text": "Xudong Liu 0001"
+                    }
+                ]
+            },
+            "title": "A novel neural source code representation based on abstract syntax tree.",
+            "venue": "ICSE",
+            "pages": "783-794",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangWZ0WL19",
+            "doi": "10.1109/ICSE.2019.00086",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00086",
+            "url": "https://dblp.org/rec/conf/icse/ZhangWZ0WL19"
+        },
+        "url": "URL#2691815"
+    },
+    {
+        "@score": "1",
+        "@id": "2691820",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8138",
+                        "text": "Dehai Zhao"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "l/GuoqiangLi1",
+                        "text": "Guoqiang Li 0001"
+                    }
+                ]
+            },
+            "title": "ActionNet: vision-based workflow action recognition from programming screencasts.",
+            "venue": "ICSE",
+            "pages": "350-361",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhaoXC0019",
+            "doi": "10.1109/ICSE.2019.00049",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00049",
+            "url": "https://dblp.org/rec/conf/icse/ZhaoXC0019"
+        },
+        "url": "URL#2691820"
+    },
+    {
+        "@score": "1",
+        "@id": "2691821",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/2056-10",
+                        "text": "Yu Zhao 0010"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "44/4773-6",
+                        "text": "Wei Zheng 0006"
+                    },
+                    {
+                        "@pid": "75/139",
+                        "text": "Jingzhi Zhang"
+                    },
+                    {
+                        "@pid": "04/4583",
+                        "text": "William G. J. Halfond"
+                    }
+                ]
+            },
+            "title": "ReCDroid: automatically reproducing Android application crashes from bug reports.",
+            "venue": "ICSE",
+            "pages": "128-139",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhaoYSLZZH19",
+            "doi": "10.1109/ICSE.2019.00030",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00030",
+            "url": "https://dblp.org/rec/conf/icse/ZhaoYSLZZH19"
+        },
+        "url": "URL#2691821"
+    },
+    {
+        "@score": "1",
+        "@id": "2691826",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "48/7536-2",
+                        "text": "Chenguang Zhu 0002"
+                    },
+                    {
+                        "@pid": "133/8821",
+                        "text": "Owolabi Legunsen"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "43/6015",
+                        "text": "Milos Gligoric 0001"
+                    }
+                ]
+            },
+            "title": "A framework for checking regression test selection tools.",
+            "venue": "ICSE",
+            "pages": "430-441",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhuLSG19",
+            "doi": "10.1109/ICSE.2019.00056",
+            "ee": "https://doi.org/10.1109/ICSE.2019.00056",
+            "url": "https://dblp.org/rec/conf/icse/ZhuLSG19"
+        },
+        "url": "URL#2691826"
+    },
+    {
+        "@score": "1",
+        "@id": "2780933",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "a/JMAtlee",
+                        "text": "Joanne M. Atlee"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    },
+                    {
+                        "@pid": "w/JonWhittle",
+                        "text": "Jon Whittle 0001"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 41st International Conference on Software Engineering, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019",
+            "venue": "ICSE",
+            "publisher": "IEEE / ACM",
+            "year": "2019",
+            "type": "Editorship",
+            "key": "conf/icse/2019",
+            "ee": "https://ieeexplore.ieee.org/xpl/conhome/8790403/proceeding",
+            "url": "https://dblp.org/rec/conf/icse/2019"
+        },
+        "url": "URL#2780933"
+    }
+]

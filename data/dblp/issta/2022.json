@@ -1,0 +1,2932 @@
+[
+    {
+        "@score": "1",
+        "@id": "1369665",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/8657-1",
+                        "text": "Ali Ghanbari 0001"
+                    },
+                    {
+                        "@pid": "m/AndrianMarcus",
+                        "text": "Andrian Marcus"
+                    }
+                ]
+            },
+            "title": "Patch correctness assessment in automated program repair based on the impact of patches on production and test code.",
+            "venue": "ISSTA",
+            "pages": "654-665",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/0001M22",
+            "doi": "10.1145/3533767.3534368",
+            "ee": "https://doi.org/10.1145/3533767.3534368",
+            "url": "https://dblp.org/rec/conf/issta/0001M22"
+        },
+        "url": "URL#1369665"
+    },
+    {
+        "@score": "1",
+        "@id": "1369666",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/8657-1",
+                        "text": "Ali Ghanbari 0001"
+                    },
+                    {
+                        "@pid": "m/AndrianMarcus",
+                        "text": "Andrian Marcus"
+                    }
+                ]
+            },
+            "title": "Faster mutation analysis with MeMu.",
+            "venue": "ISSTA",
+            "pages": "781-784",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/0001M22a",
+            "doi": "10.1145/3533767.3543288",
+            "ee": "https://doi.org/10.1145/3533767.3543288",
+            "url": "https://dblp.org/rec/conf/issta/0001M22a"
+        },
+        "url": "URL#1369666"
+    },
+    {
+        "@score": "1",
+        "@id": "1369667",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "214/6986-2",
+                        "text": "Yuntong Zhang 0002"
+                    },
+                    {
+                        "@pid": "14/3881-12",
+                        "text": "Xiang Gao 0012"
+                    },
+                    {
+                        "@pid": "74/3123",
+                        "text": "Gregory J. Duck"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "Program vulnerability repair via inductive inference.",
+            "venue": "ISSTA",
+            "pages": "691-702",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/00020DR22",
+            "doi": "10.1145/3533767.3534387",
+            "ee": "https://doi.org/10.1145/3533767.3534387",
+            "url": "https://dblp.org/rec/conf/issta/00020DR22"
+        },
+        "url": "URL#1369667"
+    },
+    {
+        "@score": "1",
+        "@id": "1369668",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "59/1856-2",
+                        "text": "Pei Huang 0002"
+                    },
+                    {
+                        "@pid": "25/3635-2",
+                        "text": "Yuting Yang 0002"
+                    },
+                    {
+                        "@pid": "119/3234-1",
+                        "text": "Minghao Liu 0001"
+                    },
+                    {
+                        "@pid": "305/0579",
+                        "text": "Fuqi Jia"
+                    },
+                    {
+                        "@pid": "59/556",
+                        "text": "Feifei Ma"
+                    },
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    }
+                ]
+            },
+            "title": "\u03b5-weakened robustness of deep neural networks.",
+            "venue": "ISSTA",
+            "pages": "126-138",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/00020LJMZ22",
+            "doi": "10.1145/3533767.3534373",
+            "ee": "https://doi.org/10.1145/3533767.3534373",
+            "url": "https://dblp.org/rec/conf/issta/00020LJMZ22"
+        },
+        "url": "URL#1369668"
+    },
+    {
+        "@score": "1",
+        "@id": "1369669",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "63/6525-2",
+                        "text": "Ming Fan 0002"
+                    },
+                    {
+                        "@pid": "283/7991",
+                        "text": "Jiali Wei"
+                    },
+                    {
+                        "@pid": "192/6334",
+                        "text": "Wuxia Jin"
+                    },
+                    {
+                        "@pid": "00/1568-3",
+                        "text": "Zhou Xu 0003"
+                    },
+                    {
+                        "@pid": "272/5472",
+                        "text": "Wenying Wei"
+                    },
+                    {
+                        "@pid": "52/5150-2",
+                        "text": "Ting Liu 0002"
+                    }
+                ]
+            },
+            "title": "One step further: evaluating interpreters using metamorphic testing.",
+            "venue": "ISSTA",
+            "pages": "327-339",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/0002WJXW022",
+            "doi": "10.1145/3533767.3534225",
+            "ee": "https://doi.org/10.1145/3533767.3534225",
+            "url": "https://dblp.org/rec/conf/issta/0002WJXW022"
+        },
+        "url": "URL#1369669"
+    },
+    {
+        "@score": "1",
+        "@id": "1369670",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/7025-4",
+                        "text": "Michael Weiss 0004"
+                    },
+                    {
+                        "@pid": "54/2734",
+                        "text": "Paolo Tonella"
+                    }
+                ]
+            },
+            "title": "Simple techniques work surprisingly well for neural network test prioritization and active learning (replicability study).",
+            "venue": "ISSTA",
+            "pages": "139-150",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/0004T22",
+            "doi": "10.1145/3533767.3534375",
+            "ee": "https://doi.org/10.1145/3533767.3534375",
+            "url": "https://dblp.org/rec/conf/issta/0004T22"
+        },
+        "url": "URL#1369670"
+    },
+    {
+        "@score": "1",
+        "@id": "1369671",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/3675",
+                        "text": "Gabin An"
+                    },
+                    {
+                        "@pid": "06/1626",
+                        "text": "Shin Yoo"
+                    }
+                ]
+            },
+            "title": "FDG: a precise measurement of fault diagnosability gain of test cases.",
+            "venue": "ISSTA",
+            "pages": "14-26",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AnY22",
+            "doi": "10.1145/3533767.3534370",
+            "ee": "https://doi.org/10.1145/3533767.3534370",
+            "url": "https://dblp.org/rec/conf/issta/AnY22"
+        },
+        "url": "URL#1369671"
+    },
+    {
+        "@score": "1",
+        "@id": "1369672",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/1759",
+                        "text": "Anastasios Andronidis"
+                    },
+                    {
+                        "@pid": "86/4141",
+                        "text": "Cristian Cadar"
+                    }
+                ]
+            },
+            "title": "SnapFuzz: high-throughput fuzzing of network applications.",
+            "venue": "ISSTA",
+            "pages": "340-351",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AndronidisC22",
+            "doi": "10.1145/3533767.3534376",
+            "ee": "https://doi.org/10.1145/3533767.3534376",
+            "url": "https://dblp.org/rec/conf/issta/AndronidisC22"
+        },
+        "url": "URL#1369672"
+    },
+    {
+        "@score": "1",
+        "@id": "1369673",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "325/0899",
+                    "text": "Alexandru Bodea"
+                }
+            },
+            "title": "Pytest-Smell: a smell detection tool for Python unit tests.",
+            "venue": "ISSTA",
+            "pages": "793-796",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Bodea22",
+            "doi": "10.1145/3533767.3543290",
+            "ee": "https://doi.org/10.1145/3533767.3543290",
+            "url": "https://dblp.org/rec/conf/issta/Bodea22"
+        },
+        "url": "URL#1369673"
+    },
+    {
+        "@score": "1",
+        "@id": "1369674",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "178/6428",
+                        "text": "Franz Brau\u00dfe"
+                    },
+                    {
+                        "@pid": "147/5324",
+                        "text": "Fedor Shmarov"
+                    },
+                    {
+                        "@pid": "217/4869",
+                        "text": "Rafael Menezes"
+                    },
+                    {
+                        "@pid": "127/1726",
+                        "text": "Mikhail R. Gadelha"
+                    },
+                    {
+                        "@pid": "k/KonstantinKorovin",
+                        "text": "Konstantin Korovin"
+                    },
+                    {
+                        "@pid": "118/0099",
+                        "text": "Giles Reger"
+                    },
+                    {
+                        "@pid": "42/4311",
+                        "text": "Lucas C. Cordeiro"
+                    }
+                ]
+            },
+            "title": "ESBMC-CHERI: towards verification of C programs for CHERI platforms with ESBMC.",
+            "venue": "ISSTA",
+            "pages": "773-776",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BrausseSMGKRC22",
+            "doi": "10.1145/3533767.3543289",
+            "ee": "https://doi.org/10.1145/3533767.3543289",
+            "url": "https://dblp.org/rec/conf/issta/BrausseSMGKRC22"
+        },
+        "url": "URL#1369674"
+    },
+    {
+        "@score": "1",
+        "@id": "1369675",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "269/8059",
+                        "text": "Frank Busse"
+                    },
+                    {
+                        "@pid": "177/9094",
+                        "text": "Pritam M. Gharat"
+                    },
+                    {
+                        "@pid": "86/4141",
+                        "text": "Cristian Cadar"
+                    },
+                    {
+                        "@pid": "11/5933",
+                        "text": "Alastair F. Donaldson"
+                    }
+                ]
+            },
+            "title": "Combining static analysis error traces with dynamic symbolic execution (experience paper).",
+            "venue": "ISSTA",
+            "pages": "568-579",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BusseGCD22",
+            "doi": "10.1145/3533767.3534384",
+            "ee": "https://doi.org/10.1145/3533767.3534384",
+            "url": "https://dblp.org/rec/conf/issta/BusseGCD22"
+        },
+        "url": "URL#1369675"
+    },
+    {
+        "@score": "1",
+        "@id": "1369676",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "322/0426",
+                        "text": "Cecilio Cannavacciuolo"
+                    },
+                    {
+                        "@pid": "27/2914",
+                        "text": "Leonardo Mariani"
+                    }
+                ]
+            },
+            "title": "Automatic generation of smoke test suites for kubernetes.",
+            "venue": "ISSTA",
+            "pages": "769-772",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/CannavacciuoloM22",
+            "doi": "10.1145/3533767.3543298",
+            "ee": "https://doi.org/10.1145/3533767.3543298",
+            "url": "https://dblp.org/rec/conf/issta/CannavacciuoloM22"
+        },
+        "url": "URL#1369676"
+    },
+    {
+        "@score": "1",
+        "@id": "1369677",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/966",
+                        "text": "Weimin Chen"
+                    },
+                    {
+                        "@pid": "150/4865",
+                        "text": "Zihan Sun"
+                    },
+                    {
+                        "@pid": "50/8499-1",
+                        "text": "Haoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "117/7062",
+                        "text": "Haipeng Cai"
+                    },
+                    {
+                        "@pid": "68/5597-12",
+                        "text": "Lei Wu 0012"
+                    }
+                ]
+            },
+            "title": "WASAI: uncovering vulnerabilities in Wasm smart contracts.",
+            "venue": "ISSTA",
+            "pages": "703-715",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ChenSWLCW22",
+            "doi": "10.1145/3533767.3534218",
+            "ee": "https://doi.org/10.1145/3533767.3534218",
+            "url": "https://dblp.org/rec/conf/issta/ChenSWLCW22"
+        },
+        "url": "URL#1369677"
+    },
+    {
+        "@score": "1",
+        "@id": "1369678",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/1713-2",
+                        "text": "Xiao Cheng 0002"
+                    },
+                    {
+                        "@pid": "280/5620",
+                        "text": "Guanqin Zhang"
+                    },
+                    {
+                        "@pid": "50/8499-1",
+                        "text": "Haoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    }
+                ]
+            },
+            "title": "Path-sensitive code embedding via contrastive learning for software vulnerability detection.",
+            "venue": "ISSTA",
+            "pages": "519-531",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ChengZ0S22",
+            "doi": "10.1145/3533767.3534371",
+            "ee": "https://doi.org/10.1145/3533767.3534371",
+            "url": "https://dblp.org/rec/conf/issta/ChengZ0S22"
+        },
+        "url": "URL#1369678"
+    },
+    {
+        "@score": "1",
+        "@id": "1369679",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "162/5556",
+                        "text": "Hasan Ferit Eniser"
+                    },
+                    {
+                        "@pid": "267/0453",
+                        "text": "Timo P. Gros"
+                    },
+                    {
+                        "@pid": "28/9798",
+                        "text": "Valentin W\u00fcstholz"
+                    },
+                    {
+                        "@pid": "26/836",
+                        "text": "J\u00f6rg Hoffmann 0001"
+                    },
+                    {
+                        "@pid": "05/7730",
+                        "text": "Maria Christakis"
+                    }
+                ]
+            },
+            "title": "Metamorphic relations via relaxations: an approach to obtain oracles for action-policy testing.",
+            "venue": "ISSTA",
+            "pages": "52-63",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/EniserGW0C22",
+            "doi": "10.1145/3533767.3534392",
+            "ee": "https://doi.org/10.1145/3533767.3534392",
+            "url": "https://dblp.org/rec/conf/issta/EniserGW0C22"
+        },
+        "url": "URL#1369679"
+    },
+    {
+        "@score": "1",
+        "@id": "1369680",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "255/8946",
+                        "text": "Daniel Fortunato"
+                    },
+                    {
+                        "@pid": "120/0755-1",
+                        "text": "Jos\u00e9 Campos 0001"
+                    },
+                    {
+                        "@pid": "00/6243",
+                        "text": "Rui Abreu 0001"
+                    }
+                ]
+            },
+            "title": "QMutPy: a mutation testing tool for Quantum algorithms and applications in Qiskit.",
+            "venue": "ISSTA",
+            "pages": "797-800",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/FortunatoC022",
+            "doi": "10.1145/3533767.3543296",
+            "ee": "https://doi.org/10.1145/3533767.3543296",
+            "url": "https://dblp.org/rec/conf/issta/FortunatoC022"
+        },
+        "url": "URL#1369680"
+    },
+    {
+        "@score": "1",
+        "@id": "1369681",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "197/6070",
+                        "text": "Asem Ghaleb"
+                    },
+                    {
+                        "@pid": "26/4417",
+                        "text": "Julia Rubin"
+                    },
+                    {
+                        "@pid": "91/5344",
+                        "text": "Karthik Pattabiraman"
+                    }
+                ]
+            },
+            "title": "eTainter: detecting gas-related vulnerabilities in smart contracts.",
+            "venue": "ISSTA",
+            "pages": "728-739",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GhalebRP22",
+            "doi": "10.1145/3533767.3534378",
+            "ee": "https://doi.org/10.1145/3533767.3534378",
+            "url": "https://dblp.org/rec/conf/issta/GhalebRP22"
+        },
+        "url": "URL#1369681"
+    },
+    {
+        "@score": "1",
+        "@id": "1369682",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "191/6634",
+                        "text": "Wunan Guo"
+                    },
+                    {
+                        "@pid": "60/1749",
+                        "text": "Zhen Dong"
+                    },
+                    {
+                        "@pid": "39/2105",
+                        "text": "Liwei Shen"
+                    },
+                    {
+                        "@pid": "56/3860",
+                        "text": "Wei Tian"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    }
+                ]
+            },
+            "title": "Detecting and fixing data loss issues in Android apps.",
+            "venue": "ISSTA",
+            "pages": "605-616",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuoDST0022",
+            "doi": "10.1145/3533767.3534402",
+            "ee": "https://doi.org/10.1145/3533767.3534402",
+            "url": "https://dblp.org/rec/conf/issta/GuoDST0022"
+        },
+        "url": "URL#1369682"
+    },
+    {
+        "@score": "1",
+        "@id": "1369683",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "191/6634",
+                        "text": "Wunan Guo"
+                    },
+                    {
+                        "@pid": "60/1749",
+                        "text": "Zhen Dong"
+                    },
+                    {
+                        "@pid": "39/2105",
+                        "text": "Liwei Shen"
+                    },
+                    {
+                        "@pid": "56/3860",
+                        "text": "Wei Tian"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    }
+                ]
+            },
+            "title": "iFixDataloss: a tool for detecting and fixing data loss issues in Android apps.",
+            "venue": "ISSTA",
+            "pages": "785-788",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuoDST0022a",
+            "doi": "10.1145/3533767.3543297",
+            "ee": "https://doi.org/10.1145/3533767.3543297",
+            "url": "https://dblp.org/rec/conf/issta/GuoDST0022a"
+        },
+        "url": "URL#1369683"
+    },
+    {
+        "@score": "1",
+        "@id": "1369684",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "211/4804-2",
+                        "text": "An Guo 0002"
+                    },
+                    {
+                        "@pid": "07/6095-3",
+                        "text": "Yang Feng 0003"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    }
+                ]
+            },
+            "title": "LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems.",
+            "venue": "ISSTA",
+            "pages": "480-492",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuoF022",
+            "doi": "10.1145/3533767.3534397",
+            "ee": "https://doi.org/10.1145/3533767.3534397",
+            "url": "https://dblp.org/rec/conf/issta/GuoF022"
+        },
+        "url": "URL#1369684"
+    },
+    {
+        "@score": "1",
+        "@id": "1369685",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "317/7026",
+                        "text": "Jen-tse Huang 0001"
+                    },
+                    {
+                        "@pid": "03/2548-2",
+                        "text": "Jianping Zhang 0002"
+                    },
+                    {
+                        "@pid": "203/1536-1",
+                        "text": "Wenxuan Wang 0001"
+                    },
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    },
+                    {
+                        "@pid": "47/2603-1",
+                        "text": "Yuxin Su 0001"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "AEON: a method for automatic evaluation of NLP test cases.",
+            "venue": "ISSTA",
+            "pages": "202-214",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/HuangZWH0L22",
+            "doi": "10.1145/3533767.3534394",
+            "ee": "https://doi.org/10.1145/3533767.3534394",
+            "url": "https://dblp.org/rec/conf/issta/HuangZWH0L22"
+        },
+        "url": "URL#1369685"
+    },
+    {
+        "@score": "1",
+        "@id": "1369686",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/3835",
+                        "text": "Ahmed Irfan"
+                    },
+                    {
+                        "@pid": "222/9175",
+                        "text": "Sorawee Porncharoenwase"
+                    },
+                    {
+                        "@pid": "31/4458",
+                        "text": "Zvonimir Rakamaric"
+                    },
+                    {
+                        "@pid": "66/4832",
+                        "text": "Neha Rungta"
+                    },
+                    {
+                        "@pid": "55/1457",
+                        "text": "Emina Torlak"
+                    }
+                ]
+            },
+            "title": "Testing Dafny (experience paper).",
+            "venue": "ISSTA",
+            "pages": "556-567",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/IrfanPRRT22",
+            "doi": "10.1145/3533767.3534382",
+            "ee": "https://doi.org/10.1145/3533767.3534382",
+            "url": "https://dblp.org/rec/conf/issta/IrfanPRRT22"
+        },
+        "url": "URL#1369686"
+    },
+    {
+        "@score": "1",
+        "@id": "1369687",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/1135",
+                        "text": "Pin Ji"
+                    },
+                    {
+                        "@pid": "07/6095-3",
+                        "text": "Yang Feng 0003"
+                    },
+                    {
+                        "@pid": "49/1245-8",
+                        "text": "Jia Liu 0008"
+                    },
+                    {
+                        "@pid": "96/175",
+                        "text": "Zhihong Zhao"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    }
+                ]
+            },
+            "title": "ASRTest: automated testing for deep-neural-network-driven speech recognition systems.",
+            "venue": "ISSTA",
+            "pages": "189-201",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JiFLZ022",
+            "doi": "10.1145/3533767.3534391",
+            "ee": "https://doi.org/10.1145/3533767.3534391",
+            "url": "https://dblp.org/rec/conf/issta/JiFLZ022"
+        },
+        "url": "URL#1369687"
+    },
+    {
+        "@score": "1",
+        "@id": "1369688",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/7414",
+                        "text": "Hong Jin Kang"
+                    },
+                    {
+                        "@pid": "325/0895",
+                        "text": "Truong Giang Nguyen"
+                    },
+                    {
+                        "@pid": "304/2501-1",
+                        "text": "Bach Le 0001"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    }
+                ]
+            },
+            "title": "Test mimicry to assess the exploitability of library vulnerabilities.",
+            "venue": "ISSTA",
+            "pages": "276-288",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KangNLP022",
+            "doi": "10.1145/3533767.3534398",
+            "ee": "https://doi.org/10.1145/3533767.3534398",
+            "url": "https://dblp.org/rec/conf/issta/KangNLP022"
+        },
+        "url": "URL#1369688"
+    },
+    {
+        "@score": "1",
+        "@id": "1369689",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "255/6114",
+                        "text": "Charaka Geethal Kapugama"
+                    },
+                    {
+                        "@pid": "140/7942",
+                        "text": "Van-Thuan Pham"
+                    },
+                    {
+                        "@pid": "61/7634",
+                        "text": "Aldeida Aleti"
+                    },
+                    {
+                        "@pid": "91/7541",
+                        "text": "Marcel B\u00f6hme"
+                    }
+                ]
+            },
+            "title": "Human-in-the-loop oracle learning for semantic bugs in string processing programs.",
+            "venue": "ISSTA",
+            "pages": "215-226",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KapugamaPAB22",
+            "doi": "10.1145/3533767.3534406",
+            "ee": "https://doi.org/10.1145/3533767.3534406",
+            "url": "https://dblp.org/rec/conf/issta/KapugamaPAB22"
+        },
+        "url": "URL#1369689"
+    },
+    {
+        "@score": "1",
+        "@id": "1369690",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "325/0894",
+                        "text": "Geunwoo Kim"
+                    },
+                    {
+                        "@pid": "135/8991",
+                        "text": "Sanghyun Hong 0001"
+                    },
+                    {
+                        "@pid": "f/MichaelFranz",
+                        "text": "Michael Franz"
+                    },
+                    {
+                        "@pid": "210/0976",
+                        "text": "Dokyung Song"
+                    }
+                ]
+            },
+            "title": "Improving cross-platform binary analysis using representation learning via graph alignment.",
+            "venue": "ISSTA",
+            "pages": "151-163",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Kim0FS22",
+            "doi": "10.1145/3533767.3534383",
+            "ee": "https://doi.org/10.1145/3533767.3534383",
+            "url": "https://dblp.org/rec/conf/issta/Kim0FS22"
+        },
+        "url": "URL#1369690"
+    },
+    {
+        "@score": "1",
+        "@id": "1369691",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "258/2357",
+                        "text": "Myeongsoo Kim"
+                    },
+                    {
+                        "@pid": "77/2901",
+                        "text": "Qi Xin"
+                    },
+                    {
+                        "@pid": "13/1472",
+                        "text": "Saurabh Sinha"
+                    },
+                    {
+                        "@pid": "35/805",
+                        "text": "Alessandro Orso"
+                    }
+                ]
+            },
+            "title": "Automated test generation for REST APIs: no time to rest yet.",
+            "venue": "ISSTA",
+            "pages": "289-301",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KimXSO22",
+            "doi": "10.1145/3533767.3534401",
+            "ee": "https://doi.org/10.1145/3533767.3534401",
+            "url": "https://dblp.org/rec/conf/issta/KimXSO22"
+        },
+        "url": "URL#1369691"
+    },
+    {
+        "@score": "1",
+        "@id": "1369692",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "325/0902",
+                        "text": "Sumit Lahiri"
+                    },
+                    {
+                        "@pid": "95/621",
+                        "text": "Subhajit Roy 0001"
+                    }
+                ]
+            },
+            "title": "Almost correct invariants: synthesizing inductive invariants by fuzzing proofs.",
+            "venue": "ISSTA",
+            "pages": "352-364",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LahiriR22",
+            "doi": "10.1145/3533767.3534381",
+            "ee": "https://doi.org/10.1145/3533767.3534381",
+            "url": "https://dblp.org/rec/conf/issta/LahiriR22"
+        },
+        "url": "URL#1369692"
+    },
+    {
+        "@score": "1",
+        "@id": "1369693",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "34/2997-7",
+                        "text": "Yu Li 0007"
+                    },
+                    {
+                        "@pid": "316/2877",
+                        "text": "Muxi Chen"
+                    },
+                    {
+                        "@pid": "43/1230-1",
+                        "text": "Qiang Xu 0001"
+                    }
+                ]
+            },
+            "title": "HybridRepair: towards annotation-efficient repair for deep learning models.",
+            "venue": "ISSTA",
+            "pages": "227-238",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiC022",
+            "doi": "10.1145/3533767.3534408",
+            "ee": "https://doi.org/10.1145/3533767.3534408",
+            "url": "https://dblp.org/rec/conf/issta/LiC022"
+        },
+        "url": "URL#1369693"
+    },
+    {
+        "@score": "1",
+        "@id": "1369694",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "66/190",
+                        "text": "Chao Li"
+                    },
+                    {
+                        "@pid": "02/1003",
+                        "text": "Rui Chen"
+                    },
+                    {
+                        "@pid": "157/3528",
+                        "text": "Boxiang Wang"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "134/1334",
+                        "text": "Dongdong Gao"
+                    },
+                    {
+                        "@pid": "11/3418",
+                        "text": "Mengfei Yang"
+                    }
+                ]
+            },
+            "title": "Precise and efficient atomicity violation detection for interrupt-driven programs via staged path pruning.",
+            "venue": "ISSTA",
+            "pages": "506-518",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiCWYGY22",
+            "doi": "10.1145/3533767.3534412",
+            "ee": "https://doi.org/10.1145/3533767.3534412",
+            "url": "https://dblp.org/rec/conf/issta/LiCWYGY22"
+        },
+        "url": "URL#1369694"
+    },
+    {
+        "@score": "1",
+        "@id": "1369695",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "169/0360",
+                        "text": "Chengpeng Li"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    }
+                ]
+            },
+            "title": "Evolution-aware detection of order-dependent flaky tests.",
+            "venue": "ISSTA",
+            "pages": "114-125",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiS22",
+            "doi": "10.1145/3533767.3534404",
+            "ee": "https://doi.org/10.1145/3533767.3534404",
+            "url": "https://dblp.org/rec/conf/issta/LiS22"
+        },
+        "url": "URL#1369695"
+    },
+    {
+        "@score": "1",
+        "@id": "1369696",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/2834",
+                        "text": "Zhiming Li"
+                    },
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "121/0867",
+                        "text": "Haoliang Li"
+                    },
+                    {
+                        "@pid": "183/0183",
+                        "text": "Zhengzi Xu"
+                    },
+                    {
+                        "@pid": "59/871-8",
+                        "text": "Yi Li 0008"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "Cross-lingual transfer learning for statistical type inference.",
+            "venue": "ISSTA",
+            "pages": "239-250",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiXLX0022",
+            "doi": "10.1145/3533767.3534411",
+            "ee": "https://doi.org/10.1145/3533767.3534411",
+            "url": "https://dblp.org/rec/conf/issta/LiXLX0022"
+        },
+        "url": "URL#1369696"
+    },
+    {
+        "@score": "1",
+        "@id": "1369697",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "291/2034",
+                        "text": "Zeqin Liao"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    },
+                    {
+                        "@pid": "05/3054",
+                        "text": "Xiao Chen"
+                    },
+                    {
+                        "@pid": "167/0416",
+                        "text": "Yuhong Nan"
+                    }
+                ]
+            },
+            "title": "SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability.",
+            "venue": "ISSTA",
+            "pages": "752-764",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiaoZCN22",
+            "doi": "10.1145/3533767.3534222",
+            "ee": "https://doi.org/10.1145/3533767.3534222",
+            "url": "https://dblp.org/rec/conf/issta/LiaoZCN22"
+        },
+        "url": "URL#1369697"
+    },
+    {
+        "@score": "1",
+        "@id": "1369698",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "322/8253",
+                        "text": "Stephan Lipp"
+                    },
+                    {
+                        "@pid": "33/7672",
+                        "text": "Sebastian Banescu"
+                    },
+                    {
+                        "@pid": "98/5319",
+                        "text": "Alexander Pretschner"
+                    }
+                ]
+            },
+            "title": "An empirical study on the effectiveness of static C code analyzers for vulnerability detection.",
+            "venue": "ISSTA",
+            "pages": "544-555",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LippBP22",
+            "doi": "10.1145/3533767.3534380",
+            "ee": "https://doi.org/10.1145/3533767.3534380",
+            "url": "https://dblp.org/rec/conf/issta/LippBP22"
+        },
+        "url": "URL#1369698"
+    },
+    {
+        "@score": "1",
+        "@id": "1369699",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "96/2615-12",
+                        "text": "Ye Liu 0012"
+                    },
+                    {
+                        "@pid": "59/871-8",
+                        "text": "Yi Li 0008"
+                    },
+                    {
+                        "@pid": "55/4730-1",
+                        "text": "Shang-Wei Lin 0001"
+                    },
+                    {
+                        "@pid": "21/6330",
+                        "text": "Cyrille Artho"
+                    }
+                ]
+            },
+            "title": "Finding permission bugs in smart contracts with role mining.",
+            "venue": "ISSTA",
+            "pages": "716-727",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiuL0A22",
+            "doi": "10.1145/3533767.3534372",
+            "ee": "https://doi.org/10.1145/3533767.3534372",
+            "url": "https://dblp.org/rec/conf/issta/LiuL0A22"
+        },
+        "url": "URL#1369699"
+    },
+    {
+        "@score": "1",
+        "@id": "1369700",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3935",
+                        "text": "Xuwei Liu"
+                    },
+                    {
+                        "@pid": "87/6465",
+                        "text": "Wei You"
+                    },
+                    {
+                        "@pid": "16/1234-2",
+                        "text": "Zhuo Zhang 0002"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving.",
+            "venue": "ISSTA",
+            "pages": "391-403",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiuY0022",
+            "doi": "10.1145/3533767.3534403",
+            "ee": "https://doi.org/10.1145/3533767.3534403",
+            "url": "https://dblp.org/rec/conf/issta/LiuY0022"
+        },
+        "url": "URL#1369700"
+    },
+    {
+        "@score": "1",
+        "@id": "1369701",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/3210",
+                        "text": "Pei Liu"
+                    },
+                    {
+                        "@pid": "40/622",
+                        "text": "Yanjie Zhao"
+                    },
+                    {
+                        "@pid": "117/7062",
+                        "text": "Haipeng Cai"
+                    },
+                    {
+                        "@pid": "118/3935",
+                        "text": "Mattia Fazzini"
+                    },
+                    {
+                        "@pid": "g/JohnCGrundy",
+                        "text": "John C. Grundy"
+                    },
+                    {
+                        "@pid": "53/2189-29",
+                        "text": "Li Li 0029"
+                    }
+                ]
+            },
+            "title": "Automatically detecting API-induced compatibility issues in Android apps: a comparative analysis (replicability study).",
+            "venue": "ISSTA",
+            "pages": "617-628",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiuZCFG022",
+            "doi": "10.1145/3533767.3534407",
+            "ee": "https://doi.org/10.1145/3533767.3534407",
+            "url": "https://dblp.org/rec/conf/issta/LiuZCFG022"
+        },
+        "url": "URL#1369701"
+    },
+    {
+        "@score": "1",
+        "@id": "1369702",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "173/5146",
+                        "text": "Jiahao Liu"
+                    },
+                    {
+                        "@pid": "04/1346",
+                        "text": "Jun Zeng"
+                    },
+                    {
+                        "@pid": "31/2864-10",
+                        "text": "Xiang Wang 0010"
+                    },
+                    {
+                        "@pid": "295/0886",
+                        "text": "Kaihang Ji"
+                    },
+                    {
+                        "@pid": "99/4951",
+                        "text": "Zhenkai Liang"
+                    }
+                ]
+            },
+            "title": "TeLL: log level suggestions via modeling multi-level code block information.",
+            "venue": "ISSTA",
+            "pages": "27-38",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LiuZWJL22",
+            "doi": "10.1145/3533767.3534379",
+            "ee": "https://doi.org/10.1145/3533767.3534379",
+            "url": "https://dblp.org/rec/conf/issta/LiuZWJL22"
+        },
+        "url": "URL#1369702"
+    },
+    {
+        "@score": "1",
+        "@id": "1369703",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "79/3426",
+                        "text": "Yifei Lu"
+                    },
+                    {
+                        "@pid": "42/7085",
+                        "text": "Minxue Pan"
+                    },
+                    {
+                        "@pid": "76/8304-1",
+                        "text": "Yu Pei 0001"
+                    },
+                    {
+                        "@pid": "76/5446",
+                        "text": "Xuandong Li"
+                    }
+                ]
+            },
+            "title": "Detecting resource utilization bugs induced by variant lifecycles in Android.",
+            "venue": "ISSTA",
+            "pages": "642-653",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LuP0L22",
+            "doi": "10.1145/3533767.3534413",
+            "ee": "https://doi.org/10.1145/3533767.3534413",
+            "url": "https://dblp.org/rec/conf/issta/LuP0L22"
+        },
+        "url": "URL#1369703"
+    },
+    {
+        "@score": "1",
+        "@id": "1369704",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "248/1663",
+                        "text": "Chenyang Lyu"
+                    },
+                    {
+                        "@pid": "56/2376",
+                        "text": "Hong Liang"
+                    },
+                    {
+                        "@pid": "07/8388",
+                        "text": "Shouling Ji"
+                    },
+                    {
+                        "@pid": "139/6932-2",
+                        "text": "Xuhong Zhang 0002"
+                    },
+                    {
+                        "@pid": "79/7820",
+                        "text": "Binbin Zhao"
+                    },
+                    {
+                        "@pid": "91/9124",
+                        "text": "Meng Han"
+                    },
+                    {
+                        "@pid": "87/6284",
+                        "text": "Yun Li"
+                    },
+                    {
+                        "@pid": "75/3158",
+                        "text": "Zhe Wang"
+                    },
+                    {
+                        "@pid": "122/3593",
+                        "text": "Wenhai Wang"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem Beyah"
+                    }
+                ]
+            },
+            "title": "SLIME: program-sensitive energy allocation for fuzzing.",
+            "venue": "ISSTA",
+            "pages": "365-377",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LyuLJ0ZHLWWB22",
+            "doi": "10.1145/3533767.3534385",
+            "ee": "https://doi.org/10.1145/3533767.3534385",
+            "url": "https://dblp.org/rec/conf/issta/LyuLJ0ZHLWWB22"
+        },
+        "url": "URL#1369704"
+    },
+    {
+        "@score": "1",
+        "@id": "1369705",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "249/4978",
+                        "text": "Zheyu Ma"
+                    },
+                    {
+                        "@pid": "237/1416",
+                        "text": "Bodong Zhao"
+                    },
+                    {
+                        "@pid": "325/0900",
+                        "text": "Letu Ren"
+                    },
+                    {
+                        "@pid": "62/7776",
+                        "text": "Zheming Li"
+                    },
+                    {
+                        "@pid": "130/5642",
+                        "text": "Siqi Ma"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    }
+                ]
+            },
+            "title": "PrIntFuzz: fuzzing Linux drivers via automated virtual device simulation.",
+            "venue": "ISSTA",
+            "pages": "404-416",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MaZRLMLZ22",
+            "doi": "10.1145/3533767.3534226",
+            "ee": "https://doi.org/10.1145/3533767.3534226",
+            "url": "https://dblp.org/rec/conf/issta/MaZRLMLZ22"
+        },
+        "url": "URL#1369705"
+    },
+    {
+        "@score": "1",
+        "@id": "1369706",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "217/4869",
+                        "text": "Rafael Menezes"
+                    },
+                    {
+                        "@pid": "35/696",
+                        "text": "Daniel Moura"
+                    },
+                    {
+                        "@pid": "322/1219",
+                        "text": "Helena Cavalcante"
+                    },
+                    {
+                        "@pid": "47/7842",
+                        "text": "Rosiane de Freitas"
+                    },
+                    {
+                        "@pid": "42/4311",
+                        "text": "Lucas C. Cordeiro"
+                    }
+                ]
+            },
+            "title": "ESBMC-Jimple: verifying Kotlin programs via jimple intermediate representation.",
+            "venue": "ISSTA",
+            "pages": "777-780",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MenezesMCFC22",
+            "doi": "10.1145/3533767.3543294",
+            "ee": "https://doi.org/10.1145/3533767.3543294",
+            "url": "https://dblp.org/rec/conf/issta/MenezesMCFC22"
+        },
+        "url": "URL#1369706"
+    },
+    {
+        "@score": "1",
+        "@id": "1369707",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "204/7483",
+                        "text": "Rebecca Moussa"
+                    },
+                    {
+                        "@pid": "18/7526",
+                        "text": "Federica Sarro"
+                    }
+                ]
+            },
+            "title": "On the use of evaluation measures for defect prediction studies.",
+            "venue": "ISSTA",
+            "pages": "101-113",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MoussaS22",
+            "doi": "10.1145/3533767.3534405",
+            "ee": "https://doi.org/10.1145/3533767.3534405",
+            "url": "https://dblp.org/rec/conf/issta/MoussaS22"
+        },
+        "url": "URL#1369707"
+    },
+    {
+        "@score": "1",
+        "@id": "1369708",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "257/5328",
+                        "text": "Marcus Nachtigall"
+                    },
+                    {
+                        "@pid": "224/4428",
+                        "text": "Michael Schlichtig"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    }
+                ]
+            },
+            "title": "A large-scale study of usability criteria addressed by static analysis tools.",
+            "venue": "ISSTA",
+            "pages": "532-543",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/NachtigallSB22",
+            "doi": "10.1145/3533767.3534374",
+            "ee": "https://doi.org/10.1145/3533767.3534374",
+            "url": "https://dblp.org/rec/conf/issta/NachtigallSB22"
+        },
+        "url": "URL#1369708"
+    },
+    {
+        "@score": "1",
+        "@id": "1369709",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/4248",
+                        "text": "Chanh Duc Ngo"
+                    },
+                    {
+                        "@pid": "61/1343",
+                        "text": "Fabrizio Pastore"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    }
+                ]
+            },
+            "title": "ATUA: an update-driven app testing tool.",
+            "venue": "ISSTA",
+            "pages": "765-768",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/NgoPB22",
+            "doi": "10.1145/3533767.3543293",
+            "ee": "https://doi.org/10.1145/3533767.3543293",
+            "url": "https://dblp.org/rec/conf/issta/NgoPB22"
+        },
+        "url": "URL#1369709"
+    },
+    {
+        "@score": "1",
+        "@id": "1369710",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "44/8421",
+                        "text": "Qi Pang"
+                    },
+                    {
+                        "@pid": "295/5277",
+                        "text": "Yuanyuan Yuan"
+                    },
+                    {
+                        "@pid": "42/1503-11",
+                        "text": "Shuai Wang 0011"
+                    }
+                ]
+            },
+            "title": "MDPFuzz: testing models solving Markov decision processes.",
+            "venue": "ISSTA",
+            "pages": "378-390",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/PangYW22",
+            "doi": "10.1145/3533767.3534388",
+            "ee": "https://doi.org/10.1145/3533767.3534388",
+            "url": "https://dblp.org/rec/conf/issta/PangYW22"
+        },
+        "url": "URL#1369710"
+    },
+    {
+        "@score": "1",
+        "@id": "1369711",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/2683",
+                        "text": "James Perretta"
+                    },
+                    {
+                        "@pid": "27/3783",
+                        "text": "Andrew DeOrio"
+                    },
+                    {
+                        "@pid": "15/2016",
+                        "text": "Arjun Guha"
+                    },
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    }
+                ]
+            },
+            "title": "On the use of mutation analysis for evaluating student test suite quality.",
+            "venue": "ISSTA",
+            "pages": "263-275",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/PerrettaDG022",
+            "doi": "10.1145/3533767.3534217",
+            "ee": "https://doi.org/10.1145/3533767.3534217",
+            "url": "https://dblp.org/rec/conf/issta/PerrettaDG022"
+        },
+        "url": "URL#1369711"
+    },
+    {
+        "@score": "1",
+        "@id": "1369712",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "313/5979",
+                        "text": "Eduard Pinconschi"
+                    },
+                    {
+                        "@pid": "287/6699",
+                        "text": "Quang-Cuong Bui"
+                    },
+                    {
+                        "@pid": "00/6243",
+                        "text": "Rui Abreu 0001"
+                    },
+                    {
+                        "@pid": "69/3516",
+                        "text": "Pedro Ad\u00e3o"
+                    },
+                    {
+                        "@pid": "82/5205",
+                        "text": "Riccardo Scandariato"
+                    }
+                ]
+            },
+            "title": "Maestro: a platform for benchmarking automatic program repair tools on software vulnerabilities.",
+            "venue": "ISSTA",
+            "pages": "789-792",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/PinconschiB0AS22",
+            "doi": "10.1145/3533767.3543291",
+            "ee": "https://doi.org/10.1145/3533767.3543291",
+            "url": "https://dblp.org/rec/conf/issta/PinconschiB0AS22"
+        },
+        "url": "URL#1369712"
+    },
+    {
+        "@score": "1",
+        "@id": "1369713",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "286/4310",
+                        "text": "Ingkarat Rak-amnouykit"
+                    },
+                    {
+                        "@pid": "252/3794",
+                        "text": "Ana L. Milanova"
+                    },
+                    {
+                        "@pid": "137/3096",
+                        "text": "Guillaume Baudart"
+                    },
+                    {
+                        "@pid": "34/6431",
+                        "text": "Martin Hirzel"
+                    },
+                    {
+                        "@pid": "08/7028",
+                        "text": "Julian Dolby"
+                    }
+                ]
+            },
+            "title": "The raise of machine learning hyperparameter constraints in Python code.",
+            "venue": "ISSTA",
+            "pages": "580-592",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Rak-amnouykitMB22",
+            "doi": "10.1145/3533767.3534400",
+            "ee": "https://doi.org/10.1145/3533767.3534400",
+            "url": "https://dblp.org/rec/conf/issta/Rak-amnouykitMB22"
+        },
+        "url": "URL#1369713"
+    },
+    {
+        "@score": "1",
+        "@id": "1369714",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "303/0731",
+                        "text": "Xuezhi Song"
+                    },
+                    {
+                        "@pid": "77/1513-1",
+                        "text": "Yun Lin 0001"
+                    },
+                    {
+                        "@pid": "303/0429",
+                        "text": "Siang Hwee Ng"
+                    },
+                    {
+                        "@pid": "63/2187",
+                        "text": "Yijian Wu"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    },
+                    {
+                        "@pid": "33/6517",
+                        "text": "Jin Song Dong"
+                    },
+                    {
+                        "@pid": "14/2036",
+                        "text": "Hong Mei 0001"
+                    }
+                ]
+            },
+            "title": "RegMiner: towards constructing a large regression dataset from code evolution history.",
+            "venue": "ISSTA",
+            "pages": "314-326",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Song0NW0DM22",
+            "doi": "10.1145/3533767.3534224",
+            "ee": "https://doi.org/10.1145/3533767.3534224",
+            "url": "https://dblp.org/rec/conf/issta/Song0NW0DM22"
+        },
+        "url": "URL#1369714"
+    },
+    {
+        "@score": "1",
+        "@id": "1369715",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/7710",
+                        "text": "Clay Stevens"
+                    },
+                    {
+                        "@pid": "88/2247",
+                        "text": "Hamid Bagheri"
+                    }
+                ]
+            },
+            "title": "Combining solution reuse and bound tightening for efficient analysis of evolving systems.",
+            "venue": "ISSTA",
+            "pages": "89-100",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/StevensB22",
+            "doi": "10.1145/3533767.3534399",
+            "ee": "https://doi.org/10.1145/3533767.3534399",
+            "url": "https://dblp.org/rec/conf/issta/StevensB22"
+        },
+        "url": "URL#1369715"
+    },
+    {
+        "@score": "1",
+        "@id": "1369716",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/6095",
+                        "text": "Jialai Wang"
+                    },
+                    {
+                        "@pid": "15/4507-1",
+                        "text": "Han Qiu 0001"
+                    },
+                    {
+                        "@pid": "34/4919",
+                        "text": "Yi Rong"
+                    },
+                    {
+                        "@pid": "290/9011",
+                        "text": "Hengkai Ye"
+                    },
+                    {
+                        "@pid": "181/2688-2",
+                        "text": "Qi Li 0002"
+                    },
+                    {
+                        "@pid": "24/1320",
+                        "text": "Zongpeng Li"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    }
+                ]
+            },
+            "title": "BET: black-box efficient testing for convolutional neural networks.",
+            "venue": "ISSTA",
+            "pages": "164-175",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Wang0RYLLZ22",
+            "doi": "10.1145/3533767.3534386",
+            "ee": "https://doi.org/10.1145/3533767.3534386",
+            "url": "https://dblp.org/rec/conf/issta/Wang0RYLLZ22"
+        },
+        "url": "URL#1369716"
+    },
+    {
+        "@score": "1",
+        "@id": "1369717",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/3528",
+                        "text": "Boxiang Wang"
+                    },
+                    {
+                        "@pid": "02/1003",
+                        "text": "Rui Chen"
+                    },
+                    {
+                        "@pid": "66/190",
+                        "text": "Chao Li"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "134/1334",
+                        "text": "Dongdong Gao"
+                    },
+                    {
+                        "@pid": "11/3418",
+                        "text": "Mengfei Yang"
+                    }
+                ]
+            },
+            "title": "SpecChecker-ISA: a data sharing analyzer for interrupt-driven embedded software.",
+            "venue": "ISSTA",
+            "pages": "801-804",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangCLYGY22",
+            "doi": "10.1145/3533767.3543295",
+            "ee": "https://doi.org/10.1145/3533767.3543295",
+            "url": "https://dblp.org/rec/conf/issta/WangCLYGY22"
+        },
+        "url": "URL#1369717"
+    },
+    {
+        "@score": "1",
+        "@id": "1369718",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "181/2812",
+                        "text": "Hao Wang"
+                    },
+                    {
+                        "@pid": "216/6884-1",
+                        "text": "Wenjie Qu 0001"
+                    },
+                    {
+                        "@pid": "54/10321",
+                        "text": "Gilad Katz"
+                    },
+                    {
+                        "@pid": "57/1228",
+                        "text": "Wenyu Zhu"
+                    },
+                    {
+                        "@pid": "189/3729",
+                        "text": "Zeyu Gao"
+                    },
+                    {
+                        "@pid": "15/4507-1",
+                        "text": "Han Qiu 0001"
+                    },
+                    {
+                        "@pid": "15/3840",
+                        "text": "Jianwei Zhuge"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    }
+                ]
+            },
+            "title": "jTrans: jump-aware transformer for binary code similarity detection.",
+            "venue": "ISSTA",
+            "pages": "1-13",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangQKZG0ZZ22",
+            "doi": "10.1145/3533767.3534367",
+            "ee": "https://doi.org/10.1145/3533767.3534367",
+            "url": "https://dblp.org/rec/conf/issta/WangQKZG0ZZ22"
+        },
+        "url": "URL#1369718"
+    },
+    {
+        "@score": "1",
+        "@id": "1369719",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/5838-30",
+                        "text": "Tao Wang 0030"
+                    },
+                    {
+                        "@pid": "77/6033",
+                        "text": "Kangkang Zhang"
+                    },
+                    {
+                        "@pid": "c/WeiChen18",
+                        "text": "Wei Chen 0018"
+                    },
+                    {
+                        "@pid": "167/8963",
+                        "text": "Wensheng Dou"
+                    },
+                    {
+                        "@pid": "150/8816",
+                        "text": "Jiaxin Zhu"
+                    },
+                    {
+                        "@pid": "68/6546-1",
+                        "text": "Jun Wei 0001"
+                    },
+                    {
+                        "@pid": "34/808-1",
+                        "text": "Tao Huang 0001"
+                    }
+                ]
+            },
+            "title": "Understanding device integration bugs in smart home system.",
+            "venue": "ISSTA",
+            "pages": "429-441",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangZCDZWH22",
+            "doi": "10.1145/3533767.3534365",
+            "ee": "https://doi.org/10.1145/3533767.3534365",
+            "url": "https://dblp.org/rec/conf/issta/WangZCDZWH22"
+        },
+        "url": "URL#1369719"
+    },
+    {
+        "@score": "1",
+        "@id": "1369720",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/968-10",
+                        "text": "Zhiyong Wu 0010"
+                    },
+                    {
+                        "@pid": "51/239-6",
+                        "text": "Jie Liang 0006"
+                    },
+                    {
+                        "@pid": "64/9796",
+                        "text": "Mingzhe Wang"
+                    },
+                    {
+                        "@pid": "228/5716",
+                        "text": "Chijin Zhou"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    }
+                ]
+            },
+            "title": "Unicorn: detect runtime errors in time-series databases with hybrid input synthesis.",
+            "venue": "ISSTA",
+            "pages": "251-262",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WuLWZ022",
+            "doi": "10.1145/3533767.3534364",
+            "ee": "https://doi.org/10.1145/3533767.3534364",
+            "url": "https://dblp.org/rec/conf/issta/WuLWZ022"
+        },
+        "url": "URL#1369720"
+    },
+    {
+        "@score": "1",
+        "@id": "1369721",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "301/7958",
+                        "text": "Danning Xie"
+                    },
+                    {
+                        "@pid": "127/0252",
+                        "text": "Yitong Li"
+                    },
+                    {
+                        "@pid": "83/7296",
+                        "text": "Mijung Kim"
+                    },
+                    {
+                        "@pid": "163/1941",
+                        "text": "Hung Viet Pham"
+                    },
+                    {
+                        "@pid": "13/3957-1",
+                        "text": "Lin Tan 0001"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "g/MichaelWGodfrey",
+                        "text": "Michael W. Godfrey"
+                    }
+                ]
+            },
+            "title": "DocTer: documentation-guided fuzzing for testing deep learning API functions.",
+            "venue": "ISSTA",
+            "pages": "176-188",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/XieLKP0ZG22",
+            "doi": "10.1145/3533767.3534220",
+            "ee": "https://doi.org/10.1145/3533767.3534220",
+            "url": "https://dblp.org/rec/conf/issta/XieLKP0ZG22"
+        },
+        "url": "URL#1369721"
+    },
+    {
+        "@score": "1",
+        "@id": "1369722",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "325/0898",
+                        "text": "Shuaihao Yang"
+                    },
+                    {
+                        "@pid": "325/0903",
+                        "text": "Zigang Zeng"
+                    },
+                    {
+                        "@pid": "62/1539-3",
+                        "text": "Wei Song 0003"
+                    }
+                ]
+            },
+            "title": "PermDroid: automatically testing permission-related behaviour of Android applications.",
+            "venue": "ISSTA",
+            "pages": "593-604",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YangZS22",
+            "doi": "10.1145/3533767.3534221",
+            "ee": "https://doi.org/10.1145/3533767.3534221",
+            "url": "https://dblp.org/rec/conf/issta/YangZS22"
+        },
+        "url": "URL#1369722"
+    },
+    {
+        "@score": "1",
+        "@id": "1369723",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "291/6296",
+                        "text": "Boxi Yu"
+                    },
+                    {
+                        "@pid": "306/8132",
+                        "text": "Zhiqing Zhong"
+                    },
+                    {
+                        "@pid": "288/4355",
+                        "text": "Xinran Qin"
+                    },
+                    {
+                        "@pid": "71/10222",
+                        "text": "Jiayi Yao"
+                    },
+                    {
+                        "@pid": "199/2310",
+                        "text": "Yuancheng Wang"
+                    },
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    }
+                ]
+            },
+            "title": "Automated testing of image captioning systems.",
+            "venue": "ISSTA",
+            "pages": "467-479",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YuZQYWH22",
+            "doi": "10.1145/3533767.3534389",
+            "ee": "https://doi.org/10.1145/3533767.3534389",
+            "url": "https://dblp.org/rec/conf/issta/YuZQYWH22"
+        },
+        "url": "URL#1369723"
+    },
+    {
+        "@score": "1",
+        "@id": "1369724",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "67/2268-3",
+                        "text": "Wei Yuan 0003"
+                    },
+                    {
+                        "@pid": "231/4867",
+                        "text": "Quanjun Zhang"
+                    },
+                    {
+                        "@pid": "156/1840",
+                        "text": "Tieke He"
+                    },
+                    {
+                        "@pid": "124/0310",
+                        "text": "Chunrong Fang"
+                    },
+                    {
+                        "@pid": "88/302",
+                        "text": "Nguyen Quoc Viet Hung"
+                    },
+                    {
+                        "@pid": "257/3398",
+                        "text": "Xiaodong Hao"
+                    },
+                    {
+                        "@pid": "04/10606",
+                        "text": "Hongzhi Yin"
+                    }
+                ]
+            },
+            "title": "CIRCLE: continual repair across programming languages.",
+            "venue": "ISSTA",
+            "pages": "678-690",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YuanZHFHHY22",
+            "doi": "10.1145/3533767.3534219",
+            "ee": "https://doi.org/10.1145/3533767.3534219",
+            "url": "https://dblp.org/rec/conf/issta/YuanZHFHHY22"
+        },
+        "url": "URL#1369724"
+    },
+    {
+        "@score": "1",
+        "@id": "1369725",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "260/0849",
+                        "text": "Zhengran Zeng"
+                    },
+                    {
+                        "@pid": "271/5760",
+                        "text": "Hanzhuo Tan"
+                    },
+                    {
+                        "@pid": "83/4184",
+                        "text": "Haotian Zhang"
+                    },
+                    {
+                        "@pid": "181/2820-49",
+                        "text": "Jing Li 0049"
+                    },
+                    {
+                        "@pid": "65/8968",
+                        "text": "Yuqun Zhang"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    }
+                ]
+            },
+            "title": "An extensive study on pre-trained models for program understanding and generation.",
+            "venue": "ISSTA",
+            "pages": "39-51",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZengTZLZZ22",
+            "doi": "10.1145/3533767.3534390",
+            "ee": "https://doi.org/10.1145/3533767.3534390",
+            "url": "https://dblp.org/rec/conf/issta/ZengTZLZZ22"
+        },
+        "url": "URL#1369725"
+    },
+    {
+        "@score": "1",
+        "@id": "1369726",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "55/1332",
+                        "text": "Xiaohui Zhang"
+                    },
+                    {
+                        "@pid": "325/0896",
+                        "text": "Yuanjun Gong"
+                    },
+                    {
+                        "@pid": "71/6053-2",
+                        "text": "Bin Liang 0002"
+                    },
+                    {
+                        "@pid": "41/2181-1",
+                        "text": "Jianjun Huang 0001"
+                    },
+                    {
+                        "@pid": "87/6465",
+                        "text": "Wei You"
+                    },
+                    {
+                        "@pid": "74/2181",
+                        "text": "Wenchang Shi"
+                    },
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Hunting bugs with accelerated optimal graph vertex matching.",
+            "venue": "ISSTA",
+            "pages": "64-76",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangGL0YSZ22",
+            "doi": "10.1145/3533767.3534393",
+            "ee": "https://doi.org/10.1145/3533767.3534393",
+            "url": "https://dblp.org/rec/conf/issta/ZhangGL0YSZ22"
+        },
+        "url": "URL#1369726"
+    },
+    {
+        "@score": "1",
+        "@id": "1369727",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "234/0368",
+                        "text": "Ziqian Zhang"
+                    },
+                    {
+                        "@pid": "117/7974",
+                        "text": "Yulei Liu"
+                    },
+                    {
+                        "@pid": "243/7123",
+                        "text": "Shengcheng Yu"
+                    },
+                    {
+                        "@pid": "09/1365-34",
+                        "text": "Xin Li 0034"
+                    },
+                    {
+                        "@pid": "272/5267",
+                        "text": "Yexiao Yun"
+                    },
+                    {
+                        "@pid": "124/0310",
+                        "text": "Chunrong Fang"
+                    },
+                    {
+                        "@pid": "86/541-1",
+                        "text": "Zhenyu Chen 0001"
+                    }
+                ]
+            },
+            "title": "UniRLTest: universal platform-independent testing with reinforcement learning via image understanding.",
+            "venue": "ISSTA",
+            "pages": "805-808",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangLYLYFC22",
+            "doi": "10.1145/3533767.3543292",
+            "ee": "https://doi.org/10.1145/3533767.3543292",
+            "url": "https://dblp.org/rec/conf/issta/ZhangLYLYFC22"
+        },
+        "url": "URL#1369727"
+    },
+    {
+        "@score": "1",
+        "@id": "1369728",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "38/1392-2",
+                        "text": "Jialu Zhang 0002"
+                    },
+                    {
+                        "@pid": "09/1276",
+                        "text": "Todd Mytkowicz"
+                    },
+                    {
+                        "@pid": "274/7817",
+                        "text": "Mike Kaufman"
+                    },
+                    {
+                        "@pid": "p/RuzicaPiskac",
+                        "text": "Ruzica Piskac"
+                    },
+                    {
+                        "@pid": "32/2903",
+                        "text": "Shuvendu K. Lahiri"
+                    }
+                ]
+            },
+            "title": "Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper).",
+            "venue": "ISSTA",
+            "pages": "77-88",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangMKPL22",
+            "doi": "10.1145/3533767.3534396",
+            "ee": "https://doi.org/10.1145/3533767.3534396",
+            "url": "https://dblp.org/rec/conf/issta/ZhangMKPL22"
+        },
+        "url": "URL#1369728"
+    },
+    {
+        "@score": "1",
+        "@id": "1369729",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "79/7820",
+                        "text": "Binbin Zhao"
+                    },
+                    {
+                        "@pid": "07/8388",
+                        "text": "Shouling Ji"
+                    },
+                    {
+                        "@pid": "188/6025",
+                        "text": "Jiacheng Xu"
+                    },
+                    {
+                        "@pid": "39/5423-1",
+                        "text": "Yuan Tian 0001"
+                    },
+                    {
+                        "@pid": "325/0897",
+                        "text": "Qiuyang Wei"
+                    },
+                    {
+                        "@pid": "156/1247",
+                        "text": "Qinying Wang"
+                    },
+                    {
+                        "@pid": "248/1663",
+                        "text": "Chenyang Lyu"
+                    },
+                    {
+                        "@pid": "139/6932-2",
+                        "text": "Xuhong Zhang 0002"
+                    },
+                    {
+                        "@pid": "231/4918",
+                        "text": "Changting Lin"
+                    },
+                    {
+                        "@pid": "96/10278",
+                        "text": "Jingzheng Wu"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem Beyah"
+                    }
+                ]
+            },
+            "title": "A large-scale empirical analysis of the vulnerabilities introduced by third-party components in IoT firmware.",
+            "venue": "ISSTA",
+            "pages": "442-454",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhaoJX0WWL0LWB22",
+            "doi": "10.1145/3533767.3534366",
+            "ee": "https://doi.org/10.1145/3533767.3534366",
+            "url": "https://dblp.org/rec/conf/issta/ZhaoJX0WWL0LWB22"
+        },
+        "url": "URL#1369729"
+    },
+    {
+        "@score": "1",
+        "@id": "1369730",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "125/5477",
+                        "text": "Yingying Zheng"
+                    },
+                    {
+                        "@pid": "167/8963",
+                        "text": "Wensheng Dou"
+                    },
+                    {
+                        "@pid": "77/4643",
+                        "text": "Yicheng Wang"
+                    },
+                    {
+                        "@pid": "95/6861",
+                        "text": "Zheng Qin"
+                    },
+                    {
+                        "@pid": "07/4708",
+                        "text": "Lei Tang"
+                    },
+                    {
+                        "@pid": "46/2974-2",
+                        "text": "Yu Gao 0002"
+                    },
+                    {
+                        "@pid": "40/3934",
+                        "text": "Dong Wang"
+                    },
+                    {
+                        "@pid": "35/7092-49",
+                        "text": "Wei Wang 0049"
+                    },
+                    {
+                        "@pid": "68/6546-1",
+                        "text": "Jun Wei 0001"
+                    }
+                ]
+            },
+            "title": "Finding bugs in Gremlin-based graph database systems via Randomized differential testing.",
+            "venue": "ISSTA",
+            "pages": "302-313",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhengDWQTGWWW22",
+            "doi": "10.1145/3533767.3534409",
+            "ee": "https://doi.org/10.1145/3533767.3534409",
+            "url": "https://dblp.org/rec/conf/issta/ZhengDWQTGWWW22"
+        },
+        "url": "URL#1369730"
+    },
+    {
+        "@score": "1",
+        "@id": "1369731",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/2868",
+                        "text": "Yaowen Zheng"
+                    },
+                    {
+                        "@pid": "204/3729",
+                        "text": "Yuekang Li"
+                    },
+                    {
+                        "@pid": "200/7275",
+                        "text": "Cen Zhang"
+                    },
+                    {
+                        "@pid": "57/5368",
+                        "text": "Hongsong Zhu"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "37/4705-1",
+                        "text": "Limin Sun 0001"
+                    }
+                ]
+            },
+            "title": "Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation.",
+            "venue": "ISSTA",
+            "pages": "417-428",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhengLZZLS22",
+            "doi": "10.1145/3533767.3534414",
+            "ee": "https://doi.org/10.1145/3533767.3534414",
+            "url": "https://dblp.org/rec/conf/issta/ZhengLZZLS22"
+        },
+        "url": "URL#1369731"
+    },
+    {
+        "@score": "1",
+        "@id": "1369732",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "233/7234",
+                        "text": "Guolong Zheng"
+                    },
+                    {
+                        "@pid": "19/7057",
+                        "text": "ThanhVu Nguyen"
+                    },
+                    {
+                        "@pid": "203/0017",
+                        "text": "Sim\u00f3n Guti\u00e9rrez Brida"
+                    },
+                    {
+                        "@pid": "33/4870",
+                        "text": "Germ\u00e1n Regis"
+                    },
+                    {
+                        "@pid": "69/610",
+                        "text": "Nazareno Aguirre"
+                    },
+                    {
+                        "@pid": "13/1323",
+                        "text": "Marcelo F. Frias"
+                    },
+                    {
+                        "@pid": "88/2247",
+                        "text": "Hamid Bagheri"
+                    }
+                ]
+            },
+            "title": "ATR: template-based repair for Alloy specifications.",
+            "venue": "ISSTA",
+            "pages": "666-677",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhengNBRAFB22",
+            "doi": "10.1145/3533767.3534369",
+            "ee": "https://doi.org/10.1145/3533767.3534369",
+            "url": "https://dblp.org/rec/conf/issta/ZhengNBRAFB22"
+        },
+        "url": "URL#1369732"
+    },
+    {
+        "@score": "1",
+        "@id": "1369733",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "217/4364",
+                        "text": "Peilin Zheng"
+                    },
+                    {
+                        "@pid": "z/ZibinZheng",
+                        "text": "Zibin Zheng"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    }
+                ]
+            },
+            "title": "Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution.",
+            "venue": "ISSTA",
+            "pages": "740-751",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhengZL22",
+            "doi": "10.1145/3533767.3534395",
+            "ee": "https://doi.org/10.1145/3533767.3534395",
+            "url": "https://dblp.org/rec/conf/issta/ZhengZL22"
+        },
+        "url": "URL#1369733"
+    },
+    {
+        "@score": "1",
+        "@id": "1369734",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "210/2633",
+                        "text": "Ziyuan Zhong"
+                    },
+                    {
+                        "@pid": "162/1366",
+                        "text": "Zhisheng Hu"
+                    },
+                    {
+                        "@pid": "162/3606",
+                        "text": "Shengjian Guo"
+                    },
+                    {
+                        "@pid": "29/2669-1",
+                        "text": "Xinyang Zhang 0001"
+                    },
+                    {
+                        "@pid": "36/5105",
+                        "text": "Zhenyu Zhong"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    }
+                ]
+            },
+            "title": "Detecting multi-sensor fusion errors in advanced driver-assistance systems.",
+            "venue": "ISSTA",
+            "pages": "493-505",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhongHGZZR22",
+            "doi": "10.1145/3533767.3534223",
+            "ee": "https://doi.org/10.1145/3533767.3534223",
+            "url": "https://dblp.org/rec/conf/issta/ZhongHGZZR22"
+        },
+        "url": "URL#1369734"
+    },
+    {
+        "@score": "1",
+        "@id": "1369735",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "63/778-9",
+                        "text": "Hao Zhou 0009"
+                    },
+                    {
+                        "@pid": "311/8828",
+                        "text": "Shuohan Wu"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "12/2633-6",
+                        "text": "Ting Wang 0006"
+                    },
+                    {
+                        "@pid": "15/7381",
+                        "text": "Yajin Zhou"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    },
+                    {
+                        "@pid": "117/7062",
+                        "text": "Haipeng Cai"
+                    }
+                ]
+            },
+            "title": "NCScope: hardware-assisted analyzer for native code in Android apps.",
+            "venue": "ISSTA",
+            "pages": "629-641",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhouWLWZZC22",
+            "doi": "10.1145/3533767.3534410",
+            "ee": "https://doi.org/10.1145/3533767.3534410",
+            "url": "https://dblp.org/rec/conf/issta/ZhouWLWZZC22"
+        },
+        "url": "URL#1369735"
+    },
+    {
+        "@score": "1",
+        "@id": "1369736",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "174/3891",
+                        "text": "Jinpeng Zhou"
+                    },
+                    {
+                        "@pid": "236/7694",
+                        "text": "Hanmei Yang"
+                    },
+                    {
+                        "@pid": "65/3740",
+                        "text": "John Lange"
+                    },
+                    {
+                        "@pid": "15/4725",
+                        "text": "Tongping Liu"
+                    }
+                ]
+            },
+            "title": "Deadlock prediction via generalized dependency.",
+            "venue": "ISSTA",
+            "pages": "455-466",
+            "year": "2022",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhouYLL22",
+            "doi": "10.1145/3533767.3534377",
+            "ee": "https://doi.org/10.1145/3533767.3534377",
+            "url": "https://dblp.org/rec/conf/issta/ZhouYLL22"
+        },
+        "url": "URL#1369736"
+    },
+    {
+        "@score": "1",
+        "@id": "1429120",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/2760",
+                        "text": "Sukyoung Ryu"
+                    },
+                    {
+                        "@pid": "s/YSmaragdakis",
+                        "text": "Yannis Smaragdakis"
+                    }
+                ]
+            },
+            "title": "ISSTA &apos;22: 31st ACM SIGSOFT International Symposium on Software Testing and Analysis, Virtual Event, South Korea, July 18 - 22, 2022",
+            "venue": "ISSTA",
+            "publisher": "ACM",
+            "year": "2022",
+            "type": "Editorship",
+            "key": "conf/issta/2022",
+            "doi": "10.1145/3533767",
+            "ee": "https://doi.org/10.1145/3533767",
+            "url": "https://dblp.org/rec/conf/issta/2022"
+        },
+        "url": "URL#1429120"
+    }
+]

@@ -1,0 +1,1409 @@
+[
+    {
+        "@score": "1",
+        "@id": "3110133",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "53/2189-29",
+                        "text": "Li Li 0029"
+                    },
+                    {
+                        "@pid": "00/8006",
+                        "text": "Tegawend\u00e9 F. Bissyand\u00e9"
+                    },
+                    {
+                        "@pid": "50/8499-1",
+                        "text": "Haoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "k/JacquesKlein",
+                        "text": "Jacques Klein"
+                    }
+                ]
+            },
+            "title": "CiD: automating the detection of API-related compatibility issues in Android apps.",
+            "venue": "ISSTA",
+            "pages": "153-163",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/0029BWK18",
+            "doi": "10.1145/3213846.3213857",
+            "ee": "https://doi.org/10.1145/3213846.3213857",
+            "url": "https://dblp.org/rec/conf/issta/0029BWK18"
+        },
+        "url": "URL#3110133"
+    },
+    {
+        "@score": "1",
+        "@id": "3110134",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/8752",
+                        "text": "Mohammad Moein Almasi"
+                    },
+                    {
+                        "@pid": "92/4860",
+                        "text": "Hadi Hemmati"
+                    },
+                    {
+                        "@pid": "74/2259",
+                        "text": "Gordon Fraser 0001"
+                    },
+                    {
+                        "@pid": "33/13",
+                        "text": "Phil McMinn"
+                    },
+                    {
+                        "@pid": "47/1620",
+                        "text": "Janis Benefelds"
+                    }
+                ]
+            },
+            "title": "Search-based detection of deviation failures in the migration of legacy spreadsheet applications.",
+            "venue": "ISSTA",
+            "pages": "266-275",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AlmasiHFMB18",
+            "doi": "10.1145/3213846.3213861",
+            "ee": "https://doi.org/10.1145/3213846.3213861",
+            "url": "https://dblp.org/rec/conf/issta/AlmasiHFMB18"
+        },
+        "url": "URL#3110134"
+    },
+    {
+        "@score": "1",
+        "@id": "3110137",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "131/4842",
+                        "text": "Farnaz Behrang"
+                    },
+                    {
+                        "@pid": "35/805",
+                        "text": "Alessandro Orso"
+                    }
+                ]
+            },
+            "title": "Test migration for efficient large-scale assessment of mobile app coding assignments.",
+            "venue": "ISSTA",
+            "pages": "164-175",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BehrangO18",
+            "doi": "10.1145/3213846.3213854",
+            "ee": "https://doi.org/10.1145/3213846.3213854",
+            "url": "https://dblp.org/rec/conf/issta/BehrangO18"
+        },
+        "url": "URL#3110137"
+    },
+    {
+        "@score": "1",
+        "@id": "3110138",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "90/611",
+                    "text": "Luc Bl\u00e4ser"
+                }
+            },
+            "title": "Practical detection of concurrency issues at coding time.",
+            "venue": "ISSTA",
+            "pages": "221-231",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Blaser18",
+            "doi": "10.1145/3213846.3213853",
+            "ee": "https://doi.org/10.1145/3213846.3213853",
+            "url": "https://dblp.org/rec/conf/issta/Blaser18"
+        },
+        "url": "URL#3110138"
+    },
+    {
+        "@score": "1",
+        "@id": "3110139",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/0332",
+                        "text": "Arianna Blasi"
+                    },
+                    {
+                        "@pid": "127/9126",
+                        "text": "Alberto Goffi"
+                    },
+                    {
+                        "@pid": "52/7477-1",
+                        "text": "Konstantin Kuznetsov 0001"
+                    },
+                    {
+                        "@pid": "54/2159",
+                        "text": "Alessandra Gorla"
+                    },
+                    {
+                        "@pid": "e/MDErnst",
+                        "text": "Michael D. Ernst"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    },
+                    {
+                        "@pid": "223/0443",
+                        "text": "Sergio Delgado Castellanos"
+                    }
+                ]
+            },
+            "title": "Translating code comments to procedure specifications.",
+            "venue": "ISSTA",
+            "pages": "242-253",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BlasiGKGEPC18",
+            "doi": "10.1145/3213846.3213872",
+            "ee": "https://doi.org/10.1145/3213846.3213872",
+            "url": "https://dblp.org/rec/conf/issta/BlasiGKGEPC18"
+        },
+        "url": "URL#3110139"
+    },
+    {
+        "@score": "1",
+        "@id": "3110141",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/8806",
+                        "text": "Tegan Brennan"
+                    },
+                    {
+                        "@pid": "150/1658",
+                        "text": "Seemanta Saha"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    }
+                ]
+            },
+            "title": "Symbolic path cost analysis for side-channel detection.",
+            "venue": "ISSTA",
+            "pages": "27-37",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BrennanSBP18",
+            "doi": "10.1145/3213846.3213867",
+            "ee": "https://doi.org/10.1145/3213846.3213867",
+            "url": "https://dblp.org/rec/conf/issta/BrennanSBP18"
+        },
+        "url": "URL#3110141"
+    },
+    {
+        "@score": "1",
+        "@id": "3110145",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "24/997",
+                        "text": "Chris Cummins"
+                    },
+                    {
+                        "@pid": "03/630",
+                        "text": "Pavlos Petoumenos"
+                    },
+                    {
+                        "@pid": "150/9952",
+                        "text": "Alastair Murray"
+                    },
+                    {
+                        "@pid": "47/5535",
+                        "text": "Hugh Leather"
+                    }
+                ]
+            },
+            "title": "Compiler fuzzing through deep learning.",
+            "venue": "ISSTA",
+            "pages": "95-105",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/CumminsPML18",
+            "doi": "10.1145/3213846.3213848",
+            "ee": "https://doi.org/10.1145/3213846.3213848",
+            "url": "https://dblp.org/rec/conf/issta/CumminsPML18"
+        },
+        "url": "URL#3110145"
+    },
+    {
+        "@score": "1",
+        "@id": "3110146",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/4914",
+                        "text": "Anurag Dwarakanath"
+                    },
+                    {
+                        "@pid": "223/0263",
+                        "text": "Manish Ahuja"
+                    },
+                    {
+                        "@pid": "223/0401",
+                        "text": "Samarth Sikand"
+                    },
+                    {
+                        "@pid": "223/0372",
+                        "text": "Raghotham M. Rao"
+                    },
+                    {
+                        "@pid": "54/675",
+                        "text": "R. P. Jagadeesh Chandra Bose"
+                    },
+                    {
+                        "@pid": "182/2071",
+                        "text": "Neville Dubash"
+                    },
+                    {
+                        "@pid": "182/2338",
+                        "text": "Sanjay Podder"
+                    }
+                ]
+            },
+            "title": "Identifying implementation bugs in machine learning based image classifiers using metamorphic testing.",
+            "venue": "ISSTA",
+            "pages": "118-128",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DwarakanathASRB18",
+            "doi": "10.1145/3213846.3213858",
+            "ee": "https://doi.org/10.1145/3213846.3213858",
+            "url": "https://dblp.org/rec/conf/issta/DwarakanathASRB18"
+        },
+        "url": "URL#3110146"
+    },
+    {
+        "@score": "1",
+        "@id": "3110148",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/3935",
+                        "text": "Mattia Fazzini"
+                    },
+                    {
+                        "@pid": "223/0280",
+                        "text": "Martin Prammer"
+                    },
+                    {
+                        "@pid": "16/608",
+                        "text": "Marcelo d&apos;Amorim"
+                    },
+                    {
+                        "@pid": "35/805",
+                        "text": "Alessandro Orso"
+                    }
+                ]
+            },
+            "title": "Automatically translating bug reports into test cases for mobile apps.",
+            "venue": "ISSTA",
+            "pages": "141-152",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/FazziniPdO18",
+            "doi": "10.1145/3213846.3213869",
+            "ee": "https://doi.org/10.1145/3213846.3213869",
+            "url": "https://dblp.org/rec/conf/issta/FazziniPdO18"
+        },
+        "url": "URL#3110148"
+    },
+    {
+        "@score": "1",
+        "@id": "3110149",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/10830",
+                        "text": "Jan Fiedor"
+                    },
+                    {
+                        "@pid": "223/0264",
+                        "text": "Monika Muzikovsk\u00e1"
+                    },
+                    {
+                        "@pid": "42/3396",
+                        "text": "Ales Smrcka"
+                    },
+                    {
+                        "@pid": "223/0298",
+                        "text": "Ondrej Vas\u00edcek"
+                    },
+                    {
+                        "@pid": "51/533",
+                        "text": "Tom\u00e1s Vojnar"
+                    }
+                ]
+            },
+            "title": "Advances in the ANaConDA framework for dynamic analysis and testing of concurrent C/C++ programs.",
+            "venue": "ISSTA",
+            "pages": "356-359",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/FiedorMSVV18",
+            "doi": "10.1145/3213846.3229505",
+            "ee": "https://doi.org/10.1145/3213846.3229505",
+            "url": "https://dblp.org/rec/conf/issta/FiedorMSVV18"
+        },
+        "url": "URL#3110149"
+    },
+    {
+        "@score": "1",
+        "@id": "3110150",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/7966-1",
+                        "text": "George Fourtounis"
+                    },
+                    {
+                        "@pid": "55/11441",
+                        "text": "George Kastrinis"
+                    },
+                    {
+                        "@pid": "s/YSmaragdakis",
+                        "text": "Yannis Smaragdakis"
+                    }
+                ]
+            },
+            "title": "Static analysis of Java dynamic proxies.",
+            "venue": "ISSTA",
+            "pages": "209-220",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/FourtounisKS18",
+            "doi": "10.1145/3213846.3213864",
+            "ee": "https://doi.org/10.1145/3213846.3213864",
+            "url": "https://dblp.org/rec/conf/issta/FourtounisKS18"
+        },
+        "url": "URL#3110150"
+    },
+    {
+        "@score": "1",
+        "@id": "3110151",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/563-8",
+                        "text": "Jian Gao 0008"
+                    },
+                    {
+                        "@pid": "44/1152",
+                        "text": "Xin Yang"
+                    },
+                    {
+                        "@pid": "21/4633-1",
+                        "text": "Yu Jiang 0001"
+                    },
+                    {
+                        "@pid": "35/2899-10",
+                        "text": "Han Liu 0010"
+                    },
+                    {
+                        "@pid": "223/0384",
+                        "text": "Weiliang Ying"
+                    },
+                    {
+                        "@pid": "223/0350",
+                        "text": "Wanting Sun"
+                    },
+                    {
+                        "@pid": "76/2502-1",
+                        "text": "Ming Gu 0001"
+                    }
+                ]
+            },
+            "title": "Managing concurrent testing of data race with ComRaDe.",
+            "venue": "ISSTA",
+            "pages": "364-367",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GaoYJLYS018",
+            "doi": "10.1145/3213846.3229502",
+            "ee": "https://doi.org/10.1145/3213846.3229502",
+            "url": "https://dblp.org/rec/conf/issta/GaoYJLYS018"
+        },
+        "url": "URL#3110151"
+    },
+    {
+        "@score": "1",
+        "@id": "3110153",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/9116",
+                        "text": "Neville Grech"
+                    },
+                    {
+                        "@pid": "130/7966-1",
+                        "text": "George Fourtounis"
+                    },
+                    {
+                        "@pid": "91/2771",
+                        "text": "Adrian Francalanza"
+                    },
+                    {
+                        "@pid": "s/YSmaragdakis",
+                        "text": "Yannis Smaragdakis"
+                    }
+                ]
+            },
+            "title": "Shooting from the heap: ultra-scalable static analysis with heap snapshots.",
+            "venue": "ISSTA",
+            "pages": "198-208",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GrechFFS18",
+            "doi": "10.1145/3213846.3213860",
+            "ee": "https://doi.org/10.1145/3213846.3213860",
+            "url": "https://dblp.org/rec/conf/issta/GrechFFS18"
+        },
+        "url": "URL#3110153"
+    },
+    {
+        "@score": "1",
+        "@id": "3110154",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "70/2221-7",
+                        "text": "Hui Guo 0007"
+                    },
+                    {
+                        "@pid": "69/495",
+                        "text": "Cindy Rubio-Gonz\u00e1lez"
+                    }
+                ]
+            },
+            "title": "Exploiting community structure for floating-point precision tuning.",
+            "venue": "ISSTA",
+            "pages": "333-343",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuoR18",
+            "doi": "10.1145/3213846.3213862",
+            "ee": "https://doi.org/10.1145/3213846.3213862",
+            "url": "https://dblp.org/rec/conf/issta/GuoR18"
+        },
+        "url": "URL#3110154"
+    },
+    {
+        "@score": "1",
+        "@id": "3110155",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/0177",
+                        "text": "Gunel Jahangirova"
+                    },
+                    {
+                        "@pid": "40/4629-1",
+                        "text": "David Clark 0001"
+                    },
+                    {
+                        "@pid": "h/MarkHarman",
+                        "text": "Mark Harman"
+                    },
+                    {
+                        "@pid": "54/2734",
+                        "text": "Paolo Tonella"
+                    }
+                ]
+            },
+            "title": "OASIs: oracle assessment and improvement tool.",
+            "venue": "ISSTA",
+            "pages": "368-371",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JahangirovaCHT18",
+            "doi": "10.1145/3213846.3229503",
+            "ee": "https://doi.org/10.1145/3213846.3229503",
+            "url": "https://dblp.org/rec/conf/issta/JahangirovaCHT18"
+        },
+        "url": "URL#3110155"
+    },
+    {
+        "@score": "1",
+        "@id": "3110156",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "155/6527",
+                        "text": "Jiajun Jiang"
+                    },
+                    {
+                        "@pid": "82/2673",
+                        "text": "Yingfei Xiong 0001"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "16/4671",
+                        "text": "Qing Gao"
+                    },
+                    {
+                        "@pid": "49/628",
+                        "text": "Xiangqun Chen"
+                    }
+                ]
+            },
+            "title": "Shaping program repair space with existing patches and similar code.",
+            "venue": "ISSTA",
+            "pages": "298-309",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JiangXZGC18",
+            "doi": "10.1145/3213846.3213871",
+            "ee": "https://doi.org/10.1145/3213846.3213871",
+            "url": "https://dblp.org/rec/conf/issta/JiangXZGC18"
+        },
+        "url": "URL#3110156"
+    },
+    {
+        "@score": "1",
+        "@id": "3110158",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/10029",
+                        "text": "Ren\u00e9 Just"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    },
+                    {
+                        "@pid": "208/7388",
+                        "text": "Ian Drosos"
+                    },
+                    {
+                        "@pid": "e/MDErnst",
+                        "text": "Michael D. Ernst"
+                    }
+                ]
+            },
+            "title": "Comparing developer-provided to user-provided tests for fault localization and automated program repair.",
+            "venue": "ISSTA",
+            "pages": "287-297",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JustPDE18",
+            "doi": "10.1145/3213846.3213870",
+            "ee": "https://doi.org/10.1145/3213846.3213870",
+            "url": "https://dblp.org/rec/conf/issta/JustPDE18"
+        },
+        "url": "URL#3110158"
+    },
+    {
+        "@score": "1",
+        "@id": "3110159",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1272",
+                        "text": "Martin Kellogg"
+                    },
+                    {
+                        "@pid": "223/0393",
+                        "text": "Vlastimil Dort"
+                    },
+                    {
+                        "@pid": "153/5835",
+                        "text": "Suzanne Millstein"
+                    },
+                    {
+                        "@pid": "e/MDErnst",
+                        "text": "Michael D. Ernst"
+                    }
+                ]
+            },
+            "title": "Lightweight verification of array indexing.",
+            "venue": "ISSTA",
+            "pages": "3-14",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KelloggDME18",
+            "doi": "10.1145/3213846.3213849",
+            "ee": "https://doi.org/10.1145/3213846.3213849",
+            "url": "https://dblp.org/rec/conf/issta/KelloggDME18"
+        },
+        "url": "URL#3110159"
+    },
+    {
+        "@score": "1",
+        "@id": "3110160",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "178/2891",
+                        "text": "Kareem Khazem"
+                    },
+                    {
+                        "@pid": "47/1088",
+                        "text": "Earl T. Barr"
+                    },
+                    {
+                        "@pid": "27/8264",
+                        "text": "Petr Hosek"
+                    }
+                ]
+            },
+            "title": "Making data-driven porting decisions with Tuscan.",
+            "venue": "ISSTA",
+            "pages": "276-286",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KhazemBH18",
+            "doi": "10.1145/3213846.3213855",
+            "ee": "https://doi.org/10.1145/3213846.3213855",
+            "url": "https://dblp.org/rec/conf/issta/KhazemBH18"
+        },
+        "url": "URL#3110160"
+    },
+    {
+        "@score": "1",
+        "@id": "3110161",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "k/SarfrazKhurshid",
+                        "text": "Sarfraz Khurshid"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    },
+                    {
+                        "@pid": "54/5019",
+                        "text": "Willem Visser"
+                    }
+                ]
+            },
+            "title": "Test input generation with Java PathFinder: then and now (invited talk abstract).",
+            "venue": "ISSTA",
+            "pages": "1-2",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KhurshidPV18",
+            "doi": "10.1145/3213846.3234687",
+            "ee": "https://doi.org/10.1145/3213846.3234687",
+            "url": "https://dblp.org/rec/conf/issta/KhurshidPV18"
+        },
+        "url": "URL#3110161"
+    },
+    {
+        "@score": "1",
+        "@id": "3110162",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "05/10588",
+                        "text": "Filip Krikava"
+                    },
+                    {
+                        "@pid": "v/JanVitek",
+                        "text": "Jan Vitek"
+                    }
+                ]
+            },
+            "title": "Tests from traces: automated unit test extraction for R.",
+            "venue": "ISSTA",
+            "pages": "232-241",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KrikavaV18",
+            "doi": "10.1145/3213846.3213863",
+            "ee": "https://doi.org/10.1145/3213846.3213863",
+            "url": "https://dblp.org/rec/conf/issta/KrikavaV18"
+        },
+        "url": "URL#3110162"
+    },
+    {
+        "@score": "1",
+        "@id": "3110163",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/8936",
+                        "text": "Tien-Duy B. Le"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    }
+                ]
+            },
+            "title": "Deep specification mining.",
+            "venue": "ISSTA",
+            "pages": "106-117",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LeL18",
+            "doi": "10.1145/3213846.3213876",
+            "ee": "https://doi.org/10.1145/3213846.3213876",
+            "url": "https://dblp.org/rec/conf/issta/LeL18"
+        },
+        "url": "URL#3110163"
+    },
+    {
+        "@score": "1",
+        "@id": "3110164",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/9197",
+                        "text": "Jaekwon Lee"
+                    },
+                    {
+                        "@pid": "10/2501-1",
+                        "text": "Dongsun Kim 0001"
+                    },
+                    {
+                        "@pid": "00/8006",
+                        "text": "Tegawend\u00e9 F. Bissyand\u00e9"
+                    },
+                    {
+                        "@pid": "59/2013",
+                        "text": "Woosung Jung"
+                    },
+                    {
+                        "@pid": "95/5206",
+                        "text": "Yves Le Traon"
+                    }
+                ]
+            },
+            "title": "Bench4BL: reproducibility study on the performance of IR-based bug localization.",
+            "venue": "ISSTA",
+            "pages": "61-72",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LeeKBJT18",
+            "doi": "10.1145/3213846.3213856",
+            "ee": "https://doi.org/10.1145/3213846.3213856",
+            "url": "https://dblp.org/rec/conf/issta/LeeKBJT18"
+        },
+        "url": "URL#3110164"
+    },
+    {
+        "@score": "1",
+        "@id": "3110165",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0227",
+                        "text": "Caroline Lemieux"
+                    },
+                    {
+                        "@pid": "129/1434",
+                        "text": "Rohan Padhye"
+                    },
+                    {
+                        "@pid": "04/418",
+                        "text": "Koushik Sen"
+                    },
+                    {
+                        "@pid": "s/DXSong",
+                        "text": "Dawn Song"
+                    }
+                ]
+            },
+            "title": "PerfFuzz: automatically generating pathological inputs.",
+            "venue": "ISSTA",
+            "pages": "254-265",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LemieuxPSS18",
+            "doi": "10.1145/3213846.3213874",
+            "ee": "https://doi.org/10.1145/3213846.3213874",
+            "url": "https://dblp.org/rec/conf/issta/LemieuxPSS18"
+        },
+        "url": "URL#3110165"
+    },
+    {
+        "@score": "1",
+        "@id": "3110166",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/7867",
+                        "text": "Yingjun Lyu"
+                    },
+                    {
+                        "@pid": "95/7132-1",
+                        "text": "Ding Li 0001"
+                    },
+                    {
+                        "@pid": "04/4583",
+                        "text": "William G. J. Halfond"
+                    }
+                ]
+            },
+            "title": "Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications.",
+            "venue": "ISSTA",
+            "pages": "310-321",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LyuLH18",
+            "doi": "10.1145/3213846.3213865",
+            "ee": "https://doi.org/10.1145/3213846.3213865",
+            "url": "https://dblp.org/rec/conf/issta/LyuLH18"
+        },
+        "url": "URL#3110166"
+    },
+    {
+        "@score": "1",
+        "@id": "3110167",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "43/10082",
+                        "text": "Magnus Madsen"
+                    },
+                    {
+                        "@pid": "05/469",
+                        "text": "Ondrej Lhot\u00e1k"
+                    }
+                ]
+            },
+            "title": "Safe and sound program analysis with Flix.",
+            "venue": "ISSTA",
+            "pages": "38-48",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MadsenL18",
+            "doi": "10.1145/3213846.3213847",
+            "ee": "https://doi.org/10.1145/3213846.3213847",
+            "url": "https://dblp.org/rec/conf/issta/MadsenL18"
+        },
+        "url": "URL#3110167"
+    },
+    {
+        "@score": "1",
+        "@id": "3110168",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "18/8376",
+                        "text": "Tukaram Muske"
+                    },
+                    {
+                        "@pid": "223/0260",
+                        "text": "Rohith Talluri"
+                    },
+                    {
+                        "@pid": "s/AlexanderSerebrenik",
+                        "text": "Alexander Serebrenik"
+                    }
+                ]
+            },
+            "title": "Repositioning of static analysis alarms.",
+            "venue": "ISSTA",
+            "pages": "187-197",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MuskeTS18",
+            "doi": "10.1145/3213846.3213850",
+            "ee": "https://doi.org/10.1145/3213846.3213850",
+            "url": "https://dblp.org/rec/conf/issta/MuskeTS18"
+        },
+        "url": "URL#3110168"
+    },
+    {
+        "@score": "1",
+        "@id": "3110169",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "151/9797-1",
+                        "text": "Vinh The Nguyen 0001"
+                    },
+                    {
+                        "@pid": "45/6830",
+                        "text": "Akbar Siami Namin"
+                    },
+                    {
+                        "@pid": "98/8756",
+                        "text": "Tommy Dang"
+                    }
+                ]
+            },
+            "title": "MalViz: an interactive visualization tool for tracing malware.",
+            "venue": "ISSTA",
+            "pages": "376-379",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/NguyenND18",
+            "doi": "10.1145/3213846.3229501",
+            "ee": "https://doi.org/10.1145/3213846.3229501",
+            "url": "https://dblp.org/rec/conf/issta/NguyenND18"
+        },
+        "url": "URL#3110169"
+    },
+    {
+        "@score": "1",
+        "@id": "3110170",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "214/0370",
+                        "text": "Yannic Noller"
+                    },
+                    {
+                        "@pid": "89/9118",
+                        "text": "Rody Kersten"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    }
+                ]
+            },
+            "title": "Badger: complexity analysis with fuzzing and symbolic execution.",
+            "venue": "ISSTA",
+            "pages": "322-332",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/NollerKP18",
+            "doi": "10.1145/3213846.3213868",
+            "ee": "https://doi.org/10.1145/3213846.3213868",
+            "url": "https://dblp.org/rec/conf/issta/NollerKP18"
+        },
+        "url": "URL#3110170"
+    },
+    {
+        "@score": "1",
+        "@id": "3110171",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "54/6008",
+                        "text": "Karl Palmskog"
+                    },
+                    {
+                        "@pid": "15/1842",
+                        "text": "Ahmet \u00c7elik"
+                    },
+                    {
+                        "@pid": "43/6015",
+                        "text": "Milos Gligoric 0001"
+                    }
+                ]
+            },
+            "title": "piCoq: parallel regression proving for large-scale verification projects.",
+            "venue": "ISSTA",
+            "pages": "344-355",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/PalmskogCG18",
+            "doi": "10.1145/3213846.3213877",
+            "ee": "https://doi.org/10.1145/3213846.3213877",
+            "url": "https://dblp.org/rec/conf/issta/PalmskogCG18"
+        },
+        "url": "URL#3110171"
+    },
+    {
+        "@score": "1",
+        "@id": "3110177",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/8137",
+                        "text": "Lina Qiu"
+                    },
+                    {
+                        "@pid": "87/6339",
+                        "text": "Yingying Wang"
+                    },
+                    {
+                        "@pid": "26/4417",
+                        "text": "Julia Rubin"
+                    }
+                ]
+            },
+            "title": "Analyzing the analyzers: FlowDroid/IccTA, AmanDroid, and DroidSafe.",
+            "venue": "ISSTA",
+            "pages": "176-186",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/QiuWR18",
+            "doi": "10.1145/3213846.3213873",
+            "ee": "https://doi.org/10.1145/3213846.3213873",
+            "url": "https://dblp.org/rec/conf/issta/QiuWR18"
+        },
+        "url": "URL#3110177"
+    },
+    {
+        "@score": "1",
+        "@id": "3110181",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/0253",
+                        "text": "Diego Rodr\u00edguez-Baquero"
+                    },
+                    {
+                        "@pid": "65/7207",
+                        "text": "Mario Linares V\u00e1squez"
+                    }
+                ]
+            },
+            "title": "Mutode: generic JavaScript and Node.js mutation testing tool.",
+            "venue": "ISSTA",
+            "pages": "372-375",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Rodriguez-Baquero18",
+            "doi": "10.1145/3213846.3229504",
+            "ee": "https://doi.org/10.1145/3213846.3229504",
+            "url": "https://dblp.org/rec/conf/issta/Rodriguez-Baquero18"
+        },
+        "url": "URL#3110181"
+    },
+    {
+        "@score": "1",
+        "@id": "3110185",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "129/8214",
+                        "text": "Alex Gyori"
+                    },
+                    {
+                        "@pid": "183/4729",
+                        "text": "Suleman Mahmood"
+                    },
+                    {
+                        "@pid": "223/0450",
+                        "text": "Peiyuan Zhao"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "Evaluating test-suite reduction in real software evolution.",
+            "venue": "ISSTA",
+            "pages": "84-94",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ShiGMZM18",
+            "doi": "10.1145/3213846.3213875",
+            "ee": "https://doi.org/10.1145/3213846.3213875",
+            "url": "https://dblp.org/rec/conf/issta/ShiGMZM18"
+        },
+        "url": "URL#3110185"
+    },
+    {
+        "@score": "1",
+        "@id": "3110186",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7699",
+                        "text": "Seung Yeob Shin"
+                    },
+                    {
+                        "@pid": "57/3937",
+                        "text": "Shiva Nejati"
+                    },
+                    {
+                        "@pid": "25/6367",
+                        "text": "Mehrdad Sabetzadeh"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "89/6569",
+                        "text": "Frank Zimmer"
+                    }
+                ]
+            },
+            "title": "Test case prioritization for acceptance testing of cyber physical systems: a multi-objective search-based approach.",
+            "venue": "ISSTA",
+            "pages": "49-60",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ShinNSBZ18",
+            "doi": "10.1145/3213846.3213852",
+            "ee": "https://doi.org/10.1145/3213846.3213852",
+            "url": "https://dblp.org/rec/conf/issta/ShinNSBZ18"
+        },
+        "url": "URL#3110186"
+    },
+    {
+        "@score": "1",
+        "@id": "3110187",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "191/3111",
+                        "text": "Per Erik Strandberg"
+                    },
+                    {
+                        "@pid": "50/7016",
+                        "text": "Thomas J. Ostrand"
+                    },
+                    {
+                        "@pid": "55/1672",
+                        "text": "Elaine J. Weyuker"
+                    },
+                    {
+                        "@pid": "98/7045",
+                        "text": "Daniel Sundmark"
+                    },
+                    {
+                        "@pid": "59/5422",
+                        "text": "Wasif Afzal"
+                    }
+                ]
+            },
+            "title": "Automated test mapping and coverage for network topologies.",
+            "venue": "ISSTA",
+            "pages": "73-83",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/StrandbergOWSA18",
+            "doi": "10.1145/3213846.3213859",
+            "ee": "https://doi.org/10.1145/3213846.3213859",
+            "url": "https://dblp.org/rec/conf/issta/StrandbergOWSA18"
+        },
+        "url": "URL#3110187"
+    },
+    {
+        "@score": "1",
+        "@id": "3110191",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/5921-1",
+                        "text": "Meng Wu 0001"
+                    },
+                    {
+                        "@pid": "162/3606",
+                        "text": "Shengjian Guo"
+                    },
+                    {
+                        "@pid": "39/1269",
+                        "text": "Patrick Schaumont"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "Eliminating timing side-channel leaks using program repair.",
+            "venue": "ISSTA",
+            "pages": "15-26",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WuGS018",
+            "doi": "10.1145/3213846.3213851",
+            "ee": "https://doi.org/10.1145/3213846.3213851",
+            "url": "https://dblp.org/rec/conf/issta/WuGS018"
+        },
+        "url": "URL#3110191"
+    },
+    {
+        "@score": "1",
+        "@id": "3110192",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/6386",
+                        "text": "Jiwei Yan"
+                    },
+                    {
+                        "@pid": "184/6371-1",
+                        "text": "Linjie Pan 0001"
+                    },
+                    {
+                        "@pid": "142/5706",
+                        "text": "Yaqi Li"
+                    },
+                    {
+                        "@pid": "89/5901-9",
+                        "text": "Jun Yan 0009"
+                    },
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    }
+                ]
+            },
+            "title": "LAND: a user-friendly and customizable test generation tool for Android apps.",
+            "venue": "ISSTA",
+            "pages": "360-363",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YanPLYZ18",
+            "doi": "10.1145/3213846.3229500",
+            "ee": "https://doi.org/10.1145/3213846.3229500",
+            "url": "https://dblp.org/rec/conf/issta/YanPLYZ18"
+        },
+        "url": "URL#3110192"
+    },
+    {
+        "@score": "1",
+        "@id": "3110194",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/5876-5",
+                        "text": "Yuhao Zhang 0005"
+                    },
+                    {
+                        "@pid": "52/295",
+                        "text": "Yifan Chen"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "82/2673",
+                        "text": "Yingfei Xiong 0001"
+                    },
+                    {
+                        "@pid": "z/LuZhang1",
+                        "text": "Lu Zhang 0023"
+                    }
+                ]
+            },
+            "title": "An empirical study on TensorFlow program bugs.",
+            "venue": "ISSTA",
+            "pages": "129-140",
+            "year": "2018",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangCCXZ18",
+            "doi": "10.1145/3213846.3213866",
+            "ee": "https://doi.org/10.1145/3213846.3213866",
+            "url": "https://dblp.org/rec/conf/issta/ZhangCCXZ18"
+        },
+        "url": "URL#3110194"
+    },
+    {
+        "@score": "1",
+        "@id": "3170497",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "32/524",
+                        "text": "Frank Tip"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2018, Amsterdam, The Netherlands, July 16-21, 2018",
+            "venue": "ISSTA",
+            "publisher": "ACM",
+            "year": "2018",
+            "type": "Editorship",
+            "key": "conf/issta/2018",
+            "ee": "http://dl.acm.org/citation.cfm?id=3213846",
+            "url": "https://dblp.org/rec/conf/issta/2018"
+        },
+        "url": "URL#3170497"
+    }
+]

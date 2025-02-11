@@ -1,0 +1,51 @@
+[project]
+name = "ai-search-papers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aisuite>=0.1.7",
+    "beautifulsoup4>=4.12.3",
+    "cloudscraper>=1.2.71",
+    "datasets>=3.2.0",
+    "instructor>=1.7.2",
+    "requests>=2.32.3",
+    "semanticscholar>=0.9.0",
+    "faiss-cpu>=1.7.4",
+    "scikit-learn>=1.4.0",
+    "numpy>=1.26.3",
+    "tqdm>=4.66.1",
+    "notion-client>=2.3.0",
+    "streamlit>=1.41.1",
+]
+
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.0.1",
+    "ruff>=0.8.0",
+]
+
+[tool.ruff]
+line-length = 80  
+
+[tool.ruff.lint]
+select = [        
+    "F",
+    "E",
+    "W",
+    "UP",
+]
+ignore = [
+    "E203",  # whitespace before ':'
+    "E501",  # line too long
+    "W191",  # indentation contains tabs
+    "E402",  # module level import not at top of file
+    "F403",  # 'from module import *' used
+    "F405",  # name may be undefined, or defined from star imports
+    "E731",  # do not assign a lambda expression, use a def
+]
+
+[tool.ruff.format]
+quote-style = "double"

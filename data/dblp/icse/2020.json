@@ -1,0 +1,5199 @@
+[
+    {
+        "@score": "1",
+        "@id": "2264606",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "21/7271",
+                        "text": "Alessio Ferrari 0001"
+                    },
+                    {
+                        "@pid": "42/2787",
+                        "text": "Franco Mazzanti"
+                    },
+                    {
+                        "@pid": "135/0129",
+                        "text": "Davide Basile 0001"
+                    },
+                    {
+                        "@pid": "b/MHterBeek",
+                        "text": "Maurice H. ter Beek"
+                    },
+                    {
+                        "@pid": "f/AlessandroFantechi",
+                        "text": "Alessandro Fantechi"
+                    }
+                ]
+            },
+            "title": "Comparing formal tools for system design: a judgment study.",
+            "venue": "ICSE",
+            "pages": "62-74",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001MBBF20",
+            "doi": "10.1145/3377811.3380373",
+            "ee": "https://doi.org/10.1145/3377811.3380373",
+            "url": "https://dblp.org/rec/conf/icse/0001MBBF20"
+        },
+        "url": "URL#2264606"
+    },
+    {
+        "@score": "1",
+        "@id": "2264607",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/3060-1",
+                        "text": "Yan Cai 0001"
+                    },
+                    {
+                        "@pid": "246/5331",
+                        "text": "Ruijie Meng"
+                    },
+                    {
+                        "@pid": "p/JPalsberg",
+                        "text": "Jens Palsberg"
+                    }
+                ]
+            },
+            "title": "Low-overhead deadlock prediction.",
+            "venue": "ICSE",
+            "pages": "1298-1309",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001MP20",
+            "doi": "10.1145/3377811.3380367",
+            "ee": "https://doi.org/10.1145/3377811.3380367",
+            "url": "https://dblp.org/rec/conf/icse/0001MP20"
+        },
+        "url": "URL#2264607"
+    },
+    {
+        "@score": "1",
+        "@id": "2264611",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/1715-1",
+                        "text": "Andrea Stocco 0001"
+                    },
+                    {
+                        "@pid": "84/7025-4",
+                        "text": "Michael Weiss 0004"
+                    },
+                    {
+                        "@pid": "276/3582",
+                        "text": "Marco Calzana"
+                    },
+                    {
+                        "@pid": "54/2734",
+                        "text": "Paolo Tonella"
+                    }
+                ]
+            },
+            "title": "Misbehaviour prediction for autonomous driving systems.",
+            "venue": "ICSE",
+            "pages": "359-371",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001WCT20",
+            "doi": "10.1145/3377811.3380353",
+            "ee": "https://doi.org/10.1145/3377811.3380353",
+            "url": "https://dblp.org/rec/conf/icse/0001WCT20"
+        },
+        "url": "URL#2264611"
+    },
+    {
+        "@score": "1",
+        "@id": "2264612",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/7399-1",
+                        "text": "Kui Liu 0001"
+                    },
+                    {
+                        "@pid": "219/1645",
+                        "text": "Shangwen Wang"
+                    },
+                    {
+                        "@pid": "202/8373",
+                        "text": "Anil Koyuncu"
+                    },
+                    {
+                        "@pid": "216/3065",
+                        "text": "Kisub Kim"
+                    },
+                    {
+                        "@pid": "00/8006",
+                        "text": "Tegawend\u00e9 F. Bissyand\u00e9"
+                    },
+                    {
+                        "@pid": "10/2501-1",
+                        "text": "Dongsun Kim 0001"
+                    },
+                    {
+                        "@pid": "15/6146",
+                        "text": "Peng Wu"
+                    },
+                    {
+                        "@pid": "k/JacquesKlein",
+                        "text": "Jacques Klein"
+                    },
+                    {
+                        "@pid": "81/8725",
+                        "text": "Xiaoguang Mao"
+                    },
+                    {
+                        "@pid": "95/5206",
+                        "text": "Yves Le Traon"
+                    }
+                ]
+            },
+            "title": "On the efficiency of test suite based program repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs.",
+            "venue": "ICSE",
+            "pages": "615-627",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001WKKB0WKMT20",
+            "doi": "10.1145/3377811.3380338",
+            "ee": "https://doi.org/10.1145/3377811.3380338",
+            "url": "https://dblp.org/rec/conf/icse/0001WKKB0WKMT20"
+        },
+        "url": "URL#2264612"
+    },
+    {
+        "@score": "1",
+        "@id": "2264613",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/9602",
+                        "text": "He Zhang 0001"
+                    },
+                    {
+                        "@pid": "05/3403-16",
+                        "text": "Xin Zhou 0016"
+                    },
+                    {
+                        "@pid": "98/5766-19",
+                        "text": "Xin Huang 0019"
+                    },
+                    {
+                        "@pid": "17/712",
+                        "text": "Huang Huang"
+                    },
+                    {
+                        "@pid": "03/1909",
+                        "text": "Muhammad Ali Babar 0001"
+                    }
+                ]
+            },
+            "title": "An evidence-based inquiry into the use of grey literature in software engineering.",
+            "venue": "ICSE",
+            "pages": "1422-1434",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0001ZHHB20",
+            "doi": "10.1145/3377811.3380336",
+            "ee": "https://doi.org/10.1145/3377811.3380336",
+            "url": "https://dblp.org/rec/conf/icse/0001ZHHB20"
+        },
+        "url": "URL#2264613"
+    },
+    {
+        "@score": "1",
+        "@id": "2264617",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "70/2221-2",
+                        "text": "Hui Guo 0002"
+                    },
+                    {
+                        "@pid": "s/MunindarPSingh",
+                        "text": "Munindar P. Singh"
+                    }
+                ]
+            },
+            "title": "Caspar: extracting and synthesizing user stories of problems from app reviews.",
+            "venue": "ICSE",
+            "pages": "628-640",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0002S20",
+            "doi": "10.1145/3377811.3380924",
+            "ee": "https://doi.org/10.1145/3377811.3380924",
+            "url": "https://dblp.org/rec/conf/icse/0002S20"
+        },
+        "url": "URL#2264617"
+    },
+    {
+        "@score": "1",
+        "@id": "2264618",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "70/2221-7",
+                        "text": "Hui Guo 0007"
+                    },
+                    {
+                        "@pid": "69/495",
+                        "text": "Cindy Rubio-Gonz\u00e1lez"
+                    }
+                ]
+            },
+            "title": "Efficient generation of error-inducing floating-point inputs via symbolic execution.",
+            "venue": "ICSE",
+            "pages": "1261-1272",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/0007R20",
+            "doi": "10.1145/3377811.3380359",
+            "ee": "https://doi.org/10.1145/3377811.3380359",
+            "url": "https://dblp.org/rec/conf/icse/0007R20"
+        },
+        "url": "URL#2264618"
+    },
+    {
+        "@score": "1",
+        "@id": "2264621",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/9157",
+                        "text": "Emad Aghajani"
+                    },
+                    {
+                        "@pid": "30/5528-1",
+                        "text": "Csaba Nagy 0001"
+                    },
+                    {
+                        "@pid": "65/7207",
+                        "text": "Mario Linares-V\u00e1squez"
+                    },
+                    {
+                        "@pid": "65/119",
+                        "text": "Laura Moreno"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "53/6708",
+                        "text": "Michele Lanza"
+                    },
+                    {
+                        "@pid": "153/5343",
+                        "text": "David C. Shepherd"
+                    }
+                ]
+            },
+            "title": "Software documentation: the practitioners&apos; perspective.",
+            "venue": "ICSE",
+            "pages": "590-601",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Aghajani0LMBLS20",
+            "doi": "10.1145/3377811.3380405",
+            "ee": "https://doi.org/10.1145/3377811.3380405",
+            "url": "https://dblp.org/rec/conf/icse/Aghajani0LMBLS20"
+        },
+        "url": "URL#2264621"
+    },
+    {
+        "@score": "1",
+        "@id": "2264630",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "207/4007",
+                        "text": "Mounifah Alenazi"
+                    },
+                    {
+                        "@pid": "65/4493",
+                        "text": "Nan Niu"
+                    },
+                    {
+                        "@pid": "84/3557",
+                        "text": "Juha Savolainen"
+                    }
+                ]
+            },
+            "title": "A novel approach to tracing safety requirements and state-based design models.",
+            "venue": "ICSE",
+            "pages": "848-860",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AlenaziNS20",
+            "doi": "10.1145/3377811.3380332",
+            "ee": "https://doi.org/10.1145/3377811.3380332",
+            "url": "https://dblp.org/rec/conf/icse/AlenaziNS20"
+        },
+        "url": "URL#2264630"
+    },
+    {
+        "@score": "1",
+        "@id": "2264634",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "39/5298",
+                        "text": "Dalal Alrajeh"
+                    },
+                    {
+                        "@pid": "121/3972",
+                        "text": "Antoine Cailliau"
+                    },
+                    {
+                        "@pid": "71/4758",
+                        "text": "Axel van Lamsweerde"
+                    }
+                ]
+            },
+            "title": "Adapting requirements models to varying environments.",
+            "venue": "ICSE",
+            "pages": "50-61",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/AlrajehCL20",
+            "doi": "10.1145/3377811.3380927",
+            "ee": "https://doi.org/10.1145/3377811.3380927",
+            "url": "https://dblp.org/rec/conf/icse/AlrajehCL20"
+        },
+        "url": "URL#2264634"
+    },
+    {
+        "@score": "1",
+        "@id": "2264637",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "266/9836",
+                        "text": "Abdulaziz Alshayban"
+                    },
+                    {
+                        "@pid": "57/5553",
+                        "text": "Iftekhar Ahmed 0001"
+                    },
+                    {
+                        "@pid": "88/4685",
+                        "text": "Sam Malek"
+                    }
+                ]
+            },
+            "title": "Accessibility issues in Android apps: state of affairs, sentiments, and ways forward.",
+            "venue": "ICSE",
+            "pages": "1323-1334",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Alshayban0M20",
+            "doi": "10.1145/3377811.3380392",
+            "ee": "https://doi.org/10.1145/3377811.3380392",
+            "url": "https://dblp.org/rec/conf/icse/Alshayban0M20"
+        },
+        "url": "URL#2264637"
+    },
+    {
+        "@score": "1",
+        "@id": "2264654",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "254/6031",
+                        "text": "Yude Bai"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "08/2489-1",
+                        "text": "Xiaohong Li 0001"
+                    },
+                    {
+                        "@pid": "48/195-2",
+                        "text": "Zhiyong Feng 0002"
+                    },
+                    {
+                        "@pid": "276/3504",
+                        "text": "Duoyuan Ma"
+                    }
+                ]
+            },
+            "title": "Unsuccessful story about few shot malware family classification and siamese network to the rescue.",
+            "venue": "ICSE",
+            "pages": "1560-1571",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BaiX00M20",
+            "doi": "10.1145/3377811.3380354",
+            "ee": "https://doi.org/10.1145/3377811.3380354",
+            "url": "https://dblp.org/rec/conf/icse/BaiX00M20"
+        },
+        "url": "URL#2264654"
+    },
+    {
+        "@score": "1",
+        "@id": "2264663",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/3123",
+                        "text": "Manuel Benz"
+                    },
+                    {
+                        "@pid": "197/3552",
+                        "text": "Erik Krogh Kristensen"
+                    },
+                    {
+                        "@pid": "244/4638",
+                        "text": "Linghui Luo"
+                    },
+                    {
+                        "@pid": "202/8462",
+                        "text": "Nataniel P. Borges"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    },
+                    {
+                        "@pid": "z/AndreasZeller",
+                        "text": "Andreas Zeller"
+                    }
+                ]
+            },
+            "title": "Heaps&apos;n leaks: how heap snapshots improve Android taint analysis.",
+            "venue": "ICSE",
+            "pages": "1061-1072",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BenzKLBBZ20",
+            "doi": "10.1145/3377811.3380438",
+            "ee": "https://doi.org/10.1145/3377811.3380438",
+            "url": "https://dblp.org/rec/conf/icse/BenzKLBBZ20"
+        },
+        "url": "URL#2264663"
+    },
+    {
+        "@score": "1",
+        "@id": "2264664",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/8133",
+                        "text": "Carlos Bernal-C\u00e1rdenas"
+                    },
+                    {
+                        "@pid": "210/7846",
+                        "text": "Nathan Cooper"
+                    },
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "123/7738",
+                        "text": "Oscar Chaparro"
+                    },
+                    {
+                        "@pid": "m/AndrianMarcus",
+                        "text": "Andrian Marcus"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "Translating video recordings of mobile app usages into replayable scenarios.",
+            "venue": "ICSE",
+            "pages": "309-321",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Bernal-Cardenas20",
+            "doi": "10.1145/3377811.3380328",
+            "ee": "https://doi.org/10.1145/3377811.3380328",
+            "url": "https://dblp.org/rec/conf/icse/Bernal-Cardenas20"
+        },
+        "url": "URL#2264664"
+    },
+    {
+        "@score": "1",
+        "@id": "2264665",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/3919",
+                        "text": "Antonia Bertolino"
+                    },
+                    {
+                        "@pid": "230/2158",
+                        "text": "Antonio Guerriero"
+                    },
+                    {
+                        "@pid": "119/0420",
+                        "text": "Breno Miranda"
+                    },
+                    {
+                        "@pid": "07/504",
+                        "text": "Roberto Pietrantuono"
+                    },
+                    {
+                        "@pid": "20/665",
+                        "text": "Stefano Russo 0001"
+                    }
+                ]
+            },
+            "title": "Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration.",
+            "venue": "ICSE",
+            "pages": "1-12",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BertolinoGMPR20",
+            "doi": "10.1145/3377811.3380369",
+            "ee": "https://doi.org/10.1145/3377811.3380369",
+            "url": "https://dblp.org/rec/conf/icse/BertolinoGMPR20"
+        },
+        "url": "URL#2264665"
+    },
+    {
+        "@score": "1",
+        "@id": "2264678",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/8806",
+                        "text": "Tegan Brennan"
+                    },
+                    {
+                        "@pid": "150/1658",
+                        "text": "Seemanta Saha"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    }
+                ]
+            },
+            "title": "JVM fuzzing for JIT-induced side-channel detection.",
+            "venue": "ICSE",
+            "pages": "1011-1023",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/BrennanSB20",
+            "doi": "10.1145/3377811.3380432",
+            "ee": "https://doi.org/10.1145/3377811.3380432",
+            "url": "https://dblp.org/rec/conf/icse/BrennanSB20"
+        },
+        "url": "URL#2264678"
+    },
+    {
+        "@score": "1",
+        "@id": "2264680",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/3991",
+                        "text": "Caius Brindescu"
+                    },
+                    {
+                        "@pid": "57/5553",
+                        "text": "Iftekhar Ahmed 0001"
+                    },
+                    {
+                        "@pid": "189/8133",
+                        "text": "Rafael Leano"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    }
+                ]
+            },
+            "title": "Planning for untangling: predicting the difficulty of merge conflicts.",
+            "venue": "ICSE",
+            "pages": "801-811",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Brindescu0LS20",
+            "doi": "10.1145/3377811.3380344",
+            "ee": "https://doi.org/10.1145/3377811.3380344",
+            "url": "https://dblp.org/rec/conf/icse/Brindescu0LS20"
+        },
+        "url": "URL#2264680"
+    },
+    {
+        "@score": "1",
+        "@id": "2264685",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0371",
+                        "text": "Alexandra Bugariu"
+                    },
+                    {
+                        "@pid": "m/PMuller1",
+                        "text": "Peter M\u00fcller 0001"
+                    }
+                ]
+            },
+            "title": "Automatically testing string solvers.",
+            "venue": "ICSE",
+            "pages": "1459-1470",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Bugariu020",
+            "doi": "10.1145/3377811.3380398",
+            "ee": "https://doi.org/10.1145/3377811.3380398",
+            "url": "https://dblp.org/rec/conf/icse/Bugariu020"
+        },
+        "url": "URL#2264685"
+    },
+    {
+        "@score": "1",
+        "@id": "2264707",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "208/7391",
+                        "text": "Souti Chattopadhyay"
+                    },
+                    {
+                        "@pid": "47/6907-2",
+                        "text": "Nicholas Nelson 0002"
+                    },
+                    {
+                        "@pid": "276/3317",
+                        "text": "Audrey Au"
+                    },
+                    {
+                        "@pid": "269/4997",
+                        "text": "Natalia Morales"
+                    },
+                    {
+                        "@pid": "83/7294",
+                        "text": "Christopher A. Sanchez"
+                    },
+                    {
+                        "@pid": "05/9103",
+                        "text": "Rahul Pandita"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    }
+                ]
+            },
+            "title": "A tale from the trenches: cognitive biases and software development.",
+            "venue": "ICSE",
+            "pages": "654-665",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Chattopadhyay0A20",
+            "doi": "10.1145/3377811.3380330",
+            "ee": "https://doi.org/10.1145/3377811.3380330",
+            "url": "https://dblp.org/rec/conf/icse/Chattopadhyay0A20"
+        },
+        "url": "URL#2264707"
+    },
+    {
+        "@score": "1",
+        "@id": "2264709",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "143/0509",
+                        "text": "Dongjie Chen"
+                    },
+                    {
+                        "@pid": "08/8179-1",
+                        "text": "Yanyan Jiang 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "Testing file system implementations on layered models.",
+            "venue": "ICSE",
+            "pages": "1483-1495",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Chen00M020",
+            "doi": "10.1145/3377811.3380350",
+            "ee": "https://doi.org/10.1145/3377811.3380350",
+            "url": "https://dblp.org/rec/conf/icse/Chen00M020"
+        },
+        "url": "URL#2264709"
+    },
+    {
+        "@score": "1",
+        "@id": "2264712",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/6440",
+                        "text": "Jieshan Chen"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "47/3196-1",
+                        "text": "Xiwei Xu 0001"
+                    },
+                    {
+                        "@pid": "52/4318-1",
+                        "text": "Liming Zhu 0001"
+                    },
+                    {
+                        "@pid": "l/GuoqiangLi1",
+                        "text": "Guoqiang Li 0001"
+                    },
+                    {
+                        "@pid": "49/10504",
+                        "text": "Jinshui Wang"
+                    }
+                ]
+            },
+            "title": "Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning.",
+            "venue": "ICSE",
+            "pages": "322-334",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenCXXZ0W20",
+            "doi": "10.1145/3377811.3380327",
+            "ee": "https://doi.org/10.1145/3377811.3380327",
+            "url": "https://dblp.org/rec/conf/icse/ChenCXXZ0W20"
+        },
+        "url": "URL#2264712"
+    },
+    {
+        "@score": "1",
+        "@id": "2264713",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8218-1",
+                        "text": "Sen Chen 0001"
+                    },
+                    {
+                        "@pid": "11/2636-3",
+                        "text": "Lingling Fan 0003"
+                    },
+                    {
+                        "@pid": "134/8681",
+                        "text": "Guozhu Meng"
+                    },
+                    {
+                        "@pid": "42/6896-1",
+                        "text": "Ting Su 0001"
+                    },
+                    {
+                        "@pid": "166/1912",
+                        "text": "Minhui Xue 0001"
+                    },
+                    {
+                        "@pid": "73/7055",
+                        "text": "Yinxing Xue"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "89/2985",
+                        "text": "Lihua Xu"
+                    }
+                ]
+            },
+            "title": "An empirical assessment of security risks of global Android banking apps.",
+            "venue": "ICSE",
+            "pages": "1310-1322",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenFMSXXLX20",
+            "doi": "10.1145/3377811.3380417",
+            "ee": "https://doi.org/10.1145/3377811.3380417",
+            "url": "https://dblp.org/rec/conf/icse/ChenFMSXXLX20"
+        },
+        "url": "URL#2264713"
+    },
+    {
+        "@score": "1",
+        "@id": "2264714",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/415",
+                        "text": "Jinyin Chen"
+                    },
+                    {
+                        "@pid": "158/7083",
+                        "text": "Keke Hu"
+                    },
+                    {
+                        "@pid": "55/2008-1",
+                        "text": "Yue Yu 0001"
+                    },
+                    {
+                        "@pid": "242/9670",
+                        "text": "Zhuangzhi Chen"
+                    },
+                    {
+                        "@pid": "37/8888",
+                        "text": "Qi Xuan"
+                    },
+                    {
+                        "@pid": "97/4626-24",
+                        "text": "Yi Liu 0024"
+                    },
+                    {
+                        "@pid": "f/VladimirFilkov",
+                        "text": "Vladimir Filkov"
+                    }
+                ]
+            },
+            "title": "Software visualization and deep transfer learning for effective software defect prediction.",
+            "venue": "ICSE",
+            "pages": "578-589",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenH0CX0F20",
+            "doi": "10.1145/3377811.3380389",
+            "ee": "https://doi.org/10.1145/3377811.3380389",
+            "url": "https://dblp.org/rec/conf/icse/ChenH0CX0F20"
+        },
+        "url": "URL#2264714"
+    },
+    {
+        "@score": "1",
+        "@id": "2264715",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "220/2097",
+                        "text": "Lingchao Chen"
+                    },
+                    {
+                        "@pid": "35/9943",
+                        "text": "Foyzul Hassan"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Taming behavioral backward incompatibilities via cross-project testing and analysis.",
+            "venue": "ICSE",
+            "pages": "112-124",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenHWZ20",
+            "doi": "10.1145/3377811.3380436",
+            "ee": "https://doi.org/10.1145/3377811.3380436",
+            "url": "https://dblp.org/rec/conf/icse/ChenHWZ20"
+        },
+        "url": "URL#2264715"
+    },
+    {
+        "@score": "1",
+        "@id": "2264716",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "193/7174-2",
+                        "text": "Boyuan Chen 0002"
+                    },
+                    {
+                        "@pid": "50/23",
+                        "text": "Zhen Ming (Jack) Jiang"
+                    }
+                ]
+            },
+            "title": "Studying the use of Java logging utilities in the wild.",
+            "venue": "ICSE",
+            "pages": "397-408",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChenJ20",
+            "doi": "10.1145/3377811.3380408",
+            "ee": "https://doi.org/10.1145/3377811.3380408",
+            "url": "https://dblp.org/rec/conf/icse/ChenJ20"
+        },
+        "url": "URL#2264716"
+    },
+    {
+        "@score": "1",
+        "@id": "2264722",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "193/1453",
+                        "text": "Shafiul Azam Chowdhury"
+                    },
+                    {
+                        "@pid": "226/0135",
+                        "text": "Sohil Lal Shrestha"
+                    },
+                    {
+                        "@pid": "96/11505",
+                        "text": "Taylor T. Johnson"
+                    },
+                    {
+                        "@pid": "44/5831",
+                        "text": "Christoph Csallner"
+                    }
+                ]
+            },
+            "title": "SLEMI: equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink.",
+            "venue": "ICSE",
+            "pages": "335-346",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ChowdhurySJC20",
+            "doi": "10.1145/3377811.3380381",
+            "ee": "https://doi.org/10.1145/3377811.3380381",
+            "url": "https://dblp.org/rec/conf/icse/ChowdhurySJC20"
+        },
+        "url": "URL#2264722"
+    },
+    {
+        "@score": "1",
+        "@id": "2264728",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "194/3980",
+                        "text": "Alex Cummaudo"
+                    },
+                    {
+                        "@pid": "62/3920",
+                        "text": "Rajesh Vasa"
+                    },
+                    {
+                        "@pid": "165/5477",
+                        "text": "Scott Barnett"
+                    },
+                    {
+                        "@pid": "g/JohnCGrundy",
+                        "text": "John C. Grundy"
+                    },
+                    {
+                        "@pid": "08/10279",
+                        "text": "Mohamed Abdelrazek 0001"
+                    }
+                ]
+            },
+            "title": "Interpreting cloud computer vision pain-points: a mining study of stack overflow.",
+            "venue": "ICSE",
+            "pages": "1584-1596",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/CummaudoVBGA20",
+            "doi": "10.1145/3377811.3380404",
+            "ee": "https://doi.org/10.1145/3377811.3380404",
+            "url": "https://dblp.org/rec/conf/icse/CummaudoVBGA20"
+        },
+        "url": "URL#2264728"
+    },
+    {
+        "@score": "1",
+        "@id": "2264729",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9268",
+                        "text": "Anastasia Danilova"
+                    },
+                    {
+                        "@pid": "201/9227",
+                        "text": "Alena Naiakshina"
+                    },
+                    {
+                        "@pid": "88/5808-1",
+                        "text": "Matthew Smith 0001"
+                    }
+                ]
+            },
+            "title": "One size does not fit all: a grounded theory and online survey study of developer preferences for security warning types.",
+            "venue": "ICSE",
+            "pages": "136-148",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DanilovaN020",
+            "doi": "10.1145/3377811.3380387",
+            "ee": "https://doi.org/10.1145/3377811.3380387",
+            "url": "https://dblp.org/rec/conf/icse/DanilovaN020"
+        },
+        "url": "URL#2264729"
+    },
+    {
+        "@score": "1",
+        "@id": "2264740",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3298",
+                        "text": "Zishuo Ding"
+                    },
+                    {
+                        "@pid": "54/4698-2",
+                        "text": "Jinfu Chen 0002"
+                    },
+                    {
+                        "@pid": "96/7305",
+                        "text": "Weiyi Shang"
+                    }
+                ]
+            },
+            "title": "Towards the use of the readily available tests from the release pipeline as performance tests: are we there yet?",
+            "venue": "ICSE",
+            "pages": "1435-1446",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DingCS20",
+            "doi": "10.1145/3377811.3380351",
+            "ee": "https://doi.org/10.1145/3377811.3380351",
+            "url": "https://dblp.org/rec/conf/icse/DingCS20"
+        },
+        "url": "URL#2264740"
+    },
+    {
+        "@score": "1",
+        "@id": "2264743",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/1749",
+                        "text": "Zhen Dong"
+                    },
+                    {
+                        "@pid": "91/7541",
+                        "text": "Marcel B\u00f6hme"
+                    },
+                    {
+                        "@pid": "276/3325",
+                        "text": "Lucia Cojocaru"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "Time-travel testing of Android apps.",
+            "venue": "ICSE",
+            "pages": "481-492",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DongBCR20",
+            "doi": "10.1145/3377811.3380402",
+            "ee": "https://doi.org/10.1145/3377811.3380402",
+            "url": "https://dblp.org/rec/conf/icse/DongBCR20"
+        },
+        "url": "URL#2264743"
+    },
+    {
+        "@score": "1",
+        "@id": "2264747",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "163/2121",
+                        "text": "Thomas Durieux"
+                    },
+                    {
+                        "@pid": "f/JoaoFFerreira",
+                        "text": "Jo\u00e3o F. Ferreira 0001"
+                    },
+                    {
+                        "@pid": "00/6243",
+                        "text": "Rui Abreu 0001"
+                    },
+                    {
+                        "@pid": "30/2478-3",
+                        "text": "Pedro Cruz 0003"
+                    }
+                ]
+            },
+            "title": "Empirical review of automated analysis tools on 47, 587 Ethereum smart contracts.",
+            "venue": "ICSE",
+            "pages": "530-541",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/DurieuxFAC20",
+            "doi": "10.1145/3377811.3380364",
+            "ee": "https://doi.org/10.1145/3377811.3380364",
+            "url": "https://dblp.org/rec/conf/icse/DurieuxFAC20"
+        },
+        "url": "URL#2264747"
+    },
+    {
+        "@score": "1",
+        "@id": "2264749",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "195/2719",
+                        "text": "Carolyn D. Egelman"
+                    },
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    },
+                    {
+                        "@pid": "276/3485",
+                        "text": "Elizabeth Kammer 0001"
+                    },
+                    {
+                        "@pid": "276/3505",
+                        "text": "Margaret Morrow Hodges"
+                    },
+                    {
+                        "@pid": "58/3948",
+                        "text": "Collin Green"
+                    },
+                    {
+                        "@pid": "36/1500",
+                        "text": "Ciera Jaspan"
+                    },
+                    {
+                        "@pid": "54/5881",
+                        "text": "James Lin"
+                    }
+                ]
+            },
+            "title": "Predicting developers&apos; negative feelings about code review.",
+            "venue": "ICSE",
+            "pages": "174-185",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/EgelmanMKHGJL20",
+            "doi": "10.1145/3377811.3380414",
+            "ee": "https://doi.org/10.1145/3377811.3380414",
+            "url": "https://dblp.org/rec/conf/icse/EgelmanMKHGJL20"
+        },
+        "url": "URL#2264749"
+    },
+    {
+        "@score": "1",
+        "@id": "2264757",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "207/7919",
+                        "text": "Ana Nora Evans"
+                    },
+                    {
+                        "@pid": "21/10522",
+                        "text": "Bradford Campbell"
+                    },
+                    {
+                        "@pid": "s/MaryLouSoffa",
+                        "text": "Mary Lou Soffa"
+                    }
+                ]
+            },
+            "title": "Is rust used safely by software developers?",
+            "venue": "ICSE",
+            "pages": "246-257",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/EvansCS20",
+            "doi": "10.1145/3377811.3380413",
+            "ee": "https://doi.org/10.1145/3377811.3380413",
+            "url": "https://dblp.org/rec/conf/icse/EvansCS20"
+        },
+        "url": "URL#2264757"
+    },
+    {
+        "@score": "1",
+        "@id": "2264770",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/3881-12",
+                        "text": "Xiang Gao 0012"
+                    },
+                    {
+                        "@pid": "67/9972",
+                        "text": "Ripon K. Saha"
+                    },
+                    {
+                        "@pid": "52/1173",
+                        "text": "Mukul R. Prasad"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "Fuzz testing based data augmentation to improve robustness of deep neural networks.",
+            "venue": "ICSE",
+            "pages": "1147-1158",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GaoSPR20",
+            "doi": "10.1145/3377811.3380415",
+            "ee": "https://doi.org/10.1145/3377811.3380415",
+            "url": "https://dblp.org/rec/conf/icse/GaoSPR20"
+        },
+        "url": "URL#2264770"
+    },
+    {
+        "@score": "1",
+        "@id": "2264771",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "06/6932",
+                        "text": "Joshua Garcia"
+                    },
+                    {
+                        "@pid": "07/6095-3",
+                        "text": "Yang Feng 0003"
+                    },
+                    {
+                        "@pid": "191/4716-1",
+                        "text": "Junjie Shen 0001"
+                    },
+                    {
+                        "@pid": "243/5980",
+                        "text": "Sumaya Almanee"
+                    },
+                    {
+                        "@pid": "120/8069",
+                        "text": "Yuan Xia"
+                    },
+                    {
+                        "@pid": "150/3272",
+                        "text": "Qi Alfred Chen"
+                    }
+                ]
+            },
+            "title": "A comprehensive study of autonomous vehicle bugs.",
+            "venue": "ICSE",
+            "pages": "385-396",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GarciaF0AXC20",
+            "doi": "10.1145/3377811.3380397",
+            "ee": "https://doi.org/10.1145/3377811.3380397",
+            "url": "https://dblp.org/rec/conf/icse/GarciaF0AXC20"
+        },
+        "url": "URL#2264771"
+    },
+    {
+        "@score": "1",
+        "@id": "2264774",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/6142",
+                        "text": "Simos Gerasimou"
+                    },
+                    {
+                        "@pid": "162/5556",
+                        "text": "Hasan Ferit Eniser"
+                    },
+                    {
+                        "@pid": "59/3602-1",
+                        "text": "Alper Sen 0001"
+                    },
+                    {
+                        "@pid": "258/3192",
+                        "text": "Alper \u00c7akan"
+                    }
+                ]
+            },
+            "title": "Importance-driven deep learning system testing.",
+            "venue": "ICSE",
+            "pages": "702-713",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GerasimouE0C20",
+            "doi": "10.1145/3377811.3380391",
+            "ee": "https://doi.org/10.1145/3377811.3380391",
+            "url": "https://dblp.org/rec/conf/icse/GerasimouE0C20"
+        },
+        "url": "URL#2264774"
+    },
+    {
+        "@score": "1",
+        "@id": "2264778",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2341",
+                        "text": "Daniela Girardi"
+                    },
+                    {
+                        "@pid": "09/1798",
+                        "text": "Nicole Novielli"
+                    },
+                    {
+                        "@pid": "70/9016",
+                        "text": "Davide Fucci"
+                    },
+                    {
+                        "@pid": "29/4646",
+                        "text": "Filippo Lanubile"
+                    }
+                ]
+            },
+            "title": "Recognizing developers&apos; emotions while programming.",
+            "venue": "ICSE",
+            "pages": "666-677",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GirardiNFL20",
+            "doi": "10.1145/3377811.3380374",
+            "ee": "https://doi.org/10.1145/3377811.3380374",
+            "url": "https://dblp.org/rec/conf/icse/GirardiNFL20"
+        },
+        "url": "URL#2264778"
+    },
+    {
+        "@score": "1",
+        "@id": "2264788",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "162/3606",
+                        "text": "Shengjian Guo"
+                    },
+                    {
+                        "@pid": "16/6884-1",
+                        "text": "Yueqi Chen 0001"
+                    },
+                    {
+                        "@pid": "83/6353",
+                        "text": "Peng Li"
+                    },
+                    {
+                        "@pid": "15/8296",
+                        "text": "Yueqiang Cheng"
+                    },
+                    {
+                        "@pid": "144/3253",
+                        "text": "Huibo Wang"
+                    },
+                    {
+                        "@pid": "19/5921",
+                        "text": "Meng Wu"
+                    },
+                    {
+                        "@pid": "10/964-2",
+                        "text": "Zhiqiang Zuo 0002"
+                    }
+                ]
+            },
+            "title": "SpecuSym: speculative symbolic execution for cache timing leak detection.",
+            "venue": "ICSE",
+            "pages": "1235-1247",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/GuoCLCWW020",
+            "doi": "10.1145/3377811.3380428",
+            "ee": "https://doi.org/10.1145/3377811.3380428",
+            "url": "https://dblp.org/rec/conf/icse/GuoCLCWW020"
+        },
+        "url": "URL#2264788"
+    },
+    {
+        "@score": "1",
+        "@id": "2264797",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "147/1619",
+                        "text": "Pinjia He"
+                    },
+                    {
+                        "@pid": "245/7485",
+                        "text": "Clara Meister"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Structure-invariant testing for machine translation.",
+            "venue": "ICSE",
+            "pages": "961-973",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HeMS20",
+            "doi": "10.1145/3377811.3380339",
+            "ee": "https://doi.org/10.1145/3377811.3380339",
+            "url": "https://dblp.org/rec/conf/icse/HeMS20"
+        },
+        "url": "URL#2264797"
+    },
+    {
+        "@score": "1",
+        "@id": "2264801",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "217/1922",
+                        "text": "Jordan Henkel"
+                    },
+                    {
+                        "@pid": "b/ChristianBird",
+                        "text": "Christian Bird"
+                    },
+                    {
+                        "@pid": "32/2903",
+                        "text": "Shuvendu K. Lahiri"
+                    },
+                    {
+                        "@pid": "r/TWReps",
+                        "text": "Thomas W. Reps"
+                    }
+                ]
+            },
+            "title": "Learning from, understanding, and supporting DevOps artifacts for docker.",
+            "venue": "ICSE",
+            "pages": "38-49",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HenkelBLR20",
+            "doi": "10.1145/3377811.3380406",
+            "ee": "https://doi.org/10.1145/3377811.3380406",
+            "url": "https://dblp.org/rec/conf/icse/HenkelBLR20"
+        },
+        "url": "URL#2264801"
+    },
+    {
+        "@score": "1",
+        "@id": "2264804",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "210/1015",
+                        "text": "Claudia Hilderbrand"
+                    },
+                    {
+                        "@pid": "224/2406",
+                        "text": "Christopher Perdriau"
+                    },
+                    {
+                        "@pid": "53/11242",
+                        "text": "Lara Letaw"
+                    },
+                    {
+                        "@pid": "241/5229",
+                        "text": "Jillian Emard"
+                    },
+                    {
+                        "@pid": "222/5895",
+                        "text": "Zoe Steine-Hanson"
+                    },
+                    {
+                        "@pid": "b/MMBurnett",
+                        "text": "Margaret Burnett"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    }
+                ]
+            },
+            "title": "Engineering gender-inclusivity into software: ten teams&apos; tales from the trenches.",
+            "venue": "ICSE",
+            "pages": "433-444",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HilderbrandPLES20",
+            "doi": "10.1145/3377811.3380371",
+            "ee": "https://doi.org/10.1145/3377811.3380371",
+            "url": "https://dblp.org/rec/conf/icse/HilderbrandPLES20"
+        },
+        "url": "URL#2264804"
+    },
+    {
+        "@score": "1",
+        "@id": "2264807",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "194/7742",
+                        "text": "Thong Hoang"
+                    },
+                    {
+                        "@pid": "190/7414",
+                        "text": "Hong Jin Kang"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    },
+                    {
+                        "@pid": "l/JuliaLLawall",
+                        "text": "Julia Lawall"
+                    }
+                ]
+            },
+            "title": "CC2Vec: distributed representations of code changes.",
+            "venue": "ICSE",
+            "pages": "518-529",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HoangK0L20",
+            "doi": "10.1145/3377811.3380361",
+            "ee": "https://doi.org/10.1145/3377811.3380361",
+            "url": "https://dblp.org/rec/conf/icse/HoangK0L20"
+        },
+        "url": "URL#2264807"
+    },
+    {
+        "@score": "1",
+        "@id": "2264810",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/5868",
+                        "text": "Seongjoon Hong"
+                    },
+                    {
+                        "@pid": "196/6094",
+                        "text": "Junhee Lee"
+                    },
+                    {
+                        "@pid": "58/4813",
+                        "text": "Jeongsoo Lee"
+                    },
+                    {
+                        "@pid": "13/7537",
+                        "text": "Hakjoo Oh"
+                    }
+                ]
+            },
+            "title": "SAVER: scalable, precise, and safe memory-error repair.",
+            "venue": "ICSE",
+            "pages": "271-283",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HongLLO20",
+            "doi": "10.1145/3377811.3380323",
+            "ee": "https://doi.org/10.1145/3377811.3380323",
+            "url": "https://dblp.org/rec/conf/icse/HongLLO20"
+        },
+        "url": "URL#2264810"
+    },
+    {
+        "@score": "1",
+        "@id": "2264811",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3569",
+                        "text": "Katherine Hough"
+                    },
+                    {
+                        "@pid": "201/8161",
+                        "text": "Gebrehiwet B. Welearegai"
+                    },
+                    {
+                        "@pid": "h/ChristianHammer1",
+                        "text": "Christian Hammer 0001"
+                    },
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    }
+                ]
+            },
+            "title": "Revealing injection vulnerabilities by leveraging existing tests.",
+            "venue": "ICSE",
+            "pages": "284-296",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HoughW0B20",
+            "doi": "10.1145/3377811.3380326",
+            "ee": "https://doi.org/10.1145/3377811.3380326",
+            "url": "https://dblp.org/rec/conf/icse/HoughW0B20"
+        },
+        "url": "URL#2264811"
+    },
+    {
+        "@score": "1",
+        "@id": "2264812",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/4259",
+                        "text": "Jingmei Hu"
+                    },
+                    {
+                        "@pid": "260/4885",
+                        "text": "Jiwon Joung"
+                    },
+                    {
+                        "@pid": "133/6604",
+                        "text": "Maia L. Jacobs"
+                    },
+                    {
+                        "@pid": "g/KrzysztofZGajos",
+                        "text": "Krzysztof Z. Gajos"
+                    },
+                    {
+                        "@pid": "s/MargoISeltzer",
+                        "text": "Margo I. Seltzer"
+                    }
+                ]
+            },
+            "title": "Improving data scientist efficiency with provenance.",
+            "venue": "ICSE",
+            "pages": "1086-1097",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HuJJGS20",
+            "doi": "10.1145/3377811.3380366",
+            "ee": "https://doi.org/10.1145/3377811.3380366",
+            "url": "https://dblp.org/rec/conf/icse/HuJJGS20"
+        },
+        "url": "URL#2264812"
+    },
+    {
+        "@score": "1",
+        "@id": "2264814",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "251/5495",
+                        "text": "Nargiz Humbatova"
+                    },
+                    {
+                        "@pid": "183/0177",
+                        "text": "Gunel Jahangirova"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "177/1943",
+                        "text": "Vincenzo Riccio"
+                    },
+                    {
+                        "@pid": "64/1715-1",
+                        "text": "Andrea Stocco 0001"
+                    },
+                    {
+                        "@pid": "54/2734",
+                        "text": "Paolo Tonella"
+                    }
+                ]
+            },
+            "title": "Taxonomy of real faults in deep learning systems.",
+            "venue": "ICSE",
+            "pages": "1110-1121",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HumbatovaJBR0T20",
+            "doi": "10.1145/3377811.3380395",
+            "ee": "https://doi.org/10.1145/3377811.3380395",
+            "url": "https://dblp.org/rec/conf/icse/HumbatovaJBR0T20"
+        },
+        "url": "URL#2264814"
+    },
+    {
+        "@score": "1",
+        "@id": "2264816",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "86/2055",
+                        "text": "Sungjae Hwang"
+                    },
+                    {
+                        "@pid": "03/2760",
+                        "text": "Sukyoung Ryu"
+                    }
+                ]
+            },
+            "title": "Gap between theory and practice: an empirical study of security patches in solidity.",
+            "venue": "ICSE",
+            "pages": "542-553",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/HwangR20",
+            "doi": "10.1145/3377811.3380424",
+            "ee": "https://doi.org/10.1145/3377811.3380424",
+            "url": "https://dblp.org/rec/conf/icse/HwangR20"
+        },
+        "url": "URL#2264816"
+    },
+    {
+        "@score": "1",
+        "@id": "2264818",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/9844",
+                        "text": "Claire Ingram"
+                    },
+                    {
+                        "@pid": "93/7246",
+                        "text": "Anders Drachen"
+                    }
+                ]
+            },
+            "title": "How software practitioners use informal local meetups to share software engineering knowledge.",
+            "venue": "ICSE",
+            "pages": "161-173",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/IngramD20",
+            "doi": "10.1145/3377811.3380333",
+            "ee": "https://doi.org/10.1145/3377811.3380333",
+            "url": "https://dblp.org/rec/conf/icse/IngramD20"
+        },
+        "url": "URL#2264818"
+    },
+    {
+        "@score": "1",
+        "@id": "2264819",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "210/2350",
+                        "text": "Md Johirul Islam"
+                    },
+                    {
+                        "@pid": "241/9733",
+                        "text": "Rangeet Pan"
+                    },
+                    {
+                        "@pid": "99/4349",
+                        "text": "Giang Nguyen"
+                    },
+                    {
+                        "@pid": "r/HrideshRajan",
+                        "text": "Hridesh Rajan"
+                    }
+                ]
+            },
+            "title": "Repairing deep neural networks: fix patterns and challenges.",
+            "venue": "ICSE",
+            "pages": "1135-1146",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/IslamPNR20",
+            "doi": "10.1145/3377811.3380378",
+            "ee": "https://doi.org/10.1145/3377811.3380378",
+            "url": "https://dblp.org/rec/conf/icse/IslamPNR20"
+        },
+        "url": "URL#2264819"
+    },
+    {
+        "@score": "1",
+        "@id": "2264825",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/4525",
+                        "text": "Xianhao Jin"
+                    },
+                    {
+                        "@pid": "22/10607",
+                        "text": "Francisco Servant"
+                    }
+                ]
+            },
+            "title": "A cost-efficient approach to building in continuous integration.",
+            "venue": "ICSE",
+            "pages": "13-25",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/JinS20",
+            "doi": "10.1145/3377811.3380437",
+            "ee": "https://doi.org/10.1145/3377811.3380437",
+            "url": "https://dblp.org/rec/conf/icse/JinS20"
+        },
+        "url": "URL#2264825"
+    },
+    {
+        "@score": "1",
+        "@id": "2264826",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/6719",
+                        "text": "Brittany Johnson"
+                    },
+                    {
+                        "@pid": "51/1518",
+                        "text": "Yuriy Brun"
+                    },
+                    {
+                        "@pid": "04/1835",
+                        "text": "Alexandra Meliou"
+                    }
+                ]
+            },
+            "title": "Causal testing: understanding defects&apos; root causes.",
+            "venue": "ICSE",
+            "pages": "87-99",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/JohnsonBM20",
+            "doi": "10.1145/3377811.3380377",
+            "ee": "https://doi.org/10.1145/3377811.3380377",
+            "url": "https://dblp.org/rec/conf/icse/JohnsonBM20"
+        },
+        "url": "URL#2264826"
+    },
+    {
+        "@score": "1",
+        "@id": "2264834",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "186/7707",
+                        "text": "Rafael-Michael Karampatsis"
+                    },
+                    {
+                        "@pid": "239/4289",
+                        "text": "Hlib Babii"
+                    },
+                    {
+                        "@pid": "43/5822",
+                        "text": "Romain Robbes"
+                    },
+                    {
+                        "@pid": "59/5879",
+                        "text": "Charles Sutton"
+                    },
+                    {
+                        "@pid": "04/2902",
+                        "text": "Andrea Janes"
+                    }
+                ]
+            },
+            "title": "Big code != big vocabulary: open-vocabulary models for source code.",
+            "venue": "ICSE",
+            "pages": "1073-1085",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KarampatsisBRSJ20",
+            "doi": "10.1145/3377811.3380342",
+            "ee": "https://doi.org/10.1145/3377811.3380342",
+            "url": "https://dblp.org/rec/conf/icse/KarampatsisBRSJ20"
+        },
+        "url": "URL#2264834"
+    },
+    {
+        "@score": "1",
+        "@id": "2264839",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1272",
+                        "text": "Martin Kellogg"
+                    },
+                    {
+                        "@pid": "276/3562",
+                        "text": "Manli Ran"
+                    },
+                    {
+                        "@pid": "83/2559",
+                        "text": "Manu Sridharan"
+                    },
+                    {
+                        "@pid": "41/7506",
+                        "text": "Martin Sch\u00e4f"
+                    },
+                    {
+                        "@pid": "e/MDErnst",
+                        "text": "Michael D. Ernst"
+                    }
+                ]
+            },
+            "title": "Verifying object construction.",
+            "venue": "ICSE",
+            "pages": "1447-1458",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KelloggRSSE20",
+            "doi": "10.1145/3377811.3380341",
+            "ee": "https://doi.org/10.1145/3377811.3380341",
+            "url": "https://dblp.org/rec/conf/icse/KelloggRSSE20"
+        },
+        "url": "URL#2264839"
+    },
+    {
+        "@score": "1",
+        "@id": "2264843",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "163/0131",
+                        "text": "Djamel Eddine Khelladi"
+                    },
+                    {
+                        "@pid": "24/757",
+                        "text": "Beno\u00eet Combemale"
+                    },
+                    {
+                        "@pid": "57/2898",
+                        "text": "Mathieu Acher"
+                    },
+                    {
+                        "@pid": "97/947",
+                        "text": "Olivier Barais"
+                    },
+                    {
+                        "@pid": "j/JeanMarcJezequel",
+                        "text": "Jean-Marc J\u00e9z\u00e9quel"
+                    }
+                ]
+            },
+            "title": "Co-evolving code with evolving metamodels.",
+            "venue": "ICSE",
+            "pages": "1496-1508",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KhelladiCABJ20",
+            "doi": "10.1145/3377811.3380324",
+            "ee": "https://doi.org/10.1145/3377811.3380324",
+            "url": "https://dblp.org/rec/conf/icse/KhelladiCABJ20"
+        },
+        "url": "URL#2264843"
+    },
+    {
+        "@score": "1",
+        "@id": "2264847",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "174/2864",
+                        "text": "I Luk Kim"
+                    },
+                    {
+                        "@pid": "47/702",
+                        "text": "Yunhui Zheng"
+                    },
+                    {
+                        "@pid": "05/3540",
+                        "text": "Hogun Park"
+                    },
+                    {
+                        "@pid": "57/7210-1",
+                        "text": "Weihang Wang 0001"
+                    },
+                    {
+                        "@pid": "87/6465",
+                        "text": "Wei You"
+                    },
+                    {
+                        "@pid": "138/6356",
+                        "text": "Yousra Aafer"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Finding client-side business flow tampering vulnerabilities.",
+            "venue": "ICSE",
+            "pages": "222-233",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KimZPWYA020",
+            "doi": "10.1145/3377811.3380355",
+            "ee": "https://doi.org/10.1145/3377811.3380355",
+            "url": "https://dblp.org/rec/conf/icse/KimZPWYA020"
+        },
+        "url": "URL#2264847"
+    },
+    {
+        "@score": "1",
+        "@id": "2264848",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3349",
+                        "text": "Lukas Kirschner"
+                    },
+                    {
+                        "@pid": "200/2864",
+                        "text": "Ezekiel O. Soremekun"
+                    },
+                    {
+                        "@pid": "z/AndreasZeller",
+                        "text": "Andreas Zeller"
+                    }
+                ]
+            },
+            "title": "Debugging inputs.",
+            "venue": "ICSE",
+            "pages": "75-86",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/KirschnerSZ20",
+            "doi": "10.1145/3377811.3380329",
+            "ee": "https://doi.org/10.1145/3377811.3380329",
+            "url": "https://dblp.org/rec/conf/icse/KirschnerSZ20"
+        },
+        "url": "URL#2264848"
+    },
+    {
+        "@score": "1",
+        "@id": "2264857",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "242/3967",
+                        "text": "Ryan Krueger"
+                    },
+                    {
+                        "@pid": "39/6301-15",
+                        "text": "Yu Huang 0015"
+                    },
+                    {
+                        "@pid": "98/738",
+                        "text": "Xinyu Liu"
+                    },
+                    {
+                        "@pid": "200/1177",
+                        "text": "Tyler Santander"
+                    },
+                    {
+                        "@pid": "05/4127",
+                        "text": "Westley Weimer"
+                    },
+                    {
+                        "@pid": "133/3698",
+                        "text": "Kevin Leach"
+                    }
+                ]
+            },
+            "title": "Neurological divide: an fMRI study of prose and code writing.",
+            "venue": "ICSE",
+            "pages": "678-690",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Krueger0LSWL20",
+            "doi": "10.1145/3377811.3380348",
+            "ee": "https://doi.org/10.1145/3377811.3380348",
+            "url": "https://dblp.org/rec/conf/icse/Krueger0LSWL20"
+        },
+        "url": "URL#2264857"
+    },
+    {
+        "@score": "1",
+        "@id": "2264869",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "25/1049",
+                        "text": "Wing Lam"
+                    },
+                    {
+                        "@pid": "11/8730",
+                        "text": "Kivan\u00e7 Muslu"
+                    },
+                    {
+                        "@pid": "77/10504",
+                        "text": "Hitesh Sajnani"
+                    },
+                    {
+                        "@pid": "79/6558",
+                        "text": "Suresh Thummalapenta"
+                    }
+                ]
+            },
+            "title": "A study on the lifecycle of flaky tests.",
+            "venue": "ICSE",
+            "pages": "1471-1482",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LamMST20",
+            "doi": "10.1145/3377811.3381749",
+            "ee": "https://doi.org/10.1145/3377811.3381749",
+            "url": "https://dblp.org/rec/conf/icse/LamMST20"
+        },
+        "url": "URL#2264869"
+    },
+    {
+        "@score": "1",
+        "@id": "2264871",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "223/4602",
+                        "text": "Maxime Lamothe"
+                    },
+                    {
+                        "@pid": "96/7305",
+                        "text": "Weiyi Shang"
+                    }
+                ]
+            },
+            "title": "When APIs are intentionally bypassed: an exploratory study of API workarounds.",
+            "venue": "ICSE",
+            "pages": "912-924",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LamotheS20",
+            "doi": "10.1145/3377811.3380433",
+            "ee": "https://doi.org/10.1145/3377811.3380433",
+            "url": "https://dblp.org/rec/conf/icse/LamotheS20"
+        },
+        "url": "URL#2264871"
+    },
+    {
+        "@score": "1",
+        "@id": "2264872",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "243/1089",
+                        "text": "Jason Lau"
+                    },
+                    {
+                        "@pid": "24/5026",
+                        "text": "Aishwarya Sivaraman"
+                    },
+                    {
+                        "@pid": "04/2024-20",
+                        "text": "Qian Zhang 0020"
+                    },
+                    {
+                        "@pid": "172/6776",
+                        "text": "Muhammad Ali Gulzar"
+                    },
+                    {
+                        "@pid": "c/JasonCong",
+                        "text": "Jason Cong"
+                    },
+                    {
+                        "@pid": "56/5320",
+                        "text": "Miryung Kim"
+                    }
+                ]
+            },
+            "title": "HeteroRefactor: refactoring for heterogeneous computing with FPGA.",
+            "venue": "ICSE",
+            "pages": "493-505",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LauSZGCK20",
+            "doi": "10.1145/3377811.3380340",
+            "ee": "https://doi.org/10.1145/3377811.3380340",
+            "url": "https://dblp.org/rec/conf/icse/LauSZGCK20"
+        },
+        "url": "URL#2264872"
+    },
+    {
+        "@score": "1",
+        "@id": "2264879",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "59/871",
+                        "text": "Yi Li"
+                    },
+                    {
+                        "@pid": "09/486-2",
+                        "text": "Shaohua Wang 0002"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    }
+                ]
+            },
+            "title": "DLFix: context-based code transformation learning for automated program repair.",
+            "venue": "ICSE",
+            "pages": "602-614",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Li0N20",
+            "doi": "10.1145/3377811.3380345",
+            "ee": "https://doi.org/10.1145/3377811.3380345",
+            "url": "https://dblp.org/rec/conf/icse/Li0N20"
+        },
+        "url": "URL#2264879"
+    },
+    {
+        "@score": "1",
+        "@id": "2264890",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/6627-1",
+                        "text": "Ke Li 0001"
+                    },
+                    {
+                        "@pid": "234/9094",
+                        "text": "Zilin Xiang"
+                    },
+                    {
+                        "@pid": "69/510-1",
+                        "text": "Tao Chen 0001"
+                    },
+                    {
+                        "@pid": "63/1591-5",
+                        "text": "Shuo Wang 0005"
+                    },
+                    {
+                        "@pid": "t/KayChenTan",
+                        "text": "Kay Chen Tan"
+                    }
+                ]
+            },
+            "title": "Understanding the automated parameter optimization on transfer learning for cross-project defect prediction: an empirical study.",
+            "venue": "ICSE",
+            "pages": "566-577",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LiX0WT20",
+            "doi": "10.1145/3377811.3380360",
+            "ee": "https://doi.org/10.1145/3377811.3380360",
+            "url": "https://dblp.org/rec/conf/icse/LiX0WT20"
+        },
+        "url": "URL#2264890"
+    },
+    {
+        "@score": "1",
+        "@id": "2264892",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "38/2487",
+                        "text": "Michael Lienhardt"
+                    },
+                    {
+                        "@pid": "19/4742",
+                        "text": "Ferruccio Damiani"
+                    },
+                    {
+                        "@pid": "j/EinarBrochJohnsen",
+                        "text": "Einar Broch Johnsen"
+                    },
+                    {
+                        "@pid": "53/1605",
+                        "text": "Jacopo Mauro"
+                    }
+                ]
+            },
+            "title": "Lazy product discovery in huge configuration spaces.",
+            "venue": "ICSE",
+            "pages": "1509-1521",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LienhardtDJM20",
+            "doi": "10.1145/3377811.3380372",
+            "ee": "https://doi.org/10.1145/3377811.3380372",
+            "url": "https://dblp.org/rec/conf/icse/LienhardtDJM20"
+        },
+        "url": "URL#2264892"
+    },
+    {
+        "@score": "1",
+        "@id": "2264895",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/4950",
+                        "text": "Dirk van der Linden"
+                    },
+                    {
+                        "@pid": "80/9662",
+                        "text": "Pauline Anthonysamy"
+                    },
+                    {
+                        "@pid": "26/1319",
+                        "text": "Bashar Nuseibeh"
+                    },
+                    {
+                        "@pid": "86/404",
+                        "text": "Thein Than Tun"
+                    },
+                    {
+                        "@pid": "86/6244",
+                        "text": "Marian Petre"
+                    },
+                    {
+                        "@pid": "177/8719",
+                        "text": "Mark Levine"
+                    },
+                    {
+                        "@pid": "174/2807",
+                        "text": "John N. Towse"
+                    },
+                    {
+                        "@pid": "26/3330",
+                        "text": "Awais Rashid"
+                    }
+                ]
+            },
+            "title": "Schr\u00f6dinger&apos;s security: opening the box on app developers&apos; security rationale.",
+            "venue": "ICSE",
+            "pages": "149-160",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LindenANTPLTR20",
+            "doi": "10.1145/3377811.3380394",
+            "ee": "https://doi.org/10.1145/3377811.3380394",
+            "url": "https://dblp.org/rec/conf/icse/LindenANTPLTR20"
+        },
+        "url": "URL#2264895"
+    },
+    {
+        "@score": "1",
+        "@id": "2264898",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/0302",
+                        "text": "Bingchang Liu"
+                    },
+                    {
+                        "@pid": "134/8681",
+                        "text": "Guozhu Meng"
+                    },
+                    {
+                        "@pid": "10/328",
+                        "text": "Wei Zou"
+                    },
+                    {
+                        "@pid": "53/3454",
+                        "text": "Qi Gong"
+                    },
+                    {
+                        "@pid": "92/2954",
+                        "text": "Feng Li"
+                    },
+                    {
+                        "@pid": "73/1685",
+                        "text": "Min Lin"
+                    },
+                    {
+                        "@pid": "63/10179",
+                        "text": "Dandan Sun"
+                    },
+                    {
+                        "@pid": "24/679",
+                        "text": "Wei Huo"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    }
+                ]
+            },
+            "title": "A large-scale empirical study on vulnerability distribution within projects and the lessons learned.",
+            "venue": "ICSE",
+            "pages": "1547-1559",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LiuMZGLLSH020",
+            "doi": "10.1145/3377811.3380923",
+            "ee": "https://doi.org/10.1145/3377811.3380923",
+            "url": "https://dblp.org/rec/conf/icse/LiuMZGLLSH020"
+        },
+        "url": "URL#2264898"
+    },
+    {
+        "@score": "1",
+        "@id": "2264900",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "238/5405",
+                        "text": "Peiming Liu"
+                    },
+                    {
+                        "@pid": "73/860",
+                        "text": "Gang Zhao"
+                    },
+                    {
+                        "@pid": "68/4706-1",
+                        "text": "Jeff Huang 0001"
+                    }
+                ]
+            },
+            "title": "Securing unsafe rust programs with XRust.",
+            "venue": "ICSE",
+            "pages": "234-245",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/LiuZ020",
+            "doi": "10.1145/3377811.3380325",
+            "ee": "https://doi.org/10.1145/3377811.3380325",
+            "url": "https://dblp.org/rec/conf/icse/LiuZ020"
+        },
+        "url": "URL#2264900"
+    },
+    {
+        "@score": "1",
+        "@id": "2264904",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/4505",
+                        "text": "Wanwangying Ma"
+                    },
+                    {
+                        "@pid": "13/3479-15",
+                        "text": "Lin Chen 0015"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "07/6095-3",
+                        "text": "Yang Feng 0003"
+                    },
+                    {
+                        "@pid": "136/4569",
+                        "text": "Zhaogui Xu"
+                    },
+                    {
+                        "@pid": "77/8456",
+                        "text": "Zhifei Chen"
+                    },
+                    {
+                        "@pid": "06/3406",
+                        "text": "Yuming Zhou"
+                    },
+                    {
+                        "@pid": "46/5742",
+                        "text": "Baowen Xu"
+                    }
+                ]
+            },
+            "title": "Impact analysis of cross-project bugs on software ecosystems.",
+            "venue": "ICSE",
+            "pages": "100-111",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MaCZFXCZX20",
+            "doi": "10.1145/3377811.3380442",
+            "ee": "https://doi.org/10.1145/3377811.3380442",
+            "url": "https://dblp.org/rec/conf/icse/MaCZFXCZX20"
+        },
+        "url": "URL#2264904"
+    },
+    {
+        "@score": "1",
+        "@id": "2264914",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "216/8254",
+                        "text": "Valentin J. M. Man\u00e8s"
+                    },
+                    {
+                        "@pid": "145/5306-2",
+                        "text": "Soomin Kim 0002"
+                    },
+                    {
+                        "@pid": "49/8463",
+                        "text": "Sang Kil Cha"
+                    }
+                ]
+            },
+            "title": "Ankou: guiding grey-box fuzzing towards combinatorial difference.",
+            "venue": "ICSE",
+            "pages": "1024-1036",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Manes0C20",
+            "doi": "10.1145/3377811.3380421",
+            "ee": "https://doi.org/10.1145/3377811.3380421",
+            "url": "https://dblp.org/rec/conf/icse/Manes0C20"
+        },
+        "url": "URL#2264914"
+    },
+    {
+        "@score": "1",
+        "@id": "2264920",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "37/6725",
+                        "text": "George Mathew"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    },
+                    {
+                        "@pid": "26/694",
+                        "text": "Kathryn T. Stolee"
+                    }
+                ]
+            },
+            "title": "SLACC: simion-based language agnostic code clones.",
+            "venue": "ICSE",
+            "pages": "210-221",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MathewPS20",
+            "doi": "10.1145/3377811.3380407",
+            "ee": "https://doi.org/10.1145/3377811.3380407",
+            "url": "https://dblp.org/rec/conf/icse/MathewPS20"
+        },
+        "url": "URL#2264920"
+    },
+    {
+        "@score": "1",
+        "@id": "2264930",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "121/2789",
+                        "text": "Claudio Menghi"
+                    },
+                    {
+                        "@pid": "57/3937",
+                        "text": "Shiva Nejati"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "227/5555",
+                        "text": "Yago Isasi Parache"
+                    }
+                ]
+            },
+            "title": "Approximation-refinement testing of compute-intensive cyber-physical models: an approach based on system identification.",
+            "venue": "ICSE",
+            "pages": "372-384",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MenghiNBP20",
+            "doi": "10.1145/3377811.3380370",
+            "ee": "https://doi.org/10.1145/3377811.3380370",
+            "url": "https://dblp.org/rec/conf/icse/MenghiNBP20"
+        },
+        "url": "URL#2264930"
+    },
+    {
+        "@score": "1",
+        "@id": "2264936",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3388",
+                        "text": "Ehsan Mirsaeedi"
+                    },
+                    {
+                        "@pid": "20/1971",
+                        "text": "Peter C. Rigby"
+                    }
+                ]
+            },
+            "title": "Mitigating turnover with code review recommendation: balancing expertise, workload, and knowledge distribution.",
+            "venue": "ICSE",
+            "pages": "1183-1195",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MirsaeediR20",
+            "doi": "10.1145/3377811.3380335",
+            "ee": "https://doi.org/10.1145/3377811.3380335",
+            "url": "https://dblp.org/rec/conf/icse/MirsaeediR20"
+        },
+        "url": "URL#2264936"
+    },
+    {
+        "@score": "1",
+        "@id": "2264939",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "222/6190",
+                        "text": "David N. Palacio"
+                    },
+                    {
+                        "@pid": "133/8133",
+                        "text": "Carlos Bernal-C\u00e1rdenas"
+                    },
+                    {
+                        "@pid": "246/5320",
+                        "text": "Daniel McCrystal"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    },
+                    {
+                        "@pid": "201/9301",
+                        "text": "Chris Shenefiel"
+                    },
+                    {
+                        "@pid": "98/6746",
+                        "text": "Jeff Johnson"
+                    }
+                ]
+            },
+            "title": "Improving the effectiveness of traceability link recovery using hierarchical bayesian networks.",
+            "venue": "ICSE",
+            "pages": "873-885",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/MoranPBMPSJ20",
+            "doi": "10.1145/3377811.3380418",
+            "ee": "https://doi.org/10.1145/3377811.3380418",
+            "url": "https://dblp.org/rec/conf/icse/MoranPBMPSJ20"
+        },
+        "url": "URL#2264939"
+    },
+    {
+        "@score": "1",
+        "@id": "2264948",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "263/3403",
+                        "text": "Tai D. Nguyen"
+                    },
+                    {
+                        "@pid": "152/4678",
+                        "text": "Long H. Pham"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "77/1513-1",
+                        "text": "Yun Lin 0001"
+                    },
+                    {
+                        "@pid": "64/8605-1",
+                        "text": "Quang Tran Minh 0001"
+                    }
+                ]
+            },
+            "title": "sFuzz: an efficient adaptive fuzzer for solidity smart contracts.",
+            "venue": "ICSE",
+            "pages": "778-788",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NguyenP0L020",
+            "doi": "10.1145/3377811.3380334",
+            "ee": "https://doi.org/10.1145/3377811.3380334",
+            "url": "https://dblp.org/rec/conf/icse/NguyenP0L020"
+        },
+        "url": "URL#2264948"
+    },
+    {
+        "@score": "1",
+        "@id": "2264949",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "58/2247",
+                        "text": "Son Nguyen"
+                    },
+                    {
+                        "@pid": "202/8377",
+                        "text": "Hung Phan"
+                    },
+                    {
+                        "@pid": "28/11492",
+                        "text": "Trinh Le"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    }
+                ]
+            },
+            "title": "Suggesting natural method names to check name consistencies.",
+            "venue": "ICSE",
+            "pages": "1372-1384",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NguyenPLN20",
+            "doi": "10.1145/3377811.3380926",
+            "ee": "https://doi.org/10.1145/3377811.3380926",
+            "url": "https://dblp.org/rec/conf/icse/NguyenPLN20"
+        },
+        "url": "URL#2264949"
+    },
+    {
+        "@score": "1",
+        "@id": "2264950",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "214/0370",
+                        "text": "Yannic Noller"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    },
+                    {
+                        "@pid": "91/7541",
+                        "text": "Marcel B\u00f6hme"
+                    },
+                    {
+                        "@pid": "126/5212",
+                        "text": "Youcheng Sun"
+                    },
+                    {
+                        "@pid": "214/0485",
+                        "text": "Hoang Lam Nguyen"
+                    },
+                    {
+                        "@pid": "55/4092",
+                        "text": "Lars Grunske"
+                    }
+                ]
+            },
+            "title": "HyDiff: hybrid differential software analysis.",
+            "venue": "ICSE",
+            "pages": "1273-1285",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/NollerPBSNG20",
+            "doi": "10.1145/3377811.3380363",
+            "ee": "https://doi.org/10.1145/3377811.3380363",
+            "url": "https://dblp.org/rec/conf/icse/NollerPBSNG20"
+        },
+        "url": "URL#2264950"
+    },
+    {
+        "@score": "1",
+        "@id": "2264955",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3529",
+                        "text": "Cassandra Overney"
+                    },
+                    {
+                        "@pid": "132/2339",
+                        "text": "Jens Meinicke"
+                    },
+                    {
+                        "@pid": "85/3873",
+                        "text": "Christian K\u00e4stner"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    }
+                ]
+            },
+            "title": "How to not get rich: an empirical study of donations in open source.",
+            "venue": "ICSE",
+            "pages": "1209-1221",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/OverneyMKV20",
+            "doi": "10.1145/3377811.3380410",
+            "ee": "https://doi.org/10.1145/3377811.3380410",
+            "url": "https://dblp.org/rec/conf/icse/OverneyMKV20"
+        },
+        "url": "URL#2264955"
+    },
+    {
+        "@score": "1",
+        "@id": "2264966",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3593",
+                        "text": "Profir-Petru P\u00e2rtachi"
+                    },
+                    {
+                        "@pid": "94/2235",
+                        "text": "Santanu Kumar Dash 0001"
+                    },
+                    {
+                        "@pid": "29/1074",
+                        "text": "Christoph Treude"
+                    },
+                    {
+                        "@pid": "47/1088",
+                        "text": "Earl T. Barr"
+                    }
+                ]
+            },
+            "title": "POSIT: simultaneously tagging natural and programming languages.",
+            "venue": "ICSE",
+            "pages": "1348-1358",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PartachiDTB20",
+            "doi": "10.1145/3377811.3380440",
+            "ee": "https://doi.org/10.1145/3377811.3380440",
+            "url": "https://dblp.org/rec/conf/icse/PartachiDTB20"
+        },
+        "url": "URL#2264966"
+    },
+    {
+        "@score": "1",
+        "@id": "2264970",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "152/3505",
+                        "text": "Brandon Paulsen"
+                    },
+                    {
+                        "@pid": "10/1491-6",
+                        "text": "Jingbo Wang 0006"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "ReluDiff: differential verification of deep neural networks.",
+            "venue": "ICSE",
+            "pages": "714-726",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PaulsenWW20",
+            "doi": "10.1145/3377811.3380337",
+            "ee": "https://doi.org/10.1145/3377811.3380337",
+            "url": "https://dblp.org/rec/conf/icse/PaulsenWW20"
+        },
+        "url": "URL#2264970"
+    },
+    {
+        "@score": "1",
+        "@id": "2264974",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "199/8240",
+                        "text": "Harsha Perera"
+                    },
+                    {
+                        "@pid": "77/8121",
+                        "text": "Waqar Hussain"
+                    },
+                    {
+                        "@pid": "w/JonWhittle",
+                        "text": "Jon Whittle 0001"
+                    },
+                    {
+                        "@pid": "117/9217",
+                        "text": "Arif Nurwidyantoro"
+                    },
+                    {
+                        "@pid": "118/8773",
+                        "text": "Davoud Mougouei"
+                    },
+                    {
+                        "@pid": "117/3859",
+                        "text": "Rifat Ara Shams"
+                    },
+                    {
+                        "@pid": "322/2201",
+                        "text": "Gillian C. Oliver"
+                    }
+                ]
+            },
+            "title": "A study on the prevalence of human values in software engineering publications, 2015 - 2018.",
+            "venue": "ICSE",
+            "pages": "409-420",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/PereraHWNMSO20",
+            "doi": "10.1145/3377811.3380393",
+            "ee": "https://doi.org/10.1145/3377811.3380393",
+            "url": "https://dblp.org/rec/conf/icse/PereraHWNMSO20"
+        },
+        "url": "URL#2264974"
+    },
+    {
+        "@score": "1",
+        "@id": "2264988",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "43/6161",
+                        "text": "Ju Qian"
+                    },
+                    {
+                        "@pid": "276/3371",
+                        "text": "Zhengyu Shang"
+                    },
+                    {
+                        "@pid": "276/3412",
+                        "text": "Shuoyan Yan"
+                    },
+                    {
+                        "@pid": "59/2227",
+                        "text": "Yan Wang"
+                    },
+                    {
+                        "@pid": "13/3479-15",
+                        "text": "Lin Chen 0015"
+                    }
+                ]
+            },
+            "title": "RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications.",
+            "venue": "ICSE",
+            "pages": "297-308",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/QianSYWC20",
+            "doi": "10.1145/3377811.3380431",
+            "ee": "https://doi.org/10.1145/3377811.3380431",
+            "url": "https://dblp.org/rec/conf/icse/QianSYWC20"
+        },
+        "url": "URL#2264988"
+    },
+    {
+        "@score": "1",
+        "@id": "2264991",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "06/10426",
+                        "text": "Akond Rahman"
+                    },
+                    {
+                        "@pid": "21/8612",
+                        "text": "Effat Farhana"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    },
+                    {
+                        "@pid": "w/LaurieAWilliams",
+                        "text": "Laurie A. Williams"
+                    }
+                ]
+            },
+            "title": "Gang of eight: a defect taxonomy for infrastructure as code scripts.",
+            "venue": "ICSE",
+            "pages": "752-764",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RahmanFPW20",
+            "doi": "10.1145/3377811.3380409",
+            "ee": "https://doi.org/10.1145/3377811.3380409",
+            "url": "https://dblp.org/rec/conf/icse/RahmanFPW20"
+        },
+        "url": "URL#2264991"
+    },
+    {
+        "@score": "1",
+        "@id": "2264997",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "221/1585",
+                        "text": "Ramanathan Ramu"
+                    },
+                    {
+                        "@pid": "156/9545",
+                        "text": "Ganesha B. Upadhyaya"
+                    },
+                    {
+                        "@pid": "51/6992",
+                        "text": "Hoan Anh Nguyen"
+                    },
+                    {
+                        "@pid": "r/HrideshRajan",
+                        "text": "Hridesh Rajan"
+                    }
+                ]
+            },
+            "title": "BCFA: bespoke control flow analysis for CFA at scale.",
+            "venue": "ICSE",
+            "pages": "1037-1048",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RamuUNR20",
+            "doi": "10.1145/3377811.3380435",
+            "ee": "https://doi.org/10.1145/3377811.3380435",
+            "url": "https://dblp.org/rec/conf/icse/RamuUNR20"
+        },
+        "url": "URL#2264997"
+    },
+    {
+        "@score": "1",
+        "@id": "2265000",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3524",
+                        "text": "Sameer Reddy"
+                    },
+                    {
+                        "@pid": "167/0227",
+                        "text": "Caroline Lemieux"
+                    },
+                    {
+                        "@pid": "129/1434",
+                        "text": "Rohan Padhye"
+                    },
+                    {
+                        "@pid": "04/418",
+                        "text": "Koushik Sen"
+                    }
+                ]
+            },
+            "title": "Quickly generating diverse valid test inputs with reinforcement learning.",
+            "venue": "ICSE",
+            "pages": "1410-1421",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ReddyLPS20",
+            "doi": "10.1145/3377811.3380399",
+            "ee": "https://doi.org/10.1145/3377811.3380399",
+            "url": "https://dblp.org/rec/conf/icse/ReddyLPS20"
+        },
+        "url": "URL#2265000"
+    },
+    {
+        "@score": "1",
+        "@id": "2265001",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9569",
+                        "text": "Xiaoxue Ren"
+                    },
+                    {
+                        "@pid": "229/9223",
+                        "text": "Jiamou Sun"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "06/2072-1",
+                        "text": "Xin Xia 0001"
+                    },
+                    {
+                        "@pid": "53/3693",
+                        "text": "Jianling Sun"
+                    }
+                ]
+            },
+            "title": "Demystify official API usage directives with crowdsourced API misuse scenarios, erroneous code examples and patches.",
+            "venue": "ICSE",
+            "pages": "925-936",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/RenSX0S20",
+            "doi": "10.1145/3377811.3380430",
+            "ee": "https://doi.org/10.1145/3377811.3380430",
+            "url": "https://dblp.org/rec/conf/icse/RenSX0S20"
+        },
+        "url": "URL#2265001"
+    },
+    {
+        "@score": "1",
+        "@id": "2265037",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/3943",
+                        "text": "Qingkai Shi"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "24/1495",
+                        "text": "Gang Fan"
+                    },
+                    {
+                        "@pid": "51/7008-1",
+                        "text": "Charles Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Conquering the extensional scalability problem for value-flow analysis frameworks.",
+            "venue": "ICSE",
+            "pages": "812-823",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ShiWFZ20",
+            "doi": "10.1145/3377811.3380346",
+            "ee": "https://doi.org/10.1145/3377811.3380346",
+            "url": "https://dblp.org/rec/conf/icse/ShiWFZ20"
+        },
+        "url": "URL#2265037"
+    },
+    {
+        "@score": "1",
+        "@id": "2265038",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/5412-6",
+                        "text": "Lin Shi 0006"
+                    },
+                    {
+                        "@pid": "276/3525",
+                        "text": "Mingzhe Xing"
+                    },
+                    {
+                        "@pid": "85/7189",
+                        "text": "Mingyang Li"
+                    },
+                    {
+                        "@pid": "11/7449",
+                        "text": "Yawen Wang"
+                    },
+                    {
+                        "@pid": "207/7185",
+                        "text": "Shoubin Li"
+                    },
+                    {
+                        "@pid": "97/6505-1",
+                        "text": "Qing Wang 0001"
+                    }
+                ]
+            },
+            "title": "Detection of hidden feature requests from massive chat messages via deep siamese network.",
+            "venue": "ICSE",
+            "pages": "641-653",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ShiXLWL020",
+            "doi": "10.1145/3377811.3380356",
+            "ee": "https://doi.org/10.1145/3377811.3380356",
+            "url": "https://dblp.org/rec/conf/icse/ShiXLWL020"
+        },
+        "url": "URL#2265038"
+    },
+    {
+        "@score": "1",
+        "@id": "2265039",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/3943",
+                        "text": "Qingkai Shi"
+                    },
+                    {
+                        "@pid": "51/7008-1",
+                        "text": "Charles Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Pipelining bottom-up data flow analysis.",
+            "venue": "ICSE",
+            "pages": "835-847",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ShiZ20",
+            "doi": "10.1145/3377811.3380425",
+            "ee": "https://doi.org/10.1145/3377811.3380425",
+            "url": "https://dblp.org/rec/conf/icse/ShiZ20"
+        },
+        "url": "URL#2265039"
+    },
+    {
+        "@score": "1",
+        "@id": "2265043",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "225/7825",
+                        "text": "Nischal Shrestha"
+                    },
+                    {
+                        "@pid": "276/3478",
+                        "text": "Colton Botta"
+                    },
+                    {
+                        "@pid": "122/6337",
+                        "text": "Titus Barik"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    }
+                ]
+            },
+            "title": "Here we go again: why is it difficult for developers to learn another programming language?",
+            "venue": "ICSE",
+            "pages": "691-701",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ShresthaBBP20",
+            "doi": "10.1145/3377811.3380352",
+            "ee": "https://doi.org/10.1145/3377811.3380352",
+            "url": "https://dblp.org/rec/conf/icse/ShresthaBBP20"
+        },
+        "url": "URL#2265043"
+    },
+    {
+        "@score": "1",
+        "@id": "2265053",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "234/7643",
+                        "text": "Thodoris Sotiropoulos"
+                    },
+                    {
+                        "@pid": "29/8061",
+                        "text": "Dimitris Mitropoulos"
+                    },
+                    {
+                        "@pid": "s/DiomidisSpinellis",
+                        "text": "Diomidis Spinellis"
+                    }
+                ]
+            },
+            "title": "Practical fault detection in puppet programs.",
+            "venue": "ICSE",
+            "pages": "26-37",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SotiropoulosMS20",
+            "doi": "10.1145/3377811.3380384",
+            "ee": "https://doi.org/10.1145/3377811.3380384",
+            "url": "https://dblp.org/rec/conf/icse/SotiropoulosMS20"
+        },
+        "url": "URL#2265053"
+    },
+    {
+        "@score": "1",
+        "@id": "2265054",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/1469",
+                        "text": "Davide Spadini"
+                    },
+                    {
+                        "@pid": "11/7657",
+                        "text": "G\u00fcl \u00c7alikli"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    }
+                ]
+            },
+            "title": "Primers or reminders?: the effects of existing review comments on code review.",
+            "venue": "ICSE",
+            "pages": "1171-1182",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SpadiniCB20",
+            "doi": "10.1145/3377811.3380385",
+            "ee": "https://doi.org/10.1145/3377811.3380385",
+            "url": "https://dblp.org/rec/conf/icse/SpadiniCB20"
+        },
+        "url": "URL#2265054"
+    },
+    {
+        "@score": "1",
+        "@id": "2265056",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "179/8624",
+                        "text": "Cristian-Alexandru Staicu"
+                    },
+                    {
+                        "@pid": "222/7658",
+                        "text": "Martin Toldam Torp"
+                    },
+                    {
+                        "@pid": "91/504",
+                        "text": "Max Sch\u00e4fer"
+                    },
+                    {
+                        "@pid": "55/6739",
+                        "text": "Anders M\u00f8ller"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "Extracting taint specifications for JavaScript libraries.",
+            "venue": "ICSE",
+            "pages": "198-209",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/StaicuTSMP20",
+            "doi": "10.1145/3377811.3380390",
+            "ee": "https://doi.org/10.1145/3377811.3380390",
+            "url": "https://dblp.org/rec/conf/icse/StaicuTSMP20"
+        },
+        "url": "URL#2265056"
+    },
+    {
+        "@score": "1",
+        "@id": "2265058",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/7710",
+                        "text": "Clay Stevens"
+                    },
+                    {
+                        "@pid": "88/2247",
+                        "text": "Hamid Bagheri"
+                    }
+                ]
+            },
+            "title": "Reducing run-time adaptation space via analysis of possible utility bounds.",
+            "venue": "ICSE",
+            "pages": "1522-1534",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/StevensB20",
+            "doi": "10.1145/3377811.3380365",
+            "ee": "https://doi.org/10.1145/3377811.3380365",
+            "url": "https://dblp.org/rec/conf/icse/StevensB20"
+        },
+        "url": "URL#2265058"
+    },
+    {
+        "@score": "1",
+        "@id": "2265063",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "93/2145",
+                        "text": "Li Sui"
+                    },
+                    {
+                        "@pid": "82/2970",
+                        "text": "Jens Dietrich 0001"
+                    },
+                    {
+                        "@pid": "29/11095",
+                        "text": "Amjed Tahir"
+                    },
+                    {
+                        "@pid": "130/7966-1",
+                        "text": "George Fourtounis"
+                    }
+                ]
+            },
+            "title": "On the recall of static call graph construction in practice.",
+            "venue": "ICSE",
+            "pages": "1049-1060",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Sui0TF20",
+            "doi": "10.1145/3377811.3380441",
+            "ee": "https://doi.org/10.1145/3377811.3380441",
+            "url": "https://dblp.org/rec/conf/icse/Sui0TF20"
+        },
+        "url": "URL#2265063"
+    },
+    {
+        "@score": "1",
+        "@id": "2265064",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/9554-4",
+                        "text": "Zeyu Sun 0004"
+                    },
+                    {
+                        "@pid": "84/6889-50",
+                        "text": "Jie M. Zhang"
+                    },
+                    {
+                        "@pid": "h/MarkHarman",
+                        "text": "Mark Harman"
+                    },
+                    {
+                        "@pid": "00/7677",
+                        "text": "Mike Papadakis"
+                    },
+                    {
+                        "@pid": "z/LuZhang1",
+                        "text": "Lu Zhang 0023"
+                    }
+                ]
+            },
+            "title": "Automatic testing and improvement of machine translation.",
+            "venue": "ICSE",
+            "pages": "974-985",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/SunZHPZ20",
+            "doi": "10.1145/3377811.3380420",
+            "ee": "https://doi.org/10.1145/3377811.3380420",
+            "url": "https://dblp.org/rec/conf/icse/SunZHPZ20"
+        },
+        "url": "URL#2265064"
+    },
+    {
+        "@score": "1",
+        "@id": "2265069",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "276/3315",
+                        "text": "Sadia Tabassum"
+                    },
+                    {
+                        "@pid": "55/7992",
+                        "text": "Leandro L. Minku"
+                    },
+                    {
+                        "@pid": "276/3377",
+                        "text": "Danyi Feng"
+                    },
+                    {
+                        "@pid": "35/5737",
+                        "text": "George G. Cabral"
+                    },
+                    {
+                        "@pid": "129/2667",
+                        "text": "Liyan Song"
+                    }
+                ]
+            },
+            "title": "An investigation of cross-project learning in online just-in-time software defect prediction.",
+            "venue": "ICSE",
+            "pages": "554-565",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TabassumMFCS20",
+            "doi": "10.1145/3377811.3380403",
+            "ee": "https://doi.org/10.1145/3377811.3380403",
+            "url": "https://dblp.org/rec/conf/icse/TabassumMFCS20"
+        },
+        "url": "URL#2265069"
+    },
+    {
+        "@score": "1",
+        "@id": "2265071",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "16/9656",
+                        "text": "Shin Hwei Tan"
+                    },
+                    {
+                        "@pid": "17/616-5",
+                        "text": "Ziqiang Li 0005"
+                    }
+                ]
+            },
+            "title": "Collaborative bug finding for Android apps.",
+            "venue": "ICSE",
+            "pages": "1335-1347",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TanL20",
+            "doi": "10.1145/3377811.3380349",
+            "ee": "https://doi.org/10.1145/3377811.3380349",
+            "url": "https://dblp.org/rec/conf/icse/TanL20"
+        },
+        "url": "URL#2265071"
+    },
+    {
+        "@score": "1",
+        "@id": "2265072",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/6413-3",
+                        "text": "Xin Tan 0003"
+                    },
+                    {
+                        "@pid": "07/4732-1",
+                        "text": "Minghui Zhou 0001"
+                    },
+                    {
+                        "@pid": "f/BrianFitzgerald",
+                        "text": "Brian Fitzgerald 0001"
+                    }
+                ]
+            },
+            "title": "Scaling open source communities: an empirical study of the Linux kernel.",
+            "venue": "ICSE",
+            "pages": "1222-1234",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TanZ020",
+            "doi": "10.1145/3377811.3380920",
+            "ee": "https://doi.org/10.1145/3377811.3380920",
+            "url": "https://dblp.org/rec/conf/icse/TanZ020"
+        },
+        "url": "URL#2265072"
+    },
+    {
+        "@score": "1",
+        "@id": "2265073",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "88/10370-1",
+                        "text": "Guanhong Tao 0001"
+                    },
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "92/10048",
+                        "text": "Yingqi Liu"
+                    },
+                    {
+                        "@pid": "263/6785",
+                        "text": "Qiuling Xu"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "TRADER: trace divergence analysis and embedding regulation for debugging recurrent neural networks.",
+            "venue": "ICSE",
+            "pages": "986-998",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TaoMLXZ20",
+            "doi": "10.1145/3377811.3380423",
+            "ee": "https://doi.org/10.1145/3377811.3380423",
+            "url": "https://dblp.org/rec/conf/icse/TaoMLXZ20"
+        },
+        "url": "URL#2265073"
+    },
+    {
+        "@score": "1",
+        "@id": "2265078",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "204/3573",
+                        "text": "Yuchi Tian"
+                    },
+                    {
+                        "@pid": "210/2633",
+                        "text": "Ziyuan Zhong"
+                    },
+                    {
+                        "@pid": "74/7584",
+                        "text": "Vicente Ordonez"
+                    },
+                    {
+                        "@pid": "k/GailEKaiser",
+                        "text": "Gail E. Kaiser"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    }
+                ]
+            },
+            "title": "Testing DNN image classifiers for confusion &amp; bias errors.",
+            "venue": "ICSE",
+            "pages": "1122-1134",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TianZOKR20",
+            "doi": "10.1145/3377811.3380400",
+            "ee": "https://doi.org/10.1145/3377811.3380400",
+            "url": "https://dblp.org/rec/conf/icse/TianZOKR20"
+        },
+        "url": "URL#2265078"
+    },
+    {
+        "@score": "1",
+        "@id": "2265081",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5987",
+                        "text": "Rijnard van Tonder"
+                    },
+                    {
+                        "@pid": "93/4573",
+                        "text": "Claire Le Goues"
+                    }
+                ]
+            },
+            "title": "Tailoring programs for static analysis via program transformation.",
+            "venue": "ICSE",
+            "pages": "824-834",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/TonderG20",
+            "doi": "10.1145/3377811.3380343",
+            "ee": "https://doi.org/10.1145/3377811.3380343",
+            "url": "https://dblp.org/rec/conf/icse/TonderG20"
+        },
+        "url": "URL#2265081"
+    },
+    {
+        "@score": "1",
+        "@id": "2265095",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "33/6100-1",
+                        "text": "Huiyan Wang 0001"
+                    },
+                    {
+                        "@pid": "148/9997-1",
+                        "text": "Jingwei Xu 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "Dissector: input validation for deep learning applications by crossing-layer dissection.",
+            "venue": "ICSE",
+            "pages": "727-738",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Wang00M020",
+            "doi": "10.1145/3377811.3380379",
+            "ee": "https://doi.org/10.1145/3377811.3380379",
+            "url": "https://dblp.org/rec/conf/icse/Wang00M020"
+        },
+        "url": "URL#2265095"
+    },
+    {
+        "@score": "1",
+        "@id": "2265096",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/393",
+                        "text": "Jue Wang"
+                    },
+                    {
+                        "@pid": "08/8179-1",
+                        "text": "Yanyan Jiang 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "16/1889",
+                        "text": "Chun Cao"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "ComboDroid: generating high-quality test inputs for Android apps via use case combinations.",
+            "venue": "ICSE",
+            "pages": "469-480",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Wang0XCML20",
+            "doi": "10.1145/3377811.3380382",
+            "ee": "https://doi.org/10.1145/3377811.3380382",
+            "url": "https://dblp.org/rec/conf/icse/Wang0XCML20"
+        },
+        "url": "URL#2265096"
+    },
+    {
+        "@score": "1",
+        "@id": "2265101",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/3104-38",
+                        "text": "Ying Wang 0038"
+                    },
+                    {
+                        "@pid": "99/1109-1",
+                        "text": "Ming Wen 0001"
+                    },
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "25/4764-8",
+                        "text": "Yibo Wang 0008"
+                    },
+                    {
+                        "@pid": "220/7070",
+                        "text": "Zhenming Li"
+                    },
+                    {
+                        "@pid": "188/7759",
+                        "text": "Chao Wang"
+                    },
+                    {
+                        "@pid": "22/4635-1",
+                        "text": "Hai Yu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "55/1401-1",
+                        "text": "Zhiliang Zhu 0001"
+                    }
+                ]
+            },
+            "title": "Watchman: monitoring dependency conflicts for Python library ecosystem.",
+            "venue": "ICSE",
+            "pages": "125-135",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangW0WLWYCX020",
+            "doi": "10.1145/3377811.3380426",
+            "ee": "https://doi.org/10.1145/3377811.3380426",
+            "url": "https://dblp.org/rec/conf/icse/WangW0WLWYCX020"
+        },
+        "url": "URL#2265101"
+    },
+    {
+        "@score": "1",
+        "@id": "2265102",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "46/1165",
+                        "text": "Haijun Wang"
+                    },
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "59/871-8",
+                        "text": "Yi Li 0008"
+                    },
+                    {
+                        "@pid": "62/7258",
+                        "text": "Cheng Wen"
+                    },
+                    {
+                        "@pid": "204/3729",
+                        "text": "Yuekang Li"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "q/ShengchaoQin",
+                        "text": "Shengchao Qin"
+                    },
+                    {
+                        "@pid": "147/5824-1",
+                        "text": "Hongxu Chen 0001"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    }
+                ]
+            },
+            "title": "Typestate-guided fuzzer for discovering use-after-free vulnerabilities.",
+            "venue": "ICSE",
+            "pages": "999-1010",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangXLWLLQCS20",
+            "doi": "10.1145/3377811.3380386",
+            "ee": "https://doi.org/10.1145/3377811.3380386",
+            "url": "https://dblp.org/rec/conf/icse/WangXLWLLQCS20"
+        },
+        "url": "URL#2265102"
+    },
+    {
+        "@score": "1",
+        "@id": "2265103",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/1915-1",
+                        "text": "Junjie Wang 0001"
+                    },
+                    {
+                        "@pid": "55/4341",
+                        "text": "Ye Yang"
+                    },
+                    {
+                        "@pid": "62/3151-9",
+                        "text": "Song Wang 0009"
+                    },
+                    {
+                        "@pid": "204/7740",
+                        "text": "Yuanzhe Hu"
+                    },
+                    {
+                        "@pid": "31/3682",
+                        "text": "Dandan Wang"
+                    },
+                    {
+                        "@pid": "97/6505-1",
+                        "text": "Qing Wang 0001"
+                    }
+                ]
+            },
+            "title": "Context-aware in-process crowdworker recommendation.",
+            "venue": "ICSE",
+            "pages": "1535-1546",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WangY0HWW20",
+            "doi": "10.1145/3377811.3380380",
+            "ee": "https://doi.org/10.1145/3377811.3380380",
+            "url": "https://dblp.org/rec/conf/icse/WangY0HWW20"
+        },
+        "url": "URL#2265103"
+    },
+    {
+        "@score": "1",
+        "@id": "2265106",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/7334",
+                        "text": "Cody Watson"
+                    },
+                    {
+                        "@pid": "166/4957",
+                        "text": "Michele Tufano"
+                    },
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "09/8523",
+                        "text": "Gabriele Bavota"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "On learning meaningful assert statements for unit test cases.",
+            "venue": "ICSE",
+            "pages": "1398-1409",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WatsonTMBP20",
+            "doi": "10.1145/3377811.3380429",
+            "ee": "https://doi.org/10.1145/3377811.3380429",
+            "url": "https://dblp.org/rec/conf/icse/WatsonTMBP20"
+        },
+        "url": "URL#2265106"
+    },
+    {
+        "@score": "1",
+        "@id": "2265110",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/7258",
+                        "text": "Cheng Wen"
+                    },
+                    {
+                        "@pid": "46/1165",
+                        "text": "Haijun Wang"
+                    },
+                    {
+                        "@pid": "204/3729",
+                        "text": "Yuekang Li"
+                    },
+                    {
+                        "@pid": "q/ShengchaoQin",
+                        "text": "Shengchao Qin"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "25/9771",
+                        "text": "Zhiwu Xu 0001"
+                    },
+                    {
+                        "@pid": "147/5824-1",
+                        "text": "Hongxu Chen 0001"
+                    },
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "33/1678",
+                        "text": "Geguang Pu"
+                    },
+                    {
+                        "@pid": "52/5150-2",
+                        "text": "Ting Liu 0002"
+                    }
+                ]
+            },
+            "title": "MemLock: memory usage guided fuzzing.",
+            "venue": "ICSE",
+            "pages": "765-777",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WenWLQLXCXPL20",
+            "doi": "10.1145/3377811.3380396",
+            "ee": "https://doi.org/10.1145/3377811.3380396",
+            "url": "https://dblp.org/rec/conf/icse/WenWLQLXCXPL20"
+        },
+        "url": "URL#2265110"
+    },
+    {
+        "@score": "1",
+        "@id": "2265113",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "173/6108",
+                        "text": "Robert White"
+                    },
+                    {
+                        "@pid": "k/JensKrinke",
+                        "text": "Jens Krinke"
+                    },
+                    {
+                        "@pid": "96/1510",
+                        "text": "Raymond Tan"
+                    }
+                ]
+            },
+            "title": "Establishing multilevel test-to-code traceability links.",
+            "venue": "ICSE",
+            "pages": "861-872",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WhiteKT20",
+            "doi": "10.1145/3377811.3380921",
+            "ee": "https://doi.org/10.1145/3377811.3380921",
+            "url": "https://dblp.org/rec/conf/icse/WhiteKT20"
+        },
+        "url": "URL#2265113"
+    },
+    {
+        "@score": "1",
+        "@id": "2265120",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "141/3862",
+                        "text": "Mingyuan Wu"
+                    },
+                    {
+                        "@pid": "276/3516",
+                        "text": "Yicheng Ouyang"
+                    },
+                    {
+                        "@pid": "160/7471",
+                        "text": "Husheng Zhou"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "95/6404-5",
+                        "text": "Cong Liu 0005"
+                    },
+                    {
+                        "@pid": "65/8968",
+                        "text": "Yuqun Zhang"
+                    }
+                ]
+            },
+            "title": "Simulee: detecting CUDA synchronization bugs via memory-access modeling.",
+            "venue": "ICSE",
+            "pages": "937-948",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WuOZZ0Z20",
+            "doi": "10.1145/3377811.3380358",
+            "ee": "https://doi.org/10.1145/3377811.3380358",
+            "url": "https://dblp.org/rec/conf/icse/WuOZZ0Z20"
+        },
+        "url": "URL#2265120"
+    },
+    {
+        "@score": "1",
+        "@id": "2265121",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "28/9798",
+                        "text": "Valentin W\u00fcstholz"
+                    },
+                    {
+                        "@pid": "05/7730",
+                        "text": "Maria Christakis"
+                    }
+                ]
+            },
+            "title": "Targeted greybox fuzzing with static lookahead analysis.",
+            "venue": "ICSE",
+            "pages": "789-800",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/WustholzC20",
+            "doi": "10.1145/3377811.3380388",
+            "ee": "https://doi.org/10.1145/3377811.3380388",
+            "url": "https://dblp.org/rec/conf/icse/WustholzC20"
+        },
+        "url": "URL#2265121"
+    },
+    {
+        "@score": "1",
+        "@id": "2265122",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "40/2948",
+                        "text": "Hao Xia"
+                    },
+                    {
+                        "@pid": "48/2168-9",
+                        "text": "Yuan Zhang 0009"
+                    },
+                    {
+                        "@pid": "272/7229",
+                        "text": "Yingtian Zhou"
+                    },
+                    {
+                        "@pid": "124/6226",
+                        "text": "Xiaoting Chen"
+                    },
+                    {
+                        "@pid": "181/2842",
+                        "text": "Yang Wang"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "276/3487",
+                        "text": "Shuaishuai Cui"
+                    },
+                    {
+                        "@pid": "227/9082",
+                        "text": "Geng Hong"
+                    },
+                    {
+                        "@pid": "96/6053-1",
+                        "text": "Xiaohan Zhang 0001"
+                    },
+                    {
+                        "@pid": "02/1640-2",
+                        "text": "Min Yang 0002"
+                    },
+                    {
+                        "@pid": "55/11040",
+                        "text": "Zhemin Yang"
+                    }
+                ]
+            },
+            "title": "How Android developers handle evolution-induced API compatibility issues: a large-scale study.",
+            "venue": "ICSE",
+            "pages": "886-898",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Xia0ZCWZCHZ0Y20",
+            "doi": "10.1145/3377811.3380357",
+            "ee": "https://doi.org/10.1145/3377811.3380357",
+            "url": "https://dblp.org/rec/conf/icse/Xia0ZCWZCHZ0Y20"
+        },
+        "url": "URL#2265122"
+    },
+    {
+        "@score": "1",
+        "@id": "2265129",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/6386",
+                        "text": "Jiwei Yan"
+                    },
+                    {
+                        "@pid": "09/3214",
+                        "text": "Hao Liu"
+                    },
+                    {
+                        "@pid": "184/6371-1",
+                        "text": "Linjie Pan 0001"
+                    },
+                    {
+                        "@pid": "89/5901-9",
+                        "text": "Jun Yan 0009"
+                    },
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    },
+                    {
+                        "@pid": "71/6053-2",
+                        "text": "Bin Liang 0002"
+                    }
+                ]
+            },
+            "title": "Multiple-entry testing of Android applications by constructing activity launching contexts.",
+            "venue": "ICSE",
+            "pages": "457-468",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YanLP00L20",
+            "doi": "10.1145/3377811.3380347",
+            "ee": "https://doi.org/10.1145/3377811.3380347",
+            "url": "https://dblp.org/rec/conf/icse/YanLP00L20"
+        },
+        "url": "URL#2265129"
+    },
+    {
+        "@score": "1",
+        "@id": "2265130",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "148/1336",
+                        "text": "Rahulkrishna Yandrapally"
+                    },
+                    {
+                        "@pid": "64/1715-1",
+                        "text": "Andrea Stocco 0001"
+                    },
+                    {
+                        "@pid": "72/4471-1",
+                        "text": "Ali Mesbah 0001"
+                    }
+                ]
+            },
+            "title": "Near-duplicate detection in web app model inference.",
+            "venue": "ICSE",
+            "pages": "186-197",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Yandrapally0020",
+            "doi": "10.1145/3377811.3380416",
+            "ee": "https://doi.org/10.1145/3377811.3380416",
+            "url": "https://dblp.org/rec/conf/icse/Yandrapally0020"
+        },
+        "url": "URL#2265130"
+    },
+    {
+        "@score": "1",
+        "@id": "2265132",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "208/0023",
+                        "text": "Junwen Yang"
+                    },
+                    {
+                        "@pid": "276/3282",
+                        "text": "Utsav Sethi"
+                    },
+                    {
+                        "@pid": "129/2744",
+                        "text": "Cong Yan"
+                    },
+                    {
+                        "@pid": "16/4915",
+                        "text": "Alvin Cheung"
+                    },
+                    {
+                        "@pid": "31/5916-1",
+                        "text": "Shan Lu 0001"
+                    }
+                ]
+            },
+            "title": "Managing data constraints in database-backed web applications.",
+            "venue": "ICSE",
+            "pages": "1098-1109",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YangSYC020",
+            "doi": "10.1145/3377811.3380375",
+            "ee": "https://doi.org/10.1145/3377811.3380375",
+            "url": "https://dblp.org/rec/conf/icse/YangSYC020"
+        },
+        "url": "URL#2265132"
+    },
+    {
+        "@score": "1",
+        "@id": "2265139",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "147/2984",
+                        "text": "Hengbiao Yu"
+                    },
+                    {
+                        "@pid": "02/4907",
+                        "text": "Zhenbang Chen"
+                    },
+                    {
+                        "@pid": "117/0666",
+                        "text": "Xianjin Fu"
+                    },
+                    {
+                        "@pid": "64/856-1",
+                        "text": "Ji Wang 0001"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "64/2438",
+                        "text": "Chun Huang"
+                    },
+                    {
+                        "@pid": "92/748-6",
+                        "text": "Wei Dong 0006"
+                    }
+                ]
+            },
+            "title": "Symbolic verification of message passing interface programs.",
+            "venue": "ICSE",
+            "pages": "1248-1260",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/YuCFWSSHD20",
+            "doi": "10.1145/3377811.3380419",
+            "ee": "https://doi.org/10.1145/3377811.3380419",
+            "url": "https://dblp.org/rec/conf/icse/YuCFWSSHD20"
+        },
+        "url": "URL#2265139"
+    },
+    {
+        "@score": "1",
+        "@id": "2265142",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/5678",
+                        "text": "Juan Zhai"
+                    },
+                    {
+                        "@pid": "276/3462",
+                        "text": "Xiangzhe Xu"
+                    },
+                    {
+                        "@pid": "55/4736",
+                        "text": "Yu Shi"
+                    },
+                    {
+                        "@pid": "88/10370-1",
+                        "text": "Guanhong Tao 0001"
+                    },
+                    {
+                        "@pid": "42/7085",
+                        "text": "Minxue Pan"
+                    },
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "19/360-3",
+                        "text": "Lei Xu 0003"
+                    },
+                    {
+                        "@pid": "19/949-1",
+                        "text": "Weifeng Zhang 0001"
+                    },
+                    {
+                        "@pid": "13/3957-1",
+                        "text": "Lin Tan 0001"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "CPC: automatically classifying and propagating natural language comments via program analysis.",
+            "venue": "ICSE",
+            "pages": "1359-1371",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhaiXSTPMXZTZ20",
+            "doi": "10.1145/3377811.3380427",
+            "ee": "https://doi.org/10.1145/3377811.3380427",
+            "url": "https://dblp.org/rec/conf/icse/ZhaiXSTPMXZTZ20"
+        },
+        "url": "URL#2265142"
+    },
+    {
+        "@score": "1",
+        "@id": "2265146",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/314-1",
+                        "text": "Jian Zhang 0001"
+                    },
+                    {
+                        "@pid": "w/XuWang7",
+                        "text": "Xu Wang 0007"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "21/1509-1",
+                        "text": "Hailong Sun 0001"
+                    },
+                    {
+                        "@pid": "90/2144-1",
+                        "text": "Xudong Liu 0001"
+                    }
+                ]
+            },
+            "title": "Retrieval-based neural source code summarization.",
+            "venue": "ICSE",
+            "pages": "1385-1397",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangW00020",
+            "doi": "10.1145/3377811.3380383",
+            "ee": "https://doi.org/10.1145/3377811.3380383",
+            "url": "https://dblp.org/rec/conf/icse/ZhangW00020"
+        },
+        "url": "URL#2265146"
+    },
+    {
+        "@score": "1",
+        "@id": "2265147",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/1925-1",
+                        "text": "Peixin Zhang 0001"
+                    },
+                    {
+                        "@pid": "18/3178-4",
+                        "text": "Jingyi Wang 0004"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "232/2133",
+                        "text": "Guoliang Dong"
+                    },
+                    {
+                        "@pid": "68/1277-1",
+                        "text": "Xinyu Wang 0001"
+                    },
+                    {
+                        "@pid": "53/10076",
+                        "text": "Xingen Wang"
+                    },
+                    {
+                        "@pid": "33/6517",
+                        "text": "Jin Song Dong"
+                    },
+                    {
+                        "@pid": "46/7790",
+                        "text": "Ting Dai"
+                    }
+                ]
+            },
+            "title": "White-box fairness testing through adversarial sampling.",
+            "venue": "ICSE",
+            "pages": "949-960",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangW0D0WDD20",
+            "doi": "10.1145/3377811.3380331",
+            "ee": "https://doi.org/10.1145/3377811.3380331",
+            "url": "https://dblp.org/rec/conf/icse/ZhangW0D0WDD20"
+        },
+        "url": "URL#2265147"
+    },
+    {
+        "@score": "1",
+        "@id": "2265148",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "243/2538",
+                        "text": "Xueling Zhang"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "122/4787",
+                        "text": "Rocky Slavin"
+                    },
+                    {
+                        "@pid": "62/962",
+                        "text": "Travis D. Breaux"
+                    },
+                    {
+                        "@pid": "25/4653-1",
+                        "text": "Jianwei Niu 0001"
+                    }
+                ]
+            },
+            "title": "How does misconfiguration of analytic services compromise mobile privacy?",
+            "venue": "ICSE",
+            "pages": "1572-1583",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangWSBN20",
+            "doi": "10.1145/3377811.3380401",
+            "ee": "https://doi.org/10.1145/3377811.3380401",
+            "url": "https://dblp.org/rec/conf/icse/ZhangWSBN20"
+        },
+        "url": "URL#2265148"
+    },
+    {
+        "@score": "1",
+        "@id": "2265149",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "35/9455",
+                        "text": "Xiyue Zhang"
+                    },
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "20/6534-3",
+                        "text": "Lei Ma 0003"
+                    },
+                    {
+                        "@pid": "97/6476-1",
+                        "text": "Xiaoning Du 0001"
+                    },
+                    {
+                        "@pid": "93/5629",
+                        "text": "Qiang Hu"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "71/6948-1",
+                        "text": "Jianjun Zhao 0001"
+                    },
+                    {
+                        "@pid": "81/1237-2",
+                        "text": "Meng Sun 0002"
+                    }
+                ]
+            },
+            "title": "Towards characterizing adversarial defects of deep learning software from the lens of uncertainty.",
+            "venue": "ICSE",
+            "pages": "739-751",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangXMDH0Z020",
+            "doi": "10.1145/3377811.3380368",
+            "ee": "https://doi.org/10.1145/3377811.3380368",
+            "url": "https://dblp.org/rec/conf/icse/ZhangXMDH0Z020"
+        },
+        "url": "URL#2265149"
+    },
+    {
+        "@score": "1",
+        "@id": "2265150",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/446",
+                        "text": "Ru Zhang"
+                    },
+                    {
+                        "@pid": "167/7982",
+                        "text": "Wencong Xiao"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "97/2274",
+                        "text": "Yu Liu"
+                    },
+                    {
+                        "@pid": "01/575",
+                        "text": "Haoxiang Lin"
+                    },
+                    {
+                        "@pid": "89/1482-4",
+                        "text": "Mao Yang 0004"
+                    }
+                ]
+            },
+            "title": "An empirical study on program failures of deep learning jobs.",
+            "venue": "ICSE",
+            "pages": "1159-1170",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangXZLLY20",
+            "doi": "10.1145/3377811.3380362",
+            "ee": "https://doi.org/10.1145/3377811.3380362",
+            "url": "https://dblp.org/rec/conf/icse/ZhangXZLLY20"
+        },
+        "url": "URL#2265150"
+    },
+    {
+        "@score": "1",
+        "@id": "2265154",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/3246",
+                        "text": "Yuxia Zhang"
+                    },
+                    {
+                        "@pid": "07/4732-1",
+                        "text": "Minghui Zhou 0001"
+                    },
+                    {
+                        "@pid": "08/7091",
+                        "text": "Klaas-Jan Stol"
+                    },
+                    {
+                        "@pid": "262/2524",
+                        "text": "Jianyu Wu"
+                    },
+                    {
+                        "@pid": "22/3510",
+                        "text": "Zhi Jin"
+                    }
+                ]
+            },
+            "title": "How do companies collaborate in open source ecosystems?: an empirical study of OpenStack.",
+            "venue": "ICSE",
+            "pages": "1196-1208",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhangZSWJ20",
+            "doi": "10.1145/3377811.3380376",
+            "ee": "https://doi.org/10.1145/3377811.3380376",
+            "url": "https://dblp.org/rec/conf/icse/ZhangZSWJ20"
+        },
+        "url": "URL#2265154"
+    },
+    {
+        "@score": "1",
+        "@id": "2265157",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8138",
+                        "text": "Dehai Zhao"
+                    },
+                    {
+                        "@pid": "52/6482",
+                        "text": "Zhenchang Xing"
+                    },
+                    {
+                        "@pid": "180/7246",
+                        "text": "Chunyang Chen"
+                    },
+                    {
+                        "@pid": "47/3196-1",
+                        "text": "Xiwei Xu 0001"
+                    },
+                    {
+                        "@pid": "52/4318-1",
+                        "text": "Liming Zhu 0001"
+                    },
+                    {
+                        "@pid": "l/GuoqiangLi1",
+                        "text": "Guoqiang Li 0001"
+                    },
+                    {
+                        "@pid": "49/10504",
+                        "text": "Jinshui Wang"
+                    }
+                ]
+            },
+            "title": "Seenomaly: vision-based linting of GUI animation effects against design-don&apos;t guidelines.",
+            "venue": "ICSE",
+            "pages": "1286-1297",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhaoXCXZ0W20",
+            "doi": "10.1145/3377811.3380411",
+            "ee": "https://doi.org/10.1145/3377811.3380411",
+            "url": "https://dblp.org/rec/conf/icse/ZhaoXCXZ0W20"
+        },
+        "url": "URL#2265157"
+    },
+    {
+        "@score": "1",
+        "@id": "2265158",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "06/5514-1",
+                        "text": "Hao Zhong 0001"
+                    },
+                    {
+                        "@pid": "60/6376",
+                        "text": "Na Meng 0001"
+                    },
+                    {
+                        "@pid": "276/3276",
+                        "text": "Zexuan Li"
+                    },
+                    {
+                        "@pid": "46/1223",
+                        "text": "Li Jia"
+                    }
+                ]
+            },
+            "title": "An empirical study on API parameter rules.",
+            "venue": "ICSE",
+            "pages": "899-911",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhongMLJ20",
+            "doi": "10.1145/3377811.3380922",
+            "ee": "https://doi.org/10.1145/3377811.3380922",
+            "url": "https://dblp.org/rec/conf/icse/ZhongMLJ20"
+        },
+        "url": "URL#2265158"
+    },
+    {
+        "@score": "1",
+        "@id": "2265160",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "224/0970",
+                        "text": "Weijie Zhou"
+                    },
+                    {
+                        "@pid": "48/76-11",
+                        "text": "Yue Zhao 0011"
+                    },
+                    {
+                        "@pid": "24/5631",
+                        "text": "Guoqiang Zhang"
+                    },
+                    {
+                        "@pid": "36/4172",
+                        "text": "Xipeng Shen"
+                    }
+                ]
+            },
+            "title": "HARP: holistic analysis for refactoring Python-based analytics programs.",
+            "venue": "ICSE",
+            "pages": "506-517",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/Zhou0ZS20",
+            "doi": "10.1145/3377811.3380434",
+            "ee": "https://doi.org/10.1145/3377811.3380434",
+            "url": "https://dblp.org/rec/conf/icse/Zhou0ZS20"
+        },
+        "url": "URL#2265160"
+    },
+    {
+        "@score": "1",
+        "@id": "2265161",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7471",
+                        "text": "Husheng Zhou"
+                    },
+                    {
+                        "@pid": "64/6025-159",
+                        "text": "Wei Li 0159"
+                    },
+                    {
+                        "@pid": "241/3655",
+                        "text": "Zelun Kong"
+                    },
+                    {
+                        "@pid": "98/2259",
+                        "text": "Junfeng Guo"
+                    },
+                    {
+                        "@pid": "65/8968",
+                        "text": "Yuqun Zhang"
+                    },
+                    {
+                        "@pid": "28/4556-1",
+                        "text": "Bei Yu 0001"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "95/6404-5",
+                        "text": "Cong Liu 0005"
+                    }
+                ]
+            },
+            "title": "DeepBillboard: systematic physical-world testing of autonomous driving systems.",
+            "venue": "ICSE",
+            "pages": "347-358",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhouLKGZ0Z020",
+            "doi": "10.1145/3377811.3380422",
+            "ee": "https://doi.org/10.1145/3377811.3380422",
+            "url": "https://dblp.org/rec/conf/icse/ZhouLKGZ0Z020"
+        },
+        "url": "URL#2265161"
+    },
+    {
+        "@score": "1",
+        "@id": "2265162",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/5038",
+                        "text": "Shurui Zhou"
+                    },
+                    {
+                        "@pid": "43/10504",
+                        "text": "Bogdan Vasilescu"
+                    },
+                    {
+                        "@pid": "85/3873",
+                        "text": "Christian K\u00e4stner"
+                    }
+                ]
+            },
+            "title": "How has forking changed in the last 20 years?: a study of hard forks on GitHub.",
+            "venue": "ICSE",
+            "pages": "445-456",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZhouVK20",
+            "doi": "10.1145/3377811.3380412",
+            "ee": "https://doi.org/10.1145/3377811.3380412",
+            "url": "https://dblp.org/rec/conf/icse/ZhouVK20"
+        },
+        "url": "URL#2265162"
+    },
+    {
+        "@score": "1",
+        "@id": "2265165",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "129/8229",
+                        "text": "Franz Zieris"
+                    },
+                    {
+                        "@pid": "54/3155",
+                        "text": "Lutz Prechelt"
+                    }
+                ]
+            },
+            "title": "Explaining pair programming session dynamics from knowledge gaps.",
+            "venue": "ICSE",
+            "pages": "421-432",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZierisP20",
+            "doi": "10.1145/3377811.3380925",
+            "ee": "https://doi.org/10.1145/3377811.3380925",
+            "url": "https://dblp.org/rec/conf/icse/ZierisP20"
+        },
+        "url": "URL#2265165"
+    },
+    {
+        "@score": "1",
+        "@id": "2265167",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "230/3306",
+                        "text": "Changwei Zou"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "Burn after reading: a shadow stack with microsecond-level runtime rerandomization for protecting return addresses.",
+            "venue": "ICSE",
+            "pages": "258-270",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/icse/ZouX20",
+            "doi": "10.1145/3377811.3380439",
+            "ee": "https://doi.org/10.1145/3377811.3380439",
+            "url": "https://dblp.org/rec/conf/icse/ZouX20"
+        },
+        "url": "URL#2265167"
+    },
+    {
+        "@score": "1",
+        "@id": "2344091",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "25/6796",
+                        "text": "Gregg Rothermel"
+                    },
+                    {
+                        "@pid": "32/5432",
+                        "text": "Doo-Hwan Bae"
+                    }
+                ]
+            },
+            "title": "ICSE &apos;20: 42nd International Conference on Software Engineering, Seoul, South Korea, 27 June - 19 July, 2020",
+            "venue": "ICSE",
+            "publisher": "ACM",
+            "year": "2020",
+            "type": "Editorship",
+            "key": "conf/icse/2020",
+            "doi": "10.1145/3377811",
+            "ee": "https://doi.org/10.1145/3377811",
+            "url": "https://dblp.org/rec/conf/icse/2020"
+        },
+        "url": "URL#2344091"
+    }
+]

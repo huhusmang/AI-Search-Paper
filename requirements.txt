@@ -1,0 +1,12 @@
+aisuite==0.1.7
+beautifulsoup4==4.12.3
+cloudscraper==1.2.71
+datasets==3.2.0
+instructor==1.7.2
+notion-client==2.3.0
+numpy==2.2.1
+openai==1.59.8
+requests==2.32.3
+streamlit==1.41.1
+tqdm==4.67.1
+

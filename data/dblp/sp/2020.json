@@ -1,0 +1,4385 @@
+[
+    {
+        "@score": "1",
+        "@id": "2326600",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "92/5367-1",
+                        "text": "Nishant Kumar 0001"
+                    },
+                    {
+                        "@pid": "33/2105-2",
+                        "text": "Mayank Rathee"
+                    },
+                    {
+                        "@pid": "77/5616",
+                        "text": "Nishanth Chandran"
+                    },
+                    {
+                        "@pid": "66/11477-1",
+                        "text": "Divya Gupta 0001"
+                    },
+                    {
+                        "@pid": "81/10809",
+                        "text": "Aseem Rastogi"
+                    },
+                    {
+                        "@pid": "22/846-1",
+                        "text": "Rahul Sharma 0001"
+                    }
+                ]
+            },
+            "title": "CrypTFlow: Secure TensorFlow Inference.",
+            "venue": "SP",
+            "pages": "336-353",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/0001RCGR020",
+            "doi": "10.1109/SP40000.2020.00092",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00092",
+            "url": "https://dblp.org/rec/conf/sp/0001RCGR020"
+        },
+        "url": "URL#2326600"
+    },
+    {
+        "@score": "1",
+        "@id": "2326601",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/5720",
+                        "text": "Ittai Abraham"
+                    },
+                    {
+                        "@pid": "m/DahliaMalkhi",
+                        "text": "Dahlia Malkhi"
+                    },
+                    {
+                        "@pid": "143/4459",
+                        "text": "Kartik Nayak"
+                    },
+                    {
+                        "@pid": "30/10661",
+                        "text": "Ling Ren 0001"
+                    },
+                    {
+                        "@pid": "166/6440",
+                        "text": "Maofan Yin"
+                    }
+                ]
+            },
+            "title": "Sync HotStuff: Simple and Practical Synchronous State Machine Replication.",
+            "venue": "SP",
+            "pages": "106-118",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AbrahamMN0Y20",
+            "doi": "10.1109/SP40000.2020.00044",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00044",
+            "url": "https://dblp.org/rec/conf/sp/AbrahamMN0Y20"
+        },
+        "url": "URL#2326601"
+    },
+    {
+        "@score": "1",
+        "@id": "2326603",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "181/0549",
+                        "text": "Sam Ainsworth"
+                    },
+                    {
+                        "@pid": "62/1131",
+                        "text": "Timothy M. Jones 0001"
+                    }
+                ]
+            },
+            "title": "MarkUs: Drop-in use-after-free prevention for low-level languages.",
+            "venue": "SP",
+            "pages": "578-591",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Ainsworth020",
+            "doi": "10.1109/SP40000.2020.00058",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00058",
+            "url": "https://dblp.org/rec/conf/sp/Ainsworth020"
+        },
+        "url": "URL#2326603"
+    },
+    {
+        "@score": "1",
+        "@id": "2326606",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "66/3456",
+                        "text": "Jos\u00e9 Bacelar Almeida"
+                    },
+                    {
+                        "@pid": "06/5631",
+                        "text": "Manuel Barbosa"
+                    },
+                    {
+                        "@pid": "b/GBarthe",
+                        "text": "Gilles Barthe"
+                    },
+                    {
+                        "@pid": "28/2414",
+                        "text": "Benjamin Gr\u00e9goire"
+                    },
+                    {
+                        "@pid": "160/4605",
+                        "text": "Adrien Koutsos"
+                    },
+                    {
+                        "@pid": "66/8883",
+                        "text": "Vincent Laporte"
+                    },
+                    {
+                        "@pid": "87/4879-4",
+                        "text": "Tiago Oliveira 0004"
+                    },
+                    {
+                        "@pid": "35/5080",
+                        "text": "Pierre-Yves Strub"
+                    }
+                ]
+            },
+            "title": "The Last Mile: High-Assurance and High-Speed Cryptographic Implementations.",
+            "venue": "SP",
+            "pages": "965-982",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AlmeidaBBGKL0S20",
+            "doi": "10.1109/SP40000.2020.00028",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00028",
+            "url": "https://dblp.org/rec/conf/sp/AlmeidaBBGKL0S20"
+        },
+        "url": "URL#2326606"
+    },
+    {
+        "@score": "1",
+        "@id": "2326608",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "212/5112",
+                        "text": "Mary Jean Amon"
+                    },
+                    {
+                        "@pid": "157/1889-1",
+                        "text": "Rakibul Hasan 0001"
+                    },
+                    {
+                        "@pid": "20/8704",
+                        "text": "Kurt Hugenberg"
+                    },
+                    {
+                        "@pid": "130/5588",
+                        "text": "Bennett I. Bertenthal"
+                    },
+                    {
+                        "@pid": "50/6916",
+                        "text": "Apu Kapadia"
+                    }
+                ]
+            },
+            "title": "Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxical Findings.",
+            "venue": "SP",
+            "pages": "1350-1366",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AmonHHBK20",
+            "doi": "10.1109/SP40000.2020.00006",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00006",
+            "url": "https://dblp.org/rec/conf/sp/AmonHHBK20"
+        },
+        "url": "URL#2326608"
+    },
+    {
+        "@score": "1",
+        "@id": "2326609",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "132/8480",
+                        "text": "Sebastian Angel"
+                    },
+                    {
+                        "@pid": "86/5425",
+                        "text": "Sampath Kannan"
+                    },
+                    {
+                        "@pid": "191/9335",
+                        "text": "Zachary B. Ratliff"
+                    }
+                ]
+            },
+            "title": "Private resource allocators and their applications.",
+            "venue": "SP",
+            "pages": "372-391",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AngelKR20",
+            "doi": "10.1109/SP40000.2020.00065",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00065",
+            "url": "https://dblp.org/rec/conf/sp/AngelKR20"
+        },
+        "url": "URL#2326609"
+    },
+    {
+        "@score": "1",
+        "@id": "2326610",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/5077",
+                        "text": "Daniele Antonioli"
+                    },
+                    {
+                        "@pid": "32/7125",
+                        "text": "Nils Ole Tippenhauer"
+                    },
+                    {
+                        "@pid": "01/4779",
+                        "text": "Kasper Rasmussen"
+                    }
+                ]
+            },
+            "title": "BIAS: Bluetooth Impersonation AttackS.",
+            "venue": "SP",
+            "pages": "549-562",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AntonioliTR20",
+            "doi": "10.1109/SP40000.2020.00093",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00093",
+            "url": "https://dblp.org/rec/conf/sp/AntonioliTR20"
+        },
+        "url": "URL#2326610"
+    },
+    {
+        "@score": "1",
+        "@id": "2326611",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7844",
+                        "text": "Cornelius Aschermann"
+                    },
+                    {
+                        "@pid": "205/2072",
+                        "text": "Sergej Schumilo"
+                    },
+                    {
+                        "@pid": "73/2297-2",
+                        "text": "Ali Abbasi 0002"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "Ijon: Exploring Deep State Spaces via Fuzzing.",
+            "venue": "SP",
+            "pages": "1597-1612",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AschermannSAH20",
+            "doi": "10.1109/SP40000.2020.00117",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00117",
+            "url": "https://dblp.org/rec/conf/sp/AschermannSAH20"
+        },
+        "url": "URL#2326611"
+    },
+    {
+        "@score": "1",
+        "@id": "2326613",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "72/6104",
+                        "text": "Jonathan Berger"
+                    },
+                    {
+                        "@pid": "98/3396",
+                        "text": "Amit Klein 0001"
+                    },
+                    {
+                        "@pid": "31/1735",
+                        "text": "Benny Pinkas"
+                    }
+                ]
+            },
+            "title": "Flaw Label: Exploiting IPv6 Flow Label.",
+            "venue": "SP",
+            "pages": "1259-1276",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BergerKP20",
+            "doi": "10.1109/SP40000.2020.00075",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00075",
+            "url": "https://dblp.org/rec/conf/sp/BergerKP20"
+        },
+        "url": "URL#2326613"
+    },
+    {
+        "@score": "1",
+        "@id": "2326614",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "189/5540",
+                        "text": "Matthew Bernhard"
+                    },
+                    {
+                        "@pid": "205/2107",
+                        "text": "Allison McDonald"
+                    },
+                    {
+                        "@pid": "272/8287",
+                        "text": "Henry Meng"
+                    },
+                    {
+                        "@pid": "272/8306",
+                        "text": "Jensen Hwa"
+                    },
+                    {
+                        "@pid": "272/8289",
+                        "text": "Nakul Bajaj"
+                    },
+                    {
+                        "@pid": "69/5103-4",
+                        "text": "Kevin Chang 0004"
+                    },
+                    {
+                        "@pid": "h/JAlexHalderman",
+                        "text": "J. Alex Halderman"
+                    }
+                ]
+            },
+            "title": "Can Voters Detect Malicious Manipulation of Ballot Marking Devices?",
+            "venue": "SP",
+            "pages": "679-694",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BernhardMMHBCH20",
+            "doi": "10.1109/SP40000.2020.00118",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00118",
+            "url": "https://dblp.org/rec/conf/sp/BernhardMMHBCH20"
+        },
+        "url": "URL#2326614"
+    },
+    {
+        "@score": "1",
+        "@id": "2326616",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/4291",
+                        "text": "Sean Bowe"
+                    },
+                    {
+                        "@pid": "27/8534",
+                        "text": "Alessandro Chiesa"
+                    },
+                    {
+                        "@pid": "74/4531-1",
+                        "text": "Matthew Green 0001"
+                    },
+                    {
+                        "@pid": "129/9500",
+                        "text": "Ian Miers"
+                    },
+                    {
+                        "@pid": "161/3103",
+                        "text": "Pratyush Mishra"
+                    },
+                    {
+                        "@pid": "192/8757",
+                        "text": "Howard Wu"
+                    }
+                ]
+            },
+            "title": "ZEXE: Enabling Decentralized Private Computation.",
+            "venue": "SP",
+            "pages": "947-964",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BoweC0MMW20",
+            "doi": "10.1109/SP40000.2020.00050",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00050",
+            "url": "https://dblp.org/rec/conf/sp/BoweC0MMW20"
+        },
+        "url": "URL#2326616"
+    },
+    {
+        "@score": "1",
+        "@id": "2326617",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "137/8806",
+                        "text": "Tegan Brennan"
+                    },
+                    {
+                        "@pid": "94/7855",
+                        "text": "Nicol\u00e1s Rosner"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    }
+                ]
+            },
+            "title": "JIT Leaks: Inducing Timing Side Channels through Just-In-Time Compilation.",
+            "venue": "SP",
+            "pages": "1207-1222",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BrennanRB20",
+            "doi": "10.1109/SP40000.2020.00007",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00007",
+            "url": "https://dblp.org/rec/conf/sp/BrennanRB20"
+        },
+        "url": "URL#2326617"
+    },
+    {
+        "@score": "1",
+        "@id": "2326618",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/1573",
+                        "text": "Jo Van Bulck"
+                    },
+                    {
+                        "@pid": "241/6242",
+                        "text": "Daniel Moghimi"
+                    },
+                    {
+                        "@pid": "08/1117-1",
+                        "text": "Michael Schwarz 0001"
+                    },
+                    {
+                        "@pid": "172/1127",
+                        "text": "Moritz Lipp"
+                    },
+                    {
+                        "@pid": "198/6796",
+                        "text": "Marina Minkin"
+                    },
+                    {
+                        "@pid": "98/8283",
+                        "text": "Daniel Genkin"
+                    },
+                    {
+                        "@pid": "90/10901",
+                        "text": "Yuval Yarom"
+                    },
+                    {
+                        "@pid": "91/465",
+                        "text": "Berk Sunar"
+                    },
+                    {
+                        "@pid": "166/1494",
+                        "text": "Daniel Gruss"
+                    },
+                    {
+                        "@pid": "85/6647",
+                        "text": "Frank Piessens"
+                    }
+                ]
+            },
+            "title": "LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection.",
+            "venue": "SP",
+            "pages": "54-72",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BulckM0LMGYSGP20",
+            "doi": "10.1109/SP40000.2020.00089",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00089",
+            "url": "https://dblp.org/rec/conf/sp/BulckM0LMGYSGP20"
+        },
+        "url": "URL#2326618"
+    },
+    {
+        "@score": "1",
+        "@id": "2326619",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/0070",
+                        "text": "Benedikt B\u00fcnz"
+                    },
+                    {
+                        "@pid": "209/8649",
+                        "text": "Lucianna Kiffer"
+                    },
+                    {
+                        "@pid": "145/1016",
+                        "text": "Loi Luu"
+                    },
+                    {
+                        "@pid": "27/7672",
+                        "text": "Mahdi Zamani"
+                    }
+                ]
+            },
+            "title": "FlyClient: Super-Light Clients for Cryptocurrencies.",
+            "venue": "SP",
+            "pages": "928-946",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BunzKLZ20",
+            "doi": "10.1109/SP40000.2020.00049",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00049",
+            "url": "https://dblp.org/rec/conf/sp/BunzKLZ20"
+        },
+        "url": "URL#2326619"
+    },
+    {
+        "@score": "1",
+        "@id": "2326621",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "255/2388",
+                        "text": "David Cerdeira"
+                    },
+                    {
+                        "@pid": "07/967-1",
+                        "text": "Nuno Santos 0001"
+                    },
+                    {
+                        "@pid": "11/3119-1",
+                        "text": "Pedro Fonseca 0001"
+                    },
+                    {
+                        "@pid": "170/0331",
+                        "text": "Sandro Pinto 0001"
+                    }
+                ]
+            },
+            "title": "SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems.",
+            "venue": "SP",
+            "pages": "1416-1432",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Cerdeira0FP20",
+            "doi": "10.1109/SP40000.2020.00061",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00061",
+            "url": "https://dblp.org/rec/conf/sp/Cerdeira0FP20"
+        },
+        "url": "URL#2326621"
+    },
+    {
+        "@score": "1",
+        "@id": "2326624",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "30/7449",
+                        "text": "Jianbo Chen"
+                    },
+                    {
+                        "@pid": "j/MichaelIJordan",
+                        "text": "Michael I. Jordan"
+                    },
+                    {
+                        "@pid": "48/6396",
+                        "text": "Martin J. Wainwright"
+                    }
+                ]
+            },
+            "title": "HopSkipJumpAttack: A Query-Efficient Decision-Based Attack.",
+            "venue": "SP",
+            "pages": "1277-1294",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ChenJW20",
+            "doi": "10.1109/SP40000.2020.00045",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00045",
+            "url": "https://dblp.org/rec/conf/sp/ChenJW20"
+        },
+        "url": "URL#2326624"
+    },
+    {
+        "@score": "1",
+        "@id": "2326625",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/8201",
+                        "text": "Yaohui Chen"
+                    },
+                    {
+                        "@pid": "83/6353",
+                        "text": "Peng Li"
+                    },
+                    {
+                        "@pid": "90/514-24",
+                        "text": "Jun Xu 0024"
+                    },
+                    {
+                        "@pid": "162/3606",
+                        "text": "Shengjian Guo"
+                    },
+                    {
+                        "@pid": "148/1300",
+                        "text": "Rundong Zhou"
+                    },
+                    {
+                        "@pid": "32/9374",
+                        "text": "Yulong Zhang"
+                    },
+                    {
+                        "@pid": "64/5099",
+                        "text": "Tao Wei"
+                    },
+                    {
+                        "@pid": "81/7428",
+                        "text": "Long Lu"
+                    }
+                ]
+            },
+            "title": "SAVIOR: Towards Bug-Driven Hybrid Testing.",
+            "venue": "SP",
+            "pages": "1580-1596",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ChenLXGZZWL20",
+            "doi": "10.1109/SP40000.2020.00002",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00002",
+            "url": "https://dblp.org/rec/conf/sp/ChenLXGZZWL20"
+        },
+        "url": "URL#2326625"
+    },
+    {
+        "@score": "1",
+        "@id": "2326627",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "272/8273",
+                        "text": "Eunyong Cheon"
+                    },
+                    {
+                        "@pid": "76/104",
+                        "text": "Yonghwan Shin"
+                    },
+                    {
+                        "@pid": "58/3207",
+                        "text": "Jun Ho Huh"
+                    },
+                    {
+                        "@pid": "64/5383",
+                        "text": "Hyoungshick Kim"
+                    },
+                    {
+                        "@pid": "76/3174",
+                        "text": "Ian Oakley"
+                    }
+                ]
+            },
+            "title": "Gesture Authentication for Smartphones: Evaluation of Gesture Password Selection Policies.",
+            "venue": "SP",
+            "pages": "249-267",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CheonSHKO20",
+            "doi": "10.1109/SP40000.2020.00034",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00034",
+            "url": "https://dblp.org/rec/conf/sp/CheonSHKO20"
+        },
+        "url": "URL#2326627"
+    },
+    {
+        "@score": "1",
+        "@id": "2326630",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "170/3520",
+                        "text": "Shaanan Cohney"
+                    },
+                    {
+                        "@pid": "176/8068",
+                        "text": "Andrew Kwong"
+                    },
+                    {
+                        "@pid": "265/8863",
+                        "text": "Shahar Paz"
+                    },
+                    {
+                        "@pid": "98/8283",
+                        "text": "Daniel Genkin"
+                    },
+                    {
+                        "@pid": "12/3207",
+                        "text": "Nadia Heninger"
+                    },
+                    {
+                        "@pid": "180/7297",
+                        "text": "Eyal Ronen"
+                    },
+                    {
+                        "@pid": "90/10901",
+                        "text": "Yuval Yarom"
+                    }
+                ]
+            },
+            "title": "Pseudorandom Black Swans: Cache Attacks on CTR_DRBG.",
+            "venue": "SP",
+            "pages": "1241-1258",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CohneyKPGHRY20",
+            "doi": "10.1109/SP40000.2020.00046",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00046",
+            "url": "https://dblp.org/rec/conf/sp/CohneyKPGHRY20"
+        },
+        "url": "URL#2326630"
+    },
+    {
+        "@score": "1",
+        "@id": "2326631",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8756",
+                        "text": "Lucian Cojocar"
+                    },
+                    {
+                        "@pid": "148/9733",
+                        "text": "Jeremie S. Kim"
+                    },
+                    {
+                        "@pid": "147/0857",
+                        "text": "Minesh Patel"
+                    },
+                    {
+                        "@pid": "178/4784",
+                        "text": "Lillian Tsai"
+                    },
+                    {
+                        "@pid": "17/3782",
+                        "text": "Stefan Saroiu"
+                    },
+                    {
+                        "@pid": "06/915",
+                        "text": "Alec Wolman"
+                    },
+                    {
+                        "@pid": "m/OnurMutlu",
+                        "text": "Onur Mutlu"
+                    }
+                ]
+            },
+            "title": "Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers.",
+            "venue": "SP",
+            "pages": "712-728",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CojocarKPTSWM20",
+            "doi": "10.1109/SP40000.2020.00085",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00085",
+            "url": "https://dblp.org/rec/conf/sp/CojocarKPTSWM20"
+        },
+        "url": "URL#2326631"
+    },
+    {
+        "@score": "1",
+        "@id": "2326632",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "249/2786",
+                        "text": "Marco Cominelli"
+                    },
+                    {
+                        "@pid": "59/4302",
+                        "text": "Francesco Gringoli"
+                    },
+                    {
+                        "@pid": "03/7603",
+                        "text": "Paul Patras"
+                    },
+                    {
+                        "@pid": "272/8285",
+                        "text": "Margus Lind"
+                    },
+                    {
+                        "@pid": "25/5432",
+                        "text": "Guevara Noubir"
+                    }
+                ]
+            },
+            "title": "Even Black Cats Cannot Stay Hidden in the Dark: Full-band De-anonymization of Bluetooth Classic Devices.",
+            "venue": "SP",
+            "pages": "534-548",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CominelliGPLN20",
+            "doi": "10.1109/SP40000.2020.00091",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00091",
+            "url": "https://dblp.org/rec/conf/sp/CominelliGPLN20"
+        },
+        "url": "URL#2326632"
+    },
+    {
+        "@score": "1",
+        "@id": "2326634",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "168/1849",
+                        "text": "Philip Daian"
+                    },
+                    {
+                        "@pid": "151/5205",
+                        "text": "Steven Goldfeder"
+                    },
+                    {
+                        "@pid": "239/5193",
+                        "text": "Tyler Kell"
+                    },
+                    {
+                        "@pid": "25/1892-2",
+                        "text": "Yunqi Li 0002"
+                    },
+                    {
+                        "@pid": "56/39",
+                        "text": "Xueyuan Zhao"
+                    },
+                    {
+                        "@pid": "24/508",
+                        "text": "Iddo Bentov"
+                    },
+                    {
+                        "@pid": "216/6355",
+                        "text": "Lorenz Breidenbach"
+                    },
+                    {
+                        "@pid": "j/AriJuels",
+                        "text": "Ari Juels"
+                    }
+                ]
+            },
+            "title": "Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability.",
+            "venue": "SP",
+            "pages": "910-927",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DaianGKLZBBJ20",
+            "doi": "10.1109/SP40000.2020.00040",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00040",
+            "url": "https://dblp.org/rec/conf/sp/DaianGKLZBBJ20"
+        },
+        "url": "URL#2326634"
+    },
+    {
+        "@score": "1",
+        "@id": "2326635",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "219/7484",
+                        "text": "Savino Dambra"
+                    },
+                    {
+                        "@pid": "15/6037",
+                        "text": "Leyla Bilge"
+                    },
+                    {
+                        "@pid": "56/490",
+                        "text": "Davide Balzarotti"
+                    }
+                ]
+            },
+            "title": "SoK: Cyber Insurance - Technical Challenges and a System Security Roadmap.",
+            "venue": "SP",
+            "pages": "1367-1383",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DambraBB20",
+            "doi": "10.1109/SP40000.2020.00019",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00019",
+            "url": "https://dblp.org/rec/conf/sp/DambraBB20"
+        },
+        "url": "URL#2326635"
+    },
+    {
+        "@score": "1",
+        "@id": "2326636",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/9411",
+                        "text": "Lesly-Ann Daniel"
+                    },
+                    {
+                        "@pid": "b/SebastienBardin",
+                        "text": "S\u00e9bastien Bardin"
+                    },
+                    {
+                        "@pid": "42/6705",
+                        "text": "Tamara Rezk"
+                    }
+                ]
+            },
+            "title": "Binsec/Rel: Efficient Relational Symbolic Execution for Constant-Time at Binary-Level.",
+            "venue": "SP",
+            "pages": "1021-1038",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DanielBR20",
+            "doi": "10.1109/SP40000.2020.00074",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00074",
+            "url": "https://dblp.org/rec/conf/sp/DanielBR20"
+        },
+        "url": "URL#2326636"
+    },
+    {
+        "@score": "1",
+        "@id": "2326638",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/6314",
+                        "text": "Luke Deshotels"
+                    },
+                    {
+                        "@pid": "166/8961",
+                        "text": "Costin Carabas"
+                    },
+                    {
+                        "@pid": "272/8281",
+                        "text": "Jordan Beichler"
+                    },
+                    {
+                        "@pid": "38/7719",
+                        "text": "Razvan Deaconescu"
+                    },
+                    {
+                        "@pid": "22/4463",
+                        "text": "William Enck"
+                    }
+                ]
+            },
+            "title": "Kobold: Evaluating Decentralized Access Control for Remote NSXPC Methods on iOS.",
+            "venue": "SP",
+            "pages": "1056-1070",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DeshotelsCBDE20",
+            "doi": "10.1109/SP40000.2020.00023",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00023",
+            "url": "https://dblp.org/rec/conf/sp/DeshotelsCBDE20"
+        },
+        "url": "URL#2326638"
+    },
+    {
+        "@score": "1",
+        "@id": "2326639",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "194/2840",
+                        "text": "Clemens Deu\u00dfer"
+                    },
+                    {
+                        "@pid": "211/3812",
+                        "text": "Steffen Passmann"
+                    },
+                    {
+                        "@pid": "69/2809",
+                        "text": "Thorsten Strufe"
+                    }
+                ]
+            },
+            "title": "Browsing Unicity: On the Limits of Anonymizing Web Tracking Data.",
+            "venue": "SP",
+            "pages": "777-790",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DeusserPS20",
+            "doi": "10.1109/SP40000.2020.00018",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00018",
+            "url": "https://dblp.org/rec/conf/sp/DeusserPS20"
+        },
+        "url": "URL#2326639"
+    },
+    {
+        "@score": "1",
+        "@id": "2326640",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "266/8877",
+                        "text": "Sushant Dinesh"
+                    },
+                    {
+                        "@pid": "157/1187",
+                        "text": "Nathan Burow"
+                    },
+                    {
+                        "@pid": "59/5539",
+                        "text": "Dongyan Xu"
+                    },
+                    {
+                        "@pid": "31/1273",
+                        "text": "Mathias Payer"
+                    }
+                ]
+            },
+            "title": "RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization.",
+            "venue": "SP",
+            "pages": "1497-1511",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/DineshBXP20",
+            "doi": "10.1109/SP40000.2020.00009",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00009",
+            "url": "https://dblp.org/rec/conf/sp/DineshBXP20"
+        },
+        "url": "URL#2326640"
+    },
+    {
+        "@score": "1",
+        "@id": "2326642",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "236/5179",
+                        "text": "Laura Edelson"
+                    },
+                    {
+                        "@pid": "00/3175",
+                        "text": "Tobias Lauinger"
+                    },
+                    {
+                        "@pid": "58/4016",
+                        "text": "Damon McCoy"
+                    }
+                ]
+            },
+            "title": "A Security Analysis of the Facebook Ad Library.",
+            "venue": "SP",
+            "pages": "661-678",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/EdelsonLM20",
+            "doi": "10.1109/SP40000.2020.00084",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00084",
+            "url": "https://dblp.org/rec/conf/sp/EdelsonLM20"
+        },
+        "url": "URL#2326642"
+    },
+    {
+        "@score": "1",
+        "@id": "2326644",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "18/10309",
+                        "text": "Nathaniel Wesley Filardo"
+                    },
+                    {
+                        "@pid": "239/8902",
+                        "text": "Brett F. Gutstein"
+                    },
+                    {
+                        "@pid": "136/3901",
+                        "text": "Jonathan Woodruff"
+                    },
+                    {
+                        "@pid": "181/0549",
+                        "text": "Sam Ainsworth"
+                    },
+                    {
+                        "@pid": "272/8269",
+                        "text": "Lucian Paul-Trifu"
+                    },
+                    {
+                        "@pid": "57/429",
+                        "text": "Brooks Davis"
+                    },
+                    {
+                        "@pid": "209/9036",
+                        "text": "Hongyan Xia"
+                    },
+                    {
+                        "@pid": "209/9047",
+                        "text": "Edward Tomasz Napierala"
+                    },
+                    {
+                        "@pid": "200/4453",
+                        "text": "Alexander Richardson"
+                    },
+                    {
+                        "@pid": "74/3740",
+                        "text": "John Baldwin"
+                    },
+                    {
+                        "@pid": "85/1618",
+                        "text": "David Chisnall"
+                    },
+                    {
+                        "@pid": "211/0885",
+                        "text": "Jessica Clarke 0001"
+                    },
+                    {
+                        "@pid": "22/4668",
+                        "text": "Khilan Gudka"
+                    },
+                    {
+                        "@pid": "189/1762",
+                        "text": "Alexandre Joannou"
+                    },
+                    {
+                        "@pid": "20/4458",
+                        "text": "A. Theodore Markettos"
+                    },
+                    {
+                        "@pid": "209/9026",
+                        "text": "Alfredo Mazzinghi"
+                    },
+                    {
+                        "@pid": "233/0169",
+                        "text": "Robert M. Norton"
+                    },
+                    {
+                        "@pid": "21/5870",
+                        "text": "Michael Roe"
+                    },
+                    {
+                        "@pid": "74/185",
+                        "text": "Peter Sewell"
+                    },
+                    {
+                        "@pid": "189/1765",
+                        "text": "Stacey D. Son"
+                    },
+                    {
+                        "@pid": "62/1131",
+                        "text": "Timothy M. Jones 0001"
+                    },
+                    {
+                        "@pid": "m/SimonWMoore",
+                        "text": "Simon W. Moore"
+                    },
+                    {
+                        "@pid": "n/PeterGNeumann",
+                        "text": "Peter G. Neumann"
+                    },
+                    {
+                        "@pid": "70/2118",
+                        "text": "Robert N. M. Watson"
+                    }
+                ]
+            },
+            "title": "Cornucopia: Temporal Safety for CHERI Heaps.",
+            "venue": "SP",
+            "pages": "608-625",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FilardoGWAPDXNR20",
+            "doi": "10.1109/SP40000.2020.00098",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00098",
+            "url": "https://dblp.org/rec/conf/sp/FilardoGWAPDXNR20"
+        },
+        "url": "URL#2326644"
+    },
+    {
+        "@score": "1",
+        "@id": "2326645",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/8880",
+                        "text": "Daniel Frassinelli"
+                    },
+                    {
+                        "@pid": "272/8319",
+                        "text": "Sohyeon Park"
+                    },
+                    {
+                        "@pid": "45/1876",
+                        "text": "Stefan N\u00fcrnberger"
+                    }
+                ]
+            },
+            "title": "I Know Where You Parked Last Summer : Automated Reverse Engineering and Privacy Analysis of Modern Cars.",
+            "venue": "SP",
+            "pages": "1401-1415",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FrassinelliPN20",
+            "doi": "10.1109/SP40000.2020.00081",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00081",
+            "url": "https://dblp.org/rec/conf/sp/FrassinelliPN20"
+        },
+        "url": "URL#2326645"
+    },
+    {
+        "@score": "1",
+        "@id": "2326646",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "224/2335",
+                        "text": "Pietro Frigo"
+                    },
+                    {
+                        "@pid": "262/3667",
+                        "text": "Emanuele Vannacci"
+                    },
+                    {
+                        "@pid": "147/4013",
+                        "text": "Hasan Hassan"
+                    },
+                    {
+                        "@pid": "119/2260",
+                        "text": "Victor van der Veen"
+                    },
+                    {
+                        "@pid": "m/OnurMutlu",
+                        "text": "Onur Mutlu"
+                    },
+                    {
+                        "@pid": "75/8194",
+                        "text": "Cristiano Giuffrida"
+                    },
+                    {
+                        "@pid": "91/800",
+                        "text": "Herbert Bos"
+                    },
+                    {
+                        "@pid": "121/2685",
+                        "text": "Kaveh Razavi"
+                    }
+                ]
+            },
+            "title": "TRRespass: Exploiting the Many Sides of Target Row Refresh.",
+            "venue": "SP",
+            "pages": "747-762",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FrigoVHVMGBR20",
+            "doi": "10.1109/SP40000.2020.00090",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00090",
+            "url": "https://dblp.org/rec/conf/sp/FrigoVHVMGBR20"
+        },
+        "url": "URL#2326646"
+    },
+    {
+        "@score": "1",
+        "@id": "2326647",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "220/5536",
+                        "text": "Julien Gamba"
+                    },
+                    {
+                        "@pid": "241/5097",
+                        "text": "Mohammed Rashed"
+                    },
+                    {
+                        "@pid": "149/9322",
+                        "text": "Abbas Razaghpanah"
+                    },
+                    {
+                        "@pid": "98/3527",
+                        "text": "Juan Tapiador"
+                    },
+                    {
+                        "@pid": "50/7563",
+                        "text": "Narseo Vallina-Rodriguez"
+                    }
+                ]
+            },
+            "title": "An Analysis of Pre-installed Android Software.",
+            "venue": "SP",
+            "pages": "1039-1055",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GambaRRTV20",
+            "doi": "10.1109/SP40000.2020.00013",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00013",
+            "url": "https://dblp.org/rec/conf/sp/GambaRRTV20"
+        },
+        "url": "URL#2326647"
+    },
+    {
+        "@score": "1",
+        "@id": "2326648",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "173/0112",
+                        "text": "Ilias Giechaskiel"
+                    },
+                    {
+                        "@pid": "01/4779",
+                        "text": "Kasper Bonne Rasmussen"
+                    },
+                    {
+                        "@pid": "66/8277",
+                        "text": "Jakub Szefer"
+                    }
+                ]
+            },
+            "title": "C3APSULe: Cross-FPGA Covert-Channel Attacks through Power Supply Unit Leakage.",
+            "venue": "SP",
+            "pages": "1728-1741",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GiechaskielRS20",
+            "doi": "10.1109/SP40000.2020.00070",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00070",
+            "url": "https://dblp.org/rec/conf/sp/GiechaskielRS20"
+        },
+        "url": "URL#2326648"
+    },
+    {
+        "@score": "1",
+        "@id": "2326649",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/6449",
+                        "text": "Marco Guarnieri"
+                    },
+                    {
+                        "@pid": "10/3908",
+                        "text": "Boris K\u00f6pf"
+                    },
+                    {
+                        "@pid": "03/305",
+                        "text": "Jos\u00e9 F. Morales 0001"
+                    },
+                    {
+                        "@pid": "67/3331",
+                        "text": "Jan Reineke 0001"
+                    },
+                    {
+                        "@pid": "232/3235",
+                        "text": "Andr\u00e9s S\u00e1nchez"
+                    }
+                ]
+            },
+            "title": "Spectector: Principled Detection of Speculative Information Flows.",
+            "venue": "SP",
+            "pages": "1-19",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GuarnieriKMRS20",
+            "doi": "10.1109/SP40000.2020.00011",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00011",
+            "url": "https://dblp.org/rec/conf/sp/GuarnieriKMRS20"
+        },
+        "url": "URL#2326649"
+    },
+    {
+        "@score": "1",
+        "@id": "2326650",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "85/10076-2",
+                        "text": "Chun Guo 0002"
+                    },
+                    {
+                        "@pid": "k/JonathanKatz",
+                        "text": "Jonathan Katz"
+                    },
+                    {
+                        "@pid": "150/9413",
+                        "text": "Xiao Wang 0012"
+                    },
+                    {
+                        "@pid": "33/0-1",
+                        "text": "Yu Yu 0001"
+                    }
+                ]
+            },
+            "title": "Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers.",
+            "venue": "SP",
+            "pages": "825-841",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GuoKW020",
+            "doi": "10.1109/SP40000.2020.00016",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00016",
+            "url": "https://dblp.org/rec/conf/sp/GuoKW020"
+        },
+        "url": "URL#2326650"
+    },
+    {
+        "@score": "1",
+        "@id": "2326653",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "175/6283",
+                        "text": "Thomas Haines"
+                    },
+                    {
+                        "@pid": "244/5552",
+                        "text": "Sarah Jamie Lewis"
+                    },
+                    {
+                        "@pid": "78/1061",
+                        "text": "Olivier Pereira"
+                    },
+                    {
+                        "@pid": "t/VanessaTeague",
+                        "text": "Vanessa Teague"
+                    }
+                ]
+            },
+            "title": "How not to prove your election outcome.",
+            "venue": "SP",
+            "pages": "644-660",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HainesLPT20",
+            "doi": "10.1109/SP40000.2020.00048",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00048",
+            "url": "https://dblp.org/rec/conf/sp/HainesLPT20"
+        },
+        "url": "URL#2326653"
+    },
+    {
+        "@score": "1",
+        "@id": "2326655",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/1889-1",
+                        "text": "Rakibul Hasan 0001"
+                    },
+                    {
+                        "@pid": "c/DavidCrandall",
+                        "text": "David J. Crandall"
+                    },
+                    {
+                        "@pid": "07/5701",
+                        "text": "Mario Fritz"
+                    },
+                    {
+                        "@pid": "50/6916",
+                        "text": "Apu Kapadia"
+                    }
+                ]
+            },
+            "title": "Automatically Detecting Bystanders in Photos to Reduce Privacy Risks.",
+            "venue": "SP",
+            "pages": "318-335",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HasanCFK20",
+            "doi": "10.1109/SP40000.2020.00097",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00097",
+            "url": "https://dblp.org/rec/conf/sp/HasanCFK20"
+        },
+        "url": "URL#2326655"
+    },
+    {
+        "@score": "1",
+        "@id": "2326656",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "184/8086",
+                        "text": "Wajih Ul Hassan"
+                    },
+                    {
+                        "@pid": "126/3601",
+                        "text": "Adam Bates 0001"
+                    },
+                    {
+                        "@pid": "92/5876",
+                        "text": "Daniel Marino"
+                    }
+                ]
+            },
+            "title": "Tactical Provenance Analysis for Endpoint Detection and Response Systems.",
+            "venue": "SP",
+            "pages": "1172-1189",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Hassan0M20",
+            "doi": "10.1109/SP40000.2020.00096",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00096",
+            "url": "https://dblp.org/rec/conf/sp/Hassan0M20"
+        },
+        "url": "URL#2326656"
+    },
+    {
+        "@score": "1",
+        "@id": "2326658",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "227/8935",
+                        "text": "Yuyu He"
+                    },
+                    {
+                        "@pid": "97/8704-96",
+                        "text": "Lei Zhang 0096"
+                    },
+                    {
+                        "@pid": "55/11040",
+                        "text": "Zhemin Yang"
+                    },
+                    {
+                        "@pid": "28/8733",
+                        "text": "Yinzhi Cao"
+                    },
+                    {
+                        "@pid": "272/8304",
+                        "text": "Keke Lian"
+                    },
+                    {
+                        "@pid": "57/2281-6",
+                        "text": "Shuai Li 0006"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    },
+                    {
+                        "@pid": "191/1165",
+                        "text": "Zhibo Zhang"
+                    },
+                    {
+                        "@pid": "02/1640-2",
+                        "text": "Min Yang 0002"
+                    },
+                    {
+                        "@pid": "48/2168-9",
+                        "text": "Yuan Zhang 0009"
+                    },
+                    {
+                        "@pid": "36/5143",
+                        "text": "Haixin Duan"
+                    }
+                ]
+            },
+            "title": "TextExerciser: Feedback-driven Text Input Exercising for Android Applications.",
+            "venue": "SP",
+            "pages": "1071-1087",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HeZYCLLYZYZD20",
+            "doi": "10.1109/SP40000.2020.00071",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00071",
+            "url": "https://dblp.org/rec/conf/sp/HeZYCLLYZYZD20"
+        },
+        "url": "URL#2326658"
+    },
+    {
+        "@score": "1",
+        "@id": "2326660",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "188/6160",
+                        "text": "Md Nahid Hossain"
+                    },
+                    {
+                        "@pid": "175/8252",
+                        "text": "Sanaz Sheikhi"
+                    },
+                    {
+                        "@pid": "90/1136-1",
+                        "text": "R. Sekar 0001"
+                    }
+                ]
+            },
+            "title": "Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics.",
+            "venue": "SP",
+            "pages": "1139-1155",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HossainSS20",
+            "doi": "10.1109/SP40000.2020.00064",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00064",
+            "url": "https://dblp.org/rec/conf/sp/HossainSS20"
+        },
+        "url": "URL#2326660"
+    },
+    {
+        "@score": "1",
+        "@id": "2326662",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "78/7690-2",
+                        "text": "Heqing Huang 0002"
+                    },
+                    {
+                        "@pid": "269/8140",
+                        "text": "Peisen Yao"
+                    },
+                    {
+                        "@pid": "92/9102",
+                        "text": "Rongxin Wu"
+                    },
+                    {
+                        "@pid": "145/3943",
+                        "text": "Qingkai Shi"
+                    },
+                    {
+                        "@pid": "51/7008-1",
+                        "text": "Charles Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Pangolin: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction.",
+            "venue": "SP",
+            "pages": "1613-1627",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HuangYWSZ20",
+            "doi": "10.1109/SP40000.2020.00063",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00063",
+            "url": "https://dblp.org/rec/conf/sp/HuangYWSZ20"
+        },
+        "url": "URL#2326662"
+    },
+    {
+        "@score": "1",
+        "@id": "2326665",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/8604-2",
+                        "text": "Umar Iqbal 0002"
+                    },
+                    {
+                        "@pid": "139/5540",
+                        "text": "Peter Snyder"
+                    },
+                    {
+                        "@pid": "155/8420",
+                        "text": "Shitong Zhu"
+                    },
+                    {
+                        "@pid": "46/2924",
+                        "text": "Benjamin Livshits"
+                    },
+                    {
+                        "@pid": "31/8302",
+                        "text": "Zhiyun Qian"
+                    },
+                    {
+                        "@pid": "83/9528",
+                        "text": "Zubair Shafiq"
+                    }
+                ]
+            },
+            "title": "AdGraph: A Graph-Based Approach to Ad and Tracker Blocking.",
+            "venue": "SP",
+            "pages": "763-776",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/IqbalSZLQS20",
+            "doi": "10.1109/SP40000.2020.00005",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00005",
+            "url": "https://dblp.org/rec/conf/sp/IqbalSZLQS20"
+        },
+        "url": "URL#2326665"
+    },
+    {
+        "@score": "1",
+        "@id": "2326667",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "175/5282",
+                        "text": "Steve T. K. Jan"
+                    },
+                    {
+                        "@pid": "254/0865",
+                        "text": "Qingying Hao"
+                    },
+                    {
+                        "@pid": "204/2957",
+                        "text": "Tianrui Hu"
+                    },
+                    {
+                        "@pid": "198/9527",
+                        "text": "Jiameng Pu"
+                    },
+                    {
+                        "@pid": "272/8268",
+                        "text": "Sonal Oswal"
+                    },
+                    {
+                        "@pid": "71/4292-11",
+                        "text": "Gang Wang 0011"
+                    },
+                    {
+                        "@pid": "24/604",
+                        "text": "Bimal Viswanath"
+                    }
+                ]
+            },
+            "title": "Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation.",
+            "venue": "SP",
+            "pages": "1190-1206",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/JanHHPO0V20",
+            "doi": "10.1109/SP40000.2020.00079",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00079",
+            "url": "https://dblp.org/rec/conf/sp/JanHHPO0V20"
+        },
+        "url": "URL#2326667"
+    },
+    {
+        "@score": "1",
+        "@id": "2326670",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "230/3262",
+                        "text": "Yan Jia"
+                    },
+                    {
+                        "@pid": "34/8412",
+                        "text": "Luyi Xing"
+                    },
+                    {
+                        "@pid": "63/9426",
+                        "text": "Yuhang Mao"
+                    },
+                    {
+                        "@pid": "272/7105",
+                        "text": "Dongfang Zhao 0010"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "253/1264",
+                        "text": "Shangru Zhao"
+                    },
+                    {
+                        "@pid": "83/6530-1",
+                        "text": "Yuqing Zhang 0001"
+                    }
+                ]
+            },
+            "title": "Burglars&apos; IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds.",
+            "venue": "SP",
+            "pages": "465-481",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/JiaXMZ0ZZ20",
+            "doi": "10.1109/SP40000.2020.00051",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00051",
+            "url": "https://dblp.org/rec/conf/sp/JiaXMZ0ZZ20"
+        },
+        "url": "URL#2326670"
+    },
+    {
+        "@score": "1",
+        "@id": "2326671",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/8561",
+                        "text": "Jiao Jiao"
+                    },
+                    {
+                        "@pid": "153/5355",
+                        "text": "Shuanglong Kan"
+                    },
+                    {
+                        "@pid": "55/4730-1",
+                        "text": "Shang-Wei Lin 0001"
+                    },
+                    {
+                        "@pid": "22/111",
+                        "text": "David San\u00e1n"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    }
+                ]
+            },
+            "title": "Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.",
+            "venue": "SP",
+            "pages": "1695-1712",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/JiaoK0S0020",
+            "doi": "10.1109/SP40000.2020.00066",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00066",
+            "url": "https://dblp.org/rec/conf/sp/JiaoK0S0020"
+        },
+        "url": "URL#2326671"
+    },
+    {
+        "@score": "1",
+        "@id": "2326673",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "248/1646",
+                        "text": "Ranjita Pai Kasturi"
+                    },
+                    {
+                        "@pid": "15/8685",
+                        "text": "Yiting Sun"
+                    },
+                    {
+                        "@pid": "117/4491",
+                        "text": "Ruian Duan"
+                    },
+                    {
+                        "@pid": "127/7110",
+                        "text": "Omar Alrawi"
+                    },
+                    {
+                        "@pid": "272/8301",
+                        "text": "Ehsan Asdar"
+                    },
+                    {
+                        "@pid": "272/8311",
+                        "text": "Victor Zhu"
+                    },
+                    {
+                        "@pid": "139/7034",
+                        "text": "Yonghwi Kwon 0001"
+                    },
+                    {
+                        "@pid": "150/5240",
+                        "text": "Brendan Saltaformaggio"
+                    }
+                ]
+            },
+            "title": "TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks.",
+            "venue": "SP",
+            "pages": "1156-1171",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KasturiSDAAZKS20",
+            "doi": "10.1109/SP40000.2020.00116",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00116",
+            "url": "https://dblp.org/rec/conf/sp/KasturiSDAAZKS20"
+        },
+        "url": "URL#2326673"
+    },
+    {
+        "@score": "1",
+        "@id": "2326676",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "272/8278",
+                        "text": "Brian Kondracki"
+                    },
+                    {
+                        "@pid": "241/4280",
+                        "text": "Assel Aliyeva"
+                    },
+                    {
+                        "@pid": "27/3108",
+                        "text": "Manuel Egele"
+                    },
+                    {
+                        "@pid": "47/8412",
+                        "text": "Jason Polakis"
+                    },
+                    {
+                        "@pid": "04/8280",
+                        "text": "Nick Nikiforakis"
+                    }
+                ]
+            },
+            "title": "Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers.",
+            "venue": "SP",
+            "pages": "810-824",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KondrackiAEPN20",
+            "doi": "10.1109/SP40000.2020.00077",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00077",
+            "url": "https://dblp.org/rec/conf/sp/KondrackiAEPN20"
+        },
+        "url": "URL#2326676"
+    },
+    {
+        "@score": "1",
+        "@id": "2326677",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/10042",
+                        "text": "Evgenios M. Kornaropoulos"
+                    },
+                    {
+                        "@pid": "p/CharalamposPapamanthou",
+                        "text": "Charalampos Papamanthou"
+                    },
+                    {
+                        "@pid": "t/RobertoTamassia",
+                        "text": "Roberto Tamassia"
+                    }
+                ]
+            },
+            "title": "The State of the Uniform: Attacks on Encrypted Databases Beyond the Uniform Query Distribution.",
+            "venue": "SP",
+            "pages": "1223-1240",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KornaropoulosPT20",
+            "doi": "10.1109/SP40000.2020.00029",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00029",
+            "url": "https://dblp.org/rec/conf/sp/KornaropoulosPT20"
+        },
+        "url": "URL#2326677"
+    },
+    {
+        "@score": "1",
+        "@id": "2326678",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/1569",
+                        "text": "Esmaeil Mohammadian Koruyeh"
+                    },
+                    {
+                        "@pid": "242/8308",
+                        "text": "Shirin Haji Amin Shirazi"
+                    },
+                    {
+                        "@pid": "169/7381",
+                        "text": "Khaled N. Khasawneh"
+                    },
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    },
+                    {
+                        "@pid": "86/2654",
+                        "text": "Nael B. Abu-Ghazaleh"
+                    }
+                ]
+            },
+            "title": "SpecCFI: Mitigating Spectre Attacks using CFI Informed Speculation.",
+            "venue": "SP",
+            "pages": "39-53",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KoruyehSKSA20",
+            "doi": "10.1109/SP40000.2020.00033",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00033",
+            "url": "https://dblp.org/rec/conf/sp/KoruyehSKSA20"
+        },
+        "url": "URL#2326678"
+    },
+    {
+        "@score": "1",
+        "@id": "2326679",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "232/1891",
+                        "text": "Christiane Kuhn"
+                    },
+                    {
+                        "@pid": "70/2640",
+                        "text": "Martin Beck"
+                    },
+                    {
+                        "@pid": "69/2809",
+                        "text": "Thorsten Strufe"
+                    }
+                ]
+            },
+            "title": "Breaking and (Partially) Fixing Provably Secure Onion Routing.",
+            "venue": "SP",
+            "pages": "168-185",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KuhnBS20",
+            "doi": "10.1109/SP40000.2020.00039",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00039",
+            "url": "https://dblp.org/rec/conf/sp/KuhnBS20"
+        },
+        "url": "URL#2326679"
+    },
+    {
+        "@score": "1",
+        "@id": "2326681",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "55/9843",
+                        "text": "Michael Kurth"
+                    },
+                    {
+                        "@pid": "68/86",
+                        "text": "Ben Gras"
+                    },
+                    {
+                        "@pid": "131/5092",
+                        "text": "Dennis Andriesse"
+                    },
+                    {
+                        "@pid": "75/8194",
+                        "text": "Cristiano Giuffrida"
+                    },
+                    {
+                        "@pid": "91/800",
+                        "text": "Herbert Bos"
+                    },
+                    {
+                        "@pid": "121/2685",
+                        "text": "Kaveh Razavi"
+                    }
+                ]
+            },
+            "title": ": Practical Cache Attacks from the Network.",
+            "venue": "SP",
+            "pages": "20-38",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KurthGAGBR20",
+            "doi": "10.1109/SP40000.2020.00082",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00082",
+            "url": "https://dblp.org/rec/conf/sp/KurthGAGBR20"
+        },
+        "url": "URL#2326681"
+    },
+    {
+        "@score": "1",
+        "@id": "2326682",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "176/8068",
+                        "text": "Andrew Kwong"
+                    },
+                    {
+                        "@pid": "98/8283",
+                        "text": "Daniel Genkin"
+                    },
+                    {
+                        "@pid": "166/1494",
+                        "text": "Daniel Gruss"
+                    },
+                    {
+                        "@pid": "90/10901",
+                        "text": "Yuval Yarom"
+                    }
+                ]
+            },
+            "title": "RAMBleed: Reading Bits in Memory Without Accessing Them.",
+            "venue": "SP",
+            "pages": "695-711",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KwongGGY20",
+            "doi": "10.1109/SP40000.2020.00020",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00020",
+            "url": "https://dblp.org/rec/conf/sp/KwongGGY20"
+        },
+        "url": "URL#2326682"
+    },
+    {
+        "@score": "1",
+        "@id": "2326684",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "30/3557-3",
+                        "text": "Jonathan Lee 0003"
+                    },
+                    {
+                        "@pid": "203/4231",
+                        "text": "Kirill Nikitin 0001"
+                    },
+                    {
+                        "@pid": "68/8463",
+                        "text": "Srinath T. V. Setty"
+                    }
+                ]
+            },
+            "title": "Replicated state machines without replicated execution.",
+            "venue": "SP",
+            "pages": "119-134",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Lee0S20",
+            "doi": "10.1109/SP40000.2020.00068",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00068",
+            "url": "https://dblp.org/rec/conf/sp/Lee0S20"
+        },
+        "url": "URL#2326684"
+    },
+    {
+        "@score": "1",
+        "@id": "2326685",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/1273",
+                        "text": "Patrick Leu"
+                    },
+                    {
+                        "@pid": "157/2295",
+                        "text": "Mridula Singh"
+                    },
+                    {
+                        "@pid": "121/9557",
+                        "text": "Marc Roeschlin"
+                    },
+                    {
+                        "@pid": "39/780",
+                        "text": "Kenneth G. Paterson"
+                    },
+                    {
+                        "@pid": "51/1639",
+                        "text": "Srdjan Capkun"
+                    }
+                ]
+            },
+            "title": "Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement.",
+            "venue": "SP",
+            "pages": "500-516",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LeuSRPC20",
+            "doi": "10.1109/SP40000.2020.00010",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00010",
+            "url": "https://dblp.org/rec/conf/sp/LeuSRPC20"
+        },
+        "url": "URL#2326685"
+    },
+    {
+        "@score": "1",
+        "@id": "2326686",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "217/8466",
+                        "text": "Zhengxiong Li"
+                    },
+                    {
+                        "@pid": "85/10856",
+                        "text": "Fenglong Ma"
+                    },
+                    {
+                        "@pid": "184/5705",
+                        "text": "Aditya Singh Rathore"
+                    },
+                    {
+                        "@pid": "152/4206",
+                        "text": "Zhuolin Yang"
+                    },
+                    {
+                        "@pid": "134/1201",
+                        "text": "Baicheng Chen"
+                    },
+                    {
+                        "@pid": "63/4152-1",
+                        "text": "Lu Su 0001"
+                    },
+                    {
+                        "@pid": "11/6689",
+                        "text": "Wenyao Xu"
+                    }
+                ]
+            },
+            "title": "WaveSpy: Remote and Through-wall Screen Attack via mmWave Sensing.",
+            "venue": "SP",
+            "pages": "217-232",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LiMRYCSX20",
+            "doi": "10.1109/SP40000.2020.00004",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00004",
+            "url": "https://dblp.org/rec/conf/sp/LiMRYCSX20"
+        },
+        "url": "URL#2326686"
+    },
+    {
+        "@score": "1",
+        "@id": "2326689",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "211/8100",
+                        "text": "Sanam Ghorbani Lyastani"
+                    },
+                    {
+                        "@pid": "40/1587",
+                        "text": "Michael Schilling 0001"
+                    },
+                    {
+                        "@pid": "272/8299",
+                        "text": "Michaela Neumayr"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    },
+                    {
+                        "@pid": "31/7561",
+                        "text": "Sven Bugiel"
+                    }
+                ]
+            },
+            "title": "Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication.",
+            "venue": "SP",
+            "pages": "268-285",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LyastaniSN0B20",
+            "doi": "10.1109/SP40000.2020.00047",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00047",
+            "url": "https://dblp.org/rec/conf/sp/LyastaniSN0B20"
+        },
+        "url": "URL#2326689"
+    },
+    {
+        "@score": "1",
+        "@id": "2326691",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/8188",
+                        "text": "Aravind Machiry"
+                    },
+                    {
+                        "@pid": "155/6800",
+                        "text": "Nilo Redini"
+                    },
+                    {
+                        "@pid": "272/8302",
+                        "text": "Eric Camellini"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "SPIDER: Enabling Fast Patch Propagation In Related Software Repositories.",
+            "venue": "SP",
+            "pages": "1562-1579",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MachiryRCKV20",
+            "doi": "10.1109/SP40000.2020.00038",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00038",
+            "url": "https://dblp.org/rec/conf/sp/MachiryRCKV20"
+        },
+        "url": "URL#2326691"
+    },
+    {
+        "@score": "1",
+        "@id": "2326692",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "232/2235",
+                        "text": "Sunil Manandhar"
+                    },
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "222/2853",
+                        "text": "Kaushal Kafle"
+                    },
+                    {
+                        "@pid": "244/2204",
+                        "text": "Ruhao Tang"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    },
+                    {
+                        "@pid": "136/8334",
+                        "text": "Adwait Nadkarni"
+                    }
+                ]
+            },
+            "title": "Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.",
+            "venue": "SP",
+            "pages": "482-499",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ManandharMKTPN20",
+            "doi": "10.1109/SP40000.2020.00062",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00062",
+            "url": "https://dblp.org/rec/conf/sp/ManandharMKTPN20"
+        },
+        "url": "URL#2326692"
+    },
+    {
+        "@score": "1",
+        "@id": "2326693",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "260/6737",
+                        "text": "Philipp Markert"
+                    },
+                    {
+                        "@pid": "70/4808",
+                        "text": "Daniel V. Bailey"
+                    },
+                    {
+                        "@pid": "177/0313",
+                        "text": "Maximilian Golla"
+                    },
+                    {
+                        "@pid": "36/3665",
+                        "text": "Markus D\u00fcrmuth"
+                    },
+                    {
+                        "@pid": "94/1554",
+                        "text": "Adam J. Aviv"
+                    }
+                ]
+            },
+            "title": "This PIN Can Be Easily Guessed: Analyzing the Security of Smartphone Unlock PINs.",
+            "venue": "SP",
+            "pages": "286-303",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MarkertBGDA20",
+            "doi": "10.1109/SP40000.2020.00100",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00100",
+            "url": "https://dblp.org/rec/conf/sp/MarkertBGDA20"
+        },
+        "url": "URL#2326693"
+    },
+    {
+        "@score": "1",
+        "@id": "2326694",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "164/7366",
+                        "text": "C\u00e9lestin Matte"
+                    },
+                    {
+                        "@pid": "85/150",
+                        "text": "Nataliia Bielova"
+                    },
+                    {
+                        "@pid": "141/7040",
+                        "text": "Cristiana Santos"
+                    }
+                ]
+            },
+            "title": "Do Cookie Banners Respect my Choice? : Measuring Legal Compliance of Banners from IAB Europe&apos;s Transparency and Consent Framework.",
+            "venue": "SP",
+            "pages": "791-809",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MatteBS20",
+            "doi": "10.1109/SP40000.2020.00076",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00076",
+            "url": "https://dblp.org/rec/conf/sp/MatteBS20"
+        },
+        "url": "URL#2326694"
+    },
+    {
+        "@score": "1",
+        "@id": "2326697",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/3872",
+                        "text": "Philipp Morgner"
+                    },
+                    {
+                        "@pid": "88/4796",
+                        "text": "Christoph Mai"
+                    },
+                    {
+                        "@pid": "243/5885",
+                        "text": "Nicole Koschate-Fischer"
+                    },
+                    {
+                        "@pid": "f/FCFreiling",
+                        "text": "Felix C. Freiling"
+                    },
+                    {
+                        "@pid": "b/ZBenenson",
+                        "text": "Zinaida Benenson"
+                    }
+                ]
+            },
+            "title": "Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products.",
+            "venue": "SP",
+            "pages": "429-446",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MorgnerMKFB20",
+            "doi": "10.1109/SP40000.2020.00021",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00021",
+            "url": "https://dblp.org/rec/conf/sp/MorgnerMKFB20"
+        },
+        "url": "URL#2326697"
+    },
+    {
+        "@score": "1",
+        "@id": "2326699",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "272/8308",
+                        "text": "Kit Murdock"
+                    },
+                    {
+                        "@pid": "190/2073",
+                        "text": "David F. Oswald"
+                    },
+                    {
+                        "@pid": "42/1707",
+                        "text": "Flavio D. Garcia"
+                    },
+                    {
+                        "@pid": "167/1573",
+                        "text": "Jo Van Bulck"
+                    },
+                    {
+                        "@pid": "166/1494",
+                        "text": "Daniel Gruss"
+                    },
+                    {
+                        "@pid": "85/6647",
+                        "text": "Frank Piessens"
+                    }
+                ]
+            },
+            "title": "Plundervolt: Software-based Fault Injection Attacks against Intel SGX.",
+            "venue": "SP",
+            "pages": "1466-1482",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MurdockOGBGP20",
+            "doi": "10.1109/SP40000.2020.00057",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00057",
+            "url": "https://dblp.org/rec/conf/sp/MurdockOGBGP20"
+        },
+        "url": "URL#2326699"
+    },
+    {
+        "@score": "1",
+        "@id": "2326700",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "199/3074",
+                        "text": "Pardis Emami Naeini"
+                    },
+                    {
+                        "@pid": "84/1053",
+                        "text": "Yuvraj Agarwal"
+                    },
+                    {
+                        "@pid": "03/1595",
+                        "text": "Lorrie Faith Cranor"
+                    },
+                    {
+                        "@pid": "118/1575",
+                        "text": "Hanan Hibshi"
+                    }
+                ]
+            },
+            "title": "Ask the Experts: What Should Be on an IoT Privacy and Security Label?",
+            "venue": "SP",
+            "pages": "447-464",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/NaeiniACH20",
+            "doi": "10.1109/SP40000.2020.00043",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00043",
+            "url": "https://dblp.org/rec/conf/sp/NaeiniACH20"
+        },
+        "url": "URL#2326700"
+    },
+    {
+        "@score": "1",
+        "@id": "2326701",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "208/4182",
+                        "text": "Arian Akhavan Niaki"
+                    },
+                    {
+                        "@pid": "157/1128",
+                        "text": "Shinyoung Cho"
+                    },
+                    {
+                        "@pid": "58/10074",
+                        "text": "Zachary Weinberg"
+                    },
+                    {
+                        "@pid": "179/2240",
+                        "text": "Nguyen Phong Hoang"
+                    },
+                    {
+                        "@pid": "149/9322",
+                        "text": "Abbas Razaghpanah"
+                    },
+                    {
+                        "@pid": "c/NicolasChristin",
+                        "text": "Nicolas Christin"
+                    },
+                    {
+                        "@pid": "52/2893",
+                        "text": "Phillipa Gill"
+                    }
+                ]
+            },
+            "title": "ICLab: A Global, Longitudinal Internet Censorship Measurement Platform.",
+            "venue": "SP",
+            "pages": "135-151",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/NiakiCWHRCG20",
+            "doi": "10.1109/SP40000.2020.00014",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00014",
+            "url": "https://dblp.org/rec/conf/sp/NiakiCWHRCG20"
+        },
+        "url": "URL#2326701"
+    },
+    {
+        "@score": "1",
+        "@id": "2326702",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7732",
+                        "text": "Kyndylan Nienhuis"
+                    },
+                    {
+                        "@pid": "189/1762",
+                        "text": "Alexandre Joannou"
+                    },
+                    {
+                        "@pid": "95/8429",
+                        "text": "Thomas Bauereiss"
+                    },
+                    {
+                        "@pid": "36/1661",
+                        "text": "Anthony C. J. Fox"
+                    },
+                    {
+                        "@pid": "21/5870",
+                        "text": "Michael Roe"
+                    },
+                    {
+                        "@pid": "58/4171-1",
+                        "text": "Brian Campbell 0001"
+                    },
+                    {
+                        "@pid": "80/2682",
+                        "text": "Matthew Naylor"
+                    },
+                    {
+                        "@pid": "233/0169",
+                        "text": "Robert M. Norton"
+                    },
+                    {
+                        "@pid": "m/SimonWMoore",
+                        "text": "Simon W. Moore"
+                    },
+                    {
+                        "@pid": "n/PeterGNeumann",
+                        "text": "Peter G. Neumann"
+                    },
+                    {
+                        "@pid": "08/3395",
+                        "text": "Ian Stark"
+                    },
+                    {
+                        "@pid": "70/2118",
+                        "text": "Robert N. M. Watson"
+                    },
+                    {
+                        "@pid": "74/185",
+                        "text": "Peter Sewell"
+                    }
+                ]
+            },
+            "title": "Rigorous engineering for hardware security: Formal modelling and proof in the CHERI design and implementation process.",
+            "venue": "SP",
+            "pages": "1003-1020",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/NienhuisJBFR0NN20",
+            "doi": "10.1109/SP40000.2020.00055",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00055",
+            "url": "https://dblp.org/rec/conf/sp/NienhuisJBFR0NN20"
+        },
+        "url": "URL#2326702"
+    },
+    {
+        "@score": "1",
+        "@id": "2326703",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/7816",
+                        "text": "Xudong Pan"
+                    },
+                    {
+                        "@pid": "84/2519-1",
+                        "text": "Mi Zhang 0001"
+                    },
+                    {
+                        "@pid": "07/8388",
+                        "text": "Shouling Ji"
+                    },
+                    {
+                        "@pid": "02/1640-2",
+                        "text": "Min Yang 0002"
+                    }
+                ]
+            },
+            "title": "Privacy Risks of General-Purpose Language Models.",
+            "venue": "SP",
+            "pages": "1314-1331",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PanZJY20",
+            "doi": "10.1109/SP40000.2020.00095",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00095",
+            "url": "https://dblp.org/rec/conf/sp/PanZJY20"
+        },
+        "url": "URL#2326703"
+    },
+    {
+        "@score": "1",
+        "@id": "2326704",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "03/6317",
+                        "text": "Soyeon Park"
+                    },
+                    {
+                        "@pid": "42/1870-2",
+                        "text": "Wen Xu 0002"
+                    },
+                    {
+                        "@pid": "119/7670",
+                        "text": "Insu Yun"
+                    },
+                    {
+                        "@pid": "249/5571",
+                        "text": "Daehee Jang"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    }
+                ]
+            },
+            "title": "Fuzzing JavaScript Engines with Aspect-preserving Mutation.",
+            "venue": "SP",
+            "pages": "1629-1642",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ParkXYJK20",
+            "doi": "10.1109/SP40000.2020.00067",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00067",
+            "url": "https://dblp.org/rec/conf/sp/ParkXYJK20"
+        },
+        "url": "URL#2326704"
+    },
+    {
+        "@score": "1",
+        "@id": "2326705",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "241/1447",
+                        "text": "James Pavur"
+                    },
+                    {
+                        "@pid": "140/4942",
+                        "text": "Daniel Moser"
+                    },
+                    {
+                        "@pid": "117/8959",
+                        "text": "Martin Strohmeier"
+                    },
+                    {
+                        "@pid": "75/5939",
+                        "text": "Vincent Lenders"
+                    },
+                    {
+                        "@pid": "87/2623",
+                        "text": "Ivan Martinovic"
+                    }
+                ]
+            },
+            "title": "A Tale of Sea and Sky On the Security of Maritime VSAT Communications.",
+            "venue": "SP",
+            "pages": "1384-1400",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PavurMSLM20",
+            "doi": "10.1109/SP40000.2020.00056",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00056",
+            "url": "https://dblp.org/rec/conf/sp/PavurMSLM20"
+        },
+        "url": "URL#2326705"
+    },
+    {
+        "@score": "1",
+        "@id": "2326706",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "272/8284",
+                        "text": "Anton Permenev"
+                    },
+                    {
+                        "@pid": "44/4685-2",
+                        "text": "Dimitar K. Dimitrov 0002"
+                    },
+                    {
+                        "@pid": "40/9612",
+                        "text": "Petar Tsankov"
+                    },
+                    {
+                        "@pid": "155/1628",
+                        "text": "Dana Drachsler-Cohen"
+                    },
+                    {
+                        "@pid": "93/2189",
+                        "text": "Martin T. Vechev"
+                    }
+                ]
+            },
+            "title": "VerX: Safety Verification of Smart Contracts.",
+            "venue": "SP",
+            "pages": "1661-1677",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PermenevDTDV20",
+            "doi": "10.1109/SP40000.2020.00024",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00024",
+            "url": "https://dblp.org/rec/conf/sp/PermenevDTDV20"
+        },
+        "url": "URL#2326706"
+    },
+    {
+        "@score": "1",
+        "@id": "2326707",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/1452",
+                        "text": "Fabio Pierazzi"
+                    },
+                    {
+                        "@pid": "223/5655",
+                        "text": "Feargus Pendlebury"
+                    },
+                    {
+                        "@pid": "184/5990",
+                        "text": "Jacopo Cortellazzi"
+                    },
+                    {
+                        "@pid": "95/5162",
+                        "text": "Lorenzo Cavallaro"
+                    }
+                ]
+            },
+            "title": "Intriguing Properties of Adversarial ML Attacks in the Problem Space.",
+            "venue": "SP",
+            "pages": "1332-1349",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PierazziPCC20",
+            "doi": "10.1109/SP40000.2020.00073",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00073",
+            "url": "https://dblp.org/rec/conf/sp/PierazziPCC20"
+        },
+        "url": "URL#2326707"
+    },
+    {
+        "@score": "1",
+        "@id": "2326709",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "177/5861",
+                        "text": "Sergej Proskurin"
+                    },
+                    {
+                        "@pid": "231/1935",
+                        "text": "Marius Momeu"
+                    },
+                    {
+                        "@pid": "238/1681",
+                        "text": "Seyedhamed Ghavamnia"
+                    },
+                    {
+                        "@pid": "87/1029",
+                        "text": "Vasileios P. Kemerlis"
+                    },
+                    {
+                        "@pid": "09/1231",
+                        "text": "Michalis Polychronakis"
+                    }
+                ]
+            },
+            "title": "xMP: Selective Memory Protection for Kernel and User Space.",
+            "venue": "SP",
+            "pages": "563-577",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ProskurinMGKP20",
+            "doi": "10.1109/SP40000.2020.00041",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00041",
+            "url": "https://dblp.org/rec/conf/sp/ProskurinMGKP20"
+        },
+        "url": "URL#2326709"
+    },
+    {
+        "@score": "1",
+        "@id": "2326710",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "132/3972",
+                        "text": "Jonathan Protzenko"
+                    },
+                    {
+                        "@pid": "49/6324",
+                        "text": "Bryan Parno"
+                    },
+                    {
+                        "@pid": "193/3445",
+                        "text": "Aymeric Fromherz"
+                    },
+                    {
+                        "@pid": "22/3053",
+                        "text": "Chris Hawblitzel"
+                    },
+                    {
+                        "@pid": "244/8751",
+                        "text": "Marina Polubelova"
+                    },
+                    {
+                        "@pid": "80/3503",
+                        "text": "Karthikeyan Bhargavan"
+                    },
+                    {
+                        "@pid": "165/5515",
+                        "text": "Benjamin Beurdouche"
+                    },
+                    {
+                        "@pid": "205/7063",
+                        "text": "Joonwon Choi"
+                    },
+                    {
+                        "@pid": "121/1113",
+                        "text": "Antoine Delignat-Lavaud"
+                    },
+                    {
+                        "@pid": "f/CedricFournet",
+                        "text": "C\u00e9dric Fournet"
+                    },
+                    {
+                        "@pid": "219/9026",
+                        "text": "Natalia Kulatova"
+                    },
+                    {
+                        "@pid": "04/10",
+                        "text": "Tahina Ramananandro"
+                    },
+                    {
+                        "@pid": "81/10809",
+                        "text": "Aseem Rastogi"
+                    },
+                    {
+                        "@pid": "11/5568",
+                        "text": "Nikhil Swamy"
+                    },
+                    {
+                        "@pid": "17/3100",
+                        "text": "Christoph M. Wintersteiger"
+                    },
+                    {
+                        "@pid": "70/2200",
+                        "text": "Santiago Zanella B\u00e9guelin"
+                    }
+                ]
+            },
+            "title": "EverCrypt: A Fast, Verified, Cross-Platform Cryptographic Provider.",
+            "venue": "SP",
+            "pages": "983-1002",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ProtzenkoPFHPBB20",
+            "doi": "10.1109/SP40000.2020.00114",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00114",
+            "url": "https://dblp.org/rec/conf/sp/ProtzenkoPFHPBB20"
+        },
+        "url": "URL#2326710"
+    },
+    {
+        "@score": "1",
+        "@id": "2326711",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/8436",
+                        "text": "Ivan Pustogarov"
+                    },
+                    {
+                        "@pid": "61/591",
+                        "text": "Qian Wu"
+                    },
+                    {
+                        "@pid": "l/DavidLie",
+                        "text": "David Lie"
+                    }
+                ]
+            },
+            "title": "Ex-vivo dynamic analysis framework for Android device drivers.",
+            "venue": "SP",
+            "pages": "1088-1105",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PustogarovWL20",
+            "doi": "10.1109/SP40000.2020.00094",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00094",
+            "url": "https://dblp.org/rec/conf/sp/PustogarovWL20"
+        },
+        "url": "URL#2326711"
+    },
+    {
+        "@score": "1",
+        "@id": "2326713",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "155/6800",
+                        "text": "Nilo Redini"
+                    },
+                    {
+                        "@pid": "133/8188",
+                        "text": "Aravind Machiry"
+                    },
+                    {
+                        "@pid": "127/9829",
+                        "text": "Ruoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "30/7555",
+                        "text": "Chad Spensky"
+                    },
+                    {
+                        "@pid": "190/9885",
+                        "text": "Andrea Continella"
+                    },
+                    {
+                        "@pid": "119/7712",
+                        "text": "Yan Shoshitaishvili"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware.",
+            "venue": "SP",
+            "pages": "1544-1561",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/RediniM0SCSKV20",
+            "doi": "10.1109/SP40000.2020.00036",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00036",
+            "url": "https://dblp.org/rec/conf/sp/RediniM0SCSKV20"
+        },
+        "url": "URL#2326713"
+    },
+    {
+        "@score": "1",
+        "@id": "2326714",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/8412",
+                        "text": "Kevin A. Roundy"
+                    },
+                    {
+                        "@pid": "272/8310",
+                        "text": "Paula Barmaimon Mendelberg"
+                    },
+                    {
+                        "@pid": "75/11301",
+                        "text": "Nicola Dell"
+                    },
+                    {
+                        "@pid": "58/4016",
+                        "text": "Damon McCoy"
+                    },
+                    {
+                        "@pid": "272/8280",
+                        "text": "Daniel Nissani"
+                    },
+                    {
+                        "@pid": "26/3399",
+                        "text": "Thomas Ristenpart"
+                    },
+                    {
+                        "@pid": "79/9389",
+                        "text": "Acar Tamersoy"
+                    }
+                ]
+            },
+            "title": "The Many Kinds of Creepware Used for Interpersonal Attacks.",
+            "venue": "SP",
+            "pages": "626-643",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/RoundyMDMNRT20",
+            "doi": "10.1109/SP40000.2020.00069",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00069",
+            "url": "https://dblp.org/rec/conf/sp/RoundyMDMNRT20"
+        },
+        "url": "URL#2326714"
+    },
+    {
+        "@score": "1",
+        "@id": "2326715",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "170/0259",
+                        "text": "Philipp Schindler"
+                    },
+                    {
+                        "@pid": "178/3737",
+                        "text": "Aljosha Judmayer"
+                    },
+                    {
+                        "@pid": "202/7551",
+                        "text": "Nicholas Stifter"
+                    },
+                    {
+                        "@pid": "w/EdgarRWeippl",
+                        "text": "Edgar R. Weippl"
+                    }
+                ]
+            },
+            "title": "HydRand: Efficient Continuous Distributed Randomness.",
+            "venue": "SP",
+            "pages": "73-89",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SchindlerJSW20",
+            "doi": "10.1109/SP40000.2020.00003",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00003",
+            "url": "https://dblp.org/rec/conf/sp/SchindlerJSW20"
+        },
+        "url": "URL#2326715"
+    },
+    {
+        "@score": "1",
+        "@id": "2326716",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8190",
+                        "text": "Roei Schuster"
+                    },
+                    {
+                        "@pid": "190/7491",
+                        "text": "Tal Schuster"
+                    },
+                    {
+                        "@pid": "256/5342",
+                        "text": "Yoav Meri"
+                    },
+                    {
+                        "@pid": "46/6275",
+                        "text": "Vitaly Shmatikov"
+                    }
+                ]
+            },
+            "title": "Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning.",
+            "venue": "SP",
+            "pages": "1295-1313",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SchusterSMS20",
+            "doi": "10.1109/SP40000.2020.00115",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00115",
+            "url": "https://dblp.org/rec/conf/sp/SchusterSMS20"
+        },
+        "url": "URL#2326716"
+    },
+    {
+        "@score": "1",
+        "@id": "2326719",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "168/9537",
+                        "text": "Dongdong She"
+                    },
+                    {
+                        "@pid": "09/7487-1",
+                        "text": "Yizheng Chen 0001"
+                    },
+                    {
+                        "@pid": "162/8000",
+                        "text": "Abhishek Shah"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    },
+                    {
+                        "@pid": "74/28",
+                        "text": "Suman Jana"
+                    }
+                ]
+            },
+            "title": "Neutaint: Efficient Dynamic Taint Analysis with Neural Networks.",
+            "venue": "SP",
+            "pages": "1527-1543",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SheCSRJ20",
+            "doi": "10.1109/SP40000.2020.00022",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00022",
+            "url": "https://dblp.org/rec/conf/sp/SheCSRJ20"
+        },
+        "url": "URL#2326719"
+    },
+    {
+        "@score": "1",
+        "@id": "2326720",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "80/4580",
+                    "text": "Elaine Shi"
+                }
+            },
+            "title": "Path Oblivious Heap: Optimal and Practical Oblivious Priority Queue.",
+            "venue": "SP",
+            "pages": "842-858",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Shi20",
+            "doi": "10.1109/SP40000.2020.00037",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00037",
+            "url": "https://dblp.org/rec/conf/sp/Shi20"
+        },
+        "url": "URL#2326720"
+    },
+    {
+        "@score": "1",
+        "@id": "2326723",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9138",
+                        "text": "Sunbeom So"
+                    },
+                    {
+                        "@pid": "61/107",
+                        "text": "Myungho Lee"
+                    },
+                    {
+                        "@pid": "207/8774",
+                        "text": "Jisu Park"
+                    },
+                    {
+                        "@pid": "75/4485",
+                        "text": "Heejo Lee"
+                    },
+                    {
+                        "@pid": "13/7537",
+                        "text": "Hakjoo Oh"
+                    }
+                ]
+            },
+            "title": "VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts.",
+            "venue": "SP",
+            "pages": "1678-1694",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SoLPLO20",
+            "doi": "10.1109/SP40000.2020.00032",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00032",
+            "url": "https://dblp.org/rec/conf/sp/SoLPLO20"
+        },
+        "url": "URL#2326723"
+    },
+    {
+        "@score": "1",
+        "@id": "2326726",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "184/5980",
+                        "text": "Zhichuang Sun"
+                    },
+                    {
+                        "@pid": "25/13-2",
+                        "text": "Bo Feng 0002"
+                    },
+                    {
+                        "@pid": "81/7428",
+                        "text": "Long Lu"
+                    },
+                    {
+                        "@pid": "j/SomeshJha",
+                        "text": "Somesh Jha"
+                    }
+                ]
+            },
+            "title": "OAT: Attesting Operation Integrity of Embedded Devices.",
+            "venue": "SP",
+            "pages": "1433-1449",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SunFLJ20",
+            "doi": "10.1109/SP40000.2020.00042",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00042",
+            "url": "https://dblp.org/rec/conf/sp/SunFLJ20"
+        },
+        "url": "URL#2326726"
+    },
+    {
+        "@score": "1",
+        "@id": "2326728",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/7737",
+                        "text": "Alin Tomescu"
+                    },
+                    {
+                        "@pid": "35/8919",
+                        "text": "Robert Chen"
+                    },
+                    {
+                        "@pid": "133/3928",
+                        "text": "Yiming Zheng"
+                    },
+                    {
+                        "@pid": "36/5720",
+                        "text": "Ittai Abraham"
+                    },
+                    {
+                        "@pid": "31/1735",
+                        "text": "Benny Pinkas"
+                    },
+                    {
+                        "@pid": "29/1487",
+                        "text": "Guy Golan-Gueta"
+                    },
+                    {
+                        "@pid": "14/3973",
+                        "text": "Srinivas Devadas"
+                    }
+                ]
+            },
+            "title": "Towards Scalable Threshold Cryptosystems.",
+            "venue": "SP",
+            "pages": "877-893",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TomescuCZAPGD20",
+            "doi": "10.1109/SP40000.2020.00059",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00059",
+            "url": "https://dblp.org/rec/conf/sp/TomescuCZAPGD20"
+        },
+        "url": "URL#2326728"
+    },
+    {
+        "@score": "1",
+        "@id": "2326729",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "239/5173",
+                        "text": "Chau Tran"
+                    },
+                    {
+                        "@pid": "239/5267",
+                        "text": "Kaylea Champion"
+                    },
+                    {
+                        "@pid": "03/5594",
+                        "text": "Andrea Forte"
+                    },
+                    {
+                        "@pid": "87/3900",
+                        "text": "Benjamin Mako Hill"
+                    },
+                    {
+                        "@pid": "93/655",
+                        "text": "Rachel Greenstadt"
+                    }
+                ]
+            },
+            "title": "Are anonymity-seekers just like everybody else? An analysis of contributions to Wikipedia from Tor.",
+            "venue": "SP",
+            "pages": "186-202",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TranCFHG20",
+            "doi": "10.1109/SP40000.2020.00053",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00053",
+            "url": "https://dblp.org/rec/conf/sp/TranCFHG20"
+        },
+        "url": "URL#2326729"
+    },
+    {
+        "@score": "1",
+        "@id": "2326730",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "216/6267",
+                        "text": "Muoi Tran"
+                    },
+                    {
+                        "@pid": "77/3578",
+                        "text": "Inho Choi"
+                    },
+                    {
+                        "@pid": "271/9731",
+                        "text": "Gi Jun Moon"
+                    },
+                    {
+                        "@pid": "249/1830",
+                        "text": "Anh V. Vu"
+                    },
+                    {
+                        "@pid": "75/8333",
+                        "text": "Min Suk Kang"
+                    }
+                ]
+            },
+            "title": "A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network.",
+            "venue": "SP",
+            "pages": "894-909",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TranCMVK20",
+            "doi": "10.1109/SP40000.2020.00027",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00027",
+            "url": "https://dblp.org/rec/conf/sp/TranCMVK20"
+        },
+        "url": "URL#2326730"
+    },
+    {
+        "@score": "1",
+        "@id": "2326731",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/7675",
+                        "text": "Timothy Trippel"
+                    },
+                    {
+                        "@pid": "s/KangGShin",
+                        "text": "Kang G. Shin"
+                    },
+                    {
+                        "@pid": "178/8969",
+                        "text": "Kevin B. Bush"
+                    },
+                    {
+                        "@pid": "09/2334",
+                        "text": "Matthew Hicks"
+                    }
+                ]
+            },
+            "title": "ICAS: an Extensible Framework for Estimating the Susceptibility of IC Layouts to Additive Trojans.",
+            "venue": "SP",
+            "pages": "1742-1759",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TrippelSBH20",
+            "doi": "10.1109/SP40000.2020.00083",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00083",
+            "url": "https://dblp.org/rec/conf/sp/TrippelSBH20"
+        },
+        "url": "URL#2326731"
+    },
+    {
+        "@score": "1",
+        "@id": "2326732",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "45/1247",
+                        "text": "Michael Carl Tschantz"
+                    },
+                    {
+                        "@pid": "154/3380",
+                        "text": "Shayak Sen"
+                    },
+                    {
+                        "@pid": "d/AnupamDatta",
+                        "text": "Anupam Datta"
+                    }
+                ]
+            },
+            "title": "SoK: Differential Privacy as a Causal Property.",
+            "venue": "SP",
+            "pages": "354-371",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TschantzSD20",
+            "doi": "10.1109/SP40000.2020.00012",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00012",
+            "url": "https://dblp.org/rec/conf/sp/TschantzSD20"
+        },
+        "url": "URL#2326732"
+    },
+    {
+        "@score": "1",
+        "@id": "2326733",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/3608",
+                        "text": "Mathy Vanhoef"
+                    },
+                    {
+                        "@pid": "180/7297",
+                        "text": "Eyal Ronen"
+                    }
+                ]
+            },
+            "title": "Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd.",
+            "venue": "SP",
+            "pages": "517-533",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/VanhoefR20",
+            "doi": "10.1109/SP40000.2020.00031",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00031",
+            "url": "https://dblp.org/rec/conf/sp/VanhoefR20"
+        },
+        "url": "URL#2326733"
+    },
+    {
+        "@score": "1",
+        "@id": "2326734",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "228/7035",
+                        "text": "Elisabet Lobo Vesga"
+                    },
+                    {
+                        "@pid": "48/5534",
+                        "text": "Alejandro Russo"
+                    },
+                    {
+                        "@pid": "84/3396",
+                        "text": "Marco Gaboardi"
+                    }
+                ]
+            },
+            "title": "A Programming Framework for Differential Privacy with Accuracy Concentration Bounds.",
+            "venue": "SP",
+            "pages": "411-428",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/VesgaRG20",
+            "doi": "10.1109/SP40000.2020.00086",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00086",
+            "url": "https://dblp.org/rec/conf/sp/VesgaRG20"
+        },
+        "url": "URL#2326734"
+    },
+    {
+        "@score": "1",
+        "@id": "2326735",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/3158-17",
+                        "text": "Zhe Wang 0017"
+                    },
+                    {
+                        "@pid": "51/3529-2",
+                        "text": "Chenggang Wu 0002"
+                    },
+                    {
+                        "@pid": "190/5112",
+                        "text": "Mengyao Xie"
+                    },
+                    {
+                        "@pid": "77/3503",
+                        "text": "Yinqian Zhang"
+                    },
+                    {
+                        "@pid": "67/10639",
+                        "text": "Kangjie Lu"
+                    },
+                    {
+                        "@pid": "61/3976",
+                        "text": "Xiaofeng Zhang"
+                    },
+                    {
+                        "@pid": "198/8150",
+                        "text": "Yuanming Lai"
+                    },
+                    {
+                        "@pid": "32/1654-2",
+                        "text": "Yan Kang 0002"
+                    },
+                    {
+                        "@pid": "02/1640-2",
+                        "text": "Min Yang 0002"
+                    }
+                ]
+            },
+            "title": "SEIMI: Efficient and Secure SMAP-Enabled Intra-process Memory Isolation.",
+            "venue": "SP",
+            "pages": "592-607",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Wang0XZLZLKY20",
+            "doi": "10.1109/SP40000.2020.00087",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00087",
+            "url": "https://dblp.org/rec/conf/sp/Wang0XZLZLKY20"
+        },
+        "url": "URL#2326735"
+    },
+    {
+        "@score": "1",
+        "@id": "2326736",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "12/5838-12",
+                    "text": "Tao Wang 0012"
+                }
+            },
+            "title": "High Precision Open-World Website Fingerprinting.",
+            "venue": "SP",
+            "pages": "152-167",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Wang20",
+            "doi": "10.1109/SP40000.2020.00015",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00015",
+            "url": "https://dblp.org/rec/conf/sp/Wang20"
+        },
+        "url": "URL#2326736"
+    },
+    {
+        "@score": "1",
+        "@id": "2326737",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "263/7337",
+                        "text": "Luca Wilke"
+                    },
+                    {
+                        "@pid": "225/5356",
+                        "text": "Jan Wichelmann"
+                    },
+                    {
+                        "@pid": "170/1847",
+                        "text": "Mathias Morbitzer"
+                    },
+                    {
+                        "@pid": "72/817",
+                        "text": "Thomas Eisenbarth 0001"
+                    }
+                ]
+            },
+            "title": "SEVurity: No Security Without Integrity : Breaking Integrity-Free Memory Encryption with Minimal Assumptions.",
+            "venue": "SP",
+            "pages": "1483-1496",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/WilkeWM020",
+            "doi": "10.1109/SP40000.2020.00080",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00080",
+            "url": "https://dblp.org/rec/conf/sp/WilkeWM020"
+        },
+        "url": "URL#2326737"
+    },
+    {
+        "@score": "1",
+        "@id": "2326739",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "58/2484",
+                        "text": "Nan Wu"
+                    },
+                    {
+                        "@pid": "60/11141",
+                        "text": "Farhad Farokhi"
+                    },
+                    {
+                        "@pid": "47/3219",
+                        "text": "David B. Smith 0001"
+                    },
+                    {
+                        "@pid": "71/5612",
+                        "text": "Mohamed Ali K\u00e2afar"
+                    }
+                ]
+            },
+            "title": "The Value of Collaboration in Convex Machine Learning with Differential Privacy.",
+            "venue": "SP",
+            "pages": "304-317",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/WuFSK20",
+            "doi": "10.1109/SP40000.2020.00025",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00025",
+            "url": "https://dblp.org/rec/conf/sp/WuFSK20"
+        },
+        "url": "URL#2326739"
+    },
+    {
+        "@score": "1",
+        "@id": "2326740",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/1116",
+                        "text": "Feng Xiao"
+                    },
+                    {
+                        "@pid": "45/3214",
+                        "text": "Jinquan Zhang"
+                    },
+                    {
+                        "@pid": "312/6561",
+                        "text": "Jianwei Huang"
+                    },
+                    {
+                        "@pid": "64/1147",
+                        "text": "Guofei Gu"
+                    },
+                    {
+                        "@pid": "54/2696",
+                        "text": "Dinghao Wu"
+                    },
+                    {
+                        "@pid": "21/6121-5",
+                        "text": "Peng Liu 0005"
+                    }
+                ]
+            },
+            "title": "Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.",
+            "venue": "SP",
+            "pages": "1512-1526",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/XiaoZHGWL20",
+            "doi": "10.1109/SP40000.2020.00017",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00017",
+            "url": "https://dblp.org/rec/conf/sp/XiaoZHGWL20"
+        },
+        "url": "URL#2326740"
+    },
+    {
+        "@score": "1",
+        "@id": "2326741",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "162/1393",
+                        "text": "Aiping Xiong"
+                    },
+                    {
+                        "@pid": "145/3288-1",
+                        "text": "Tianhao Wang 0001"
+                    },
+                    {
+                        "@pid": "l/NinghuiLi",
+                        "text": "Ninghui Li"
+                    },
+                    {
+                        "@pid": "j/SomeshJha",
+                        "text": "Somesh Jha"
+                    }
+                ]
+            },
+            "title": "Towards Effective Differential Privacy Communication for Users&apos; Data Sharing Decision and Comprehension.",
+            "venue": "SP",
+            "pages": "392-410",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Xiong0LJ20",
+            "doi": "10.1109/SP40000.2020.00088",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00088",
+            "url": "https://dblp.org/rec/conf/sp/Xiong0LJ20"
+        },
+        "url": "URL#2326741"
+    },
+    {
+        "@score": "1",
+        "@id": "2326742",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/4287-1",
+                        "text": "Meng Xu 0001"
+                    },
+                    {
+                        "@pid": "145/0912",
+                        "text": "Sanidhya Kashyap"
+                    },
+                    {
+                        "@pid": "68/2099",
+                        "text": "Hanqing Zhao"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    }
+                ]
+            },
+            "title": "Krace: Data Race Fuzzing for Kernel File Systems.",
+            "venue": "SP",
+            "pages": "1643-1660",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/XuKZK20",
+            "doi": "10.1109/SP40000.2020.00078",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00078",
+            "url": "https://dblp.org/rec/conf/sp/XuKZK20"
+        },
+        "url": "URL#2326742"
+    },
+    {
+        "@score": "1",
+        "@id": "2326743",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "46/1162-1",
+                        "text": "Chen Yan 0001"
+                    },
+                    {
+                        "@pid": "140/4350",
+                        "text": "Hocheol Shin"
+                    },
+                    {
+                        "@pid": "170/2513",
+                        "text": "Connor Bolton"
+                    },
+                    {
+                        "@pid": "10/3878-1",
+                        "text": "Wenyuan Xu 0001"
+                    },
+                    {
+                        "@pid": "20/6892",
+                        "text": "Yongdae Kim"
+                    },
+                    {
+                        "@pid": "f/KevinFu",
+                        "text": "Kevin Fu"
+                    }
+                ]
+            },
+            "title": "SoK: A Minimalist Approach to Formalizing Analog Sensor Security.",
+            "venue": "SP",
+            "pages": "233-248",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/YanSBXKF20",
+            "doi": "10.1109/SP40000.2020.00026",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00026",
+            "url": "https://dblp.org/rec/conf/sp/YanSBXKF20"
+        },
+        "url": "URL#2326743"
+    },
+    {
+        "@score": "1",
+        "@id": "2326745",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "87/6465",
+                        "text": "Wei You"
+                    },
+                    {
+                        "@pid": "16/1234-2",
+                        "text": "Zhuo Zhang 0002"
+                    },
+                    {
+                        "@pid": "139/7034",
+                        "text": "Yonghwi Kwon 0001"
+                    },
+                    {
+                        "@pid": "138/6356",
+                        "text": "Yousra Aafer"
+                    },
+                    {
+                        "@pid": "34/5165",
+                        "text": "Fei Peng"
+                    },
+                    {
+                        "@pid": "55/4736",
+                        "text": "Yu Shi"
+                    },
+                    {
+                        "@pid": "272/8286",
+                        "text": "Carson Harmon"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning.",
+            "venue": "SP",
+            "pages": "1121-1138",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/You0KAPSHZ20",
+            "doi": "10.1109/SP40000.2020.00035",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00035",
+            "url": "https://dblp.org/rec/conf/sp/You0KAPSHZ20"
+        },
+        "url": "URL#2326745"
+    },
+    {
+        "@score": "1",
+        "@id": "2326746",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/1249",
+                        "text": "Haifeng Yu"
+                    },
+                    {
+                        "@pid": "18/2551",
+                        "text": "Ivica Nikolic"
+                    },
+                    {
+                        "@pid": "227/7172",
+                        "text": "Ruomu Hou"
+                    },
+                    {
+                        "@pid": "90/105",
+                        "text": "Prateek Saxena"
+                    }
+                ]
+            },
+            "title": "OHIE: Blockchain Scaling Made Simple.",
+            "venue": "SP",
+            "pages": "90-105",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/YuNHS20",
+            "doi": "10.1109/SP40000.2020.00008",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00008",
+            "url": "https://dblp.org/rec/conf/sp/YuNHS20"
+        },
+        "url": "URL#2326746"
+    },
+    {
+        "@score": "1",
+        "@id": "2326747",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "226/1138",
+                        "text": "Youqian Zhang"
+                    },
+                    {
+                        "@pid": "01/4779",
+                        "text": "Kasper Rasmussen"
+                    }
+                ]
+            },
+            "title": "Detection of Electromagnetic Interference Attacks on Sensor Systems.",
+            "venue": "SP",
+            "pages": "203-216",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhangR20",
+            "doi": "10.1109/SP40000.2020.00001",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00001",
+            "url": "https://dblp.org/rec/conf/sp/ZhangR20"
+        },
+        "url": "URL#2326747"
+    },
+    {
+        "@score": "1",
+        "@id": "2326748",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/2536-68",
+                        "text": "Rui Zhang 0068"
+                    },
+                    {
+                        "@pid": "54/7563",
+                        "text": "Cynthia Sturton"
+                    }
+                ]
+            },
+            "title": "Transys: Leveraging Common Security Properties Across Hardware Designs.",
+            "venue": "SP",
+            "pages": "1713-1727",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhangS20",
+            "doi": "10.1109/SP40000.2020.00030",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00030",
+            "url": "https://dblp.org/rec/conf/sp/ZhangS20"
+        },
+        "url": "URL#2326748"
+    },
+    {
+        "@score": "1",
+        "@id": "2326749",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/8611",
+                        "text": "Jiaheng Zhang"
+                    },
+                    {
+                        "@pid": "216/6422",
+                        "text": "Tiancheng Xie"
+                    },
+                    {
+                        "@pid": "82/4816-1",
+                        "text": "Yupeng Zhang 0001"
+                    },
+                    {
+                        "@pid": "s/DXSong",
+                        "text": "Dawn Song"
+                    }
+                ]
+            },
+            "title": "Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof.",
+            "venue": "SP",
+            "pages": "859-876",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhangX0S20",
+            "doi": "10.1109/SP40000.2020.00052",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00052",
+            "url": "https://dblp.org/rec/conf/sp/ZhangX0S20"
+        },
+        "url": "URL#2326749"
+    },
+    {
+        "@score": "1",
+        "@id": "2326751",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/0017",
+                        "text": "Zhenkai Zhang"
+                    },
+                    {
+                        "@pid": "195/9266",
+                        "text": "Zihao Zhan"
+                    },
+                    {
+                        "@pid": "42/5805",
+                        "text": "Daniel Balasubramanian"
+                    },
+                    {
+                        "@pid": "50/3402-26",
+                        "text": "Bo Li 0026"
+                    },
+                    {
+                        "@pid": "83/2615",
+                        "text": "P\u00e9ter V\u00f6lgyesi"
+                    },
+                    {
+                        "@pid": "11/5453",
+                        "text": "Xenofon D. Koutsoukos"
+                    }
+                ]
+            },
+            "title": "Leveraging EM Side-Channel Information to Detect Rowhammer Attacks.",
+            "venue": "SP",
+            "pages": "729-746",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhangZBLVK20",
+            "doi": "10.1109/SP40000.2020.00060",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00060",
+            "url": "https://dblp.org/rec/conf/sp/ZhangZBLVK20"
+        },
+        "url": "URL#2326751"
+    },
+    {
+        "@score": "1",
+        "@id": "2326752",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "156/1033",
+                        "text": "Qingchuan Zhao"
+                    },
+                    {
+                        "@pid": "149/8302",
+                        "text": "Chaoshun Zuo"
+                    },
+                    {
+                        "@pid": "94/7563",
+                        "text": "Brendan Dolan-Gavitt"
+                    },
+                    {
+                        "@pid": "35/9056",
+                        "text": "Giancarlo Pellegrino"
+                    },
+                    {
+                        "@pid": "49/4102-1",
+                        "text": "Zhiqiang Lin 0001"
+                    }
+                ]
+            },
+            "title": "Automatic Uncovering of Hidden Behaviors From Input Validation in Mobile Apps.",
+            "venue": "SP",
+            "pages": "1106-1120",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhaoZDPL20",
+            "doi": "10.1109/SP40000.2020.00072",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00072",
+            "url": "https://dblp.org/rec/conf/sp/ZhaoZDPL20"
+        },
+        "url": "URL#2326752"
+    },
+    {
+        "@score": "1",
+        "@id": "2326753",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "68/6322",
+                        "text": "Jianping Zhu"
+                    },
+                    {
+                        "@pid": "79/3631-1",
+                        "text": "Rui Hou 0001"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "57/9813-1",
+                        "text": "Wenhao Wang 0001"
+                    },
+                    {
+                        "@pid": "239/5225",
+                        "text": "Jiangfeng Cao"
+                    },
+                    {
+                        "@pid": "178/3210",
+                        "text": "Boyan Zhao"
+                    },
+                    {
+                        "@pid": "239/4846",
+                        "text": "Zhongpu Wang"
+                    },
+                    {
+                        "@pid": "77/1630",
+                        "text": "Yuhui Zhang"
+                    },
+                    {
+                        "@pid": "272/8290",
+                        "text": "Jiameng Ying"
+                    },
+                    {
+                        "@pid": "52/5615-2",
+                        "text": "Lixin Zhang 0002"
+                    },
+                    {
+                        "@pid": "01/2538",
+                        "text": "Dan Meng"
+                    }
+                ]
+            },
+            "title": "Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment.",
+            "venue": "SP",
+            "pages": "1450-1465",
+            "year": "2020",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhuH0WCZWZYZM20",
+            "doi": "10.1109/SP40000.2020.00054",
+            "ee": "https://doi.org/10.1109/SP40000.2020.00054",
+            "url": "https://dblp.org/rec/conf/sp/ZhuH0WCZWZYZM20"
+        },
+        "url": "URL#2326753"
+    },
+    {
+        "@score": "1",
+        "@id": "2345201",
+        "info": {
+            "title": "2020 IEEE Symposium on Security and Privacy, SP 2020, San Francisco, CA, USA, May 18-21, 2020",
+            "venue": "SP",
+            "publisher": "IEEE",
+            "year": "2020",
+            "type": "Editorship",
+            "key": "conf/sp/2020",
+            "ee": "https://ieeexplore.ieee.org/xpl/conhome/9144328/proceeding",
+            "url": "https://dblp.org/rec/conf/sp/2020"
+        },
+        "url": "URL#2345201"
+    }
+]

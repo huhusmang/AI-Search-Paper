@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# log
+log/
+
+# data
+data/cache/
+data/outputs/
+
+# other
+.cursorrules
+.specstory/
+examples/
+experiments/

@@ -1,0 +1,1827 @@
+[
+    {
+        "@score": "1",
+        "@id": "3466469",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "202/8445",
+                    "text": "Snigdha Athaiya"
+                }
+            },
+            "title": "Testing and analysis of web applications using page models.",
+            "venue": "ISSTA",
+            "pages": "412-415",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Athaiya17",
+            "doi": "10.1145/3092703.3098240",
+            "ee": "https://doi.org/10.1145/3092703.3098240",
+            "url": "https://dblp.org/rec/conf/issta/Athaiya17"
+        },
+        "url": "URL#3466469"
+    },
+    {
+        "@score": "1",
+        "@id": "3466470",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8445",
+                        "text": "Snigdha Athaiya"
+                    },
+                    {
+                        "@pid": "97/3731",
+                        "text": "Raghavan Komondoor"
+                    }
+                ]
+            },
+            "title": "Testing and analysis of web applications using page models.",
+            "venue": "ISSTA",
+            "pages": "181-191",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/AthaiyaK17",
+            "doi": "10.1145/3092703.3092734",
+            "ee": "https://doi.org/10.1145/3092703.3092734",
+            "url": "https://dblp.org/rec/conf/issta/AthaiyaK17"
+        },
+        "url": "URL#3466470"
+    },
+    {
+        "@score": "1",
+        "@id": "3466471",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "181/7743",
+                    "text": "Jaroslav Bend\u00edk"
+                }
+            },
+            "title": "Consistency checking in requirements analysis.",
+            "venue": "ISSTA",
+            "pages": "408-411",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Bendik17",
+            "doi": "10.1145/3092703.3098239",
+            "ee": "https://doi.org/10.1145/3092703.3098239",
+            "url": "https://dblp.org/rec/conf/issta/Bendik17"
+        },
+        "url": "URL#3466471"
+    },
+    {
+        "@score": "1",
+        "@id": "3466472",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "202/8462",
+                    "text": "Nataniel P. Borges Jr."
+                }
+            },
+            "title": "Data flow oriented UI testing: exploiting data flows and UI elements to test Android applications.",
+            "venue": "ISSTA",
+            "pages": "432-435",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Borges17",
+            "doi": "10.1145/3092703.3098234",
+            "ee": "https://doi.org/10.1145/3092703.3098234",
+            "url": "https://dblp.org/rec/conf/issta/Borges17"
+        },
+        "url": "URL#3466472"
+    },
+    {
+        "@score": "1",
+        "@id": "3466473",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/4464",
+                        "text": "Pietro Braione"
+                    },
+                    {
+                        "@pid": "85/4864",
+                        "text": "Giovanni Denaro"
+                    },
+                    {
+                        "@pid": "116/6661",
+                        "text": "Andrea Mattavelli"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    }
+                ]
+            },
+            "title": "Combining symbolic execution and search-based testing for programs with complex heap inputs.",
+            "venue": "ISSTA",
+            "pages": "90-101",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/BraioneDMP17",
+            "doi": "10.1145/3092703.3092715",
+            "ee": "https://doi.org/10.1145/3092703.3092715",
+            "url": "https://dblp.org/rec/conf/issta/BraioneDMP17"
+        },
+        "url": "URL#3466473"
+    },
+    {
+        "@score": "1",
+        "@id": "3466474",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "137/8806",
+                    "text": "Tegan Brennan"
+                }
+            },
+            "title": "Path cost analysis for side channel detection.",
+            "venue": "ISSTA",
+            "pages": "416-419",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Brennan17",
+            "doi": "10.1145/3092703.3098242",
+            "ee": "https://doi.org/10.1145/3092703.3098242",
+            "url": "https://dblp.org/rec/conf/issta/Brennan17"
+        },
+        "url": "URL#3466474"
+    },
+    {
+        "@score": "1",
+        "@id": "3466475",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0168",
+                        "text": "Casey Casalnuovo"
+                    },
+                    {
+                        "@pid": "202/8430",
+                        "text": "Yagnik Suchak"
+                    },
+                    {
+                        "@pid": "74/1969",
+                        "text": "Baishakhi Ray"
+                    },
+                    {
+                        "@pid": "69/495",
+                        "text": "Cindy Rubio-Gonz\u00e1lez"
+                    }
+                ]
+            },
+            "title": "GitcProc: a tool for processing and classifying GitHub commits.",
+            "venue": "ISSTA",
+            "pages": "396-399",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/CasalnuovoSRR17",
+            "doi": "10.1145/3092703.3098230",
+            "ee": "https://doi.org/10.1145/3092703.3098230",
+            "url": "https://dblp.org/rec/conf/issta/CasalnuovoSRR17"
+        },
+        "url": "URL#3466475"
+    },
+    {
+        "@score": "1",
+        "@id": "3466476",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "188/5666",
+                        "text": "Lennon C. Chaves"
+                    },
+                    {
+                        "@pid": "143/7442",
+                        "text": "Iury Bessa"
+                    },
+                    {
+                        "@pid": "42/4311",
+                        "text": "Lucas C. Cordeiro"
+                    },
+                    {
+                        "@pid": "k/DanielKroening",
+                        "text": "Daniel Kroening"
+                    },
+                    {
+                        "@pid": "25/6797",
+                        "text": "Eddie Batista de Lima Filho"
+                    }
+                ]
+            },
+            "title": "Verifying digital systems with MATLAB.",
+            "venue": "ISSTA",
+            "pages": "388-391",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ChavesBCKF17",
+            "doi": "10.1145/3092703.3098228",
+            "ee": "https://doi.org/10.1145/3092703.3098228",
+            "url": "https://dblp.org/rec/conf/issta/ChavesBCKF17"
+        },
+        "url": "URL#3466476"
+    },
+    {
+        "@score": "1",
+        "@id": "3466477",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/8515",
+                        "text": "Yizhen Chen"
+                    },
+                    {
+                        "@pid": "33/9796",
+                        "text": "Ming Ying"
+                    },
+                    {
+                        "@pid": "202/8459",
+                        "text": "Daren Liu"
+                    },
+                    {
+                        "@pid": "190/7657",
+                        "text": "Adil Alim"
+                    },
+                    {
+                        "@pid": "21/3047-1",
+                        "text": "Feng Chen 0001"
+                    },
+                    {
+                        "@pid": "86/1936",
+                        "text": "Mei-Hwa Chen"
+                    }
+                ]
+            },
+            "title": "Effective online software anomaly detection.",
+            "venue": "ISSTA",
+            "pages": "136-146",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ChenYLACC17",
+            "doi": "10.1145/3092703.3092730",
+            "ee": "https://doi.org/10.1145/3092703.3092730",
+            "url": "https://dblp.org/rec/conf/issta/ChenYLACC17"
+        },
+        "url": "URL#3466477"
+    },
+    {
+        "@score": "1",
+        "@id": "3466478",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "156/1994",
+                        "text": "Ermira Daka"
+                    },
+                    {
+                        "@pid": "94/5122",
+                        "text": "Jos\u00e9 Miguel Rojas"
+                    },
+                    {
+                        "@pid": "74/2259",
+                        "text": "Gordon Fraser 0001"
+                    }
+                ]
+            },
+            "title": "Generating unit tests with descriptive names or: would you name your children thing1 and thing2?",
+            "venue": "ISSTA",
+            "pages": "57-67",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DakaRF17",
+            "doi": "10.1145/3092703.3092727",
+            "ee": "https://doi.org/10.1145/3092703.3092727",
+            "url": "https://dblp.org/rec/conf/issta/DakaRF17"
+        },
+        "url": "URL#3466478"
+    },
+    {
+        "@score": "1",
+        "@id": "3466479",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/1600",
+                        "text": "Lisa Nguyen Quang Do"
+                    },
+                    {
+                        "@pid": "22/7271-1",
+                        "text": "Karim Ali 0001"
+                    },
+                    {
+                        "@pid": "46/2924",
+                        "text": "Benjamin Livshits"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    },
+                    {
+                        "@pid": "75/2200",
+                        "text": "Justin Smith 0001"
+                    },
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    }
+                ]
+            },
+            "title": "Just-in-time static analysis.",
+            "venue": "ISSTA",
+            "pages": "307-317",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/DoALBSM17",
+            "doi": "10.1145/3092703.3092705",
+            "ee": "https://doi.org/10.1145/3092703.3092705",
+            "url": "https://dblp.org/rec/conf/issta/DoALBSM17"
+        },
+        "url": "URL#3466479"
+    },
+    {
+        "@score": "1",
+        "@id": "3466480",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "181/7744",
+                        "text": "Antoine El-Hokayem"
+                    },
+                    {
+                        "@pid": "11/5986",
+                        "text": "Yli\u00e8s Falcone"
+                    }
+                ]
+            },
+            "title": "Monitoring decentralized specifications.",
+            "venue": "ISSTA",
+            "pages": "125-135",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/El-HokayemF17",
+            "doi": "10.1145/3092703.3092723",
+            "ee": "https://doi.org/10.1145/3092703.3092723",
+            "url": "https://dblp.org/rec/conf/issta/El-HokayemF17"
+        },
+        "url": "URL#3466480"
+    },
+    {
+        "@score": "1",
+        "@id": "3466481",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "181/7744",
+                        "text": "Antoine El-Hokayem"
+                    },
+                    {
+                        "@pid": "11/5986",
+                        "text": "Yli\u00e8s Falcone"
+                    }
+                ]
+            },
+            "title": "THEMIS: a tool for decentralized monitoring algorithms.",
+            "venue": "ISSTA",
+            "pages": "372-375",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/El-HokayemF17a",
+            "doi": "10.1145/3092703.3098224",
+            "ee": "https://doi.org/10.1145/3092703.3098224",
+            "url": "https://dblp.org/rec/conf/issta/El-HokayemF17a"
+        },
+        "url": "URL#3466481"
+    },
+    {
+        "@score": "1",
+        "@id": "3466482",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "174/4960",
+                        "text": "Xiaokang Fan"
+                    },
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    },
+                    {
+                        "@pid": "22/562",
+                        "text": "Xiangke Liao"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "Boosting the precision of virtual call integrity protection with partial pointer analysis for C++.",
+            "venue": "ISSTA",
+            "pages": "329-340",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/FanSLX17",
+            "doi": "10.1145/3092703.3092729",
+            "ee": "https://doi.org/10.1145/3092703.3092729",
+            "url": "https://dblp.org/rec/conf/issta/FanSLX17"
+        },
+        "url": "URL#3466482"
+    },
+    {
+        "@score": "1",
+        "@id": "3466483",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "50/5924",
+                        "text": "Alessio Gambi"
+                    },
+                    {
+                        "@pid": "190/1131",
+                        "text": "Sebastian Kappler"
+                    },
+                    {
+                        "@pid": "202/8414",
+                        "text": "Johannes Lampel"
+                    },
+                    {
+                        "@pid": "z/AndreasZeller",
+                        "text": "Andreas Zeller"
+                    }
+                ]
+            },
+            "title": "CUT: automatic unit testing in the cloud.",
+            "venue": "ISSTA",
+            "pages": "364-367",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GambiKLZ17",
+            "doi": "10.1145/3092703.3098222",
+            "ee": "https://doi.org/10.1145/3092703.3098222",
+            "url": "https://dblp.org/rec/conf/issta/GambiKLZ17"
+        },
+        "url": "URL#3466483"
+    },
+    {
+        "@score": "1",
+        "@id": "3466484",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "g/AlexGroce",
+                        "text": "Alex Groce"
+                    },
+                    {
+                        "@pid": "196/4995",
+                        "text": "Josie Holmes"
+                    },
+                    {
+                        "@pid": "202/8453",
+                        "text": "Kevin Kellar"
+                    }
+                ]
+            },
+            "title": "One test to rule them all.",
+            "venue": "ISSTA",
+            "pages": "1-11",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GroceHK17",
+            "doi": "10.1145/3092703.3092704",
+            "ee": "https://doi.org/10.1145/3092703.3092704",
+            "url": "https://dblp.org/rec/conf/issta/GroceHK17"
+        },
+        "url": "URL#3466484"
+    },
+    {
+        "@score": "1",
+        "@id": "3466485",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/6449",
+                        "text": "Marco Guarnieri"
+                    },
+                    {
+                        "@pid": "40/9612",
+                        "text": "Petar Tsankov"
+                    },
+                    {
+                        "@pid": "202/8408",
+                        "text": "Tristan Buchs"
+                    },
+                    {
+                        "@pid": "95/1815",
+                        "text": "Mohammad Torabi Dashti"
+                    },
+                    {
+                        "@pid": "b/DavidABasin",
+                        "text": "David A. Basin"
+                    }
+                ]
+            },
+            "title": "Test execution checkpointing for web applications.",
+            "venue": "ISSTA",
+            "pages": "203-214",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GuarnieriTBDB17",
+            "doi": "10.1145/3092703.3092710",
+            "ee": "https://doi.org/10.1145/3092703.3092710",
+            "url": "https://dblp.org/rec/conf/issta/GuarnieriTBDB17"
+        },
+        "url": "URL#3466485"
+    },
+    {
+        "@score": "1",
+        "@id": "3466486",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "129/8214",
+                        "text": "Alex Gyori"
+                    },
+                    {
+                        "@pid": "32/2903",
+                        "text": "Shuvendu K. Lahiri"
+                    },
+                    {
+                        "@pid": "130/9983",
+                        "text": "Nimrod Partush"
+                    }
+                ]
+            },
+            "title": "Refining interprocedural change-impact analysis using equivalence relations.",
+            "venue": "ISSTA",
+            "pages": "318-328",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/GyoriLP17",
+            "doi": "10.1145/3092703.3092719",
+            "ee": "https://doi.org/10.1145/3092703.3092719",
+            "url": "https://dblp.org/rec/conf/issta/GyoriLP17"
+        },
+        "url": "URL#3466486"
+    },
+    {
+        "@score": "1",
+        "@id": "3466487",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "81/715",
+                    "text": "Sylvain Hall\u00e9"
+                }
+            },
+            "title": "LabPal: repeatable computer experiments made easy.",
+            "venue": "ISSTA",
+            "pages": "404-407",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Halle17",
+            "doi": "10.1145/3092703.3098232",
+            "ee": "https://doi.org/10.1145/3092703.3098232",
+            "url": "https://dblp.org/rec/conf/issta/Halle17"
+        },
+        "url": "URL#3466487"
+    },
+    {
+        "@score": "1",
+        "@id": "3466488",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "81/715",
+                        "text": "Sylvain Hall\u00e9"
+                    },
+                    {
+                        "@pid": "98/7410",
+                        "text": "Rapha\u00ebl Khoury"
+                    }
+                ]
+            },
+            "title": "SealTest: a simple library for test sequence generation.",
+            "venue": "ISSTA",
+            "pages": "392-395",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/HalleK17",
+            "doi": "10.1145/3092703.3098229",
+            "ee": "https://doi.org/10.1145/3092703.3098229",
+            "url": "https://dblp.org/rec/conf/issta/HalleK17"
+        },
+        "url": "URL#3466488"
+    },
+    {
+        "@score": "1",
+        "@id": "3466489",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "196/4995",
+                        "text": "Josie Holmes"
+                    },
+                    {
+                        "@pid": "g/AlexGroce",
+                        "text": "Alex Groce"
+                    }
+                ]
+            },
+            "title": "A suite of tools for making effective use of automatically generated tests.",
+            "venue": "ISSTA",
+            "pages": "356-359",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/HolmesG17",
+            "doi": "10.1145/3092703.3098220",
+            "ee": "https://doi.org/10.1145/3092703.3098220",
+            "url": "https://dblp.org/rec/conf/issta/HolmesG17"
+        },
+        "url": "URL#3466489"
+    },
+    {
+        "@score": "1",
+        "@id": "3466490",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "202/8388",
+                    "text": "Jenny Hotzkow"
+                }
+            },
+            "title": "Automatically inferring and enforcing user expectations.",
+            "venue": "ISSTA",
+            "pages": "420-423",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Hotzkow17",
+            "doi": "10.1145/3092703.3098236",
+            "ee": "https://doi.org/10.1145/3092703.3098236",
+            "url": "https://dblp.org/rec/conf/issta/Hotzkow17"
+        },
+        "url": "URL#3466490"
+    },
+    {
+        "@score": "1",
+        "@id": "3466491",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "183/0177",
+                    "text": "Gunel Jahangirova"
+                }
+            },
+            "title": "Oracle problem in software testing.",
+            "venue": "ISSTA",
+            "pages": "444-447",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Jahangirova17",
+            "doi": "10.1145/3092703.3098235",
+            "ee": "https://doi.org/10.1145/3092703.3098235",
+            "url": "https://dblp.org/rec/conf/issta/Jahangirova17"
+        },
+        "url": "URL#3466491"
+    },
+    {
+        "@score": "1",
+        "@id": "3466492",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/10029",
+                        "text": "Ren\u00e9 Just"
+                    },
+                    {
+                        "@pid": "149/4462",
+                        "text": "Bob Kurtz"
+                    },
+                    {
+                        "@pid": "a/PAmmann",
+                        "text": "Paul Ammann"
+                    }
+                ]
+            },
+            "title": "Inferring mutant utility from program context.",
+            "venue": "ISSTA",
+            "pages": "284-294",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/JustKA17",
+            "doi": "10.1145/3092703.3092732",
+            "ee": "https://doi.org/10.1145/3092703.3092732",
+            "url": "https://dblp.org/rec/conf/issta/JustKA17"
+        },
+        "url": "URL#3466492"
+    },
+    {
+        "@score": "1",
+        "@id": "3466493",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "202/8421",
+                    "text": "Deborah S. Katz"
+                }
+            },
+            "title": "Understanding intended behavior using models of low-level signals.",
+            "venue": "ISSTA",
+            "pages": "424-427",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Katz17",
+            "doi": "10.1145/3092703.3098237",
+            "ee": "https://doi.org/10.1145/3092703.3098237",
+            "url": "https://dblp.org/rec/conf/issta/Katz17"
+        },
+        "url": "URL#3466493"
+    },
+    {
+        "@score": "1",
+        "@id": "3466494",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/5808",
+                        "text": "William Koch"
+                    },
+                    {
+                        "@pid": "02/8037",
+                        "text": "Abdelberi Chaabane"
+                    },
+                    {
+                        "@pid": "27/3108",
+                        "text": "Manuel Egele"
+                    },
+                    {
+                        "@pid": "r/WilliamKRobertson",
+                        "text": "William K. Robertson"
+                    },
+                    {
+                        "@pid": "k/EnginKirda",
+                        "text": "Engin Kirda"
+                    }
+                ]
+            },
+            "title": "Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications.",
+            "venue": "ISSTA",
+            "pages": "147-157",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KochCERK17",
+            "doi": "10.1145/3092703.3092708",
+            "ee": "https://doi.org/10.1145/3092703.3092708",
+            "url": "https://dblp.org/rec/conf/issta/KochCERK17"
+        },
+        "url": "URL#3466494"
+    },
+    {
+        "@score": "1",
+        "@id": "3466495",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8373",
+                        "text": "Anil Koyuncu"
+                    },
+                    {
+                        "@pid": "00/8006",
+                        "text": "Tegawend\u00e9 F. Bissyand\u00e9"
+                    },
+                    {
+                        "@pid": "10/2501-1",
+                        "text": "Dongsun Kim 0001"
+                    },
+                    {
+                        "@pid": "k/JacquesKlein",
+                        "text": "Jacques Klein"
+                    },
+                    {
+                        "@pid": "62/5292",
+                        "text": "Martin Monperrus"
+                    },
+                    {
+                        "@pid": "95/5206",
+                        "text": "Yves Le Traon"
+                    }
+                ]
+            },
+            "title": "Impact of tool support in patch construction.",
+            "venue": "ISSTA",
+            "pages": "237-248",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KoyuncuBKKMT17",
+            "doi": "10.1145/3092703.3092713",
+            "ee": "https://doi.org/10.1145/3092703.3092713",
+            "url": "https://dblp.org/rec/conf/issta/KoyuncuBKKMT17"
+        },
+        "url": "URL#3466495"
+    },
+    {
+        "@score": "1",
+        "@id": "3466496",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/7034",
+                        "text": "Yonghwi Kwon 0001"
+                    },
+                    {
+                        "@pid": "57/7210-1",
+                        "text": "Weihang Wang 0001"
+                    },
+                    {
+                        "@pid": "47/702",
+                        "text": "Yunhui Zheng"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "59/5539",
+                        "text": "Dongyan Xu"
+                    }
+                ]
+            },
+            "title": "CPR: cross platform binary code reuse via platform independent trace program.",
+            "venue": "ISSTA",
+            "pages": "158-169",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/KwonWZZX17",
+            "doi": "10.1145/3092703.3092707",
+            "ee": "https://doi.org/10.1145/3092703.3092707",
+            "url": "https://dblp.org/rec/conf/issta/KwonWZZX17"
+        },
+        "url": "URL#3466496"
+    },
+    {
+        "@score": "1",
+        "@id": "3466497",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "304/2501-1",
+                        "text": "Xuan-Bach Dinh Le 0001"
+                    },
+                    {
+                        "@pid": "29/10300",
+                        "text": "Duc-Hiep Chu"
+                    },
+                    {
+                        "@pid": "89/6793-1",
+                        "text": "David Lo 0001"
+                    },
+                    {
+                        "@pid": "93/4573",
+                        "text": "Claire Le Goues"
+                    },
+                    {
+                        "@pid": "54/5019",
+                        "text": "Willem Visser"
+                    }
+                ]
+            },
+            "title": "JFIX: semantics-based repair of Java programs via symbolic PathFinder.",
+            "venue": "ISSTA",
+            "pages": "376-379",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LeCLGV17",
+            "doi": "10.1145/3092703.3098225",
+            "ee": "https://doi.org/10.1145/3092703.3098225",
+            "url": "https://dblp.org/rec/conf/issta/LeCLGV17"
+        },
+        "url": "URL#3466497"
+    },
+    {
+        "@score": "1",
+        "@id": "3466498",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/8150",
+                        "text": "Andreas L\u00f6scher"
+                    },
+                    {
+                        "@pid": "s/KonstantinosFSagonas",
+                        "text": "Konstantinos Sagonas"
+                    }
+                ]
+            },
+            "title": "Targeted property-based testing.",
+            "venue": "ISSTA",
+            "pages": "46-56",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/LoscherS17",
+            "doi": "10.1145/3092703.3092711",
+            "ee": "https://doi.org/10.1145/3092703.3092711",
+            "url": "https://dblp.org/rec/conf/issta/LoscherS17"
+        },
+        "url": "URL#3466498"
+    },
+    {
+        "@score": "1",
+        "@id": "3466499",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "146/4908",
+                        "text": "Sonal Mahajan"
+                    },
+                    {
+                        "@pid": "183/4933",
+                        "text": "Abdulmajeed Alameer"
+                    },
+                    {
+                        "@pid": "33/13",
+                        "text": "Phil McMinn"
+                    },
+                    {
+                        "@pid": "04/4583",
+                        "text": "William G. J. Halfond"
+                    }
+                ]
+            },
+            "title": "Automated repair of layout cross browser issues using search-based techniques.",
+            "venue": "ISSTA",
+            "pages": "249-260",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MahajanAMH17",
+            "doi": "10.1145/3092703.3092726",
+            "ee": "https://doi.org/10.1145/3092703.3092726",
+            "url": "https://dblp.org/rec/conf/issta/MahajanAMH17"
+        },
+        "url": "URL#3466499"
+    },
+    {
+        "@score": "1",
+        "@id": "3466500",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "146/4908",
+                        "text": "Sonal Mahajan"
+                    },
+                    {
+                        "@pid": "183/4933",
+                        "text": "Abdulmajeed Alameer"
+                    },
+                    {
+                        "@pid": "33/13",
+                        "text": "Phil McMinn"
+                    },
+                    {
+                        "@pid": "04/4583",
+                        "text": "William G. J. Halfond"
+                    }
+                ]
+            },
+            "title": "XFix: an automated tool for the repair of layout cross browser issues.",
+            "venue": "ISSTA",
+            "pages": "368-371",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MahajanAMH17a",
+            "doi": "10.1145/3092703.3098223",
+            "ee": "https://doi.org/10.1145/3092703.3098223",
+            "url": "https://dblp.org/rec/conf/issta/MahajanAMH17a"
+        },
+        "url": "URL#3466500"
+    },
+    {
+        "@score": "1",
+        "@id": "3466501",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/0966",
+                        "text": "Pallavi Maiya"
+                    },
+                    {
+                        "@pid": "61/2636",
+                        "text": "Aditya Kanade"
+                    }
+                ]
+            },
+            "title": "Efficient computation of happens-before relation for event-driven programs.",
+            "venue": "ISSTA",
+            "pages": "102-112",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MaiyaK17",
+            "doi": "10.1145/3092703.3092733",
+            "ee": "https://doi.org/10.1145/3092703.3092733",
+            "url": "https://dblp.org/rec/conf/issta/MaiyaK17"
+        },
+        "url": "URL#3466501"
+    },
+    {
+        "@score": "1",
+        "@id": "3466502",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "202/8379",
+                    "text": "Bj\u00f6rn Mathis"
+                }
+            },
+            "title": "Dynamic tainting for automatic test case generation.",
+            "venue": "ISSTA",
+            "pages": "436-439",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Mathis17",
+            "doi": "10.1145/3092703.3098233",
+            "ee": "https://doi.org/10.1145/3092703.3098233",
+            "url": "https://dblp.org/rec/conf/issta/Mathis17"
+        },
+        "url": "URL#3466502"
+    },
+    {
+        "@score": "1",
+        "@id": "3466503",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/4274",
+                        "text": "Shaikh Mostafa"
+                    },
+                    {
+                        "@pid": "200/2854",
+                        "text": "Rodney Rodriguez"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    }
+                ]
+            },
+            "title": "Experience paper: a study on behavioral backward incompatibilities of Java software libraries.",
+            "venue": "ISSTA",
+            "pages": "215-225",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MostafaRW17",
+            "doi": "10.1145/3092703.3092721",
+            "ee": "https://doi.org/10.1145/3092703.3092721",
+            "url": "https://dblp.org/rec/conf/issta/MostafaRW17"
+        },
+        "url": "URL#3466503"
+    },
+    {
+        "@score": "1",
+        "@id": "3466504",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/4274",
+                        "text": "Shaikh Mostafa"
+                    },
+                    {
+                        "@pid": "31/6028",
+                        "text": "Xiaoyin Wang"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "PerfRanker: prioritization of performance regression tests for collection-intensive software.",
+            "venue": "ISSTA",
+            "pages": "23-34",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/MostafaWX17",
+            "doi": "10.1145/3092703.3092725",
+            "ee": "https://doi.org/10.1145/3092703.3092725",
+            "url": "https://dblp.org/rec/conf/issta/MostafaWX17"
+        },
+        "url": "URL#3466504"
+    },
+    {
+        "@score": "1",
+        "@id": "3466505",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "196/5050",
+                        "text": "Dmitry Nurmuradov"
+                    },
+                    {
+                        "@pid": "96/5178",
+                        "text": "Ren\u00e9e C. Bryce"
+                    }
+                ]
+            },
+            "title": "Caret-HM: recording and replaying Android user sessions with heat map generation using UI state clustering.",
+            "venue": "ISSTA",
+            "pages": "400-403",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/NurmuradovB17",
+            "doi": "10.1145/3092703.3098231",
+            "ee": "https://doi.org/10.1145/3092703.3098231",
+            "url": "https://dblp.org/rec/conf/issta/NurmuradovB17"
+        },
+        "url": "URL#3466505"
+    },
+    {
+        "@score": "1",
+        "@id": "3466506",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "47/248",
+                    "text": "Carlos Oliveira"
+                }
+            },
+            "title": "Mapping hardness of automated software testing.",
+            "venue": "ISSTA",
+            "pages": "440-443",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Oliveira17",
+            "doi": "10.1145/3092703.3098241",
+            "ee": "https://doi.org/10.1145/3092703.3098241",
+            "url": "https://dblp.org/rec/conf/issta/Oliveira17"
+        },
+        "url": "URL#3466506"
+    },
+    {
+        "@score": "1",
+        "@id": "3466507",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "148/2225",
+                        "text": "John-Paul Ore"
+                    },
+                    {
+                        "@pid": "75/119",
+                        "text": "Carrick Detweiler"
+                    },
+                    {
+                        "@pid": "e/SebastianGElbaum",
+                        "text": "Sebastian G. Elbaum"
+                    }
+                ]
+            },
+            "title": "Lightweight detection of physical unit inconsistencies without program annotations.",
+            "venue": "ISSTA",
+            "pages": "341-351",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/OreDE17",
+            "doi": "10.1145/3092703.3092722",
+            "ee": "https://doi.org/10.1145/3092703.3092722",
+            "url": "https://dblp.org/rec/conf/issta/OreDE17"
+        },
+        "url": "URL#3466507"
+    },
+    {
+        "@score": "1",
+        "@id": "3466508",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "148/2225",
+                        "text": "John-Paul Ore"
+                    },
+                    {
+                        "@pid": "75/119",
+                        "text": "Carrick Detweiler"
+                    },
+                    {
+                        "@pid": "e/SebastianGElbaum",
+                        "text": "Sebastian G. Elbaum"
+                    }
+                ]
+            },
+            "title": "Phriky-units: a lightweight, annotation-free physical unit inconsistency detection tool.",
+            "venue": "ISSTA",
+            "pages": "352-355",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/OreDE17a",
+            "doi": "10.1145/3092703.3098219",
+            "ee": "https://doi.org/10.1145/3092703.3098219",
+            "url": "https://dblp.org/rec/conf/issta/OreDE17a"
+        },
+        "url": "URL#3466508"
+    },
+    {
+        "@score": "1",
+        "@id": "3466509",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9673",
+                        "text": "David Mitchel Perry"
+                    },
+                    {
+                        "@pid": "116/6661",
+                        "text": "Andrea Mattavelli"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "86/4141",
+                        "text": "Cristian Cadar"
+                    }
+                ]
+            },
+            "title": "Accelerating array constraints in symbolic execution.",
+            "venue": "ISSTA",
+            "pages": "68-78",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/PerryMZC17",
+            "doi": "10.1145/3092703.3092728",
+            "ee": "https://doi.org/10.1145/3092703.3092728",
+            "url": "https://dblp.org/rec/conf/issta/PerryMZC17"
+        },
+        "url": "URL#3466509"
+    },
+    {
+        "@score": "1",
+        "@id": "3466510",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "115/9332",
+                    "text": "Mark Santolucito"
+                }
+            },
+            "title": "Version space learning for verification on temporal differentials.",
+            "venue": "ISSTA",
+            "pages": "428-431",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/Santolucito17",
+            "doi": "10.1145/3092703.3098238",
+            "ee": "https://doi.org/10.1145/3092703.3098238",
+            "url": "https://dblp.org/rec/conf/issta/Santolucito17"
+        },
+        "url": "URL#3466510"
+    },
+    {
+        "@score": "1",
+        "@id": "3466511",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/0216",
+                        "text": "Marija Selakovic"
+                    },
+                    {
+                        "@pid": "132/2746",
+                        "text": "Thomas Glaser"
+                    },
+                    {
+                        "@pid": "25/2188",
+                        "text": "Michael Pradel"
+                    }
+                ]
+            },
+            "title": "An actionable performance profiler for optimizing the order of evaluations.",
+            "venue": "ISSTA",
+            "pages": "170-180",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SelakovicGP17",
+            "doi": "10.1145/3092703.3092716",
+            "ee": "https://doi.org/10.1145/3092703.3092716",
+            "url": "https://dblp.org/rec/conf/issta/SelakovicGP17"
+        },
+        "url": "URL#3466511"
+    },
+    {
+        "@score": "1",
+        "@id": "3466512",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "186/1067",
+                        "text": "Jeongju Sohn"
+                    },
+                    {
+                        "@pid": "06/1626",
+                        "text": "Shin Yoo"
+                    }
+                ]
+            },
+            "title": "FLUCCS: using code and change metrics to improve fault localization.",
+            "venue": "ISSTA",
+            "pages": "273-283",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SohnY17",
+            "doi": "10.1145/3092703.3092717",
+            "ee": "https://doi.org/10.1145/3092703.3092717",
+            "url": "https://dblp.org/rec/conf/issta/SohnY17"
+        },
+        "url": "URL#3466512"
+    },
+    {
+        "@score": "1",
+        "@id": "3466513",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "66/6114",
+                        "text": "Ben Spencer"
+                    },
+                    {
+                        "@pid": "b/MichaelBenedikt",
+                        "text": "Michael Benedikt"
+                    },
+                    {
+                        "@pid": "55/6739",
+                        "text": "Anders M\u00f8ller"
+                    },
+                    {
+                        "@pid": "89/3661",
+                        "text": "Franck van Breugel"
+                    }
+                ]
+            },
+            "title": "ArtForm: a tool for exploring the codebase of form-based websites.",
+            "venue": "ISSTA",
+            "pages": "380-383",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SpencerBMB17",
+            "doi": "10.1145/3092703.3098226",
+            "ee": "https://doi.org/10.1145/3092703.3098226",
+            "url": "https://dblp.org/rec/conf/issta/SpencerBMB17"
+        },
+        "url": "URL#3466513"
+    },
+    {
+        "@score": "1",
+        "@id": "3466514",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "169/5121",
+                        "text": "Helge Spieker"
+                    },
+                    {
+                        "@pid": "45/6358",
+                        "text": "Arnaud Gotlieb"
+                    },
+                    {
+                        "@pid": "51/11067",
+                        "text": "Dusica Marijan"
+                    },
+                    {
+                        "@pid": "133/4623",
+                        "text": "Morten Mossige"
+                    }
+                ]
+            },
+            "title": "Reinforcement learning for automatic test case prioritization and selection in continuous integration.",
+            "venue": "ISSTA",
+            "pages": "12-22",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SpiekerGMM17",
+            "doi": "10.1145/3092703.3092709",
+            "ee": "https://doi.org/10.1145/3092703.3092709",
+            "url": "https://dblp.org/rec/conf/issta/SpiekerGMM17"
+        },
+        "url": "URL#3466514"
+    },
+    {
+        "@score": "1",
+        "@id": "3466515",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/5042-44",
+                        "text": "Wei Sun 0044"
+                    },
+                    {
+                        "@pid": "16/2866",
+                        "text": "Lisong Xu"
+                    },
+                    {
+                        "@pid": "e/SebastianGElbaum",
+                        "text": "Sebastian G. Elbaum"
+                    }
+                ]
+            },
+            "title": "Improving the cost-effectiveness of symbolic testing techniques for transport protocol implementations under packet dynamics.",
+            "venue": "ISSTA",
+            "pages": "79-89",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/SunXE17",
+            "doi": "10.1145/3092703.3092706",
+            "ee": "https://doi.org/10.1145/3092703.3092706",
+            "url": "https://dblp.org/rec/conf/issta/SunXE17"
+        },
+        "url": "URL#3466515"
+    },
+    {
+        "@score": "1",
+        "@id": "3466516",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "174/2011",
+                        "text": "Thomas A. Walsh 0001"
+                    },
+                    {
+                        "@pid": "47/5095",
+                        "text": "Gregory M. Kapfhammer"
+                    },
+                    {
+                        "@pid": "33/13",
+                        "text": "Phil McMinn"
+                    }
+                ]
+            },
+            "title": "Automated layout failure detection for responsive web pages without an explicit oracle.",
+            "venue": "ISSTA",
+            "pages": "192-202",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WalshKM17",
+            "doi": "10.1145/3092703.3092712",
+            "ee": "https://doi.org/10.1145/3092703.3092712",
+            "url": "https://dblp.org/rec/conf/issta/WalshKM17"
+        },
+        "url": "URL#3466516"
+    },
+    {
+        "@score": "1",
+        "@id": "3466517",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "174/2011",
+                        "text": "Thomas A. Walsh 0001"
+                    },
+                    {
+                        "@pid": "47/5095",
+                        "text": "Gregory M. Kapfhammer"
+                    },
+                    {
+                        "@pid": "33/13",
+                        "text": "Phil McMinn"
+                    }
+                ]
+            },
+            "title": "ReDeCheck: an automatic layout failure checking tool for responsively designed web pages.",
+            "venue": "ISSTA",
+            "pages": "360-363",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WalshKM17a",
+            "doi": "10.1145/3092703.3098221",
+            "ee": "https://doi.org/10.1145/3092703.3098221",
+            "url": "https://dblp.org/rec/conf/issta/WalshKM17a"
+        },
+        "url": "URL#3466517"
+    },
+    {
+        "@score": "1",
+        "@id": "3466518",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/5889-93",
+                        "text": "Yu Wang 0093"
+                    },
+                    {
+                        "@pid": "63/829",
+                        "text": "Linzhang Wang"
+                    },
+                    {
+                        "@pid": "51/8403",
+                        "text": "Tingting Yu"
+                    },
+                    {
+                        "@pid": "31/5664",
+                        "text": "Jianhua Zhao"
+                    },
+                    {
+                        "@pid": "76/5446",
+                        "text": "Xuandong Li"
+                    }
+                ]
+            },
+            "title": "Automatic detection and validation of race conditions in interrupt-driven embedded software.",
+            "venue": "ISSTA",
+            "pages": "113-124",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangWYZL17",
+            "doi": "10.1145/3092703.3092724",
+            "ee": "https://doi.org/10.1145/3092703.3092724",
+            "url": "https://dblp.org/rec/conf/issta/WangWYZL17"
+        },
+        "url": "URL#3466518"
+    },
+    {
+        "@score": "1",
+        "@id": "3466519",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "72/6811-50",
+                        "text": "Bo Wang 0050"
+                    },
+                    {
+                        "@pid": "82/2673",
+                        "text": "Yingfei Xiong 0001"
+                    },
+                    {
+                        "@pid": "195/5911",
+                        "text": "Yangqingwei Shi"
+                    },
+                    {
+                        "@pid": "z/LuZhang1",
+                        "text": "Lu Zhang 0023"
+                    },
+                    {
+                        "@pid": "50/456",
+                        "text": "Dan Hao 0001"
+                    }
+                ]
+            },
+            "title": "Faster mutation analysis via equivalence modulo states.",
+            "venue": "ISSTA",
+            "pages": "295-306",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/WangXSZH17",
+            "doi": "10.1145/3092703.3092714",
+            "ee": "https://doi.org/10.1145/3092703.3092714",
+            "url": "https://dblp.org/rec/conf/issta/WangXSZH17"
+        },
+        "url": "URL#3466519"
+    },
+    {
+        "@score": "1",
+        "@id": "3466520",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "77/2901",
+                        "text": "Qi Xin"
+                    },
+                    {
+                        "@pid": "r/StevenPReiss",
+                        "text": "Steven P. Reiss"
+                    }
+                ]
+            },
+            "title": "Identifying test-suite-overfitted patches through test case generation.",
+            "venue": "ISSTA",
+            "pages": "226-236",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/XinR17",
+            "doi": "10.1145/3092703.3092718",
+            "ee": "https://doi.org/10.1145/3092703.3092718",
+            "url": "https://dblp.org/rec/conf/issta/XinR17"
+        },
+        "url": "URL#3466520"
+    },
+    {
+        "@score": "1",
+        "@id": "3466521",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8463",
+                        "text": "Vanya Yaneva"
+                    },
+                    {
+                        "@pid": "33/3526",
+                        "text": "Ajitha Rajan"
+                    },
+                    {
+                        "@pid": "54/4040",
+                        "text": "Christophe Dubach"
+                    }
+                ]
+            },
+            "title": "Compiler-assisted test acceleration on GPUs for embedded software.",
+            "venue": "ISSTA",
+            "pages": "35-45",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YanevaRD17",
+            "doi": "10.1145/3092703.3092720",
+            "ee": "https://doi.org/10.1145/3092703.3092720",
+            "url": "https://dblp.org/rec/conf/issta/YanevaRD17"
+        },
+        "url": "URL#3466521"
+    },
+    {
+        "@score": "1",
+        "@id": "3466522",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8463",
+                        "text": "Vanya Yaneva"
+                    },
+                    {
+                        "@pid": "33/3526",
+                        "text": "Ajitha Rajan"
+                    },
+                    {
+                        "@pid": "54/4040",
+                        "text": "Christophe Dubach"
+                    }
+                ]
+            },
+            "title": "ParTeCL: parallel testing using OpenCL.",
+            "venue": "ISSTA",
+            "pages": "384-387",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/YanevaRD17a",
+            "doi": "10.1145/3092703.3098227",
+            "ee": "https://doi.org/10.1145/3092703.3098227",
+            "url": "https://dblp.org/rec/conf/issta/YanevaRD17a"
+        },
+        "url": "URL#3466522"
+    },
+    {
+        "@score": "1",
+        "@id": "3466523",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/8452",
+                        "text": "Mengshi Zhang"
+                    },
+                    {
+                        "@pid": "97/30-9",
+                        "text": "Xia Li 0009"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "k/SarfrazKhurshid",
+                        "text": "Sarfraz Khurshid"
+                    }
+                ]
+            },
+            "title": "Boosting spectrum-based fault localization using PageRank.",
+            "venue": "ISSTA",
+            "pages": "261-272",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/issta/ZhangLZK17",
+            "doi": "10.1145/3092703.3092731",
+            "ee": "https://doi.org/10.1145/3092703.3092731",
+            "url": "https://dblp.org/rec/conf/issta/ZhangLZK17"
+        },
+        "url": "URL#3466523"
+    },
+    {
+        "@score": "1",
+        "@id": "3523258",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    },
+                    {
+                        "@pid": "04/418",
+                        "text": "Koushik Sen"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 10 - 14, 2017",
+            "venue": "ISSTA",
+            "publisher": "ACM",
+            "year": "2017",
+            "type": "Editorship",
+            "key": "conf/issta/2017",
+            "doi": "10.1145/3092703",
+            "ee": "https://doi.org/10.1145/3092703",
+            "url": "https://dblp.org/rec/conf/issta/2017"
+        },
+        "url": "URL#3523258"
+    }
+]

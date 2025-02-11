@@ -1,0 +1,3482 @@
+[
+    {
+        "@score": "1",
+        "@id": "3511125",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/5702-1",
+                        "text": "Sangho Lee 0001"
+                    },
+                    {
+                        "@pid": "117/5466",
+                        "text": "Ming-Wei Shih"
+                    },
+                    {
+                        "@pid": "190/7262",
+                        "text": "Prasun Gera"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    },
+                    {
+                        "@pid": "87/5743",
+                        "text": "Hyesoon Kim"
+                    },
+                    {
+                        "@pid": "56/6925",
+                        "text": "Marcus Peinado"
+                    }
+                ]
+            },
+            "title": "Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing.",
+            "venue": "USENIX Security Symposium",
+            "pages": "557-574",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/0001SGKKP17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/lee-sangho",
+            "url": "https://dblp.org/rec/conf/uss/0001SGKKP17"
+        },
+        "url": "URL#3511125"
+    },
+    {
+        "@score": "1",
+        "@id": "3511126",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/5775",
+                        "text": "Nikolaos Alexopoulos"
+                    },
+                    {
+                        "@pid": "47/3682",
+                        "text": "Aggelos Kiayias"
+                    },
+                    {
+                        "@pid": "52/10733",
+                        "text": "Riivo Talviste"
+                    },
+                    {
+                        "@pid": "76/1308-1",
+                        "text": "Thomas Zacharias 0001"
+                    }
+                ]
+            },
+            "title": "MCMix: Anonymous Messaging via Secure Multiparty Computation.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1217-1234",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/AlexopoulosKT017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/alexopoulos",
+            "url": "https://dblp.org/rec/conf/uss/AlexopoulosKT017"
+        },
+        "url": "URL#3511126"
+    },
+    {
+        "@score": "1",
+        "@id": "3511127",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/216",
+                        "text": "Manos Antonakakis"
+                    },
+                    {
+                        "@pid": "205/2253",
+                        "text": "Tim April"
+                    },
+                    {
+                        "@pid": "359/0958",
+                        "text": "Michael D. Bailey"
+                    },
+                    {
+                        "@pid": "205/2112",
+                        "text": "Matt Bernhard"
+                    },
+                    {
+                        "@pid": "20/7004",
+                        "text": "Elie Bursztein"
+                    },
+                    {
+                        "@pid": "205/2236",
+                        "text": "Jaime Cochran"
+                    },
+                    {
+                        "@pid": "143/5673",
+                        "text": "Zakir Durumeric"
+                    },
+                    {
+                        "@pid": "h/JAlexHalderman",
+                        "text": "J. Alex Halderman"
+                    },
+                    {
+                        "@pid": "57/9185",
+                        "text": "Luca Invernizzi"
+                    },
+                    {
+                        "@pid": "68/4656",
+                        "text": "Michalis Kallitsis 0001"
+                    },
+                    {
+                        "@pid": "66/3984-6",
+                        "text": "Deepak Kumar 0006"
+                    },
+                    {
+                        "@pid": "134/8710",
+                        "text": "Chaz Lever"
+                    },
+                    {
+                        "@pid": "198/3346",
+                        "text": "Zane Ma"
+                    },
+                    {
+                        "@pid": "34/3008",
+                        "text": "Joshua Mason"
+                    },
+                    {
+                        "@pid": "205/2016",
+                        "text": "Damian Menscher"
+                    },
+                    {
+                        "@pid": "205/2254",
+                        "text": "Chad Seaman"
+                    },
+                    {
+                        "@pid": "172/5512",
+                        "text": "Nick Sullivan"
+                    },
+                    {
+                        "@pid": "68/8283",
+                        "text": "Kurt Thomas"
+                    },
+                    {
+                        "@pid": "01/1901",
+                        "text": "Yi Zhou"
+                    }
+                ]
+            },
+            "title": "Understanding the Mirai Botnet.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1093-1110",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/AntonakakisABBB17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis",
+            "url": "https://dblp.org/rec/conf/uss/AntonakakisABBB17"
+        },
+        "url": "URL#3511127"
+    },
+    {
+        "@score": "1",
+        "@id": "3511129",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "200/7947",
+                        "text": "Brendan Avent"
+                    },
+                    {
+                        "@pid": "08/1446",
+                        "text": "Aleksandra Korolova"
+                    },
+                    {
+                        "@pid": "75/5658",
+                        "text": "David Zeber"
+                    },
+                    {
+                        "@pid": "131/4838",
+                        "text": "Torgeir Hovden"
+                    },
+                    {
+                        "@pid": "46/2924",
+                        "text": "Benjamin Livshits"
+                    }
+                ]
+            },
+            "title": "BLENDER: Enabling Local Search with a Hybrid Differential Privacy Model.",
+            "venue": "USENIX Security Symposium",
+            "pages": "747-764",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/AventKZHL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/avent",
+            "url": "https://dblp.org/rec/conf/uss/AventKZHL17"
+        },
+        "url": "URL#3511129"
+    },
+    {
+        "@score": "1",
+        "@id": "3511130",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/10240",
+                        "text": "Xiaolong Bai"
+                    },
+                    {
+                        "@pid": "34/6503-1",
+                        "text": "Zhe Zhou 0001"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "62/4119-1",
+                        "text": "Zhou Li 0001"
+                    },
+                    {
+                        "@pid": "192/2270",
+                        "text": "Xianghang Mi"
+                    },
+                    {
+                        "@pid": "28/6297-18",
+                        "text": "Nan Zhang 0018"
+                    },
+                    {
+                        "@pid": "140/7353",
+                        "text": "Tongxin Li"
+                    },
+                    {
+                        "@pid": "h/ShiMinHu",
+                        "text": "Shi-Min Hu 0001"
+                    },
+                    {
+                        "@pid": "66/6560",
+                        "text": "Kehuan Zhang"
+                    }
+                ]
+            },
+            "title": "Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment.",
+            "venue": "USENIX Security Symposium",
+            "pages": "593-608",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BaiZWLMZLHZ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/bai",
+            "url": "https://dblp.org/rec/conf/uss/BaiZWLMZLHZ17"
+        },
+        "url": "URL#3511130"
+    },
+    {
+        "@score": "1",
+        "@id": "3511131",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "33/7672",
+                        "text": "Sebastian Banescu"
+                    },
+                    {
+                        "@pid": "c/ChristianSCollberg",
+                        "text": "Christian S. Collberg"
+                    },
+                    {
+                        "@pid": "98/5319",
+                        "text": "Alexander Pretschner"
+                    }
+                ]
+            },
+            "title": "Predicting the Resilience of Obfuscated Code Against Symbolic Execution Attacks via Machine Learning.",
+            "venue": "USENIX Security Symposium",
+            "pages": "661-678",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BanescuCP17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/banescu",
+            "url": "https://dblp.org/rec/conf/uss/BanescuCP17"
+        },
+        "url": "URL#3511131"
+    },
+    {
+        "@score": "1",
+        "@id": "3511132",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2026",
+                        "text": "Christian Bayens"
+                    },
+                    {
+                        "@pid": "147/9791",
+                        "text": "Tuan Le"
+                    },
+                    {
+                        "@pid": "67/136-1",
+                        "text": "Luis Garcia 0001"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem A. Beyah"
+                    },
+                    {
+                        "@pid": "172/2705",
+                        "text": "Mehdi Javanmard"
+                    },
+                    {
+                        "@pid": "89/4316",
+                        "text": "Saman A. Zonouz"
+                    }
+                ]
+            },
+            "title": "See No Evil, Hear No Evil, Feel No Evil, Print No Evil? Malicious Fill Patterns Detection in Additive Manufacturing.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1181-1198",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BayensLGBJZ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/bayens",
+            "url": "https://dblp.org/rec/conf/uss/BayensLGBJZ17"
+        },
+        "url": "URL#3511132"
+    },
+    {
+        "@score": "1",
+        "@id": "3511133",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/1200",
+                        "text": "Priyam Biswas"
+                    },
+                    {
+                        "@pid": "123/3267",
+                        "text": "Alessandro Di Federico"
+                    },
+                    {
+                        "@pid": "176/5333",
+                        "text": "Scott A. Carr"
+                    },
+                    {
+                        "@pid": "205/2020",
+                        "text": "Prabhu Rajasekaran"
+                    },
+                    {
+                        "@pid": "127/6103",
+                        "text": "Stijn Volckaert"
+                    },
+                    {
+                        "@pid": "37/9431",
+                        "text": "Yeoul Na"
+                    },
+                    {
+                        "@pid": "f/MichaelFranz",
+                        "text": "Michael Franz"
+                    },
+                    {
+                        "@pid": "31/1273",
+                        "text": "Mathias Payer"
+                    }
+                ]
+            },
+            "title": "Venerable Variadic Vulnerabilities Vanquished.",
+            "venue": "USENIX Security Symposium",
+            "pages": "186-198",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BiswasFCRVNFP17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/biswas",
+            "url": "https://dblp.org/rec/conf/uss/BiswasFCRVNFP17"
+        },
+        "url": "URL#3511133"
+    },
+    {
+        "@score": "1",
+        "@id": "3511134",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2079",
+                        "text": "Tim Blazytko"
+                    },
+                    {
+                        "@pid": "150/7970",
+                        "text": "Moritz Contag"
+                    },
+                    {
+                        "@pid": "160/7844",
+                        "text": "Cornelius Aschermann"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "Syntia: Synthesizing the Semantics of Obfuscated Code.",
+            "venue": "USENIX Security Symposium",
+            "pages": "643-659",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BlazytkoCAH17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko",
+            "url": "https://dblp.org/rec/conf/uss/BlazytkoCAH17"
+        },
+        "url": "URL#3511134"
+    },
+    {
+        "@score": "1",
+        "@id": "3511135",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "74/9407",
+                        "text": "Barry Bond"
+                    },
+                    {
+                        "@pid": "22/3053",
+                        "text": "Chris Hawblitzel"
+                    },
+                    {
+                        "@pid": "23/6695",
+                        "text": "Manos Kapritsos"
+                    },
+                    {
+                        "@pid": "l/KRMLeino",
+                        "text": "K. Rustan M. Leino"
+                    },
+                    {
+                        "@pid": "25/3228",
+                        "text": "Jacob R. Lorch"
+                    },
+                    {
+                        "@pid": "49/6324",
+                        "text": "Bryan Parno"
+                    },
+                    {
+                        "@pid": "63/10367",
+                        "text": "Ashay Rane"
+                    },
+                    {
+                        "@pid": "68/8463",
+                        "text": "Srinath T. V. Setty"
+                    },
+                    {
+                        "@pid": "155/8149",
+                        "text": "Laure Thompson"
+                    }
+                ]
+            },
+            "title": "Vale: Verifying High-Performance Cryptographic Assembly Code.",
+            "venue": "USENIX Security Symposium",
+            "pages": "917-934",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BondHKLLPRST17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/bond",
+            "url": "https://dblp.org/rec/conf/uss/BondHKLLPRST17"
+        },
+        "url": "URL#3511135"
+    },
+    {
+        "@score": "1",
+        "@id": "3511136",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/5967",
+                        "text": "Ferdinand Brasser"
+                    },
+                    {
+                        "@pid": "73/7564",
+                        "text": "Lucas Davi"
+                    },
+                    {
+                        "@pid": "164/2771",
+                        "text": "David Gens"
+                    },
+                    {
+                        "@pid": "131/5096",
+                        "text": "Christopher Liebchen"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    }
+                ]
+            },
+            "title": "CAn&apos;t Touch This: Software-only Mitigation against Rowhammer Attacks targeting Kernel Memory.",
+            "venue": "USENIX Security Symposium",
+            "pages": "117-130",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BrasserDGLS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/brasser",
+            "url": "https://dblp.org/rec/conf/uss/BrasserDGLS17"
+        },
+        "url": "URL#3511136"
+    },
+    {
+        "@score": "1",
+        "@id": "3511137",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/1573",
+                        "text": "Jo Van Bulck"
+                    },
+                    {
+                        "@pid": "185/6233",
+                        "text": "Nico Weichbrodt"
+                    },
+                    {
+                        "@pid": "27/2697",
+                        "text": "R\u00fcdiger Kapitza"
+                    },
+                    {
+                        "@pid": "85/6647",
+                        "text": "Frank Piessens"
+                    },
+                    {
+                        "@pid": "97/7967",
+                        "text": "Raoul Strackx"
+                    }
+                ]
+            },
+            "title": "Telling Your Secrets without Page Faults: Stealthy Page Table-Based Attacks on Enclaved Execution.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1041-1056",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/BulckWKPS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/van-bulck",
+            "url": "https://dblp.org/rec/conf/uss/BulckWKPS17"
+        },
+        "url": "URL#3511137"
+    },
+    {
+        "@score": "1",
+        "@id": "3511139",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/9526",
+                        "text": "Stefano Calzavara"
+                    },
+                    {
+                        "@pid": "159/0703",
+                        "text": "Alvise Rabitti"
+                    },
+                    {
+                        "@pid": "b/MicheleBugliesi",
+                        "text": "Michele Bugliesi"
+                    }
+                ]
+            },
+            "title": "CCSP: Controlled Relaxation of Content Security Policies by Runtime Policy Composition.",
+            "venue": "USENIX Security Symposium",
+            "pages": "695-712",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/CalzavaraRB17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/calzavara",
+            "url": "https://dblp.org/rec/conf/uss/CalzavaraRB17"
+        },
+        "url": "URL#3511139"
+    },
+    {
+        "@score": "1",
+        "@id": "3511140",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "79/5815",
+                        "text": "Yue Chen"
+                    },
+                    {
+                        "@pid": "32/9374",
+                        "text": "Yulong Zhang"
+                    },
+                    {
+                        "@pid": "95/6543-4",
+                        "text": "Zhi Wang 0004"
+                    },
+                    {
+                        "@pid": "205/2057",
+                        "text": "Liangzhao Xia"
+                    },
+                    {
+                        "@pid": "205/2109",
+                        "text": "Chenfu Bao"
+                    },
+                    {
+                        "@pid": "64/5099",
+                        "text": "Tao Wei"
+                    }
+                ]
+            },
+            "title": "Adaptive Android Kernel Live Patching.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1253-1270",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ChenZWXBW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chen",
+            "url": "https://dblp.org/rec/conf/uss/ChenZWXBW17"
+        },
+        "url": "URL#3511140"
+    },
+    {
+        "@score": "1",
+        "@id": "3511142",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5333",
+                        "text": "Zheng Leong Chua"
+                    },
+                    {
+                        "@pid": "169/3386",
+                        "text": "Shiqi Shen"
+                    },
+                    {
+                        "@pid": "90/105",
+                        "text": "Prateek Saxena"
+                    },
+                    {
+                        "@pid": "99/4951",
+                        "text": "Zhenkai Liang"
+                    }
+                ]
+            },
+            "title": "Neural Nets Can Learn Function Type Signatures From Binaries.",
+            "venue": "USENIX Security Symposium",
+            "pages": "99-116",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ChuaSSL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua",
+            "url": "https://dblp.org/rec/conf/uss/ChuaSSL17"
+        },
+        "url": "URL#3511142"
+    },
+    {
+        "@score": "1",
+        "@id": "3511144",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "90/8396",
+                        "text": "Taejoong Chung"
+                    },
+                    {
+                        "@pid": "155/5773",
+                        "text": "Roland van Rijswijk-Deij"
+                    },
+                    {
+                        "@pid": "c/BChandrasekaran2",
+                        "text": "Balakrishnan Chandrasekaran 0002"
+                    },
+                    {
+                        "@pid": "48/6854",
+                        "text": "David R. Choffnes"
+                    },
+                    {
+                        "@pid": "03/6428",
+                        "text": "Dave Levin"
+                    },
+                    {
+                        "@pid": "m/BruceMMaggs",
+                        "text": "Bruce M. Maggs"
+                    },
+                    {
+                        "@pid": "31/3833",
+                        "text": "Alan Mislove"
+                    },
+                    {
+                        "@pid": "79/5135",
+                        "text": "Christo Wilson"
+                    }
+                ]
+            },
+            "title": "A Longitudinal, End-to-End View of the DNSSEC Ecosystem.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1307-1322",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ChungR0CLMMW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chung",
+            "url": "https://dblp.org/rec/conf/uss/ChungR0CLMMW17"
+        },
+        "url": "URL#3511144"
+    },
+    {
+        "@score": "1",
+        "@id": "3511145",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/6635",
+                        "text": "Thurston H. Y. Dang"
+                    },
+                    {
+                        "@pid": "m/PetrosManiatis",
+                        "text": "Petros Maniatis"
+                    },
+                    {
+                        "@pid": "42/5626",
+                        "text": "David A. Wagner 0001"
+                    }
+                ]
+            },
+            "title": "Oscar: A Practical Page-Permissions-Based Scheme for Thwarting Dangling Pointers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "815-832",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/DangM017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/dang",
+            "url": "https://dblp.org/rec/conf/uss/DangM017"
+        },
+        "url": "URL#3511145"
+    },
+    {
+        "@score": "1",
+        "@id": "3511147",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/2685-1",
+                        "text": "Ren Ding 0001"
+                    },
+                    {
+                        "@pid": "147/2276",
+                        "text": "Chenxiong Qian"
+                    },
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    },
+                    {
+                        "@pid": "09/4583",
+                        "text": "William Harris"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    }
+                ]
+            },
+            "title": "Efficient Protection of Path-Sensitive Control Security.",
+            "venue": "USENIX Security Symposium",
+            "pages": "131-148",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/DingQSHKL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ding",
+            "url": "https://dblp.org/rec/conf/uss/DingQSHKL17"
+        },
+        "url": "URL#3511147"
+    },
+    {
+        "@score": "1",
+        "@id": "3511148",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "199/4885",
+                        "text": "Craig Disselkoen"
+                    },
+                    {
+                        "@pid": "131/5093",
+                        "text": "David Kohlbrenner"
+                    },
+                    {
+                        "@pid": "60/5029",
+                        "text": "Leo Porter 0001"
+                    },
+                    {
+                        "@pid": "t/DeanMTullsen",
+                        "text": "Dean M. Tullsen"
+                    }
+                ]
+            },
+            "title": "Prime+Abort: A Timer-Free High-Precision L3 Cache Attack using Intel TSX.",
+            "venue": "USENIX Security Symposium",
+            "pages": "51-67",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/DisselkoenKPT17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/disselkoen",
+            "url": "https://dblp.org/rec/conf/uss/DisselkoenKPT17"
+        },
+        "url": "URL#3511148"
+    },
+    {
+        "@score": "1",
+        "@id": "3511150",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/9161",
+                        "text": "Kevin Eykholt"
+                    },
+                    {
+                        "@pid": "p/AtulPrakash",
+                        "text": "Atul Prakash 0001"
+                    },
+                    {
+                        "@pid": "45/2495",
+                        "text": "Barzan Mozafari"
+                    }
+                ]
+            },
+            "title": "Ensuring Authorized Updates in Multi-user Database-Backed Applications.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1445-1462",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/EykholtPM17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/eykholt",
+            "url": "https://dblp.org/rec/conf/uss/EykholtPM17"
+        },
+        "url": "URL#3511150"
+    },
+    {
+        "@score": "1",
+        "@id": "3511151",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "52/8024",
+                        "text": "Adrienne Porter Felt"
+                    },
+                    {
+                        "@pid": "153/3948",
+                        "text": "Richard Barnes 0001"
+                    },
+                    {
+                        "@pid": "205/2258",
+                        "text": "April King"
+                    },
+                    {
+                        "@pid": "46/1779",
+                        "text": "Chris Palmer"
+                    },
+                    {
+                        "@pid": "205/2045",
+                        "text": "Chris Bentzel"
+                    },
+                    {
+                        "@pid": "93/5018",
+                        "text": "Parisa Tabriz"
+                    }
+                ]
+            },
+            "title": "Measuring HTTPS Adoption on the Web.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1323-1338",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/FeltBKPBT17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/felt",
+            "url": "https://dblp.org/rec/conf/uss/FeltBKPBT17"
+        },
+        "url": "URL#3511151"
+    },
+    {
+        "@score": "1",
+        "@id": "3511155",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "181/1564",
+                        "text": "Cesar Pereida Garc\u00eda"
+                    },
+                    {
+                        "@pid": "25/1876",
+                        "text": "Billy Bob Brumley"
+                    }
+                ]
+            },
+            "title": "Constant-Time Callees with Variable-Time Callers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "83-98",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/GarciaB17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/garcia",
+            "url": "https://dblp.org/rec/conf/uss/GarciaB17"
+        },
+        "url": "URL#3511155"
+    },
+    {
+        "@score": "1",
+        "@id": "3511156",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/2424",
+                        "text": "Ioannis Gasparis"
+                    },
+                    {
+                        "@pid": "31/8302",
+                        "text": "Zhiyun Qian"
+                    },
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    },
+                    {
+                        "@pid": "k/SrikanthVKrishnamurthy",
+                        "text": "Srikanth V. Krishnamurthy"
+                    }
+                ]
+            },
+            "title": "Detecting Android Root Exploits by Learning from Root Providers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1129-1144",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/GasparisQSK17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/gasparis",
+            "url": "https://dblp.org/rec/conf/uss/GasparisQSK17"
+        },
+        "url": "URL#3511156"
+    },
+    {
+        "@score": "1",
+        "@id": "3511157",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2229",
+                        "text": "Nirnimesh Ghose"
+                    },
+                    {
+                        "@pid": "15/3615",
+                        "text": "Loukas Lazos"
+                    },
+                    {
+                        "@pid": "l/MingLi3",
+                        "text": "Ming Li 0003"
+                    }
+                ]
+            },
+            "title": "HELP: Helper-Enabled In-Band Device Pairing Resistant Against Signal Cancellation.",
+            "venue": "USENIX Security Symposium",
+            "pages": "433-450",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/GhoseLL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ghose",
+            "url": "https://dblp.org/rec/conf/uss/GhoseLL17"
+        },
+        "url": "URL#3511157"
+    },
+    {
+        "@score": "1",
+        "@id": "3511160",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "170/1844-1",
+                        "text": "Marc Green 0001"
+                    },
+                    {
+                        "@pid": "140/6560",
+                        "text": "Leandro Rodrigues Lima"
+                    },
+                    {
+                        "@pid": "60/10279",
+                        "text": "Andreas Zankl"
+                    },
+                    {
+                        "@pid": "145/1722",
+                        "text": "Gorka Irazoqui"
+                    },
+                    {
+                        "@pid": "82/9413",
+                        "text": "Johann Heyszl"
+                    },
+                    {
+                        "@pid": "72/817",
+                        "text": "Thomas Eisenbarth 0001"
+                    }
+                ]
+            },
+            "title": "AutoLock: Why Cache Attacks on ARM Are Harder Than You Think.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1075-1091",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/GreenLZIHE17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/green",
+            "url": "https://dblp.org/rec/conf/uss/GreenLZIHE17"
+        },
+        "url": "URL#3511160"
+    },
+    {
+        "@score": "1",
+        "@id": "3511161",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/1494",
+                        "text": "Daniel Gruss"
+                    },
+                    {
+                        "@pid": "182/6599",
+                        "text": "Julian Lettner"
+                    },
+                    {
+                        "@pid": "119/7702",
+                        "text": "Felix Schuster"
+                    },
+                    {
+                        "@pid": "70/4765",
+                        "text": "Olga Ohrimenko"
+                    },
+                    {
+                        "@pid": "13/8190",
+                        "text": "Istv\u00e1n Haller"
+                    },
+                    {
+                        "@pid": "35/6770",
+                        "text": "Manuel Costa"
+                    }
+                ]
+            },
+            "title": "Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory.",
+            "venue": "USENIX Security Symposium",
+            "pages": "217-233",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/GrussLSOHC17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/gruss",
+            "url": "https://dblp.org/rec/conf/uss/GrussLSOHC17"
+        },
+        "url": "URL#3511161"
+    },
+    {
+        "@score": "1",
+        "@id": "3511162",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5927",
+                        "text": "Grant Ho"
+                    },
+                    {
+                        "@pid": "70/5324",
+                        "text": "Aashish Sharma"
+                    },
+                    {
+                        "@pid": "48/7429",
+                        "text": "Mobin Javed"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    },
+                    {
+                        "@pid": "42/5626",
+                        "text": "David A. Wagner 0001"
+                    }
+                ]
+            },
+            "title": "Detecting Credential Spearphishing in Enterprise Settings.",
+            "venue": "USENIX Security Symposium",
+            "pages": "469-485",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/HoSJP017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ho",
+            "url": "https://dblp.org/rec/conf/uss/HoSJP017"
+        },
+        "url": "URL#3511162"
+    },
+    {
+        "@score": "1",
+        "@id": "3511163",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "188/6160",
+                        "text": "Md Nahid Hossain"
+                    },
+                    {
+                        "@pid": "161/7154",
+                        "text": "Sadegh M. Milajerdi"
+                    },
+                    {
+                        "@pid": "188/5931",
+                        "text": "Junao Wang"
+                    },
+                    {
+                        "@pid": "37/7954",
+                        "text": "Birhanu Eshete"
+                    },
+                    {
+                        "@pid": "88/4984",
+                        "text": "Rigel Gjomemo"
+                    },
+                    {
+                        "@pid": "90/1136-1",
+                        "text": "R. Sekar 0001"
+                    },
+                    {
+                        "@pid": "09/6787",
+                        "text": "Scott D. Stoller"
+                    },
+                    {
+                        "@pid": "90/5014",
+                        "text": "V. N. Venkatakrishnan"
+                    }
+                ]
+            },
+            "title": "SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data.",
+            "venue": "USENIX Security Symposium",
+            "pages": "487-504",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/HossainMWEGSSV17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/hossain",
+            "url": "https://dblp.org/rec/conf/uss/HossainMWEGSSV17"
+        },
+        "url": "URL#3511163"
+    },
+    {
+        "@score": "1",
+        "@id": "3511164",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/4771-1",
+                        "text": "Zhichao Hua 0001"
+                    },
+                    {
+                        "@pid": "197/6723-1",
+                        "text": "Jinyu Gu 0001"
+                    },
+                    {
+                        "@pid": "01/615",
+                        "text": "Yubin Xia"
+                    },
+                    {
+                        "@pid": "31/6601-1",
+                        "text": "Haibo Chen 0001"
+                    },
+                    {
+                        "@pid": "86/680",
+                        "text": "Binyu Zang"
+                    },
+                    {
+                        "@pid": "96/5680",
+                        "text": "Haibing Guan"
+                    }
+                ]
+            },
+            "title": "vTZ: Virtualizing ARM TrustZone.",
+            "venue": "USENIX Security Symposium",
+            "pages": "541-556",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/HuaGXCZG17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/hua",
+            "url": "https://dblp.org/rec/conf/uss/HuaGXCZG17"
+        },
+        "url": "URL#3511164"
+    },
+    {
+        "@score": "1",
+        "@id": "3511167",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "164/3347",
+                        "text": "Samuel Jero"
+                    },
+                    {
+                        "@pid": "139/5808",
+                        "text": "William Koch"
+                    },
+                    {
+                        "@pid": "137/3754",
+                        "text": "Richard Skowyra"
+                    },
+                    {
+                        "@pid": "14/5114",
+                        "text": "Hamed Okhravi"
+                    },
+                    {
+                        "@pid": "n/CristinaNitaRotaru",
+                        "text": "Cristina Nita-Rotaru"
+                    },
+                    {
+                        "@pid": "144/6532",
+                        "text": "David Bigelow"
+                    }
+                ]
+            },
+            "title": "Identifier Binding Attacks and Defenses in Software-Defined Networks.",
+            "venue": "USENIX Security Symposium",
+            "pages": "415-432",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/JeroKSONB17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jero",
+            "url": "https://dblp.org/rec/conf/uss/JeroKSONB17"
+        },
+        "url": "URL#3511167"
+    },
+    {
+        "@score": "1",
+        "@id": "3511168",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2209",
+                        "text": "Xiangkun Jia"
+                    },
+                    {
+                        "@pid": "94/3019-8",
+                        "text": "Chao Zhang 0008"
+                    },
+                    {
+                        "@pid": "46/3714",
+                        "text": "Purui Su"
+                    },
+                    {
+                        "@pid": "33/4854-40",
+                        "text": "Yi Yang 0040"
+                    },
+                    {
+                        "@pid": "137/5262",
+                        "text": "Huafeng Huang"
+                    },
+                    {
+                        "@pid": "79/2089",
+                        "text": "Dengguo Feng"
+                    }
+                ]
+            },
+            "title": "Towards Efficient Heap Overflow Discovery.",
+            "venue": "USENIX Security Symposium",
+            "pages": "989-1006",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/JiaZSYHF17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jia",
+            "url": "https://dblp.org/rec/conf/uss/JiaZSYHF17"
+        },
+        "url": "URL#3511168"
+    },
+    {
+        "@score": "1",
+        "@id": "3511170",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/9532",
+                        "text": "Roberto Jordaney"
+                    },
+                    {
+                        "@pid": "150/6191",
+                        "text": "Kumar Sharad"
+                    },
+                    {
+                        "@pid": "94/2235",
+                        "text": "Santanu Kumar Dash 0001"
+                    },
+                    {
+                        "@pid": "95/6543",
+                        "text": "Zhi Wang"
+                    },
+                    {
+                        "@pid": "15/10028",
+                        "text": "Davide Papini"
+                    },
+                    {
+                        "@pid": "17/210",
+                        "text": "Ilia Nouretdinov"
+                    },
+                    {
+                        "@pid": "95/5162",
+                        "text": "Lorenzo Cavallaro"
+                    }
+                ]
+            },
+            "title": "Transcend: Detecting Concept Drift in Malware Classification Models.",
+            "venue": "USENIX Security Symposium",
+            "pages": "625-642",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/JordaneySDWPNC17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jordaney",
+            "url": "https://dblp.org/rec/conf/uss/JordaneySDWPNC17"
+        },
+        "url": "URL#3511170"
+    },
+    {
+        "@score": "1",
+        "@id": "3511172",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "131/5093",
+                        "text": "David Kohlbrenner"
+                    },
+                    {
+                        "@pid": "35/1061",
+                        "text": "Hovav Shacham"
+                    }
+                ]
+            },
+            "title": "On the effectiveness of mitigations against floating-point timing channels.",
+            "venue": "USENIX Security Symposium",
+            "pages": "69-81",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/KohlbrennerS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/kohlbrenner",
+            "url": "https://dblp.org/rec/conf/uss/KohlbrennerS17"
+        },
+        "url": "URL#3511172"
+    },
+    {
+        "@score": "1",
+        "@id": "3511173",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/9456",
+                        "text": "Philipp Koppe"
+                    },
+                    {
+                        "@pid": "153/5832",
+                        "text": "Benjamin Kollenda"
+                    },
+                    {
+                        "@pid": "135/0314",
+                        "text": "Marc Fyrbiak"
+                    },
+                    {
+                        "@pid": "135/0525",
+                        "text": "Christian Kison"
+                    },
+                    {
+                        "@pid": "150/5154",
+                        "text": "Robert Gawlik"
+                    },
+                    {
+                        "@pid": "p/ChristofPaar",
+                        "text": "Christof Paar"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "Reverse Engineering x86 Processor Microcode.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1163-1180",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/KoppeKFKGPH17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe",
+            "url": "https://dblp.org/rec/conf/uss/KoppeKFKGPH17"
+        },
+        "url": "URL#3511173"
+    },
+    {
+        "@score": "1",
+        "@id": "3511174",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "128/4803",
+                        "text": "Katharina Krombholz"
+                    },
+                    {
+                        "@pid": "170/0100",
+                        "text": "Wilfried Mayer"
+                    },
+                    {
+                        "@pid": "169/9708",
+                        "text": "Martin Schmiedecker"
+                    },
+                    {
+                        "@pid": "w/EdgarRWeippl",
+                        "text": "Edgar R. Weippl"
+                    }
+                ]
+            },
+            "title": "&quot;I Have No Idea What I&apos;m Doing&quot; - On the Usability of Deploying HTTPS.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1339-1356",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/KrombholzMSW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/krombholz",
+            "url": "https://dblp.org/rec/conf/uss/KrombholzMSW17"
+        },
+        "url": "URL#3511174"
+    },
+    {
+        "@score": "1",
+        "@id": "3511175",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/8004",
+                        "text": "Russell W. F. Lai"
+                    },
+                    {
+                        "@pid": "33/6847-1",
+                        "text": "Christoph Egger 0001"
+                    },
+                    {
+                        "@pid": "52/6199",
+                        "text": "Dominique Schr\u00f6der"
+                    },
+                    {
+                        "@pid": "c/ShermanSMChow",
+                        "text": "Sherman S. M. Chow"
+                    }
+                ]
+            },
+            "title": "Phoenix: Rebirth of a Cryptographic Password-Hardening Service.",
+            "venue": "USENIX Security Symposium",
+            "pages": "899-916",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/Lai0SC17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/lai",
+            "url": "https://dblp.org/rec/conf/uss/Lai0SC17"
+        },
+        "url": "URL#3511175"
+    },
+    {
+        "@score": "1",
+        "@id": "3511176",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "00/3175",
+                        "text": "Tobias Lauinger"
+                    },
+                    {
+                        "@pid": "02/8037",
+                        "text": "Abdelberi Chaabane"
+                    },
+                    {
+                        "@pid": "159/9706",
+                        "text": "Ahmet Salih Buyukkayhan"
+                    },
+                    {
+                        "@pid": "77/8031",
+                        "text": "Kaan Onarlioglu"
+                    },
+                    {
+                        "@pid": "r/WilliamKRobertson",
+                        "text": "William Robertson 0002"
+                    }
+                ]
+            },
+            "title": "Game of Registrars: An Empirical Analysis of Post-Expiration Domain Name Takeovers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "865-880",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/LauingerCBO017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/lauinger",
+            "url": "https://dblp.org/rec/conf/uss/LauingerCBO017"
+        },
+        "url": "URL#3511176"
+    },
+    {
+        "@score": "1",
+        "@id": "3511177",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/1125",
+                        "text": "Jae-Hyuk Lee"
+                    },
+                    {
+                        "@pid": "43/6896",
+                        "text": "Jin Soo Jang"
+                    },
+                    {
+                        "@pid": "150/5222",
+                        "text": "Yeongjin Jang"
+                    },
+                    {
+                        "@pid": "205/2101",
+                        "text": "Nohyun Kwak"
+                    },
+                    {
+                        "@pid": "205/2238",
+                        "text": "Yeseul Choi"
+                    },
+                    {
+                        "@pid": "73/6184",
+                        "text": "Changho Choi"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    },
+                    {
+                        "@pid": "56/6925",
+                        "text": "Marcus Peinado"
+                    },
+                    {
+                        "@pid": "17/6702",
+                        "text": "Brent ByungHoon Kang"
+                    }
+                ]
+            },
+            "title": "Hacking in Darkness: Return-oriented Programming against Secure Enclaves.",
+            "venue": "USENIX Security Symposium",
+            "pages": "523-539",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/LeeJJKCCKPK17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/lee-jaehyuk",
+            "url": "https://dblp.org/rec/conf/uss/LeeJJKCCKPK17"
+        },
+        "url": "URL#3511177"
+    },
+    {
+        "@score": "1",
+        "@id": "3511178",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "40/2903",
+                        "text": "Zhihao Li"
+                    },
+                    {
+                        "@pid": "205/2182",
+                        "text": "Stephen Herwig"
+                    },
+                    {
+                        "@pid": "03/6428",
+                        "text": "Dave Levin"
+                    }
+                ]
+            },
+            "title": "DeTor: Provably Avoiding Geographic Regions in Tor.",
+            "venue": "USENIX Security Symposium",
+            "pages": "343-359",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/LiHL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/li",
+            "url": "https://dblp.org/rec/conf/uss/LiHL17"
+        },
+        "url": "URL#3511178"
+    },
+    {
+        "@score": "1",
+        "@id": "3511179",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "67/5807",
+                        "text": "Fang Liu"
+                    },
+                    {
+                        "@pid": "42/675",
+                        "text": "Chun Wang"
+                    },
+                    {
+                        "@pid": "169/1376",
+                        "text": "Andres Pico"
+                    },
+                    {
+                        "@pid": "y/DanfengYao",
+                        "text": "Danfeng Yao"
+                    },
+                    {
+                        "@pid": "71/4292-11",
+                        "text": "Gang Wang 0011"
+                    }
+                ]
+            },
+            "title": "Measuring the Insecurity of Mobile Deep Links of Android.",
+            "venue": "USENIX Security Symposium",
+            "pages": "953-969",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/LiuWPYW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/liu",
+            "url": "https://dblp.org/rec/conf/uss/LiuWPYW17"
+        },
+        "url": "URL#3511179"
+    },
+    {
+        "@score": "1",
+        "@id": "3511181",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/1016",
+                        "text": "Loi Luu"
+                    },
+                    {
+                        "@pid": "54/9298",
+                        "text": "Yaron Velner"
+                    },
+                    {
+                        "@pid": "77/1405",
+                        "text": "Jason Teutsch"
+                    },
+                    {
+                        "@pid": "90/105",
+                        "text": "Prateek Saxena"
+                    }
+                ]
+            },
+            "title": "SmartPool: Practical Decentralized Pooled Mining.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1409-1426",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/LuuVTS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/luu",
+            "url": "https://dblp.org/rec/conf/uss/LuuVTS17"
+        },
+        "url": "URL#3511181"
+    },
+    {
+        "@score": "1",
+        "@id": "3511182",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "154/5678",
+                        "text": "Juan Zhai"
+                    },
+                    {
+                        "@pid": "52/3194-1",
+                        "text": "Fei Wang 0001"
+                    },
+                    {
+                        "@pid": "31/9698",
+                        "text": "Kyu Hyung Lee"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "59/5539",
+                        "text": "Dongyan Xu"
+                    }
+                ]
+            },
+            "title": "MPI: Multiple Perspective Attack Investigation with Semantic Aware Execution Partitioning.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1111-1128",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MaZ0LZX17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ma",
+            "url": "https://dblp.org/rec/conf/uss/MaZ0LZX17"
+        },
+        "url": "URL#3511182"
+    },
+    {
+        "@score": "1",
+        "@id": "3511183",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/8188",
+                        "text": "Aravind Machiry"
+                    },
+                    {
+                        "@pid": "30/7555",
+                        "text": "Chad Spensky"
+                    },
+                    {
+                        "@pid": "205/2073",
+                        "text": "Jake Corina"
+                    },
+                    {
+                        "@pid": "182/4668",
+                        "text": "Nick Stephens"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "DR. CHECKER: A Soundy Analysis for Linux Kernel Drivers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1007-1024",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MachirySCSKV17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/machiry",
+            "url": "https://dblp.org/rec/conf/uss/MachirySCSKV17"
+        },
+        "url": "URL#3511183"
+    },
+    {
+        "@score": "1",
+        "@id": "3511185",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8226",
+                        "text": "Ian D. Markwood"
+                    },
+                    {
+                        "@pid": "195/7475",
+                        "text": "Dakun Shen"
+                    },
+                    {
+                        "@pid": "64/424-7",
+                        "text": "Yao Liu 0007"
+                    },
+                    {
+                        "@pid": "41/4718",
+                        "text": "Zhuo Lu"
+                    }
+                ]
+            },
+            "title": "PDF Mirage: Content Masking Attack Against Information-Based Online Services.",
+            "venue": "USENIX Security Symposium",
+            "pages": "833-847",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MarkwoodSLL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/markwood",
+            "url": "https://dblp.org/rec/conf/uss/MarkwoodSLL17"
+        },
+        "url": "URL#3511185"
+    },
+    {
+        "@score": "1",
+        "@id": "3511186",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/1940",
+                        "text": "Sinisa Matetic"
+                    },
+                    {
+                        "@pid": "42/3969",
+                        "text": "Mansoor Ahmed"
+                    },
+                    {
+                        "@pid": "42/2366",
+                        "text": "Kari Kostiainen"
+                    },
+                    {
+                        "@pid": "118/3376",
+                        "text": "Aritra Dhar"
+                    },
+                    {
+                        "@pid": "241/9505",
+                        "text": "David M. Sommer 0001"
+                    },
+                    {
+                        "@pid": "138/9020",
+                        "text": "Arthur Gervais"
+                    },
+                    {
+                        "@pid": "j/AriJuels",
+                        "text": "Ari Juels"
+                    },
+                    {
+                        "@pid": "51/1639",
+                        "text": "Srdjan Capkun"
+                    }
+                ]
+            },
+            "title": "ROTE: Rollback Protection for Trusted Execution.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1289-1306",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MateticAKDSGJC17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/matetic",
+            "url": "https://dblp.org/rec/conf/uss/MateticAKDSGJC17"
+        },
+        "url": "URL#3511186"
+    },
+    {
+        "@score": "1",
+        "@id": "3511187",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "168/7919",
+                        "text": "David McCann"
+                    },
+                    {
+                        "@pid": "48/4127",
+                        "text": "Elisabeth Oswald"
+                    },
+                    {
+                        "@pid": "56/9958",
+                        "text": "Carolyn Whitnall"
+                    }
+                ]
+            },
+            "title": "Towards Practical Tools for Side Channel Aware Software Engineering: &apos;Grey Box&apos; Modelling for Instruction Leakages.",
+            "venue": "USENIX Security Symposium",
+            "pages": "199-216",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/McCannOW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/mccann",
+            "url": "https://dblp.org/rec/conf/uss/McCannOW17"
+        },
+        "url": "URL#3511187"
+    },
+    {
+        "@score": "1",
+        "@id": "3511188",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/0483",
+                        "text": "Susan E. McGregor"
+                    },
+                    {
+                        "@pid": "196/3030",
+                        "text": "Elizabeth Anne Watkins"
+                    },
+                    {
+                        "@pid": "119/5033",
+                        "text": "Mahdi Nasrullah Al-Ameen"
+                    },
+                    {
+                        "@pid": "87/1275",
+                        "text": "Kelly Caine"
+                    },
+                    {
+                        "@pid": "23/2758",
+                        "text": "Franziska Roesner"
+                    }
+                ]
+            },
+            "title": "When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "505-522",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/McGregorWACR17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/mcgregor",
+            "url": "https://dblp.org/rec/conf/uss/McGregorWACR17"
+        },
+        "url": "URL#3511188"
+    },
+    {
+        "@score": "1",
+        "@id": "3511189",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/0164",
+                        "text": "Aastha Mehta"
+                    },
+                    {
+                        "@pid": "13/10811",
+                        "text": "Eslam Elnikety"
+                    },
+                    {
+                        "@pid": "205/2133",
+                        "text": "Katura Harvey"
+                    },
+                    {
+                        "@pid": "45/6786-1",
+                        "text": "Deepak Garg 0001"
+                    },
+                    {
+                        "@pid": "d/PDruschel",
+                        "text": "Peter Druschel"
+                    }
+                ]
+            },
+            "title": "Qapla: Policy compliance for database-backed systems.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1463-1479",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MehtaEH0D17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/mehta",
+            "url": "https://dblp.org/rec/conf/uss/MehtaEH0D17"
+        },
+        "url": "URL#3511189"
+    },
+    {
+        "@score": "1",
+        "@id": "3511190",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/6585-2",
+                        "text": "Jiang Ming 0002"
+                    },
+                    {
+                        "@pid": "158/2764",
+                        "text": "Dongpeng Xu 0001"
+                    },
+                    {
+                        "@pid": "88/9308",
+                        "text": "Yufei Jiang"
+                    },
+                    {
+                        "@pid": "54/2696",
+                        "text": "Dinghao Wu"
+                    }
+                ]
+            },
+            "title": "BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking.",
+            "venue": "USENIX Security Symposium",
+            "pages": "253-270",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/MingXJW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ming",
+            "url": "https://dblp.org/rec/conf/uss/MingXJW17"
+        },
+        "url": "URL#3511190"
+    },
+    {
+        "@score": "1",
+        "@id": "3511192",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/1926",
+                        "text": "Peter Ney"
+                    },
+                    {
+                        "@pid": "64/4300",
+                        "text": "Karl Koscher"
+                    },
+                    {
+                        "@pid": "205/2081",
+                        "text": "Lee Organick"
+                    },
+                    {
+                        "@pid": "95/5263",
+                        "text": "Luis Ceze"
+                    },
+                    {
+                        "@pid": "k/TadayoshiKohno",
+                        "text": "Tadayoshi Kohno"
+                    }
+                ]
+            },
+            "title": "Computer Security, Privacy, and DNA Sequencing: Compromising Computers with Synthesized DNA, Privacy Leaks, and More.",
+            "venue": "USENIX Security Symposium",
+            "pages": "765-779",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/NeyKOCK17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ney",
+            "url": "https://dblp.org/rec/conf/uss/NeyKOCK17"
+        },
+        "url": "URL#3511192"
+    },
+    {
+        "@score": "1",
+        "@id": "3511193",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "203/4231",
+                        "text": "Kirill Nikitin 0001"
+                    },
+                    {
+                        "@pid": "176/5301",
+                        "text": "Eleftherios Kokoris-Kogias"
+                    },
+                    {
+                        "@pid": "14/11314",
+                        "text": "Philipp Jovanovic"
+                    },
+                    {
+                        "@pid": "176/5570",
+                        "text": "Nicolas Gailly"
+                    },
+                    {
+                        "@pid": "122/9716",
+                        "text": "Linus Gasser"
+                    },
+                    {
+                        "@pid": "176/5341",
+                        "text": "Ismail Khoffi"
+                    },
+                    {
+                        "@pid": "27/5136",
+                        "text": "Justin Cappos"
+                    },
+                    {
+                        "@pid": "f/BryanFord",
+                        "text": "Bryan Ford"
+                    }
+                ]
+            },
+            "title": "CHAINIAC: Proactive Software-Update Transparency via Collectively Signed Skipchains and Verified Builds.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1271-1287",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/NikitinKJGGKCF17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/nikitin",
+            "url": "https://dblp.org/rec/conf/uss/NikitinKJGGKCF17"
+        },
+        "url": "URL#3511193"
+    },
+    {
+        "@score": "1",
+        "@id": "3511194",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/8535",
+                        "text": "Zhenyu Ning"
+                    },
+                    {
+                        "@pid": "20/11242",
+                        "text": "Fengwei Zhang"
+                    }
+                ]
+            },
+            "title": "Ninja: Towards Transparent Tracing and Debugging on ARM.",
+            "venue": "USENIX Security Symposium",
+            "pages": "33-49",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/NingZ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/ning",
+            "url": "https://dblp.org/rec/conf/uss/NingZ17"
+        },
+        "url": "URL#3511194"
+    },
+    {
+        "@score": "1",
+        "@id": "3511196",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "37/9614",
+                        "text": "Mark O&apos;Neill"
+                    },
+                    {
+                        "@pid": "169/9742",
+                        "text": "Scott Heidbrink"
+                    },
+                    {
+                        "@pid": "124/2527",
+                        "text": "Scott Ruoti"
+                    },
+                    {
+                        "@pid": "188/6053",
+                        "text": "Jordan Whitehead"
+                    },
+                    {
+                        "@pid": "188/6460",
+                        "text": "Dan Bunker"
+                    },
+                    {
+                        "@pid": "205/2032",
+                        "text": "Luke Dickinson"
+                    },
+                    {
+                        "@pid": "169/9870",
+                        "text": "Travis Hendershot"
+                    },
+                    {
+                        "@pid": "12/4508",
+                        "text": "Joshua Reynolds"
+                    },
+                    {
+                        "@pid": "s/KentESeamons",
+                        "text": "Kent E. Seamons"
+                    },
+                    {
+                        "@pid": "71/2423",
+                        "text": "Daniel Zappala"
+                    }
+                ]
+            },
+            "title": "TrustBase: An Architecture to Repair and Strengthen Certificate-based Authentication.",
+            "venue": "USENIX Security Symposium",
+            "pages": "609-624",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ONeillHRWBDHRSZ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/oneill",
+            "url": "https://dblp.org/rec/conf/uss/ONeillHRWBDHRSZ17"
+        },
+        "url": "URL#3511196"
+    },
+    {
+        "@score": "1",
+        "@id": "3511197",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/7666",
+                        "text": "Jianfeng Pan"
+                    },
+                    {
+                        "@pid": "173/3572",
+                        "text": "Guanglu Yan"
+                    },
+                    {
+                        "@pid": "205/2042",
+                        "text": "Xiaocao Fan"
+                    }
+                ]
+            },
+            "title": "Digtool: A Virtualization-Based Framework for Detecting Kernel Vulnerabilities.",
+            "venue": "USENIX Security Symposium",
+            "pages": "149-165",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PanYF17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pan",
+            "url": "https://dblp.org/rec/conf/uss/PanYF17"
+        },
+        "url": "URL#3511197"
+    },
+    {
+        "@score": "1",
+        "@id": "3511198",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "61/1749",
+                        "text": "Paul Pearce"
+                    },
+                    {
+                        "@pid": "05/7185",
+                        "text": "Ben Jones"
+                    },
+                    {
+                        "@pid": "53/10825",
+                        "text": "Frank Li 0001"
+                    },
+                    {
+                        "@pid": "24/973",
+                        "text": "Roya Ensafi"
+                    },
+                    {
+                        "@pid": "87/840",
+                        "text": "Nick Feamster"
+                    },
+                    {
+                        "@pid": "53/2937",
+                        "text": "Nicholas Weaver"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    }
+                ]
+            },
+            "title": "Global Measurement of DNS Manipulation.",
+            "venue": "USENIX Security Symposium",
+            "pages": "307-323",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PearceJLEFWP17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pearce",
+            "url": "https://dblp.org/rec/conf/uss/PearceJLEFWP17"
+        },
+        "url": "URL#3511198"
+    },
+    {
+        "@score": "1",
+        "@id": "3511199",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/7710",
+                        "text": "Giuseppe Petracca"
+                    },
+                    {
+                        "@pid": "174/7896",
+                        "text": "Ahmad Atamli-Reineh"
+                    },
+                    {
+                        "@pid": "139/7955",
+                        "text": "Yuqiong Sun"
+                    },
+                    {
+                        "@pid": "28/3855",
+                        "text": "Jens Grossklags"
+                    },
+                    {
+                        "@pid": "45/576",
+                        "text": "Trent Jaeger"
+                    }
+                ]
+            },
+            "title": "AWare: Preventing Abuse of Privacy-Sensitive Sensors via Operation Bindings.",
+            "venue": "USENIX Security Symposium",
+            "pages": "379-396",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PetraccaASGJ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/petracca",
+            "url": "https://dblp.org/rec/conf/uss/PetraccaASGJ17"
+        },
+        "url": "URL#3511199"
+    },
+    {
+        "@score": "1",
+        "@id": "3511200",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "99/3569",
+                        "text": "Anh Pham"
+                    },
+                    {
+                        "@pid": "82/5414",
+                        "text": "Italo Dacosta"
+                    },
+                    {
+                        "@pid": "183/8472",
+                        "text": "Guillaume Endignoux"
+                    },
+                    {
+                        "@pid": "33/5866",
+                        "text": "Juan Ram\u00f3n Troncoso-Pastoriza"
+                    },
+                    {
+                        "@pid": "10/3024",
+                        "text": "K\u00e9vin Huguenin"
+                    },
+                    {
+                        "@pid": "h/JPHubaux",
+                        "text": "Jean-Pierre Hubaux"
+                    }
+                ]
+            },
+            "title": "ORide: A Privacy-Preserving yet Accountable Ride-Hailing Service.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1235-1252",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PhamDETHH17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pham",
+            "url": "https://dblp.org/rec/conf/uss/PhamDETHH17"
+        },
+        "url": "URL#3511200"
+    },
+    {
+        "@score": "1",
+        "@id": "3511201",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "178/2737",
+                        "text": "Ania M. Piotrowska"
+                    },
+                    {
+                        "@pid": "168/8164",
+                        "text": "Jamie Hayes"
+                    },
+                    {
+                        "@pid": "120/5844",
+                        "text": "Tariq Elahi"
+                    },
+                    {
+                        "@pid": "02/7901-1",
+                        "text": "Sebastian Meiser 0001"
+                    },
+                    {
+                        "@pid": "11/1148",
+                        "text": "George Danezis"
+                    }
+                ]
+            },
+            "title": "The Loopix Anonymity System.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1199-1216",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PiotrowskaHEMD17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/piotrowska",
+            "url": "https://dblp.org/rec/conf/uss/PiotrowskaHEMD17"
+        },
+        "url": "URL#3511201"
+    },
+    {
+        "@score": "1",
+        "@id": "3511202",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "183/9956",
+                        "text": "Angelisa C. Plane"
+                    },
+                    {
+                        "@pid": "141/9244",
+                        "text": "Elissa M. Redmiles"
+                    },
+                    {
+                        "@pid": "20/7983",
+                        "text": "Michelle L. Mazurek"
+                    },
+                    {
+                        "@pid": "45/1247",
+                        "text": "Michael Carl Tschantz"
+                    }
+                ]
+            },
+            "title": "Exploring User Perceptions of Discrimination in Online Targeted Advertising.",
+            "venue": "USENIX Security Symposium",
+            "pages": "935-951",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/PlaneRMT17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/plane",
+            "url": "https://dblp.org/rec/conf/uss/PlaneRMT17"
+        },
+        "url": "URL#3511202"
+    },
+    {
+        "@score": "1",
+        "@id": "3511204",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/3983",
+                        "text": "Bradley Reaves"
+                    },
+                    {
+                        "@pid": "183/1275",
+                        "text": "Logan Blue"
+                    },
+                    {
+                        "@pid": "205/2013",
+                        "text": "Hadi Abdullah"
+                    },
+                    {
+                        "@pid": "68/5101",
+                        "text": "Luis Vargas"
+                    },
+                    {
+                        "@pid": "14/3295",
+                        "text": "Patrick Traynor"
+                    },
+                    {
+                        "@pid": "s/ThomasShrimpton",
+                        "text": "Thomas Shrimpton"
+                    }
+                ]
+            },
+            "title": "AuthentiCall: Efficient Identity and Content Authentication for Phone Calls.",
+            "venue": "USENIX Security Symposium",
+            "pages": "575-592",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ReavesBAVTS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/reaves",
+            "url": "https://dblp.org/rec/conf/uss/ReavesBAVTS17"
+        },
+        "url": "URL#3511204"
+    },
+    {
+        "@score": "1",
+        "@id": "3511205",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "155/6800",
+                        "text": "Nilo Redini"
+                    },
+                    {
+                        "@pid": "133/8188",
+                        "text": "Aravind Machiry"
+                    },
+                    {
+                        "@pid": "90/3182-2",
+                        "text": "Dipanjan Das 0002"
+                    },
+                    {
+                        "@pid": "11/10929",
+                        "text": "Yanick Fratantonio"
+                    },
+                    {
+                        "@pid": "99/3883",
+                        "text": "Antonio Bianchi"
+                    },
+                    {
+                        "@pid": "121/1138",
+                        "text": "Eric Gustafson"
+                    },
+                    {
+                        "@pid": "119/7712",
+                        "text": "Yan Shoshitaishvili"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    }
+                ]
+            },
+            "title": "BootStomp: On the Security of Bootloaders in Mobile Devices.",
+            "venue": "USENIX Security Symposium",
+            "pages": "781-798",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/RediniMDFBGSKV17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/redini",
+            "url": "https://dblp.org/rec/conf/uss/RediniMDFBGSKV17"
+        },
+        "url": "URL#3511205"
+    },
+    {
+        "@score": "1",
+        "@id": "3511206",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/2039",
+                        "text": "Iskander S\u00e1nchez-Rola"
+                    },
+                    {
+                        "@pid": "49/4967",
+                        "text": "Igor Santos"
+                    },
+                    {
+                        "@pid": "56/490",
+                        "text": "Davide Balzarotti"
+                    }
+                ]
+            },
+            "title": "Extension Breakdown: Security Analysis of Browsers Extension Resources Control Policies.",
+            "venue": "USENIX Security Symposium",
+            "pages": "679-694",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/Sanchez-RolaSB17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/sanchez-rola",
+            "url": "https://dblp.org/rec/conf/uss/Sanchez-RolaSB17"
+        },
+        "url": "URL#3511206"
+    },
+    {
+        "@score": "1",
+        "@id": "3511208",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2072",
+                        "text": "Sergej Schumilo"
+                    },
+                    {
+                        "@pid": "160/7844",
+                        "text": "Cornelius Aschermann"
+                    },
+                    {
+                        "@pid": "150/5154",
+                        "text": "Robert Gawlik"
+                    },
+                    {
+                        "@pid": "43/11495",
+                        "text": "Sebastian Schinzel"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels.",
+            "venue": "USENIX Security Symposium",
+            "pages": "167-182",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SchumiloAGSH17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schumilo",
+            "url": "https://dblp.org/rec/conf/uss/SchumiloAGSH17"
+        },
+        "url": "URL#3511208"
+    },
+    {
+        "@score": "1",
+        "@id": "3511209",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/8190",
+                        "text": "Roei Schuster"
+                    },
+                    {
+                        "@pid": "46/6275",
+                        "text": "Vitaly Shmatikov"
+                    },
+                    {
+                        "@pid": "t/EranTromer",
+                        "text": "Eran Tromer"
+                    }
+                ]
+            },
+            "title": "Beauty and the Burst: Remote Identification of Encrypted Video Streams.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1357-1374",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SchusterST17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schuster",
+            "url": "https://dblp.org/rec/conf/uss/SchusterST17"
+        },
+        "url": "URL#3511209"
+    },
+    {
+        "@score": "1",
+        "@id": "3511210",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "58/5730",
+                        "text": "J\u00f6rg Schwenk"
+                    },
+                    {
+                        "@pid": "118/7486",
+                        "text": "Marcus Niemietz"
+                    },
+                    {
+                        "@pid": "57/11338",
+                        "text": "Christian Mainka"
+                    }
+                ]
+            },
+            "title": "Same-Origin Policy: Evaluation in Modern Browsers.",
+            "venue": "USENIX Security Symposium",
+            "pages": "713-727",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SchwenkNM17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/schwenk",
+            "url": "https://dblp.org/rec/conf/uss/SchwenkNM17"
+        },
+        "url": "URL#3511210"
+    },
+    {
+        "@score": "1",
+        "@id": "3511212",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/9503",
+                        "text": "Amit Kumar Sikder"
+                    },
+                    {
+                        "@pid": "30/10201",
+                        "text": "Hidayet Aksu"
+                    },
+                    {
+                        "@pid": "46/1500",
+                        "text": "A. Selcuk Uluagac"
+                    }
+                ]
+            },
+            "title": "6thSense: A Context-aware Sensor-based Attack Detector for Smart Devices.",
+            "venue": "USENIX Security Symposium",
+            "pages": "397-414",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SikderAU17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/sikder",
+            "url": "https://dblp.org/rec/conf/uss/SikderAU17"
+        },
+        "url": "URL#3511212"
+    },
+    {
+        "@score": "1",
+        "@id": "3511213",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/5453",
+                        "text": "Rachee Singh"
+                    },
+                    {
+                        "@pid": "35/8412",
+                        "text": "Rishab Nithyanand"
+                    },
+                    {
+                        "@pid": "29/7562-1",
+                        "text": "Sadia Afroz 0001"
+                    },
+                    {
+                        "@pid": "61/1749",
+                        "text": "Paul Pearce"
+                    },
+                    {
+                        "@pid": "45/1247",
+                        "text": "Michael Carl Tschantz"
+                    },
+                    {
+                        "@pid": "52/2893",
+                        "text": "Phillipa Gill"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    }
+                ]
+            },
+            "title": "Characterizing the Nature and Dynamics of Tor Exit Blocking.",
+            "venue": "USENIX Security Symposium",
+            "pages": "325-341",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SinghNAPTGP17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/singh",
+            "url": "https://dblp.org/rec/conf/uss/SinghNAPTGP17"
+        },
+        "url": "URL#3511213"
+    },
+    {
+        "@score": "1",
+        "@id": "3511214",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/4413",
+                        "text": "Marc Stevens 0001"
+                    },
+                    {
+                        "@pid": "24/7481",
+                        "text": "Daniel Shumow"
+                    }
+                ]
+            },
+            "title": "Speeding up detection of SHA-1 collision attacks using unavoidable attack conditions.",
+            "venue": "USENIX Security Symposium",
+            "pages": "881-897",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/StevensS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/stevens",
+            "url": "https://dblp.org/rec/conf/uss/StevensS17"
+        },
+        "url": "URL#3511214"
+    },
+    {
+        "@score": "1",
+        "@id": "3511216",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/8343",
+                        "text": "Ben Stock"
+                    },
+                    {
+                        "@pid": "82/359",
+                        "text": "Martin Johns"
+                    },
+                    {
+                        "@pid": "205/2051",
+                        "text": "Marius Steffens"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    }
+                ]
+            },
+            "title": "How the Web Tangled Itself: Uncovering the History of Client-Side Web (In)Security.",
+            "venue": "USENIX Security Symposium",
+            "pages": "971-987",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/StockJS017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/stock",
+            "url": "https://dblp.org/rec/conf/uss/StockJS017"
+        },
+        "url": "URL#3511216"
+    },
+    {
+        "@score": "1",
+        "@id": "3511218",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/686",
+                        "text": "Yang Su"
+                    },
+                    {
+                        "@pid": "98/8283",
+                        "text": "Daniel Genkin"
+                    },
+                    {
+                        "@pid": "56/8102",
+                        "text": "Damith Chinthana Ranasinghe"
+                    },
+                    {
+                        "@pid": "90/10901",
+                        "text": "Yuval Yarom"
+                    }
+                ]
+            },
+            "title": "USB Snooping Made Easy: Crosstalk Leakage Attacks on USB Hubs.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1145-1161",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/SuGRY17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/su",
+            "url": "https://dblp.org/rec/conf/uss/SuGRY17"
+        },
+        "url": "URL#3511218"
+    },
+    {
+        "@score": "1",
+        "@id": "3511220",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "68/5424",
+                        "text": "Adrian Tang"
+                    },
+                    {
+                        "@pid": "46/652",
+                        "text": "Simha Sethumadhavan"
+                    },
+                    {
+                        "@pid": "s/SalvatoreJStolfo",
+                        "text": "Salvatore J. Stolfo"
+                    }
+                ]
+            },
+            "title": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1057-1074",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/TangSS17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/tang",
+            "url": "https://dblp.org/rec/conf/uss/TangSS17"
+        },
+        "url": "URL#3511220"
+    },
+    {
+        "@score": "1",
+        "@id": "3511222",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "39/5423-1",
+                        "text": "Yuan Tian 0001"
+                    },
+                    {
+                        "@pid": "28/6297-18",
+                        "text": "Nan Zhang 0018"
+                    },
+                    {
+                        "@pid": "42/2165",
+                        "text": "Yue-Hsun Lin"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "66/9786",
+                        "text": "Blase Ur"
+                    },
+                    {
+                        "@pid": "199/8295",
+                        "text": "Xianzheng Guo"
+                    },
+                    {
+                        "@pid": "89/1945",
+                        "text": "Patrick Tague"
+                    }
+                ]
+            },
+            "title": "SmartAuth: User-Centered Authorization for the Internet of Things.",
+            "venue": "USENIX Security Symposium",
+            "pages": "361-378",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/TianZLWUGT17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/tian",
+            "url": "https://dblp.org/rec/conf/uss/TianZLWUGT17"
+        },
+        "url": "URL#3511222"
+    },
+    {
+        "@score": "1",
+        "@id": "3511225",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "195/6219",
+                        "text": "Pepe Vila"
+                    },
+                    {
+                        "@pid": "10/3908",
+                        "text": "Boris K\u00f6pf"
+                    }
+                ]
+            },
+            "title": "Loophole: Timing Attacks on Shared Event Loops in Chrome.",
+            "venue": "USENIX Security Symposium",
+            "pages": "849-864",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/VilaK17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/vila",
+            "url": "https://dblp.org/rec/conf/uss/VilaK17"
+        },
+        "url": "URL#3511225"
+    },
+    {
+        "@score": "1",
+        "@id": "3511226",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/3288-1",
+                        "text": "Tianhao Wang 0001"
+                    },
+                    {
+                        "@pid": "30/8037",
+                        "text": "Jeremiah Blocki"
+                    },
+                    {
+                        "@pid": "l/NinghuiLi",
+                        "text": "Ninghui Li"
+                    },
+                    {
+                        "@pid": "j/SomeshJha",
+                        "text": "Somesh Jha"
+                    }
+                ]
+            },
+            "title": "Locally Differentially Private Protocols for Frequency Estimation.",
+            "venue": "USENIX Security Symposium",
+            "pages": "729-745",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/WangBLJ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-tianhao",
+            "url": "https://dblp.org/rec/conf/uss/WangBLJ17"
+        },
+        "url": "URL#3511226"
+    },
+    {
+        "@score": "1",
+        "@id": "3511227",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/5838-12",
+                        "text": "Tao Wang 0012"
+                    },
+                    {
+                        "@pid": "04/6434",
+                        "text": "Ian Goldberg"
+                    }
+                ]
+            },
+            "title": "Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1375-1390",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/WangG17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-tao",
+            "url": "https://dblp.org/rec/conf/uss/WangG17"
+        },
+        "url": "URL#3511227"
+    },
+    {
+        "@score": "1",
+        "@id": "3511228",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "90/4693-10",
+                        "text": "Pengfei Wang 0010"
+                    },
+                    {
+                        "@pid": "k/JensKrinke",
+                        "text": "Jens Krinke"
+                    },
+                    {
+                        "@pid": "31/6932",
+                        "text": "Kai Lu"
+                    },
+                    {
+                        "@pid": "28/538-2",
+                        "text": "Gen Li 0002"
+                    },
+                    {
+                        "@pid": "132/2226",
+                        "text": "Steve Dodier-Lazaro"
+                    }
+                ]
+            },
+            "title": "How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1-16",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/WangKL0D17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-pengfei",
+            "url": "https://dblp.org/rec/conf/uss/WangKL0D17"
+        },
+        "url": "URL#3511228"
+    },
+    {
+        "@score": "1",
+        "@id": "3511229",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "42/1503-11",
+                        "text": "Shuai Wang 0011"
+                    },
+                    {
+                        "@pid": "83/4555-7",
+                        "text": "Pei Wang 0007"
+                    },
+                    {
+                        "@pid": "82/1364-25",
+                        "text": "Xiao Liu 0025"
+                    },
+                    {
+                        "@pid": "23/3719",
+                        "text": "Danfeng Zhang"
+                    },
+                    {
+                        "@pid": "54/2696",
+                        "text": "Dinghao Wu"
+                    }
+                ]
+            },
+            "title": "CacheD: Identifying Cache-Based Timing Channels in Production Software.",
+            "venue": "USENIX Security Symposium",
+            "pages": "235-252",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/WangWLZW17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/wang-shuai",
+            "url": "https://dblp.org/rec/conf/uss/WangWLZW17"
+        },
+        "url": "URL#3511229"
+    },
+    {
+        "@score": "1",
+        "@id": "3511233",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/360-24",
+                        "text": "Lei Xu 0024"
+                    },
+                    {
+                        "@pid": "68/4706-1",
+                        "text": "Jeff Huang 0001"
+                    },
+                    {
+                        "@pid": "77/7581",
+                        "text": "Sungmin Hong"
+                    },
+                    {
+                        "@pid": "49/11187",
+                        "text": "Jialong Zhang"
+                    },
+                    {
+                        "@pid": "64/1147",
+                        "text": "Guofei Gu"
+                    }
+                ]
+            },
+            "title": "Attacking the Brain: Races in the SDN Control Plane.",
+            "venue": "USENIX Security Symposium",
+            "pages": "451-468",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/XuHHZG17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/xu-lei",
+            "url": "https://dblp.org/rec/conf/uss/XuHHZG17"
+        },
+        "url": "URL#3511233"
+    },
+    {
+        "@score": "1",
+        "@id": "3511234",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/4287-1",
+                        "text": "Meng Xu 0001"
+                    },
+                    {
+                        "@pid": "38/8882",
+                        "text": "Taesoo Kim"
+                    }
+                ]
+            },
+            "title": "PlatPal: Detecting Malicious Documents with Platform Diversity.",
+            "venue": "USENIX Security Symposium",
+            "pages": "271-287",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/XuK17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/xu-meng",
+            "url": "https://dblp.org/rec/conf/uss/XuK17"
+        },
+        "url": "URL#3511234"
+    },
+    {
+        "@score": "1",
+        "@id": "3511235",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "90/514-24",
+                        "text": "Jun Xu 0024"
+                    },
+                    {
+                        "@pid": "187/8991",
+                        "text": "Dongliang Mu"
+                    },
+                    {
+                        "@pid": "40/6431",
+                        "text": "Xinyu Xing"
+                    },
+                    {
+                        "@pid": "21/6121-5",
+                        "text": "Peng Liu 0005"
+                    },
+                    {
+                        "@pid": "33/3675-3",
+                        "text": "Ping Chen 0003"
+                    },
+                    {
+                        "@pid": "98/5039-1",
+                        "text": "Bing Mao 0001"
+                    }
+                ]
+            },
+            "title": "Postmortem Program Analysis with Hardware-Enhanced Post-Crash Artifacts.",
+            "venue": "USENIX Security Symposium",
+            "pages": "17-32",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/XuMX0CM17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/xu-jun",
+            "url": "https://dblp.org/rec/conf/uss/XuMX0CM17"
+        },
+        "url": "URL#3511235"
+    },
+    {
+        "@score": "1",
+        "@id": "3511236",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "68/2052-1",
+                        "text": "Lei Xue 0001"
+                    },
+                    {
+                        "@pid": "15/7381",
+                        "text": "Yajin Zhou"
+                    },
+                    {
+                        "@pid": "19/1766-2",
+                        "text": "Ting Chen 0002"
+                    },
+                    {
+                        "@pid": "53/1565",
+                        "text": "Xiapu Luo"
+                    },
+                    {
+                        "@pid": "64/1147",
+                        "text": "Guofei Gu"
+                    }
+                ]
+            },
+            "title": "Malton: Towards On-Device Non-Invasive Mobile Malware Analysis for ART.",
+            "venue": "USENIX Security Symposium",
+            "pages": "289-306",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/XueZCLG17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/xue",
+            "url": "https://dblp.org/rec/conf/uss/XueZCLG17"
+        },
+        "url": "URL#3511236"
+    },
+    {
+        "@score": "1",
+        "@id": "3511237",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "202/6740",
+                        "text": "Zhaomo Yang"
+                    },
+                    {
+                        "@pid": "157/3785",
+                        "text": "Brian Johannesmeyer"
+                    },
+                    {
+                        "@pid": "205/2078",
+                        "text": "Anders Trier Olesen"
+                    },
+                    {
+                        "@pid": "11/3644",
+                        "text": "Sorin Lerner"
+                    },
+                    {
+                        "@pid": "l/KirillLevchenko",
+                        "text": "Kirill Levchenko"
+                    }
+                ]
+            },
+            "title": "Dead Store Elimination (Still) Considered Harmful.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1025-1040",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/YangJOLL17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/yang",
+            "url": "https://dblp.org/rec/conf/uss/YangJOLL17"
+        },
+        "url": "URL#3511237"
+    },
+    {
+        "@score": "1",
+        "@id": "3511238",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "21/3626-22",
+                        "text": "Fan Zhang 0022"
+                    },
+                    {
+                        "@pid": "86/8318",
+                        "text": "Ittay Eyal"
+                    },
+                    {
+                        "@pid": "41/8609",
+                        "text": "Robert Escriva"
+                    },
+                    {
+                        "@pid": "j/AriJuels",
+                        "text": "Ari Juels"
+                    },
+                    {
+                        "@pid": "r/RvRenesse",
+                        "text": "Robbert van Renesse"
+                    }
+                ]
+            },
+            "title": "REM: Resource-Efficient Mining for Blockchains.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1427-1444",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ZhangEEJR17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/zhang",
+            "url": "https://dblp.org/rec/conf/uss/ZhangEEJR17"
+        },
+        "url": "URL#3511238"
+    },
+    {
+        "@score": "1",
+        "@id": "3511239",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/9827",
+                        "text": "Siqi Zhao"
+                    },
+                    {
+                        "@pid": "99/1702",
+                        "text": "Xuhua Ding"
+                    },
+                    {
+                        "@pid": "42/1870",
+                        "text": "Wen Xu"
+                    },
+                    {
+                        "@pid": "72/1963",
+                        "text": "Dawu Gu"
+                    }
+                ]
+            },
+            "title": "Seeing Through The Same Lens: Introspecting Guest Address Space At Native Speed.",
+            "venue": "USENIX Security Symposium",
+            "pages": "799-813",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ZhaoDXG17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/zhao",
+            "url": "https://dblp.org/rec/conf/uss/ZhaoDXG17"
+        },
+        "url": "URL#3511239"
+    },
+    {
+        "@score": "1",
+        "@id": "3511240",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5253",
+                        "text": "Sebastian Zimmeck"
+                    },
+                    {
+                        "@pid": "205/2248",
+                        "text": "Jie S. Li"
+                    },
+                    {
+                        "@pid": "135/2642",
+                        "text": "Hyungtae Kim"
+                    },
+                    {
+                        "@pid": "00/1396",
+                        "text": "Steven M. Bellovin"
+                    },
+                    {
+                        "@pid": "43/4734",
+                        "text": "Tony Jebara"
+                    }
+                ]
+            },
+            "title": "A Privacy Analysis of Cross-device Tracking.",
+            "venue": "USENIX Security Symposium",
+            "pages": "1391-1408",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/uss/ZimmeckLKBJ17",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/zimmeck",
+            "url": "https://dblp.org/rec/conf/uss/ZimmeckLKBJ17"
+        },
+        "url": "URL#3511240"
+    },
+    {
+        "@score": "1",
+        "@id": "3524244",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "k/EnginKirda",
+                        "text": "Engin Kirda"
+                    },
+                    {
+                        "@pid": "26/3399",
+                        "text": "Thomas Ristenpart"
+                    }
+                ]
+            },
+            "title": "26th USENIX Security Symposium, USENIX Security 2017, Vancouver, BC, Canada, August 16-18, 2017.",
+            "venue": "USENIX Security Symposium",
+            "publisher": "USENIX Association",
+            "year": "2017",
+            "type": "Editorship",
+            "access": "open",
+            "key": "conf/uss/2017",
+            "ee": "https://www.usenix.org/conference/usenixsecurity17",
+            "url": "https://dblp.org/rec/conf/uss/2017"
+        },
+        "url": "URL#3524244"
+    }
+]

@@ -1,0 +1,4831 @@
+[
+    {
+        "@score": "1",
+        "@id": "3824245",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/8179-1",
+                        "text": "Yanyan Jiang 0001"
+                    },
+                    {
+                        "@pid": "190/1168",
+                        "text": "Haicheng Chen"
+                    },
+                    {
+                        "@pid": "31/3488",
+                        "text": "Feng Qin"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "Crash consistency validation made easy.",
+            "venue": "SIGSOFT FSE",
+            "pages": "133-143",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/0001CQXML16",
+            "doi": "10.1145/2950290.2950327",
+            "ee": "https://doi.org/10.1145/2950290.2950327",
+            "url": "https://dblp.org/rec/conf/sigsoft/0001CQXML16"
+        },
+        "url": "URL#3824245"
+    },
+    {
+        "@score": "1",
+        "@id": "3824246",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "159/1900",
+                        "text": "Matthias Dangl"
+                    },
+                    {
+                        "@pid": "59/9798",
+                        "text": "Daniel Dietsch"
+                    },
+                    {
+                        "@pid": "52/7224",
+                        "text": "Matthias Heizmann"
+                    }
+                ]
+            },
+            "title": "Correctness witnesses: exchanging verification results between verifiers.",
+            "venue": "SIGSOFT FSE",
+            "pages": "326-337",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/0001DDH16",
+            "doi": "10.1145/2950290.2950351",
+            "ee": "https://doi.org/10.1145/2950290.2950351",
+            "url": "https://dblp.org/rec/conf/sigsoft/0001DDH16"
+        },
+        "url": "URL#3824246"
+    },
+    {
+        "@score": "1",
+        "@id": "3824247",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/3844",
+                        "text": "Yuepeng Wang 0001"
+                    },
+                    {
+                        "@pid": "30/4550-1",
+                        "text": "Yu Feng 0001"
+                    },
+                    {
+                        "@pid": "14/8296",
+                        "text": "Ruben Martins"
+                    },
+                    {
+                        "@pid": "185/0893",
+                        "text": "Arati Kaushik"
+                    },
+                    {
+                        "@pid": "85/3688",
+                        "text": "Isil Dillig"
+                    },
+                    {
+                        "@pid": "r/StevenPReiss",
+                        "text": "Steven P. Reiss"
+                    }
+                ]
+            },
+            "title": "Hunter: next-generation code reuse for Java.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1028-1032",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/0001FMKDR16",
+            "doi": "10.1145/2950290.2983934",
+            "ee": "https://doi.org/10.1145/2950290.2983934",
+            "url": "https://dblp.org/rec/conf/sigsoft/0001FMKDR16"
+        },
+        "url": "URL#3824247"
+    },
+    {
+        "@score": "1",
+        "@id": "3824248",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/8179-1",
+                        "text": "Yanyan Jiang 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "46/1534",
+                        "text": "Du Li"
+                    },
+                    {
+                        "@pid": "67/3058",
+                        "text": "Xiaoxing Ma"
+                    },
+                    {
+                        "@pid": "38/5132",
+                        "text": "Jian Lu 0001"
+                    }
+                ]
+            },
+            "title": "Online shared memory dependence reduction via bisectional coordination.",
+            "venue": "SIGSOFT FSE",
+            "pages": "822-832",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/0001XLML16",
+            "doi": "10.1145/2950290.2950326",
+            "ee": "https://doi.org/10.1145/2950290.2950326",
+            "url": "https://dblp.org/rec/conf/sigsoft/0001XLML16"
+        },
+        "url": "URL#3824248"
+    },
+    {
+        "@score": "1",
+        "@id": "3824252",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/5553",
+                        "text": "Iftekhar Ahmed 0001"
+                    },
+                    {
+                        "@pid": "93/11109",
+                        "text": "Rahul Gopinath"
+                    },
+                    {
+                        "@pid": "145/3991",
+                        "text": "Caius Brindescu"
+                    },
+                    {
+                        "@pid": "g/AlexGroce",
+                        "text": "Alex Groce"
+                    },
+                    {
+                        "@pid": "45/339",
+                        "text": "Carlos Jensen"
+                    }
+                ]
+            },
+            "title": "Can testedness be effectively measured?",
+            "venue": "SIGSOFT FSE",
+            "pages": "547-558",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/AhmedGBGJ16",
+            "doi": "10.1145/2950290.2950324",
+            "ee": "https://doi.org/10.1145/2950290.2950324",
+            "url": "https://dblp.org/rec/conf/sigsoft/AhmedGBGJ16"
+        },
+        "url": "URL#3824252"
+    },
+    {
+        "@score": "1",
+        "@id": "3824254",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "167/0171",
+                    "text": "Carol V. Alexandru"
+                }
+            },
+            "title": "Guided code synthesis using deep neural networks.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1068-1070",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Alexandru16",
+            "doi": "10.1145/2950290.2983951",
+            "ee": "https://doi.org/10.1145/2950290.2983951",
+            "url": "https://dblp.org/rec/conf/sigsoft/Alexandru16"
+        },
+        "url": "URL#3824254"
+    },
+    {
+        "@score": "1",
+        "@id": "3824256",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "55/9523",
+                    "text": "Saba Alimadadi"
+                }
+            },
+            "title": "Understanding behavioural patterns in JavaScript.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1076-1078",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Alimadadi16",
+            "doi": "10.1145/2950290.2983947",
+            "ee": "https://doi.org/10.1145/2950290.2983947",
+            "url": "https://dblp.org/rec/conf/sigsoft/Alimadadi16"
+        },
+        "url": "URL#3824256"
+    },
+    {
+        "@score": "1",
+        "@id": "3824257",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "a/SvenApel",
+                        "text": "Sven Apel"
+                    },
+                    {
+                        "@pid": "b/DirkBeyer1",
+                        "text": "Dirk Beyer 0001"
+                    },
+                    {
+                        "@pid": "181/9833",
+                        "text": "Vitaly O. Mordan"
+                    },
+                    {
+                        "@pid": "76/7124",
+                        "text": "Vadim S. Mutilin"
+                    },
+                    {
+                        "@pid": "125/3008",
+                        "text": "Andreas Stahlbauer"
+                    }
+                ]
+            },
+            "title": "On-the-fly decomposition of specifications in software model checking.",
+            "venue": "SIGSOFT FSE",
+            "pages": "349-361",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Apel0MMS16",
+            "doi": "10.1145/2950290.2950349",
+            "ee": "https://doi.org/10.1145/2950290.2950349",
+            "url": "https://dblp.org/rec/conf/sigsoft/Apel0MMS16"
+        },
+        "url": "URL#3824257"
+    },
+    {
+        "@score": "1",
+        "@id": "3824259",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "88/2247",
+                        "text": "Hamid Bagheri"
+                    },
+                    {
+                        "@pid": "88/4685",
+                        "text": "Sam Malek"
+                    }
+                ]
+            },
+            "title": "Titanium: efficient analysis of evolving alloy specifications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "27-38",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BagheriM16",
+            "doi": "10.1145/2950290.2950337",
+            "ee": "https://doi.org/10.1145/2950290.2950337",
+            "url": "https://dblp.org/rec/conf/sigsoft/BagheriM16"
+        },
+        "url": "URL#3824259"
+    },
+    {
+        "@score": "1",
+        "@id": "3824260",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/1704",
+                        "text": "Lucas Bang"
+                    },
+                    {
+                        "@pid": "147/0425",
+                        "text": "Abdulbaki Aydin"
+                    },
+                    {
+                        "@pid": "30/9676",
+                        "text": "Quoc-Sang Phan"
+                    },
+                    {
+                        "@pid": "03/4368",
+                        "text": "Corina S. Pasareanu"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    }
+                ]
+            },
+            "title": "String analysis for side channels with segmented oracles.",
+            "venue": "SIGSOFT FSE",
+            "pages": "193-204",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BangAPPB16",
+            "doi": "10.1145/2950290.2950362",
+            "ee": "https://doi.org/10.1145/2950290.2950362",
+            "url": "https://dblp.org/rec/conf/sigsoft/BangAPPB16"
+        },
+        "url": "URL#3824260"
+    },
+    {
+        "@score": "1",
+        "@id": "3824261",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/LucianoBaresi",
+                        "text": "Luciano Baresi"
+                    },
+                    {
+                        "@pid": "07/2772",
+                        "text": "Sam Guinea"
+                    },
+                    {
+                        "@pid": "16/5296",
+                        "text": "Alberto Leva"
+                    },
+                    {
+                        "@pid": "150/6029",
+                        "text": "Giovanni Quattrocchi"
+                    }
+                ]
+            },
+            "title": "A discrete-time feedback controller for containerized cloud applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "217-228",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BaresiGLQ16",
+            "doi": "10.1145/2950290.2950328",
+            "ee": "https://doi.org/10.1145/2950290.2950328",
+            "url": "https://dblp.org/rec/conf/sigsoft/BaresiGLQ16"
+        },
+        "url": "URL#3824261"
+    },
+    {
+        "@score": "1",
+        "@id": "3824262",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "122/6337",
+                    "text": "Titus Barik"
+                }
+            },
+            "title": "How should static analysis tools explain anomalies to developers?",
+            "venue": "SIGSOFT FSE",
+            "pages": "1118-1120",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Barik16",
+            "doi": "10.1145/2950290.2983968",
+            "ee": "https://doi.org/10.1145/2950290.2983968",
+            "url": "https://dblp.org/rec/conf/sigsoft/Barik16"
+        },
+        "url": "URL#3824262"
+    },
+    {
+        "@score": "1",
+        "@id": "3824263",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "122/6337",
+                        "text": "Titus Barik"
+                    },
+                    {
+                        "@pid": "05/9103",
+                        "text": "Rahul Pandita"
+                    },
+                    {
+                        "@pid": "177/6937",
+                        "text": "Justin Middleton"
+                    },
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    }
+                ]
+            },
+            "title": "Designing for dystopia: software engineering research for the post-apocalypse.",
+            "venue": "SIGSOFT FSE",
+            "pages": "924-927",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BarikPMM16",
+            "doi": "10.1145/2950290.2983986",
+            "ee": "https://doi.org/10.1145/2950290.2983986",
+            "url": "https://dblp.org/rec/conf/sigsoft/BarikPMM16"
+        },
+        "url": "URL#3824263"
+    },
+    {
+        "@score": "1",
+        "@id": "3824264",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "47/1088",
+                        "text": "Earl T. Barr"
+                    },
+                    {
+                        "@pid": "88/1390",
+                        "text": "Mark Marron"
+                    },
+                    {
+                        "@pid": "190/1203",
+                        "text": "Ed Maurer"
+                    },
+                    {
+                        "@pid": "190/1149",
+                        "text": "Dan Moseley"
+                    },
+                    {
+                        "@pid": "190/1155",
+                        "text": "Gaurav Seth"
+                    }
+                ]
+            },
+            "title": "Time-travel debugging for JavaScript/Node.js.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1003-1007",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BarrMMMS16",
+            "doi": "10.1145/2950290.2983933",
+            "ee": "https://doi.org/10.1145/2950290.2983933",
+            "url": "https://dblp.org/rec/conf/sigsoft/BarrMMMS16"
+        },
+        "url": "URL#3824264"
+    },
+    {
+        "@score": "1",
+        "@id": "3824265",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "92/11428",
+                        "text": "Tobias Baum"
+                    },
+                    {
+                        "@pid": "00/9861",
+                        "text": "Olga Liskin"
+                    },
+                    {
+                        "@pid": "73/8213",
+                        "text": "Kai Niklas"
+                    },
+                    {
+                        "@pid": "s/KurtSchneider",
+                        "text": "Kurt Schneider"
+                    }
+                ]
+            },
+            "title": "Factors influencing code review processes in industry.",
+            "venue": "SIGSOFT FSE",
+            "pages": "85-96",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BaumLNS16",
+            "doi": "10.1145/2950290.2950323",
+            "ee": "https://doi.org/10.1145/2950290.2950323",
+            "url": "https://dblp.org/rec/conf/sigsoft/BaumLNS16"
+        },
+        "url": "URL#3824265"
+    },
+    {
+        "@score": "1",
+        "@id": "3824266",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "22/6472",
+                        "text": "Thorsten Berger"
+                    },
+                    {
+                        "@pid": "73/741",
+                        "text": "Markus V\u00f6lter"
+                    },
+                    {
+                        "@pid": "190/1260",
+                        "text": "Hans Peter Jensen"
+                    },
+                    {
+                        "@pid": "190/1153",
+                        "text": "Taweesap Dangprasert"
+                    },
+                    {
+                        "@pid": "88/7055",
+                        "text": "Janet Siegmund"
+                    }
+                ]
+            },
+            "title": "Efficiency of projectional editing: a controlled experiment.",
+            "venue": "SIGSOFT FSE",
+            "pages": "763-774",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BergerVJDS16",
+            "doi": "10.1145/2950290.2950315",
+            "ee": "https://doi.org/10.1145/2950290.2950315",
+            "url": "https://dblp.org/rec/conf/sigsoft/BergerVJDS16"
+        },
+        "url": "URL#3824266"
+    },
+    {
+        "@score": "1",
+        "@id": "3824269",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "83/4898",
+                        "text": "Christopher Bogart"
+                    },
+                    {
+                        "@pid": "85/3873",
+                        "text": "Christian K\u00e4stner"
+                    },
+                    {
+                        "@pid": "h/JamesDHerbsleb",
+                        "text": "James D. Herbsleb"
+                    },
+                    {
+                        "@pid": "07/10158",
+                        "text": "Ferdian Thung"
+                    }
+                ]
+            },
+            "title": "How to break an API: cost negotiation and community values in three software ecosystems.",
+            "venue": "SIGSOFT FSE",
+            "pages": "109-120",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BogartKHT16",
+            "doi": "10.1145/2950290.2950325",
+            "ee": "https://doi.org/10.1145/2950290.2950325",
+            "url": "https://dblp.org/rec/conf/sigsoft/BogartKHT16"
+        },
+        "url": "URL#3824269"
+    },
+    {
+        "@score": "1",
+        "@id": "3824270",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "07/4464",
+                        "text": "Pietro Braione"
+                    },
+                    {
+                        "@pid": "85/4864",
+                        "text": "Giovanni Denaro"
+                    },
+                    {
+                        "@pid": "98/6514",
+                        "text": "Mauro Pezz\u00e8"
+                    }
+                ]
+            },
+            "title": "JBSE: a symbolic executor for Java programs with complex heap inputs.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1018-1022",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BraioneDP16",
+            "doi": "10.1145/2950290.2983940",
+            "ee": "https://doi.org/10.1145/2950290.2983940",
+            "url": "https://dblp.org/rec/conf/sigsoft/BraioneDP16"
+        },
+        "url": "URL#3824270"
+    },
+    {
+        "@score": "1",
+        "@id": "3824271",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/5245",
+                        "text": "Marc Br\u00fcnink"
+                    },
+                    {
+                        "@pid": "r/DSRosenblum",
+                        "text": "David S. Rosenblum"
+                    }
+                ]
+            },
+            "title": "Mining performance specifications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "39-49",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BruninkR16",
+            "doi": "10.1145/2950290.2950314",
+            "ee": "https://doi.org/10.1145/2950290.2950314",
+            "url": "https://dblp.org/rec/conf/sigsoft/BruninkR16"
+        },
+        "url": "URL#3824271"
+    },
+    {
+        "@score": "1",
+        "@id": "3824272",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "b/MMBurnett",
+                    "text": "Margaret M. Burnett"
+                }
+            },
+            "title": "&quot;Womenomics&quot; and gender-inclusive software: what software engineers need to know (invited talk).",
+            "venue": "SIGSOFT FSE",
+            "pages": "1",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Burnett16",
+            "doi": "10.1145/2950290.2994159",
+            "ee": "https://doi.org/10.1145/2950290.2994159",
+            "url": "https://dblp.org/rec/conf/sigsoft/Burnett16"
+        },
+        "url": "URL#3824272"
+    },
+    {
+        "@score": "1",
+        "@id": "3824273",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1239",
+                        "text": "Benjamin Busjaeger"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "Learning for test prioritization: an industrial case study.",
+            "venue": "SIGSOFT FSE",
+            "pages": "975-980",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/BusjaegerX16",
+            "doi": "10.1145/2950290.2983954",
+            "ee": "https://doi.org/10.1145/2950290.2983954",
+            "url": "https://dblp.org/rec/conf/sigsoft/BusjaegerX16"
+        },
+        "url": "URL#3824273"
+    },
+    {
+        "@score": "1",
+        "@id": "3824274",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "60/3060-1",
+                        "text": "Yan Cai 0001"
+                    },
+                    {
+                        "@pid": "07/314-16",
+                        "text": "Jian Zhang 0016"
+                    },
+                    {
+                        "@pid": "167/7866",
+                        "text": "Lingwei Cao"
+                    },
+                    {
+                        "@pid": "35/295-8",
+                        "text": "Jian Liu 0008"
+                    }
+                ]
+            },
+            "title": "A deployable sampling strategy for data race detection.",
+            "venue": "SIGSOFT FSE",
+            "pages": "810-821",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/CaiZCL16",
+            "doi": "10.1145/2950290.2950310",
+            "ee": "https://doi.org/10.1145/2950290.2950310",
+            "url": "https://dblp.org/rec/conf/sigsoft/CaiZCL16"
+        },
+        "url": "URL#3824274"
+    },
+    {
+        "@score": "1",
+        "@id": "3824275",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "15/1842",
+                        "text": "Ahmet \u00c7elik"
+                    },
+                    {
+                        "@pid": "190/1174",
+                        "text": "Alex Knaust"
+                    },
+                    {
+                        "@pid": "74/1958",
+                        "text": "Aleksandar Milicevic"
+                    },
+                    {
+                        "@pid": "43/6015",
+                        "text": "Milos Gligoric 0001"
+                    }
+                ]
+            },
+            "title": "Build system with lazy retrieval for Java projects.",
+            "venue": "SIGSOFT FSE",
+            "pages": "643-654",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/CelikKMG16",
+            "doi": "10.1145/2950290.2950358",
+            "ee": "https://doi.org/10.1145/2950290.2950358",
+            "url": "https://dblp.org/rec/conf/sigsoft/CelikKMG16"
+        },
+        "url": "URL#3824275"
+    },
+    {
+        "@score": "1",
+        "@id": "3824277",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "45/8423",
+                        "text": "Mahinthan Chandramohan"
+                    },
+                    {
+                        "@pid": "73/7055",
+                        "text": "Yinxing Xue"
+                    },
+                    {
+                        "@pid": "183/0183",
+                        "text": "Zhengzi Xu"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "17/3538",
+                        "text": "Chia Yuan Cho"
+                    },
+                    {
+                        "@pid": "33/5488",
+                        "text": "Hee Beng Kuan Tan"
+                    }
+                ]
+            },
+            "title": "BinGo: cross-architecture cross-OS binary search.",
+            "venue": "SIGSOFT FSE",
+            "pages": "678-689",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ChandramohanXXL16",
+            "doi": "10.1145/2950290.2950350",
+            "ee": "https://doi.org/10.1145/2950290.2950350",
+            "url": "https://dblp.org/rec/conf/sigsoft/ChandramohanXXL16"
+        },
+        "url": "URL#3824277"
+    },
+    {
+        "@score": "1",
+        "@id": "3824278",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/6782",
+                        "text": "Tse-Hsun Chen"
+                    },
+                    {
+                        "@pid": "96/7305",
+                        "text": "Weiyi Shang"
+                    },
+                    {
+                        "@pid": "h/AhmedEHassan",
+                        "text": "Ahmed E. Hassan"
+                    },
+                    {
+                        "@pid": "44/10516",
+                        "text": "Mohamed N. Nasser"
+                    },
+                    {
+                        "@pid": "07/5582",
+                        "text": "Parminder Flora"
+                    }
+                ]
+            },
+            "title": "CacheOptimizer: helping developers configure caching frameworks for hibernate-based database-centric web applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "666-677",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ChenSHNF16",
+            "doi": "10.1145/2950290.2950303",
+            "ee": "https://doi.org/10.1145/2950290.2950303",
+            "url": "https://dblp.org/rec/conf/sigsoft/ChenSHNF16"
+        },
+        "url": "URL#3824278"
+    },
+    {
+        "@score": "1",
+        "@id": "3824279",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "81/6438",
+                    "text": "Xi Cheng"
+                }
+            },
+            "title": "RABIEF: range analysis based integer error fixing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1094-1096",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Cheng16",
+            "doi": "10.1145/2950290.2983961",
+            "ee": "https://doi.org/10.1145/2950290.2983961",
+            "url": "https://dblp.org/rec/conf/sigsoft/Cheng16"
+        },
+        "url": "URL#3824279"
+    },
+    {
+        "@score": "1",
+        "@id": "3824280",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9634",
+                        "text": "Lazaro Clapp"
+                    },
+                    {
+                        "@pid": "21/11275",
+                        "text": "Osbert Bastani"
+                    },
+                    {
+                        "@pid": "95/5667",
+                        "text": "Saswat Anand"
+                    },
+                    {
+                        "@pid": "a/AAiken",
+                        "text": "Alex Aiken"
+                    }
+                ]
+            },
+            "title": "Minimizing GUI event traces.",
+            "venue": "SIGSOFT FSE",
+            "pages": "422-434",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ClappBAA16",
+            "doi": "10.1145/2950290.2950342",
+            "ee": "https://doi.org/10.1145/2950290.2950342",
+            "url": "https://dblp.org/rec/conf/sigsoft/ClappBAA16"
+        },
+        "url": "URL#3824280"
+    },
+    {
+        "@score": "1",
+        "@id": "3824282",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "79/5975",
+                        "text": "Myra B. Cohen"
+                    },
+                    {
+                        "@pid": "88/1807",
+                        "text": "Aduri Pavan"
+                    },
+                    {
+                        "@pid": "336/9941",
+                        "text": "N. V. Vinodchandran"
+                    }
+                ]
+            },
+            "title": "Budgeted testing through an algorithmic lens.",
+            "venue": "SIGSOFT FSE",
+            "pages": "948-951",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/CohenPV16",
+            "doi": "10.1145/2950290.2983987",
+            "ee": "https://doi.org/10.1145/2950290.2983987",
+            "url": "https://dblp.org/rec/conf/sigsoft/CohenPV16"
+        },
+        "url": "URL#3824282"
+    },
+    {
+        "@score": "1",
+        "@id": "3824284",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "36/10438",
+                    "text": "Catarina Costa"
+                }
+            },
+            "title": "Identifying participants for collaborative merge.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1100-1102",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Costa16",
+            "doi": "10.1145/2950290.2983963",
+            "ee": "https://doi.org/10.1145/2950290.2983963",
+            "url": "https://dblp.org/rec/conf/sigsoft/Costa16"
+        },
+        "url": "URL#3824284"
+    },
+    {
+        "@score": "1",
+        "@id": "3824285",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/10438",
+                        "text": "Catarina Costa"
+                    },
+                    {
+                        "@pid": "19/10512",
+                        "text": "Jair Figueiredo"
+                    },
+                    {
+                        "@pid": "25/3645",
+                        "text": "Leonardo Murta 0001"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    }
+                ]
+            },
+            "title": "TIPMerge: recommending experts for integrating changes across branches.",
+            "venue": "SIGSOFT FSE",
+            "pages": "523-534",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/CostaFMS16",
+            "doi": "10.1145/2950290.2950339",
+            "ee": "https://doi.org/10.1145/2950290.2950339",
+            "url": "https://dblp.org/rec/conf/sigsoft/CostaFMS16"
+        },
+        "url": "URL#3824285"
+    },
+    {
+        "@score": "1",
+        "@id": "3824286",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "36/10438",
+                        "text": "Catarina Costa"
+                    },
+                    {
+                        "@pid": "19/10512",
+                        "text": "Jair Figueiredo"
+                    },
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    },
+                    {
+                        "@pid": "25/3645",
+                        "text": "Leonardo Murta 0001"
+                    }
+                ]
+            },
+            "title": "TIPMerge: recommending developers for merging branches.",
+            "venue": "SIGSOFT FSE",
+            "pages": "998-1002",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/CostaFSM16",
+            "doi": "10.1145/2950290.2983936",
+            "ee": "https://doi.org/10.1145/2950290.2983936",
+            "url": "https://dblp.org/rec/conf/sigsoft/CostaFSM16"
+        },
+        "url": "URL#3824286"
+    },
+    {
+        "@score": "1",
+        "@id": "3824287",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "75/4194",
+                        "text": "Hoa Khanh Dam"
+                    },
+                    {
+                        "@pid": "55/2269",
+                        "text": "Truyen Tran 0001"
+                    },
+                    {
+                        "@pid": "g/JohnCGrundy",
+                        "text": "John C. Grundy"
+                    },
+                    {
+                        "@pid": "g/AdityaKGhose",
+                        "text": "Aditya K. Ghose"
+                    }
+                ]
+            },
+            "title": "DeepSoft: a vision for a deep model of software.",
+            "venue": "SIGSOFT FSE",
+            "pages": "944-947",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/DamTGG16",
+            "doi": "10.1145/2950290.2983985",
+            "ee": "https://doi.org/10.1145/2950290.2983985",
+            "url": "https://dblp.org/rec/conf/sigsoft/DamTGG16"
+        },
+        "url": "URL#3824287"
+    },
+    {
+        "@score": "1",
+        "@id": "3824288",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "165/9612",
+                        "text": "Monika Dhok"
+                    },
+                    {
+                        "@pid": "75/541",
+                        "text": "Murali Krishna Ramanathan"
+                    }
+                ]
+            },
+            "title": "Directed test generation to detect loop inefficiencies.",
+            "venue": "SIGSOFT FSE",
+            "pages": "895-907",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/DhokR16",
+            "doi": "10.1145/2950290.2950360",
+            "ee": "https://doi.org/10.1145/2950290.2950360",
+            "url": "https://dblp.org/rec/conf/sigsoft/DhokR16"
+        },
+        "url": "URL#3824288"
+    },
+    {
+        "@score": "1",
+        "@id": "3824289",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/8963",
+                        "text": "Wensheng Dou"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "30/10529",
+                        "text": "Chushu Gao"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "54/3420",
+                        "text": "Liang Xu"
+                    },
+                    {
+                        "@pid": "68/6546-1",
+                        "text": "Jun Wei 0001"
+                    }
+                ]
+            },
+            "title": "Detecting table clones and smells in spreadsheets.",
+            "venue": "SIGSOFT FSE",
+            "pages": "787-798",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/DouCGXXW16",
+            "doi": "10.1145/2950290.2950359",
+            "ee": "https://doi.org/10.1145/2950290.2950359",
+            "url": "https://dblp.org/rec/conf/sigsoft/DouCGXXW16"
+        },
+        "url": "URL#3824289"
+    },
+    {
+        "@score": "1",
+        "@id": "3824291",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "166/1017",
+                        "text": "Denae Ford"
+                    },
+                    {
+                        "@pid": "75/2200",
+                        "text": "Justin Smith 0001"
+                    },
+                    {
+                        "@pid": "32/193",
+                        "text": "Philip J. Guo"
+                    },
+                    {
+                        "@pid": "46/2873",
+                        "text": "Chris Parnin"
+                    }
+                ]
+            },
+            "title": "Paradise unplugged: identifying barriers for female participation on stack overflow.",
+            "venue": "SIGSOFT FSE",
+            "pages": "846-857",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/FordSGP16",
+            "doi": "10.1145/2950290.2950331",
+            "ee": "https://doi.org/10.1145/2950290.2950331",
+            "url": "https://dblp.org/rec/conf/sigsoft/FordSGP16"
+        },
+        "url": "URL#3824291"
+    },
+    {
+        "@score": "1",
+        "@id": "3824292",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "132/4642",
+                        "text": "Jaroslav M. Fowkes"
+                    },
+                    {
+                        "@pid": "59/5879",
+                        "text": "Charles Sutton"
+                    }
+                ]
+            },
+            "title": "Parameter-free probabilistic API mining across GitHub.",
+            "venue": "SIGSOFT FSE",
+            "pages": "254-265",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/FowkesS16",
+            "doi": "10.1145/2950290.2950319",
+            "ee": "https://doi.org/10.1145/2950290.2950319",
+            "url": "https://dblp.org/rec/conf/sigsoft/FowkesS16"
+        },
+        "url": "URL#3824292"
+    },
+    {
+        "@score": "1",
+        "@id": "3824294",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/4689",
+                        "text": "Elaheh Ghassabani"
+                    },
+                    {
+                        "@pid": "84/6151",
+                        "text": "Andrew Gacek"
+                    },
+                    {
+                        "@pid": "70/5189",
+                        "text": "Michael W. Whalen"
+                    }
+                ]
+            },
+            "title": "Efficient generation of inductive validity cores for safety properties.",
+            "venue": "SIGSOFT FSE",
+            "pages": "314-325",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/GhassabaniGW16",
+            "doi": "10.1145/2950290.2950346",
+            "ee": "https://doi.org/10.1145/2950290.2950346",
+            "url": "https://dblp.org/rec/conf/sigsoft/GhassabaniGW16"
+        },
+        "url": "URL#3824294"
+    },
+    {
+        "@score": "1",
+        "@id": "3824295",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/4467-2",
+                        "text": "Xiaodong Gu 0002"
+                    },
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "87/461-1",
+                        "text": "Dongmei Zhang 0001"
+                    },
+                    {
+                        "@pid": "k/SunghunKim",
+                        "text": "Sunghun Kim 0001"
+                    }
+                ]
+            },
+            "title": "Deep API learning.",
+            "venue": "SIGSOFT FSE",
+            "pages": "631-642",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/GuZZK16",
+            "doi": "10.1145/2950290.2950334",
+            "ee": "https://doi.org/10.1145/2950290.2950334",
+            "url": "https://dblp.org/rec/conf/sigsoft/GuZZK16"
+        },
+        "url": "URL#3824295"
+    },
+    {
+        "@score": "1",
+        "@id": "3824296",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1255",
+                    "text": "Sachith Gullapalli"
+                }
+            },
+            "title": "Atlas: an intelligent, performant framework for web-based grid computing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1154-1156",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Gullapalli16",
+            "doi": "10.1145/2950290.2983980",
+            "ee": "https://doi.org/10.1145/2950290.2983980",
+            "url": "https://dblp.org/rec/conf/sigsoft/Gullapalli16"
+        },
+        "url": "URL#3824296"
+    },
+    {
+        "@score": "1",
+        "@id": "3824297",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/6776",
+                        "text": "Muhammad Ali Gulzar"
+                    },
+                    {
+                        "@pid": "49/10034",
+                        "text": "Matteo Interlandi"
+                    },
+                    {
+                        "@pid": "88/2774",
+                        "text": "Tyson Condie"
+                    },
+                    {
+                        "@pid": "56/5320",
+                        "text": "Miryung Kim"
+                    }
+                ]
+            },
+            "title": "BigDebug: interactive debugger for big data analytics in Apache Spark.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1033-1037",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/GulzarICK16",
+            "doi": "10.1145/2950290.2983930",
+            "ee": "https://doi.org/10.1145/2950290.2983930",
+            "url": "https://dblp.org/rec/conf/sigsoft/GulzarICK16"
+        },
+        "url": "URL#3824297"
+    },
+    {
+        "@score": "1",
+        "@id": "3824298",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "165/2153",
+                    "text": "Xinrui Guo"
+                }
+            },
+            "title": "SmartDebug: an interactive debug assistant for Java.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1127-1129",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Guo16",
+            "doi": "10.1145/2950290.2983971",
+            "ee": "https://doi.org/10.1145/2950290.2983971",
+            "url": "https://dblp.org/rec/conf/sigsoft/Guo16"
+        },
+        "url": "URL#3824298"
+    },
+    {
+        "@score": "1",
+        "@id": "3824299",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "44/3532",
+                        "text": "Arie Gurfinkel"
+                    },
+                    {
+                        "@pid": "92/128",
+                        "text": "Sharon Shoham"
+                    },
+                    {
+                        "@pid": "130/9902",
+                        "text": "Yuri Meshman"
+                    }
+                ]
+            },
+            "title": "SMT-based verification of parameterized systems.",
+            "venue": "SIGSOFT FSE",
+            "pages": "338-348",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/GurfinkelSM16",
+            "doi": "10.1145/2950290.2950330",
+            "ee": "https://doi.org/10.1145/2950290.2950330",
+            "url": "https://dblp.org/rec/conf/sigsoft/GurfinkelSM16"
+        },
+        "url": "URL#3824299"
+    },
+    {
+        "@score": "1",
+        "@id": "3824300",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "129/8214",
+                        "text": "Alex Gyori"
+                    },
+                    {
+                        "@pid": "190/1133",
+                        "text": "Ben Lambeth"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "133/8821",
+                        "text": "Owolabi Legunsen"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "NonDex: a tool for detecting and debugging wrong assumptions on Java API specifications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "993-997",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/GyoriLSLM16",
+            "doi": "10.1145/2950290.2983932",
+            "ee": "https://doi.org/10.1145/2950290.2983932",
+            "url": "https://dblp.org/rec/conf/sigsoft/GyoriLSLM16"
+        },
+        "url": "URL#3824300"
+    },
+    {
+        "@score": "1",
+        "@id": "3824301",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "172/1923",
+                    "text": "Ines Hajri"
+                }
+            },
+            "title": "Supporting change in product lines within the context of use case-driven development and testing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1082-1084",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Hajri16",
+            "doi": "10.1145/2950290.2983945",
+            "ee": "https://doi.org/10.1145/2950290.2983945",
+            "url": "https://dblp.org/rec/conf/sigsoft/Hajri16"
+        },
+        "url": "URL#3824301"
+    },
+    {
+        "@score": "1",
+        "@id": "3824302",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/1923",
+                        "text": "Ines Hajri"
+                    },
+                    {
+                        "@pid": "44/4521",
+                        "text": "Arda Goknil"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "172/2009",
+                        "text": "Thierry Stephany"
+                    }
+                ]
+            },
+            "title": "PUMConf: a tool to configure product specific use case and domain models in a product line.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1008-1012",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HajriGBS16",
+            "doi": "10.1145/2950290.2983935",
+            "ee": "https://doi.org/10.1145/2950290.2983935",
+            "url": "https://dblp.org/rec/conf/sigsoft/HajriGBS16"
+        },
+        "url": "URL#3824302"
+    },
+    {
+        "@score": "1",
+        "@id": "3824303",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "167/7854",
+                    "text": "Mouna Hammoudi"
+                }
+            },
+            "title": "Regression testing of web applications using Record/Replay tools.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1079-1081",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Hammoudi16",
+            "doi": "10.1145/2950290.2983942",
+            "ee": "https://doi.org/10.1145/2950290.2983942",
+            "url": "https://dblp.org/rec/conf/sigsoft/Hammoudi16"
+        },
+        "url": "URL#3824303"
+    },
+    {
+        "@score": "1",
+        "@id": "3824304",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/7854",
+                        "text": "Mouna Hammoudi"
+                    },
+                    {
+                        "@pid": "25/6796",
+                        "text": "Gregg Rothermel"
+                    },
+                    {
+                        "@pid": "64/1715-1",
+                        "text": "Andrea Stocco 0001"
+                    }
+                ]
+            },
+            "title": "WATERFALL: an incremental approach for repairing record-replay tests of web applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "751-762",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HammoudiRS16",
+            "doi": "10.1145/2950290.2950294",
+            "ee": "https://doi.org/10.1145/2950290.2950294",
+            "url": "https://dblp.org/rec/conf/sigsoft/HammoudiRS16"
+        },
+        "url": "URL#3824304"
+    },
+    {
+        "@score": "1",
+        "@id": "3824305",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/4085",
+                        "text": "Quinn Hanam"
+                    },
+                    {
+                        "@pid": "143/5611",
+                        "text": "Fernando Santos De Mattos Brito"
+                    },
+                    {
+                        "@pid": "72/4471-1",
+                        "text": "Ali Mesbah 0001"
+                    }
+                ]
+            },
+            "title": "Discovering bug patterns in JavaScript.",
+            "venue": "SIGSOFT FSE",
+            "pages": "144-156",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HanamBM16",
+            "doi": "10.1145/2950290.2950308",
+            "ee": "https://doi.org/10.1145/2950290.2950308",
+            "url": "https://dblp.org/rec/conf/sigsoft/HanamBM16"
+        },
+        "url": "URL#3824305"
+    },
+    {
+        "@score": "1",
+        "@id": "3824306",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "21/7664",
+                        "text": "Jianye Hao"
+                    },
+                    {
+                        "@pid": "49/2420",
+                        "text": "Eunsuk Kang"
+                    },
+                    {
+                        "@pid": "s/JunSun1",
+                        "text": "Jun Sun 0001"
+                    },
+                    {
+                        "@pid": "80/1906-1",
+                        "text": "Daniel Jackson 0001"
+                    }
+                ]
+            },
+            "title": "Designing minimal effective normative systems with the help of lightweight formal methods.",
+            "venue": "SIGSOFT FSE",
+            "pages": "50-60",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HaoK0J16",
+            "doi": "10.1145/2950290.2950307",
+            "ee": "https://doi.org/10.1145/2950290.2950307",
+            "url": "https://dblp.org/rec/conf/sigsoft/HaoK0J16"
+        },
+        "url": "URL#3824306"
+    },
+    {
+        "@score": "1",
+        "@id": "3824307",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "115/4871",
+                        "text": "Niranjan Hasabnis"
+                    },
+                    {
+                        "@pid": "90/1136-1",
+                        "text": "R. Sekar 0001"
+                    }
+                ]
+            },
+            "title": "Extracting instruction semantics via symbolic execution of code generators.",
+            "venue": "SIGSOFT FSE",
+            "pages": "301-313",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HasabnisS16",
+            "doi": "10.1145/2950290.2950335",
+            "ee": "https://doi.org/10.1145/2950290.2950335",
+            "url": "https://dblp.org/rec/conf/sigsoft/HasabnisS16"
+        },
+        "url": "URL#3824307"
+    },
+    {
+        "@score": "1",
+        "@id": "3824308",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "145/7863",
+                    "text": "Andrew Head"
+                }
+            },
+            "title": "Social health cues developers use when choosing open source packages.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1133-1135",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Head16",
+            "doi": "10.1145/2950290.2983973",
+            "ee": "https://doi.org/10.1145/2950290.2983973",
+            "url": "https://dblp.org/rec/conf/sigsoft/Head16"
+        },
+        "url": "URL#3824308"
+    },
+    {
+        "@score": "1",
+        "@id": "3824310",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "h/JamesDHerbsleb",
+                    "text": "James D. Herbsleb"
+                }
+            },
+            "title": "Building a socio-technical theory of coordination: why and how (outstanding research award).",
+            "venue": "SIGSOFT FSE",
+            "pages": "2-10",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Herbsleb16",
+            "doi": "10.1145/2950290.2994160",
+            "ee": "https://doi.org/10.1145/2950290.2994160",
+            "url": "https://dblp.org/rec/conf/sigsoft/Herbsleb16"
+        },
+        "url": "URL#3824310"
+    },
+    {
+        "@score": "1",
+        "@id": "3824311",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "116/7598",
+                    "text": "Michael Hilton"
+                }
+            },
+            "title": "Understanding and improving continuous integration.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1066-1067",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Hilton16",
+            "doi": "10.1145/2950290.2983952",
+            "ee": "https://doi.org/10.1145/2950290.2983952",
+            "url": "https://dblp.org/rec/conf/sigsoft/Hilton16"
+        },
+        "url": "URL#3824311"
+    },
+    {
+        "@score": "1",
+        "@id": "3824314",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "54/7440",
+                        "text": "Andr\u00e9 C. Hora"
+                    },
+                    {
+                        "@pid": "o/MarcoTuliodeOliveiraValente",
+                        "text": "Marco T\u00falio Valente"
+                    },
+                    {
+                        "@pid": "43/5822",
+                        "text": "Romain Robbes"
+                    },
+                    {
+                        "@pid": "21/1959",
+                        "text": "Nicolas Anquetil"
+                    }
+                ]
+            },
+            "title": "When should internal interfaces be promoted to public?",
+            "venue": "SIGSOFT FSE",
+            "pages": "278-289",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HoraVRA16",
+            "doi": "10.1145/2950290.2950306",
+            "ee": "https://doi.org/10.1145/2950290.2950306",
+            "url": "https://dblp.org/rec/conf/sigsoft/HoraVRA16"
+        },
+        "url": "URL#3824314"
+    },
+    {
+        "@score": "1",
+        "@id": "3824315",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "40/3056",
+                    "text": "Shan Shan Huang"
+                }
+            },
+            "title": "Model, execute, and deploy: answering the hard questions in end-user programming (showcase).",
+            "venue": "SIGSOFT FSE",
+            "pages": "24",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Huang16",
+            "doi": "10.1145/2950290.2994158",
+            "ee": "https://doi.org/10.1145/2950290.2994158",
+            "url": "https://dblp.org/rec/conf/sigsoft/Huang16"
+        },
+        "url": "URL#3824315"
+    },
+    {
+        "@score": "1",
+        "@id": "3824316",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1271",
+                    "text": "Waylon Huang"
+                }
+            },
+            "title": "Discovering additional violations of Java API invariants.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1145-1147",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Huang16a",
+            "doi": "10.1145/2950290.2983977",
+            "ee": "https://doi.org/10.1145/2950290.2983977",
+            "url": "https://dblp.org/rec/conf/sigsoft/Huang16a"
+        },
+        "url": "URL#3824316"
+    },
+    {
+        "@score": "1",
+        "@id": "3824317",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "41/2181-1",
+                        "text": "Jianjun Huang 0001"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "13/3957-1",
+                        "text": "Lin Tan 0001"
+                    }
+                ]
+            },
+            "title": "Detecting sensitive data disclosure via bi-directional text correlation analysis.",
+            "venue": "SIGSOFT FSE",
+            "pages": "169-180",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/HuangZT16",
+            "doi": "10.1145/2950290.2950348",
+            "ee": "https://doi.org/10.1145/2950290.2950348",
+            "url": "https://dblp.org/rec/conf/sigsoft/HuangZT16"
+        },
+        "url": "URL#3824317"
+    },
+    {
+        "@score": "1",
+        "@id": "3824318",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/4174",
+                        "text": "Connor Imes"
+                    },
+                    {
+                        "@pid": "18/8610",
+                        "text": "Lars Bergstrom"
+                    },
+                    {
+                        "@pid": "h/HenryHoffmann",
+                        "text": "Henry Hoffmann"
+                    }
+                ]
+            },
+            "title": "A portable interface for runtime energy monitoring.",
+            "venue": "SIGSOFT FSE",
+            "pages": "968-974",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ImesBH16",
+            "doi": "10.1145/2950290.2983956",
+            "ee": "https://doi.org/10.1145/2950290.2983956",
+            "url": "https://dblp.org/rec/conf/sigsoft/ImesBH16"
+        },
+        "url": "URL#3824318"
+    },
+    {
+        "@score": "1",
+        "@id": "3824319",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/1906-1",
+                        "text": "Daniel Jackson 0001"
+                    },
+                    {
+                        "@pid": "05/2667",
+                        "text": "Mandana Vaziri"
+                    }
+                ]
+            },
+            "title": "Correct or usable? the limits of traditional verification (impact paper award).",
+            "venue": "SIGSOFT FSE",
+            "pages": "11",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/JacksonV16",
+            "doi": "10.1145/2950290.2994161",
+            "ee": "https://doi.org/10.1145/2950290.2994161",
+            "url": "https://dblp.org/rec/conf/sigsoft/JacksonV16"
+        },
+        "url": "URL#3824319"
+    },
+    {
+        "@score": "1",
+        "@id": "3824321",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "116/6719",
+                        "text": "Brittany Johnson"
+                    },
+                    {
+                        "@pid": "05/9103",
+                        "text": "Rahul Pandita"
+                    },
+                    {
+                        "@pid": "75/2200",
+                        "text": "Justin Smith 0001"
+                    },
+                    {
+                        "@pid": "166/1017",
+                        "text": "Denae Ford"
+                    },
+                    {
+                        "@pid": "190/1215",
+                        "text": "Sarah Elder"
+                    },
+                    {
+                        "@pid": "02/3722",
+                        "text": "Emerson R. Murphy-Hill"
+                    },
+                    {
+                        "@pid": "62/6606",
+                        "text": "Sarah Heckman"
+                    },
+                    {
+                        "@pid": "17/2324",
+                        "text": "Caitlin Sadowski"
+                    }
+                ]
+            },
+            "title": "A cross-tool communication study on program analysis tool notifications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "73-84",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/JohnsonPSFEMHS16",
+            "doi": "10.1145/2950290.2950304",
+            "ee": "https://doi.org/10.1145/2950290.2950304",
+            "url": "https://dblp.org/rec/conf/sigsoft/JohnsonPSFEMHS16"
+        },
+        "url": "URL#3824321"
+    },
+    {
+        "@score": "1",
+        "@id": "3824322",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "131/6832",
+                        "text": "Shalini Kaleeswaran"
+                    },
+                    {
+                        "@pid": "125/8704",
+                        "text": "Anirudh Santhiar"
+                    },
+                    {
+                        "@pid": "61/2636",
+                        "text": "Aditya Kanade"
+                    },
+                    {
+                        "@pid": "g/SumitGulwani",
+                        "text": "Sumit Gulwani"
+                    }
+                ]
+            },
+            "title": "Semi-supervised verified feedback generation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "739-750",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KaleeswaranSKG16",
+            "doi": "10.1145/2950290.2950363",
+            "ee": "https://doi.org/10.1145/2950290.2950363",
+            "url": "https://dblp.org/rec/conf/sigsoft/KaleeswaranSKG16"
+        },
+        "url": "URL#3824322"
+    },
+    {
+        "@score": "1",
+        "@id": "3824323",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1205",
+                        "text": "Sukrit Kalra"
+                    },
+                    {
+                        "@pid": "190/1261",
+                        "text": "Ayush Goel"
+                    },
+                    {
+                        "@pid": "124/3084",
+                        "text": "Dhriti Khanna"
+                    },
+                    {
+                        "@pid": "09/4218",
+                        "text": "Mohan Dhawan"
+                    },
+                    {
+                        "@pid": "77/1586-1",
+                        "text": "Subodh Sharma 0001"
+                    },
+                    {
+                        "@pid": "65/5006",
+                        "text": "Rahul Purandare"
+                    }
+                ]
+            },
+            "title": "POLLUX: safely upgrading dependent application libraries.",
+            "venue": "SIGSOFT FSE",
+            "pages": "290-300",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KalraGKDSP16",
+            "doi": "10.1145/2950290.2950345",
+            "ee": "https://doi.org/10.1145/2950290.2950345",
+            "url": "https://dblp.org/rec/conf/sigsoft/KalraGKDSP16"
+        },
+        "url": "URL#3824323"
+    },
+    {
+        "@score": "1",
+        "@id": "3824324",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/2420",
+                        "text": "Eunsuk Kang"
+                    },
+                    {
+                        "@pid": "74/1958",
+                        "text": "Aleksandar Milicevic"
+                    },
+                    {
+                        "@pid": "80/1906-1",
+                        "text": "Daniel Jackson 0001"
+                    }
+                ]
+            },
+            "title": "Multi-representational security analysis.",
+            "venue": "SIGSOFT FSE",
+            "pages": "181-192",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KangMJ16",
+            "doi": "10.1145/2950290.2950356",
+            "ee": "https://doi.org/10.1145/2950290.2950356",
+            "url": "https://dblp.org/rec/conf/sigsoft/KangMJ16"
+        },
+        "url": "URL#3824324"
+    },
+    {
+        "@score": "1",
+        "@id": "3824325",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "98/3089-6",
+                        "text": "Yu Kang 0006"
+                    },
+                    {
+                        "@pid": "27/6390",
+                        "text": "Yangfan Zhou"
+                    },
+                    {
+                        "@pid": "90/3055-9",
+                        "text": "Hui Xu 0009"
+                    },
+                    {
+                        "@pid": "l/MichaelRLyu",
+                        "text": "Michael R. Lyu"
+                    }
+                ]
+            },
+            "title": "DiagDroid: Android performance diagnosis via anatomizing asynchronous executions.",
+            "venue": "SIGSOFT FSE",
+            "pages": "410-421",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KangZXL16",
+            "doi": "10.1145/2950290.2950316",
+            "ee": "https://doi.org/10.1145/2950290.2950316",
+            "url": "https://dblp.org/rec/conf/sigsoft/KangZXL16"
+        },
+        "url": "URL#3824325"
+    },
+    {
+        "@score": "1",
+        "@id": "3824326",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1131",
+                    "text": "Sebastian Kappler"
+                }
+            },
+            "title": "Finding and breaking test dependencies to speed up test execution.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1136-1138",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Kappler16",
+            "doi": "10.1145/2950290.2983974",
+            "ee": "https://doi.org/10.1145/2950290.2983974",
+            "url": "https://dblp.org/rec/conf/sigsoft/Kappler16"
+        },
+        "url": "URL#3824326"
+    },
+    {
+        "@score": "1",
+        "@id": "3824327",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1272",
+                    "text": "Martin Kellogg"
+                }
+            },
+            "title": "Combining bug detection and test case generation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1124-1126",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Kellogg16",
+            "doi": "10.1145/2950290.2983970",
+            "ee": "https://doi.org/10.1145/2950290.2983970",
+            "url": "https://dblp.org/rec/conf/sigsoft/Kellogg16"
+        },
+        "url": "URL#3824327"
+    },
+    {
+        "@score": "1",
+        "@id": "3824328",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "122/2010",
+                        "text": "Chung Hwan Kim"
+                    },
+                    {
+                        "@pid": "27/5932",
+                        "text": "Junghwan Rhee"
+                    },
+                    {
+                        "@pid": "31/9698",
+                        "text": "Kyu Hyung Lee"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "59/5539",
+                        "text": "Dongyan Xu"
+                    }
+                ]
+            },
+            "title": "PerfGuard: binary-centric application performance monitoring in production environments.",
+            "venue": "SIGSOFT FSE",
+            "pages": "595-606",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KimRLZX16",
+            "doi": "10.1145/2950290.2950347",
+            "ee": "https://doi.org/10.1145/2950290.2950347",
+            "url": "https://dblp.org/rec/conf/sigsoft/KimRLZX16"
+        },
+        "url": "URL#3824328"
+    },
+    {
+        "@score": "1",
+        "@id": "3824331",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "149/4462",
+                    "text": "Bob Kurtz"
+                }
+            },
+            "title": "On the utility of dominator mutants for mutation testing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1088-1090",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Kurtz16",
+            "doi": "10.1145/2950290.2983950",
+            "ee": "https://doi.org/10.1145/2950290.2983950",
+            "url": "https://dblp.org/rec/conf/sigsoft/Kurtz16"
+        },
+        "url": "URL#3824331"
+    },
+    {
+        "@score": "1",
+        "@id": "3824332",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/4462",
+                        "text": "Bob Kurtz"
+                    },
+                    {
+                        "@pid": "a/PAmmann",
+                        "text": "Paul Ammann"
+                    },
+                    {
+                        "@pid": "o/AJeffersonOffutt",
+                        "text": "Jeff Offutt"
+                    },
+                    {
+                        "@pid": "84/3153",
+                        "text": "M\u00e1rcio Eduardo Delamaro"
+                    },
+                    {
+                        "@pid": "183/8614",
+                        "text": "Mariet Kurtz"
+                    },
+                    {
+                        "@pid": "46/2317",
+                        "text": "Nida G\u00f6k\u00e7e"
+                    }
+                ]
+            },
+            "title": "Analyzing the validity of selective mutation with dominator mutants.",
+            "venue": "SIGSOFT FSE",
+            "pages": "571-582",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/KurtzAODKG16",
+            "doi": "10.1145/2950290.2950322",
+            "ee": "https://doi.org/10.1145/2950290.2950322",
+            "url": "https://dblp.org/rec/conf/sigsoft/KurtzAODKG16"
+        },
+        "url": "URL#3824332"
+    },
+    {
+        "@score": "1",
+        "@id": "3824333",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/6963",
+                        "text": "Markus Kusano"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "Flow-sensitive composition of thread-modular abstract interpretation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "799-809",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Kusano016",
+            "doi": "10.1145/2950290.2950291",
+            "ee": "https://doi.org/10.1145/2950290.2950291",
+            "url": "https://dblp.org/rec/conf/sigsoft/Kusano016"
+        },
+        "url": "URL#3824333"
+    },
+    {
+        "@score": "1",
+        "@id": "3824335",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "25/1049",
+                    "text": "Wing Lam"
+                }
+            },
+            "title": "Repairing test dependence.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1121-1123",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Lam16",
+            "doi": "10.1145/2950290.2983969",
+            "ee": "https://doi.org/10.1145/2950290.2983969",
+            "url": "https://dblp.org/rec/conf/sigsoft/Lam16"
+        },
+        "url": "URL#3824335"
+    },
+    {
+        "@score": "1",
+        "@id": "3824336",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/8821",
+                        "text": "Owolabi Legunsen"
+                    },
+                    {
+                        "@pid": "153/5340",
+                        "text": "Farah Hariri"
+                    },
+                    {
+                        "@pid": "153/5261",
+                        "text": "August Shi"
+                    },
+                    {
+                        "@pid": "154/1918",
+                        "text": "Yafeng Lu"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "48/3911",
+                        "text": "Darko Marinov"
+                    }
+                ]
+            },
+            "title": "An extensive study of static regression test selection in modern software evolution.",
+            "venue": "SIGSOFT FSE",
+            "pages": "583-594",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LegunsenHSLZM16",
+            "doi": "10.1145/2950290.2950361",
+            "ee": "https://doi.org/10.1145/2950290.2950361",
+            "url": "https://dblp.org/rec/conf/sigsoft/LegunsenHSLZM16"
+        },
+        "url": "URL#3824336"
+    },
+    {
+        "@score": "1",
+        "@id": "3824337",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "64/5016",
+                        "text": "Xuan Li"
+                    },
+                    {
+                        "@pid": "161/8330",
+                        "text": "Zerui Wang"
+                    },
+                    {
+                        "@pid": "47/3932",
+                        "text": "Qianxiang Wang"
+                    },
+                    {
+                        "@pid": "08/6611",
+                        "text": "Shoumeng Yan"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    },
+                    {
+                        "@pid": "14/2036",
+                        "text": "Hong Mei 0001"
+                    }
+                ]
+            },
+            "title": "Relationship-aware code search for JavaScript frameworks.",
+            "venue": "SIGSOFT FSE",
+            "pages": "690-701",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LiWWYXM16",
+            "doi": "10.1145/2950290.2950341",
+            "ee": "https://doi.org/10.1145/2950290.2950341",
+            "url": "https://dblp.org/rec/conf/sigsoft/LiWWYXM16"
+        },
+        "url": "URL#3824337"
+    },
+    {
+        "@score": "1",
+        "@id": "3824338",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "77/1513-1",
+                        "text": "Yun Lin 0001"
+                    },
+                    {
+                        "@pid": "14/6370-1",
+                        "text": "Xin Peng 0001"
+                    },
+                    {
+                        "@pid": "45/6816",
+                        "text": "Yuanfang Cai"
+                    },
+                    {
+                        "@pid": "36/5445",
+                        "text": "Danny Dig"
+                    },
+                    {
+                        "@pid": "167/7862",
+                        "text": "Diwen Zheng"
+                    },
+                    {
+                        "@pid": "37/4220",
+                        "text": "Wenyun Zhao"
+                    }
+                ]
+            },
+            "title": "Interactive and guided architectural refactoring with search-based recommendation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "535-546",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LinPCDZZ16",
+            "doi": "10.1145/2950290.2950317",
+            "ee": "https://doi.org/10.1145/2950290.2950317",
+            "url": "https://dblp.org/rec/conf/sigsoft/LinPCDZZ16"
+        },
+        "url": "URL#3824338"
+    },
+    {
+        "@score": "1",
+        "@id": "3824339",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/10474",
+                        "text": "Haopeng Liu"
+                    },
+                    {
+                        "@pid": "55/3804",
+                        "text": "Yuxi Chen"
+                    },
+                    {
+                        "@pid": "31/5916-1",
+                        "text": "Shan Lu 0001"
+                    }
+                ]
+            },
+            "title": "Understanding and generating high quality patches for concurrency bugs.",
+            "venue": "SIGSOFT FSE",
+            "pages": "715-726",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LiuCL16",
+            "doi": "10.1145/2950290.2950309",
+            "ee": "https://doi.org/10.1145/2950290.2950309",
+            "url": "https://dblp.org/rec/conf/sigsoft/LiuCL16"
+        },
+        "url": "URL#3824339"
+    },
+    {
+        "@score": "1",
+        "@id": "3824340",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "125/1824",
+                        "text": "Yepang Liu 0001"
+                    },
+                    {
+                        "@pid": "97/2966-1",
+                        "text": "Chang Xu 0001"
+                    },
+                    {
+                        "@pid": "c/SCCheung",
+                        "text": "Shing-Chi Cheung"
+                    },
+                    {
+                        "@pid": "167/0208",
+                        "text": "Valerio Terragni"
+                    }
+                ]
+            },
+            "title": "Understanding and detecting wake lock misuses for Android applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "396-409",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LiuXCT16",
+            "doi": "10.1145/2950290.2950297",
+            "ee": "https://doi.org/10.1145/2950290.2950297",
+            "url": "https://dblp.org/rec/conf/sigsoft/LiuXCT16"
+        },
+        "url": "URL#3824340"
+    },
+    {
+        "@score": "1",
+        "@id": "3824341",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "162/0487",
+                    "text": "Calvin Loncaric"
+                }
+            },
+            "title": "Data structure synthesis.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1073-1075",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Loncaric16",
+            "doi": "10.1145/2950290.2983946",
+            "ee": "https://doi.org/10.1145/2950290.2983946",
+            "url": "https://dblp.org/rec/conf/sigsoft/Loncaric16"
+        },
+        "url": "URL#3824341"
+    },
+    {
+        "@score": "1",
+        "@id": "3824342",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "162/0487",
+                    "text": "Calvin Loncaric"
+                }
+            },
+            "title": "Cozy: synthesizing collection data structures.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1103-1105",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Loncaric16a",
+            "doi": "10.1145/2950290.2986032",
+            "ee": "https://doi.org/10.1145/2950290.2986032",
+            "url": "https://dblp.org/rec/conf/sigsoft/Loncaric16a"
+        },
+        "url": "URL#3824342"
+    },
+    {
+        "@score": "1",
+        "@id": "3824343",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "53/2808",
+                    "text": "Qi Luo"
+                }
+            },
+            "title": "Input-sensitive performance testing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1085-1087",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Luo16",
+            "doi": "10.1145/2950290.2983953",
+            "ee": "https://doi.org/10.1145/2950290.2983953",
+            "url": "https://dblp.org/rec/conf/sigsoft/Luo16"
+        },
+        "url": "URL#3824343"
+    },
+    {
+        "@score": "1",
+        "@id": "3824344",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "53/2808",
+                    "text": "Qi Luo"
+                }
+            },
+            "title": "Automatic performance testing using input-sensitive profiling.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1139-1141",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Luo16a",
+            "doi": "10.1145/2950290.2983975",
+            "ee": "https://doi.org/10.1145/2950290.2983975",
+            "url": "https://dblp.org/rec/conf/sigsoft/Luo16a"
+        },
+        "url": "URL#3824344"
+    },
+    {
+        "@score": "1",
+        "@id": "3824345",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "53/2808",
+                        "text": "Qi Luo"
+                    },
+                    {
+                        "@pid": "151/7453",
+                        "text": "Kevin Moran"
+                    },
+                    {
+                        "@pid": "02/320",
+                        "text": "Denys Poshyvanyk"
+                    }
+                ]
+            },
+            "title": "A large-scale empirical comparison of static and dynamic test case prioritization techniques.",
+            "venue": "SIGSOFT FSE",
+            "pages": "559-570",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/LuoMP16",
+            "doi": "10.1145/2950290.2950344",
+            "ee": "https://doi.org/10.1145/2950290.2950344",
+            "url": "https://dblp.org/rec/conf/sigsoft/LuoMP16"
+        },
+        "url": "URL#3824345"
+    },
+    {
+        "@score": "1",
+        "@id": "3824346",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "118/5967",
+                        "text": "Nuno Macedo 0001"
+                    },
+                    {
+                        "@pid": "75/6016",
+                        "text": "Julien Brunel"
+                    },
+                    {
+                        "@pid": "65/4674",
+                        "text": "David Chemouil"
+                    },
+                    {
+                        "@pid": "65/603",
+                        "text": "Alcino Cunha"
+                    },
+                    {
+                        "@pid": "21/8279",
+                        "text": "Denis Kuperberg"
+                    }
+                ]
+            },
+            "title": "Lightweight specification and analysis of dynamic systems with rich configurations.",
+            "venue": "SIGSOFT FSE",
+            "pages": "373-383",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/MacedoBCCK16",
+            "doi": "10.1145/2950290.2950318",
+            "ee": "https://doi.org/10.1145/2950290.2950318",
+            "url": "https://dblp.org/rec/conf/sigsoft/MacedoBCCK16"
+        },
+        "url": "URL#3824346"
+    },
+    {
+        "@score": "1",
+        "@id": "3824347",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1244",
+                    "text": "Christopher A. Mackie"
+                }
+            },
+            "title": "Preventing signedness errors in numerical computations in Java.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1148-1150",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Mackie16",
+            "doi": "10.1145/2950290.2983978",
+            "ee": "https://doi.org/10.1145/2950290.2983978",
+            "url": "https://dblp.org/rec/conf/sigsoft/Mackie16"
+        },
+        "url": "URL#3824347"
+    },
+    {
+        "@score": "1",
+        "@id": "3824348",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1246",
+                    "text": "Gazi Mahmud"
+                }
+            },
+            "title": "Making invisible things visible: tracking down known vulnerabilities at 3000 companies (showcase).",
+            "venue": "SIGSOFT FSE",
+            "pages": "25",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Mahmud16",
+            "doi": "10.1145/2950290.2994155",
+            "ee": "https://doi.org/10.1145/2950290.2994155",
+            "url": "https://dblp.org/rec/conf/sigsoft/Mahmud16"
+        },
+        "url": "URL#3824348"
+    },
+    {
+        "@score": "1",
+        "@id": "3824350",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "m/ShaharMaoz",
+                        "text": "Shahar Maoz"
+                    },
+                    {
+                        "@pid": "04/7076",
+                        "text": "Jan Oliver Ringert"
+                    }
+                ]
+            },
+            "title": "On well-separation of GR(1) specifications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "362-372",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/MaozR16",
+            "doi": "10.1145/2950290.2950300",
+            "ee": "https://doi.org/10.1145/2950290.2950300",
+            "url": "https://dblp.org/rec/conf/sigsoft/MaozR16"
+        },
+        "url": "URL#3824350"
+    },
+    {
+        "@score": "1",
+        "@id": "3824351",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "02/6754",
+                        "text": "William J. Martin"
+                    },
+                    {
+                        "@pid": "18/7526",
+                        "text": "Federica Sarro"
+                    },
+                    {
+                        "@pid": "h/MarkHarman",
+                        "text": "Mark Harman"
+                    }
+                ]
+            },
+            "title": "Causal impact analysis for app releases in google play.",
+            "venue": "SIGSOFT FSE",
+            "pages": "435-446",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/MartinSH16",
+            "doi": "10.1145/2950290.2950320",
+            "ee": "https://doi.org/10.1145/2950290.2950320",
+            "url": "https://dblp.org/rec/conf/sigsoft/MartinSH16"
+        },
+        "url": "URL#3824351"
+    },
+    {
+        "@score": "1",
+        "@id": "3824352",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "153/5280",
+                    "text": "Davood Mazinanian"
+                }
+            },
+            "title": "Refactoring and migration of cascading style sheets: towards optimization and improved maintainability.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1057-1059",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Mazinanian16",
+            "doi": "10.1145/2950290.2983943",
+            "ee": "https://doi.org/10.1145/2950290.2983943",
+            "url": "https://dblp.org/rec/conf/sigsoft/Mazinanian16"
+        },
+        "url": "URL#3824352"
+    },
+    {
+        "@score": "1",
+        "@id": "3824353",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "137/8979",
+                    "text": "Xiaozhu Meng"
+                }
+            },
+            "title": "Fine-grained binary code authorship identification.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1097-1099",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Meng16",
+            "doi": "10.1145/2950290.2983962",
+            "ee": "https://doi.org/10.1145/2950290.2983962",
+            "url": "https://dblp.org/rec/conf/sigsoft/Meng16"
+        },
+        "url": "URL#3824353"
+    },
+    {
+        "@score": "1",
+        "@id": "3824355",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "39/11029",
+                        "text": "Svetozar Miucin"
+                    },
+                    {
+                        "@pid": "28/4371",
+                        "text": "Conor Brady"
+                    },
+                    {
+                        "@pid": "71/2521",
+                        "text": "Alexandra Fedorova"
+                    }
+                ]
+            },
+            "title": "End-to-end memory behavior profiling with DINAMITE.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1042-1046",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/MiucinBF16",
+            "doi": "10.1145/2950290.2983941",
+            "ee": "https://doi.org/10.1145/2950290.2983941",
+            "url": "https://dblp.org/rec/conf/sigsoft/MiucinBF16"
+        },
+        "url": "URL#3824355"
+    },
+    {
+        "@score": "1",
+        "@id": "3824356",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "185/1029",
+                    "text": "Felipe R. Monteiro"
+                }
+            },
+            "title": "Bounded model checking of state-space digital systems: the impact of finite word-length effects on the implementation of fixed-point digital controllers based on state-space modeling.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1151-1153",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Monteiro16",
+            "doi": "10.1145/2950290.2983979",
+            "ee": "https://doi.org/10.1145/2950290.2983979",
+            "url": "https://dblp.org/rec/conf/sigsoft/Monteiro16"
+        },
+        "url": "URL#3824356"
+    },
+    {
+        "@score": "1",
+        "@id": "3824359",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "157/8240",
+                    "text": "Chandrakana Nandi"
+                }
+            },
+            "title": "Automatic trigger generation for end user written rules for home automation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1109-1111",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Nandi16",
+            "doi": "10.1145/2950290.2983965",
+            "ee": "https://doi.org/10.1145/2950290.2983965",
+            "url": "https://dblp.org/rec/conf/sigsoft/Nandi16"
+        },
+        "url": "URL#3824359"
+    },
+    {
+        "@score": "1",
+        "@id": "3824361",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/3937",
+                        "text": "Shiva Nejati"
+                    },
+                    {
+                        "@pid": "25/6367",
+                        "text": "Mehrdad Sabetzadeh"
+                    },
+                    {
+                        "@pid": "19/1006-2",
+                        "text": "Chetan Arora 0002"
+                    },
+                    {
+                        "@pid": "93/1501",
+                        "text": "Lionel C. Briand"
+                    },
+                    {
+                        "@pid": "190/1109",
+                        "text": "Felix Mandoux"
+                    }
+                ]
+            },
+            "title": "Automated change impact analysis between SysML models of requirements and design.",
+            "venue": "SIGSOFT FSE",
+            "pages": "242-253",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/NejatiS0BM16",
+            "doi": "10.1145/2950290.2950293",
+            "ee": "https://doi.org/10.1145/2950290.2950293",
+            "url": "https://dblp.org/rec/conf/sigsoft/NejatiS0BM16"
+        },
+        "url": "URL#3824361"
+    },
+    {
+        "@score": "1",
+        "@id": "3824362",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "49/8034-1",
+                        "text": "Anh Tuan Nguyen 0001"
+                    },
+                    {
+                        "@pid": "116/7598",
+                        "text": "Michael Hilton"
+                    },
+                    {
+                        "@pid": "32/10517",
+                        "text": "Mihai Codoban"
+                    },
+                    {
+                        "@pid": "51/6992",
+                        "text": "Hoan Anh Nguyen"
+                    },
+                    {
+                        "@pid": "190/1251",
+                        "text": "Lily Mast"
+                    },
+                    {
+                        "@pid": "190/1122",
+                        "text": "Eli Rademacher"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    },
+                    {
+                        "@pid": "36/5445",
+                        "text": "Danny Dig"
+                    }
+                ]
+            },
+            "title": "API code recommendation using statistical learning from fine-grained changes.",
+            "venue": "SIGSOFT FSE",
+            "pages": "511-522",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/NguyenHCNMRND16",
+            "doi": "10.1145/2950290.2950333",
+            "ee": "https://doi.org/10.1145/2950290.2950333",
+            "url": "https://dblp.org/rec/conf/sigsoft/NguyenHCNMRND16"
+        },
+        "url": "URL#3824362"
+    },
+    {
+        "@score": "1",
+        "@id": "3824363",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/7057",
+                        "text": "ThanhVu Nguyen"
+                    },
+                    {
+                        "@pid": "142/8203",
+                        "text": "Ugur Koc"
+                    },
+                    {
+                        "@pid": "190/1154",
+                        "text": "Javran Cheng"
+                    },
+                    {
+                        "@pid": "18/2050",
+                        "text": "Jeffrey S. Foster"
+                    },
+                    {
+                        "@pid": "p/AdamAPorter",
+                        "text": "Adam A. Porter"
+                    }
+                ]
+            },
+            "title": "iGen: dynamic interaction inference for configurable software.",
+            "venue": "SIGSOFT FSE",
+            "pages": "655-665",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/NguyenKCFP16",
+            "doi": "10.1145/2950290.2950311",
+            "ee": "https://doi.org/10.1145/2950290.2950311",
+            "url": "https://dblp.org/rec/conf/sigsoft/NguyenKCFP16"
+        },
+        "url": "URL#3824363"
+    },
+    {
+        "@score": "1",
+        "@id": "3824364",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "179/8630",
+                        "text": "Thanh Van Nguyen"
+                    },
+                    {
+                        "@pid": "20/1971",
+                        "text": "Peter C. Rigby"
+                    },
+                    {
+                        "@pid": "49/8034-1",
+                        "text": "Anh Tuan Nguyen 0001"
+                    },
+                    {
+                        "@pid": "190/1170",
+                        "text": "Mark Karanfil"
+                    },
+                    {
+                        "@pid": "56/6902",
+                        "text": "Tien N. Nguyen"
+                    }
+                ]
+            },
+            "title": "T2API: synthesizing API code usage templates from English texts with statistical translation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1013-1017",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/NguyenRNKN16",
+            "doi": "10.1145/2950290.2983931",
+            "ee": "https://doi.org/10.1145/2950290.2983931",
+            "url": "https://dblp.org/rec/conf/sigsoft/NguyenRNKN16"
+        },
+        "url": "URL#3824364"
+    },
+    {
+        "@score": "1",
+        "@id": "3824365",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/4493",
+                        "text": "Nan Niu"
+                    },
+                    {
+                        "@pid": "95/5409-3",
+                        "text": "Wentao Wang 0003"
+                    },
+                    {
+                        "@pid": "172/3915",
+                        "text": "Arushi Gupta"
+                    }
+                ]
+            },
+            "title": "Gray links in the use of requirements traceability.",
+            "venue": "SIGSOFT FSE",
+            "pages": "384-395",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/NiuWG16",
+            "doi": "10.1145/2950290.2950354",
+            "ee": "https://doi.org/10.1145/2950290.2950354",
+            "url": "https://dblp.org/rec/conf/sigsoft/NiuWG16"
+        },
+        "url": "URL#3824365"
+    },
+    {
+        "@score": "1",
+        "@id": "3824368",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "11/7621",
+                    "text": "Inah Omoronyia"
+                }
+            },
+            "title": "Reasoning with imprecise privacy preferences.",
+            "venue": "SIGSOFT FSE",
+            "pages": "952-955",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Omoronyia16",
+            "doi": "10.1145/2950290.2983982",
+            "ee": "https://doi.org/10.1145/2950290.2983982",
+            "url": "https://dblp.org/rec/conf/sigsoft/Omoronyia16"
+        },
+        "url": "URL#3824368"
+    },
+    {
+        "@score": "1",
+        "@id": "3824369",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1172",
+                        "text": "Sebastiaan Oosterwaal"
+                    },
+                    {
+                        "@pid": "d/ArievanDeursen",
+                        "text": "Arie van Deursen"
+                    },
+                    {
+                        "@pid": "61/561",
+                        "text": "Roberta Coelho"
+                    },
+                    {
+                        "@pid": "166/4905",
+                        "text": "Anand Ashok Sawant"
+                    },
+                    {
+                        "@pid": "83/5261",
+                        "text": "Alberto Bacchelli"
+                    }
+                ]
+            },
+            "title": "Visualizing code and coverage changes for code review.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1038-1041",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/OosterwaalDCSB16",
+            "doi": "10.1145/2950290.2983929",
+            "ee": "https://doi.org/10.1145/2950290.2983929",
+            "url": "https://dblp.org/rec/conf/sigsoft/OosterwaalDCSB16"
+        },
+        "url": "URL#3824369"
+    },
+    {
+        "@score": "1",
+        "@id": "3824371",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "132/1798",
+                    "text": "Pavel Panchekha"
+                }
+            },
+            "title": "Generating interactive web pages from storyboards.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1071-1072",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Panchekha16",
+            "doi": "10.1145/2950290.2983948",
+            "ee": "https://doi.org/10.1145/2950290.2983948",
+            "url": "https://dblp.org/rec/conf/sigsoft/Panchekha16"
+        },
+        "url": "URL#3824371"
+    },
+    {
+        "@score": "1",
+        "@id": "3824372",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "37/7547",
+                        "text": "Sebastiano Panichella"
+                    },
+                    {
+                        "@pid": "171/5109",
+                        "text": "Andrea Di Sorbo"
+                    },
+                    {
+                        "@pid": "77/10481",
+                        "text": "Emitza Guzman"
+                    },
+                    {
+                        "@pid": "38/2506",
+                        "text": "Corrado Aaron Visaggio"
+                    },
+                    {
+                        "@pid": "63/4434",
+                        "text": "Gerardo Canfora"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    }
+                ]
+            },
+            "title": "ARdoc: app reviews development oriented classifier.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1023-1027",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/PanichellaSGVCG16",
+            "doi": "10.1145/2950290.2983938",
+            "ee": "https://doi.org/10.1145/2950290.2983938",
+            "url": "https://dblp.org/rec/conf/sigsoft/PanichellaSGVCG16"
+        },
+        "url": "URL#3824372"
+    },
+    {
+        "@score": "1",
+        "@id": "3824373",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1302",
+                        "text": "Demetris Paschalides"
+                    },
+                    {
+                        "@pid": "84/5025",
+                        "text": "Georgia M. Kapitsaki"
+                    }
+                ]
+            },
+            "title": "Validate your SPDX files for open source license violations.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1047-1051",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/PaschalidesK16",
+            "doi": "10.1145/2950290.2983939",
+            "ee": "https://doi.org/10.1145/2950290.2983939",
+            "url": "https://dblp.org/rec/conf/sigsoft/PaschalidesK16"
+        },
+        "url": "URL#3824373"
+    },
+    {
+        "@score": "1",
+        "@id": "3824374",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "117/6021",
+                    "text": "Spencer Pearson"
+                }
+            },
+            "title": "Evaluation of fault localization techniques.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1115-1117",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Pearson16",
+            "doi": "10.1145/2950290.2983967",
+            "ee": "https://doi.org/10.1145/2950290.2983967",
+            "url": "https://dblp.org/rec/conf/sigsoft/Pearson16"
+        },
+        "url": "URL#3824374"
+    },
+    {
+        "@score": "1",
+        "@id": "3824375",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "83/8771",
+                        "text": "David Piorkowski"
+                    },
+                    {
+                        "@pid": "144/5345",
+                        "text": "Austin Z. Henley"
+                    },
+                    {
+                        "@pid": "175/7519",
+                        "text": "Tahmid Nabi"
+                    },
+                    {
+                        "@pid": "36/5066",
+                        "text": "Scott D. Fleming"
+                    },
+                    {
+                        "@pid": "13/5036",
+                        "text": "Christopher Scaffidi"
+                    },
+                    {
+                        "@pid": "b/MMBurnett",
+                        "text": "Margaret M. Burnett"
+                    }
+                ]
+            },
+            "title": "Foraging and navigations, fundamentally: developers&apos; predictions of value and cost.",
+            "venue": "SIGSOFT FSE",
+            "pages": "97-108",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/PiorkowskiHNFSB16",
+            "doi": "10.1145/2950290.2950302",
+            "ee": "https://doi.org/10.1145/2950290.2950302",
+            "url": "https://dblp.org/rec/conf/sigsoft/PiorkowskiHNFSB16"
+        },
+        "url": "URL#3824375"
+    },
+    {
+        "@score": "1",
+        "@id": "3824376",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/6093",
+                        "text": "Pablo Ponzio"
+                    },
+                    {
+                        "@pid": "69/610",
+                        "text": "Nazareno Aguirre"
+                    },
+                    {
+                        "@pid": "13/1323",
+                        "text": "Marcelo F. Frias"
+                    },
+                    {
+                        "@pid": "54/5019",
+                        "text": "Willem Visser"
+                    }
+                ]
+            },
+            "title": "Field-exhaustive testing.",
+            "venue": "SIGSOFT FSE",
+            "pages": "908-919",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/PonzioAFV16",
+            "doi": "10.1145/2950290.2950336",
+            "ee": "https://doi.org/10.1145/2950290.2950336",
+            "url": "https://dblp.org/rec/conf/sigsoft/PonzioAFV16"
+        },
+        "url": "URL#3824376"
+    },
+    {
+        "@score": "1",
+        "@id": "3824377",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1194",
+                    "text": "Minghui Quan"
+                }
+            },
+            "title": "Hotspot symbolic execution of floating-point programs.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1112-1114",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Quan16",
+            "doi": "10.1145/2950290.2983966",
+            "ee": "https://doi.org/10.1145/2950290.2983966",
+            "url": "https://dblp.org/rec/conf/sigsoft/Quan16"
+        },
+        "url": "URL#3824377"
+    },
+    {
+        "@score": "1",
+        "@id": "3824378",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "167/7837",
+                        "text": "Michael Reif"
+                    },
+                    {
+                        "@pid": "66/3818",
+                        "text": "Michael Eichberg"
+                    },
+                    {
+                        "@pid": "147/7971",
+                        "text": "Ben Hermann"
+                    },
+                    {
+                        "@pid": "128/5813",
+                        "text": "Johannes Lerch"
+                    },
+                    {
+                        "@pid": "m/MiraMezini",
+                        "text": "Mira Mezini"
+                    }
+                ]
+            },
+            "title": "Call graph construction for Java libraries.",
+            "venue": "SIGSOFT FSE",
+            "pages": "474-486",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ReifEHLM16",
+            "doi": "10.1145/2950290.2950312",
+            "ee": "https://doi.org/10.1145/2950290.2950312",
+            "url": "https://dblp.org/rec/conf/sigsoft/ReifEHLM16"
+        },
+        "url": "URL#3824378"
+    },
+    {
+        "@score": "1",
+        "@id": "3824379",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "r/MartinPRobillard",
+                    "text": "Martin P. Robillard"
+                }
+            },
+            "title": "Sustainable software design.",
+            "venue": "SIGSOFT FSE",
+            "pages": "920-923",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Robillard16",
+            "doi": "10.1145/2950290.2983983",
+            "ee": "https://doi.org/10.1145/2950290.2983983",
+            "url": "https://dblp.org/rec/conf/sigsoft/Robillard16"
+        },
+        "url": "URL#3824379"
+    },
+    {
+        "@score": "1",
+        "@id": "3824380",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "148/4384",
+                    "text": "Reudismam Rolim"
+                }
+            },
+            "title": "Automating repetitive code changes using examples.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1063-1065",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Rolim16",
+            "doi": "10.1145/2950290.2983944",
+            "ee": "https://doi.org/10.1145/2950290.2983944",
+            "url": "https://dblp.org/rec/conf/sigsoft/Rolim16"
+        },
+        "url": "URL#3824380"
+    },
+    {
+        "@score": "1",
+        "@id": "3824381",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1175",
+                        "text": "Chuck Rossi"
+                    },
+                    {
+                        "@pid": "190/1269",
+                        "text": "Elisa Shibley"
+                    },
+                    {
+                        "@pid": "190/1141",
+                        "text": "Shi Su"
+                    },
+                    {
+                        "@pid": "04/2390",
+                        "text": "Kent L. Beck"
+                    },
+                    {
+                        "@pid": "62/65",
+                        "text": "Tony Savor"
+                    },
+                    {
+                        "@pid": "82/5150",
+                        "text": "Michael Stumm"
+                    }
+                ]
+            },
+            "title": "Continuous deployment of mobile software at facebook (showcase).",
+            "venue": "SIGSOFT FSE",
+            "pages": "12-23",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/RossiSSBSS16",
+            "doi": "10.1145/2950290.2994157",
+            "ee": "https://doi.org/10.1145/2950290.2994157",
+            "url": "https://dblp.org/rec/conf/sigsoft/RossiSSBSS16"
+        },
+        "url": "URL#3824381"
+    },
+    {
+        "@score": "1",
+        "@id": "3824383",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "17/2324",
+                    "text": "Caitlin Sadowski"
+                }
+            },
+            "title": "Developer workflow at google (showcase).",
+            "venue": "SIGSOFT FSE",
+            "pages": "26",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Sadowski16",
+            "doi": "10.1145/2950290.2994156",
+            "ee": "https://doi.org/10.1145/2950290.2994156",
+            "url": "https://dblp.org/rec/conf/sigsoft/Sadowski16"
+        },
+        "url": "URL#3824383"
+    },
+    {
+        "@score": "1",
+        "@id": "3824384",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "190/1276",
+                    "text": "Joseph Santino"
+                }
+            },
+            "title": "Enforcing correct array indexes with a type system.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1142-1144",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Santino16",
+            "doi": "10.1145/2950290.2983976",
+            "ee": "https://doi.org/10.1145/2950290.2983976",
+            "url": "https://dblp.org/rec/conf/sigsoft/Santino16"
+        },
+        "url": "URL#3824384"
+    },
+    {
+        "@score": "1",
+        "@id": "3824385",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "26/6565",
+                        "text": "Anita Sarma"
+                    },
+                    {
+                        "@pid": "68/5072",
+                        "text": "Marco Aur\u00e9lio Gerosa"
+                    },
+                    {
+                        "@pid": "70/3474",
+                        "text": "Igor Steinmacher"
+                    },
+                    {
+                        "@pid": "189/8133",
+                        "text": "Rafael Leano"
+                    }
+                ]
+            },
+            "title": "Training the future workforce through task curation in an OSS ecosystem.",
+            "venue": "SIGSOFT FSE",
+            "pages": "932-935",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SarmaGSL16",
+            "doi": "10.1145/2950290.2983984",
+            "ee": "https://doi.org/10.1145/2950290.2983984",
+            "url": "https://dblp.org/rec/conf/sigsoft/SarmaGSL16"
+        },
+        "url": "URL#3824385"
+    },
+    {
+        "@score": "1",
+        "@id": "3824388",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/3315",
+                        "text": "Bonita Sharif"
+                    },
+                    {
+                        "@pid": "97/5128",
+                        "text": "Benjamin Clark"
+                    },
+                    {
+                        "@pid": "m/JonathanIMaletic",
+                        "text": "Jonathan I. Maletic"
+                    }
+                ]
+            },
+            "title": "Studying developer gaze to empower software engineering research and practice.",
+            "venue": "SIGSOFT FSE",
+            "pages": "940-943",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SharifCM16",
+            "doi": "10.1145/2950290.2983988",
+            "ee": "https://doi.org/10.1145/2950290.2983988",
+            "url": "https://dblp.org/rec/conf/sigsoft/SharifCM16"
+        },
+        "url": "URL#3824388"
+    },
+    {
+        "@score": "1",
+        "@id": "3824389",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "156/4418",
+                    "text": "Stepan Shevtsov"
+                }
+            },
+            "title": "Developing a reusable control-based approach to build self-adaptive software systems with formal guarantees.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1060-1062",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Shevtsov16",
+            "doi": "10.1145/2950290.2983949",
+            "ee": "https://doi.org/10.1145/2950290.2983949",
+            "url": "https://dblp.org/rec/conf/sigsoft/Shevtsov16"
+        },
+        "url": "URL#3824389"
+    },
+    {
+        "@score": "1",
+        "@id": "3824390",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "156/4418",
+                        "text": "Stepan Shevtsov"
+                    },
+                    {
+                        "@pid": "w/DannyWeyns",
+                        "text": "Danny Weyns"
+                    }
+                ]
+            },
+            "title": "Keep it SIMPLEX: satisfying multiple goals with guarantees in control-based self-adaptive systems.",
+            "venue": "SIGSOFT FSE",
+            "pages": "229-241",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ShevtsovW16",
+            "doi": "10.1145/2950290.2950301",
+            "ee": "https://doi.org/10.1145/2950290.2950301",
+            "url": "https://dblp.org/rec/conf/sigsoft/ShevtsovW16"
+        },
+        "url": "URL#3824390"
+    },
+    {
+        "@score": "1",
+        "@id": "3824391",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "18/3689-2",
+                        "text": "Danilo Silva 0002"
+                    },
+                    {
+                        "@pid": "87/4206",
+                        "text": "Nikolaos Tsantalis"
+                    },
+                    {
+                        "@pid": "o/MarcoTuliodeOliveiraValente",
+                        "text": "Marco T\u00falio Valente"
+                    }
+                ]
+            },
+            "title": "Why we refactor? confessions of GitHub contributors.",
+            "venue": "SIGSOFT FSE",
+            "pages": "858-870",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SilvaTV16",
+            "doi": "10.1145/2950290.2950305",
+            "ee": "https://doi.org/10.1145/2950290.2950305",
+            "url": "https://dblp.org/rec/conf/sigsoft/SilvaTV16"
+        },
+        "url": "URL#3824391"
+    },
+    {
+        "@score": "1",
+        "@id": "3824392",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "171/5109",
+                        "text": "Andrea Di Sorbo"
+                    },
+                    {
+                        "@pid": "37/7547",
+                        "text": "Sebastiano Panichella"
+                    },
+                    {
+                        "@pid": "167/0171",
+                        "text": "Carol V. Alexandru"
+                    },
+                    {
+                        "@pid": "179/8574",
+                        "text": "Junji Shimagaki"
+                    },
+                    {
+                        "@pid": "38/2506",
+                        "text": "Corrado Aaron Visaggio"
+                    },
+                    {
+                        "@pid": "63/4434",
+                        "text": "Gerardo Canfora"
+                    },
+                    {
+                        "@pid": "g/HaraldGall",
+                        "text": "Harald C. Gall"
+                    }
+                ]
+            },
+            "title": "What would users change in my app? summarizing app reviews for recommending software changes.",
+            "venue": "SIGSOFT FSE",
+            "pages": "499-510",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SorboPASVCG16",
+            "doi": "10.1145/2950290.2950299",
+            "ee": "https://doi.org/10.1145/2950290.2950299",
+            "url": "https://dblp.org/rec/conf/sigsoft/SorboPASVCG16"
+        },
+        "url": "URL#3824392"
+    },
+    {
+        "@score": "1",
+        "@id": "3824393",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "s/MargaretAnneDStorey",
+                        "text": "Margaret-Anne D. Storey"
+                    },
+                    {
+                        "@pid": "145/7719",
+                        "text": "Alexey Zagalsky"
+                    }
+                ]
+            },
+            "title": "Disrupting developer productivity one bot at a time.",
+            "venue": "SIGSOFT FSE",
+            "pages": "928-931",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/StoreyZ16",
+            "doi": "10.1145/2950290.2983989",
+            "ee": "https://doi.org/10.1145/2950290.2983989",
+            "url": "https://dblp.org/rec/conf/sigsoft/StoreyZ16"
+        },
+        "url": "URL#3824393"
+    },
+    {
+        "@score": "1",
+        "@id": "3824394",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "13/10469",
+                        "text": "Fang-Hsiang Su"
+                    },
+                    {
+                        "@pid": "84/1826-1",
+                        "text": "Jonathan Bell 0001"
+                    },
+                    {
+                        "@pid": "190/1234",
+                        "text": "Kenneth Harvey"
+                    },
+                    {
+                        "@pid": "46/652",
+                        "text": "Simha Sethumadhavan"
+                    },
+                    {
+                        "@pid": "k/GailEKaiser",
+                        "text": "Gail E. Kaiser"
+                    },
+                    {
+                        "@pid": "43/4734",
+                        "text": "Tony Jebara"
+                    }
+                ]
+            },
+            "title": "Code relatives: detecting similarly behaving software.",
+            "venue": "SIGSOFT FSE",
+            "pages": "702-714",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SuBHSKJ16",
+            "doi": "10.1145/2950290.2950321",
+            "ee": "https://doi.org/10.1145/2950290.2950321",
+            "url": "https://dblp.org/rec/conf/sigsoft/SuBHSKJ16"
+        },
+        "url": "URL#3824394"
+    },
+    {
+        "@score": "1",
+        "@id": "3824395",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "58/10567",
+                        "text": "Yulei Sui"
+                    },
+                    {
+                        "@pid": "x/JinglingXue",
+                        "text": "Jingling Xue"
+                    }
+                ]
+            },
+            "title": "On-demand strong update analysis via value-flow refinement.",
+            "venue": "SIGSOFT FSE",
+            "pages": "460-473",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SuiX16",
+            "doi": "10.1145/2950290.2950296",
+            "ee": "https://doi.org/10.1145/2950290.2950296",
+            "url": "https://dblp.org/rec/conf/sigsoft/SuiX16"
+        },
+        "url": "URL#3824395"
+    },
+    {
+        "@score": "1",
+        "@id": "3824396",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1254",
+                        "text": "Chungha Sung"
+                    },
+                    {
+                        "@pid": "139/6963",
+                        "text": "Markus Kusano"
+                    },
+                    {
+                        "@pid": "07/201-1",
+                        "text": "Nishant Sinha 0001"
+                    },
+                    {
+                        "@pid": "w/ChaoWang",
+                        "text": "Chao Wang 0001"
+                    }
+                ]
+            },
+            "title": "Static DOM event dependency analysis for testing web applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "447-459",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/SungKS016",
+            "doi": "10.1145/2950290.2950292",
+            "ee": "https://doi.org/10.1145/2950290.2950292",
+            "url": "https://dblp.org/rec/conf/sigsoft/SungKS016"
+        },
+        "url": "URL#3824396"
+    },
+    {
+        "@score": "1",
+        "@id": "3824397",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "16/9656",
+                        "text": "Shin Hwei Tan"
+                    },
+                    {
+                        "@pid": "46/4605",
+                        "text": "Hiroaki Yoshida"
+                    },
+                    {
+                        "@pid": "52/1173",
+                        "text": "Mukul R. Prasad"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    }
+                ]
+            },
+            "title": "Anti-patterns in search-based program repair.",
+            "venue": "SIGSOFT FSE",
+            "pages": "727-738",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/TanYPR16",
+            "doi": "10.1145/2950290.2950295",
+            "ee": "https://doi.org/10.1145/2950290.2950295",
+            "url": "https://dblp.org/rec/conf/sigsoft/TanYPR16"
+        },
+        "url": "URL#3824397"
+    },
+    {
+        "@score": "1",
+        "@id": "3824399",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "29/5259-35",
+                    "text": "Jie Wang 0035"
+                }
+            },
+            "title": "Constraint-based event trace reduction.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1106-1108",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Wang16",
+            "doi": "10.1145/2950290.2983964",
+            "ee": "https://doi.org/10.1145/2950290.2983964",
+            "url": "https://dblp.org/rec/conf/sigsoft/Wang16"
+        },
+        "url": "URL#3824399"
+    },
+    {
+        "@score": "1",
+        "@id": "3824400",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/6277",
+                        "text": "Ran Wang"
+                    },
+                    {
+                        "@pid": "167/0212",
+                        "text": "Daming Zou"
+                    },
+                    {
+                        "@pid": "172/1356",
+                        "text": "Xinrui He"
+                    },
+                    {
+                        "@pid": "82/2673",
+                        "text": "Yingfei Xiong 0001"
+                    },
+                    {
+                        "@pid": "z/LuZhang1",
+                        "text": "Lu Zhang 0023"
+                    },
+                    {
+                        "@pid": "11/539-1",
+                        "text": "Gang Huang 0001"
+                    }
+                ]
+            },
+            "title": "Detecting and fixing precision-specific operations for measuring floating-point errors.",
+            "venue": "SIGSOFT FSE",
+            "pages": "619-630",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/WangZHXZ016",
+            "doi": "10.1145/2950290.2950355",
+            "ee": "https://doi.org/10.1145/2950290.2950355",
+            "url": "https://dblp.org/rec/conf/sigsoft/WangZHXZ016"
+        },
+        "url": "URL#3824400"
+    },
+    {
+        "@score": "1",
+        "@id": "3824401",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "57/7210-1",
+                        "text": "Weihang Wang 0001"
+                    },
+                    {
+                        "@pid": "47/702",
+                        "text": "Yunhui Zheng"
+                    },
+                    {
+                        "@pid": "40/6431",
+                        "text": "Xinyu Xing"
+                    },
+                    {
+                        "@pid": "139/7034",
+                        "text": "Yonghwi Kwon 0001"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "14/4443",
+                        "text": "Patrick Th. Eugster"
+                    }
+                ]
+            },
+            "title": "WebRanz: web page randomization for better advertisement delivery and web-bot prevention.",
+            "venue": "SIGSOFT FSE",
+            "pages": "205-216",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/WangZXKZE16",
+            "doi": "10.1145/2950290.2950352",
+            "ee": "https://doi.org/10.1145/2950290.2950352",
+            "url": "https://dblp.org/rec/conf/sigsoft/WangZXKZE16"
+        },
+        "url": "URL#3824401"
+    },
+    {
+        "@score": "1",
+        "@id": "3824402",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/0117",
+                        "text": "Shiyi Wei"
+                    },
+                    {
+                        "@pid": "08/7062",
+                        "text": "Omer Tripp"
+                    },
+                    {
+                        "@pid": "r/BarbaraGRyder",
+                        "text": "Barbara G. Ryder"
+                    },
+                    {
+                        "@pid": "08/7028",
+                        "text": "Julian Dolby"
+                    }
+                ]
+            },
+            "title": "Revamping JavaScript static analysis via localization and remediation of root causes of imprecision.",
+            "venue": "SIGSOFT FSE",
+            "pages": "487-498",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/WeiTRD16",
+            "doi": "10.1145/2950290.2950338",
+            "ee": "https://doi.org/10.1145/2950290.2950338",
+            "url": "https://dblp.org/rec/conf/sigsoft/WeiTRD16"
+        },
+        "url": "URL#3824402"
+    },
+    {
+        "@score": "1",
+        "@id": "3824403",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "09/7865",
+                        "text": "Charles Weir"
+                    },
+                    {
+                        "@pid": "26/3330",
+                        "text": "Awais Rashid"
+                    },
+                    {
+                        "@pid": "n/JamesNoble",
+                        "text": "James Noble 0001"
+                    }
+                ]
+            },
+            "title": "Reaching the masses: a new subdiscipline of app programmer education.",
+            "venue": "SIGSOFT FSE",
+            "pages": "936-939",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/WeirRN16",
+            "doi": "10.1145/2950290.2983981",
+            "ee": "https://doi.org/10.1145/2950290.2983981",
+            "url": "https://dblp.org/rec/conf/sigsoft/WeirRN16"
+        },
+        "url": "URL#3824403"
+    },
+    {
+        "@score": "1",
+        "@id": "3824404",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "127/0713",
+                    "text": "Xiaofei Xie"
+                }
+            },
+            "title": "Static loop analysis and its applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1130-1132",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Xiaofei16",
+            "doi": "10.1145/2950290.2983972",
+            "ee": "https://doi.org/10.1145/2950290.2983972",
+            "url": "https://dblp.org/rec/conf/sigsoft/Xiaofei16"
+        },
+        "url": "URL#3824404"
+    },
+    {
+        "@score": "1",
+        "@id": "3824405",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "127/0713",
+                        "text": "Xiaofei Xie"
+                    },
+                    {
+                        "@pid": "61/9197",
+                        "text": "Bihuan Chen 0001"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    },
+                    {
+                        "@pid": "76/5788",
+                        "text": "Wei Le"
+                    },
+                    {
+                        "@pid": "08/2489-1",
+                        "text": "Xiaohong Li 0001"
+                    }
+                ]
+            },
+            "title": "Proteus: computing disjunctive loop summary via path dependency analysis.",
+            "venue": "SIGSOFT FSE",
+            "pages": "61-72",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/XieCLLL16",
+            "doi": "10.1145/2950290.2950340",
+            "ee": "https://doi.org/10.1145/2950290.2950340",
+            "url": "https://dblp.org/rec/conf/sigsoft/XieCLLL16"
+        },
+        "url": "URL#3824405"
+    },
+    {
+        "@score": "1",
+        "@id": "3824406",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/4569",
+                        "text": "Zhaogui Xu"
+                    },
+                    {
+                        "@pid": "21/6121-10",
+                        "text": "Peng Liu 0010"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "46/5742",
+                        "text": "Baowen Xu"
+                    }
+                ]
+            },
+            "title": "Python predictive analysis for bug detection.",
+            "venue": "SIGSOFT FSE",
+            "pages": "121-132",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Xu0ZX16",
+            "doi": "10.1145/2950290.2950357",
+            "ee": "https://doi.org/10.1145/2950290.2950357",
+            "url": "https://dblp.org/rec/conf/sigsoft/Xu0ZX16"
+        },
+        "url": "URL#3824406"
+    },
+    {
+        "@score": "1",
+        "@id": "3824407",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "136/4569",
+                        "text": "Zhaogui Xu"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    },
+                    {
+                        "@pid": "13/3479-15",
+                        "text": "Lin Chen 0015"
+                    },
+                    {
+                        "@pid": "145/6061",
+                        "text": "Kexin Pei"
+                    },
+                    {
+                        "@pid": "46/5742",
+                        "text": "Baowen Xu"
+                    }
+                ]
+            },
+            "title": "Python probabilistic type inference with natural language support.",
+            "venue": "SIGSOFT FSE",
+            "pages": "607-618",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/XuZCPX16",
+            "doi": "10.1145/2950290.2950343",
+            "ee": "https://doi.org/10.1145/2950290.2950343",
+            "url": "https://dblp.org/rec/conf/sigsoft/XuZCPX16"
+        },
+        "url": "URL#3824407"
+    },
+    {
+        "@score": "1",
+        "@id": "3824408",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "138/0251",
+                        "text": "Yibiao Yang"
+                    },
+                    {
+                        "@pid": "06/3406",
+                        "text": "Yuming Zhou"
+                    },
+                    {
+                        "@pid": "145/9446",
+                        "text": "Jinping Liu"
+                    },
+                    {
+                        "@pid": "122/0269",
+                        "text": "Yangyang Zhao"
+                    },
+                    {
+                        "@pid": "89/4782",
+                        "text": "Hongmin Lu"
+                    },
+                    {
+                        "@pid": "19/360-3",
+                        "text": "Lei Xu 0003"
+                    },
+                    {
+                        "@pid": "46/5742",
+                        "text": "Baowen Xu"
+                    },
+                    {
+                        "@pid": "l/HaretonKNLeung",
+                        "text": "Hareton Leung"
+                    }
+                ]
+            },
+            "title": "Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models.",
+            "venue": "SIGSOFT FSE",
+            "pages": "157-168",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/YangZLZL0XL16",
+            "doi": "10.1145/2950290.2950353",
+            "ee": "https://doi.org/10.1145/2950290.2950353",
+            "url": "https://dblp.org/rec/conf/sigsoft/YangZLZL0XL16"
+        },
+        "url": "URL#3824408"
+    },
+    {
+        "@score": "1",
+        "@id": "3824409",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "121/1842",
+                        "text": "Adarsh Yoga"
+                    },
+                    {
+                        "@pid": "57/1735",
+                        "text": "Santosh Nagarakatte"
+                    },
+                    {
+                        "@pid": "18/2229",
+                        "text": "Aarti Gupta"
+                    }
+                ]
+            },
+            "title": "Parallel data race detection for task parallel programs with locks.",
+            "venue": "SIGSOFT FSE",
+            "pages": "833-845",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/YogaNG16",
+            "doi": "10.1145/2950290.2950329",
+            "ee": "https://doi.org/10.1145/2950290.2950329",
+            "url": "https://dblp.org/rec/conf/sigsoft/YogaNG16"
+        },
+        "url": "URL#3824409"
+    },
+    {
+        "@score": "1",
+        "@id": "3824410",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "46/4605",
+                        "text": "Hiroaki Yoshida"
+                    },
+                    {
+                        "@pid": "121/0551",
+                        "text": "Susumu Tokumoto"
+                    },
+                    {
+                        "@pid": "52/1173",
+                        "text": "Mukul R. Prasad"
+                    },
+                    {
+                        "@pid": "46/6731",
+                        "text": "Indradeep Ghosh"
+                    },
+                    {
+                        "@pid": "36/6593",
+                        "text": "Tadahiro Uehara"
+                    }
+                ]
+            },
+            "title": "FSX: a tool for fine-grained incremental unit test generation for C/C++ programs.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1052-1056",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/YoshidaTPGU16",
+            "doi": "10.1145/2950290.2983937",
+            "ee": "https://doi.org/10.1145/2950290.2983937",
+            "url": "https://dblp.org/rec/conf/sigsoft/YoshidaTPGU16"
+        },
+        "url": "URL#3824410"
+    },
+    {
+        "@score": "1",
+        "@id": "3824411",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "48/1257",
+                        "text": "Marcel Zalmanovici"
+                    },
+                    {
+                        "@pid": "96/1878",
+                        "text": "Orna Raz"
+                    },
+                    {
+                        "@pid": "73/157",
+                        "text": "Rachel Tzoref-Brill"
+                    }
+                ]
+            },
+            "title": "Cluster-based test suite functional analysis.",
+            "venue": "SIGSOFT FSE",
+            "pages": "962-967",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZalmanoviciRT16",
+            "doi": "10.1145/2950290.2983957",
+            "ee": "https://doi.org/10.1145/2950290.2983957",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZalmanoviciRT16"
+        },
+        "url": "URL#3824411"
+    },
+    {
+        "@score": "1",
+        "@id": "3824412",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "119/5041",
+                    "text": "Motahareh Bahrami Zanjani"
+                }
+            },
+            "title": "Effective assignment and assistance to software developers and reviewers.",
+            "venue": "SIGSOFT FSE",
+            "pages": "1091-1093",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/Zanjani16",
+            "doi": "10.1145/2950290.2983960",
+            "ee": "https://doi.org/10.1145/2950290.2983960",
+            "url": "https://dblp.org/rec/conf/sigsoft/Zanjani16"
+        },
+        "url": "URL#3824412"
+    },
+    {
+        "@score": "1",
+        "@id": "3824413",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "62/6760",
+                        "text": "Xia Zeng"
+                    },
+                    {
+                        "@pid": "46/5907-3",
+                        "text": "Dengfeng Li 0003"
+                    },
+                    {
+                        "@pid": "44/2888",
+                        "text": "Wujie Zheng"
+                    },
+                    {
+                        "@pid": "23/6882",
+                        "text": "Fan Xia"
+                    },
+                    {
+                        "@pid": "79/3181",
+                        "text": "Yuetang Deng"
+                    },
+                    {
+                        "@pid": "25/1049",
+                        "text": "Wing Lam"
+                    },
+                    {
+                        "@pid": "03/1094-13",
+                        "text": "Wei Yang 0013"
+                    },
+                    {
+                        "@pid": "x/TaoXie",
+                        "text": "Tao Xie 0001"
+                    }
+                ]
+            },
+            "title": "Automated test input generation for Android: are we really there yet in an industrial case?",
+            "venue": "SIGSOFT FSE",
+            "pages": "987-992",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZengLZXDLYX16",
+            "doi": "10.1145/2950290.2983958",
+            "ee": "https://doi.org/10.1145/2950290.2983958",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZengLZXDLYX16"
+        },
+        "url": "URL#3824413"
+    },
+    {
+        "@score": "1",
+        "@id": "3824414",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "190/1159",
+                        "text": "Sheng Zhan"
+                    },
+                    {
+                        "@pid": "68/4706-1",
+                        "text": "Jeff Huang 0001"
+                    }
+                ]
+            },
+            "title": "ECHO: instantaneous in situ race detection in the IDE.",
+            "venue": "SIGSOFT FSE",
+            "pages": "775-786",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhanH16",
+            "doi": "10.1145/2950290.2950332",
+            "ee": "https://doi.org/10.1145/2950290.2950332",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhanH16"
+        },
+        "url": "URL#3824414"
+    },
+    {
+        "@score": "1",
+        "@id": "3824415",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "29/2726-2",
+                        "text": "Hongyu Zhang 0002"
+                    },
+                    {
+                        "@pid": "71/5580",
+                        "text": "Anuj Jain"
+                    },
+                    {
+                        "@pid": "179/8337",
+                        "text": "Gaurav Khandelwal"
+                    },
+                    {
+                        "@pid": "76/9558",
+                        "text": "Chandrashekhar Kaushik"
+                    },
+                    {
+                        "@pid": "190/1142",
+                        "text": "Scott Ge"
+                    },
+                    {
+                        "@pid": "141/4590",
+                        "text": "Wenxiang Hu"
+                    }
+                ]
+            },
+            "title": "Bing developer assistant: improving developer productivity by recommending sample code.",
+            "venue": "SIGSOFT FSE",
+            "pages": "956-961",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhangJKKGH16",
+            "doi": "10.1145/2950290.2983955",
+            "ee": "https://doi.org/10.1145/2950290.2983955",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhangJKKGH16"
+        },
+        "url": "URL#3824415"
+    },
+    {
+        "@score": "1",
+        "@id": "3824416",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "84/6889-50",
+                        "text": "Jie Zhang 0050"
+                    },
+                    {
+                        "@pid": "174/3394",
+                        "text": "Yiling Lou"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "50/456",
+                        "text": "Dan Hao 0001"
+                    },
+                    {
+                        "@pid": "z/LuZhang1",
+                        "text": "Lu Zhang 0023"
+                    },
+                    {
+                        "@pid": "14/2036",
+                        "text": "Hong Mei 0001"
+                    }
+                ]
+            },
+            "title": "Isomorphic regression testing: executing uncovered branches without test augmentation.",
+            "venue": "SIGSOFT FSE",
+            "pages": "883-894",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhangLZHZM16",
+            "doi": "10.1145/2950290.2950313",
+            "ee": "https://doi.org/10.1145/2950290.2950313",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhangLZHZM16"
+        },
+        "url": "URL#3824416"
+    },
+    {
+        "@score": "1",
+        "@id": "3824417",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/569",
+                        "text": "Hua Zhong"
+                    },
+                    {
+                        "@pid": "27/7057-1",
+                        "text": "Lingming Zhang 0001"
+                    },
+                    {
+                        "@pid": "k/SarfrazKhurshid",
+                        "text": "Sarfraz Khurshid"
+                    }
+                ]
+            },
+            "title": "Combinatorial generation of structurally complex test inputs for commercial software applications.",
+            "venue": "SIGSOFT FSE",
+            "pages": "981-986",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhongZK16",
+            "doi": "10.1145/2950290.2983959",
+            "ee": "https://doi.org/10.1145/2950290.2983959",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhongZK16"
+        },
+        "url": "URL#3824417"
+    },
+    {
+        "@score": "1",
+        "@id": "3824418",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "01/2356",
+                        "text": "Jing Zhou"
+                    },
+                    {
+                        "@pid": "43/511",
+                        "text": "Robert J. Walker"
+                    }
+                ]
+            },
+            "title": "API deprecation: a retrospective analysis and detection method for code examples on the web.",
+            "venue": "SIGSOFT FSE",
+            "pages": "266-277",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhouW16",
+            "doi": "10.1145/2950290.2950298",
+            "ee": "https://doi.org/10.1145/2950290.2950298",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhouW16"
+        },
+        "url": "URL#3824418"
+    },
+    {
+        "@score": "1",
+        "@id": "3824419",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/8816",
+                        "text": "Jiaxin Zhu"
+                    },
+                    {
+                        "@pid": "07/4732-1",
+                        "text": "Minghui Zhou 0001"
+                    },
+                    {
+                        "@pid": "79/6124",
+                        "text": "Audris Mockus"
+                    }
+                ]
+            },
+            "title": "Effectiveness of code contribution: from patch-based to pull-request-based tools.",
+            "venue": "SIGSOFT FSE",
+            "pages": "871-882",
+            "year": "2016",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sigsoft/ZhuZM16",
+            "doi": "10.1145/2950290.2950364",
+            "ee": "https://doi.org/10.1145/2950290.2950364",
+            "url": "https://dblp.org/rec/conf/sigsoft/ZhuZM16"
+        },
+        "url": "URL#3824419"
+    },
+    {
+        "@score": "1",
+        "@id": "3849421",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "19/3622-1",
+                        "text": "Thomas Zimmermann 0001"
+                    },
+                    {
+                        "@pid": "c/JaneClelandHuang",
+                        "text": "Jane Cleland-Huang"
+                    },
+                    {
+                        "@pid": "s/ZhendongSu",
+                        "text": "Zhendong Su 0001"
+                    }
+                ]
+            },
+            "title": "Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering, FSE 2016, Seattle, WA, USA, November 13-18, 2016",
+            "venue": "SIGSOFT FSE",
+            "publisher": "ACM",
+            "year": "2016",
+            "type": "Editorship",
+            "key": "conf/sigsoft/2016",
+            "doi": "10.1145/2950290",
+            "ee": "https://doi.org/10.1145/2950290",
+            "url": "https://dblp.org/rec/conf/sigsoft/2016"
+        },
+        "url": "URL#3849421"
+    }
+]

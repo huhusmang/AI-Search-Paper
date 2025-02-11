@@ -1,0 +1,3422 @@
+[
+    {
+        "@score": "1",
+        "@id": "2737630",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/1117-1",
+                        "text": "Michael Schwarz 0001"
+                    },
+                    {
+                        "@pid": "239/8996",
+                        "text": "Florian Lackner"
+                    },
+                    {
+                        "@pid": "166/1494",
+                        "text": "Daniel Gruss"
+                    }
+                ]
+            },
+            "title": "JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/0001LG19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/javascript-template-attacks-automatically-inferring-host-information-for-targeted-exploits/",
+            "url": "https://dblp.org/rec/conf/ndss/0001LG19"
+        },
+        "url": "URL#2737630"
+    },
+    {
+        "@score": "1",
+        "@id": "2737631",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "76/3473-4",
+                        "text": "Cheng Feng 0004"
+                    },
+                    {
+                        "@pid": "176/9981",
+                        "text": "Venkata Reddy Palleti"
+                    },
+                    {
+                        "@pid": "m/AdityaPMathur",
+                        "text": "Aditya Mathur"
+                    },
+                    {
+                        "@pid": "205/3763",
+                        "text": "Deeph Chana"
+                    }
+                ]
+            },
+            "title": "A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/0004PMC19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/a-systematic-framework-to-generate-invariants-for-anomaly-detection-in-industrial-control-systems/",
+            "url": "https://dblp.org/rec/conf/ndss/0004PMC19"
+        },
+        "url": "URL#2737631"
+    },
+    {
+        "@score": "1",
+        "@id": "2737632",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2013",
+                        "text": "Hadi Abdullah"
+                    },
+                    {
+                        "@pid": "192/6857",
+                        "text": "Washington Garcia"
+                    },
+                    {
+                        "@pid": "224/2404",
+                        "text": "Christian Peeters"
+                    },
+                    {
+                        "@pid": "14/3295",
+                        "text": "Patrick Traynor"
+                    },
+                    {
+                        "@pid": "82/1935",
+                        "text": "Kevin R. B. Butler"
+                    },
+                    {
+                        "@pid": "41/4560",
+                        "text": "Joseph Wilson"
+                    }
+                ]
+            },
+            "title": "Practical Hidden Voice Attacks against Speech and Speaker Recognition Systems.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AbdullahGPTBW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/practical-hidden-voice-attacks-against-speech-and-speaker-recognition-systems/",
+            "url": "https://dblp.org/rec/conf/ndss/AbdullahGPTBW19"
+        },
+        "url": "URL#2737632"
+    },
+    {
+        "@score": "1",
+        "@id": "2737633",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/3674",
+                        "text": "Tigist Abera"
+                    },
+                    {
+                        "@pid": "191/5905",
+                        "text": "Raad Bahmani"
+                    },
+                    {
+                        "@pid": "117/5967",
+                        "text": "Ferdinand Brasser"
+                    },
+                    {
+                        "@pid": "23/5695-2",
+                        "text": "Ahmad Ibrahim 0002"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    },
+                    {
+                        "@pid": "86/1764",
+                        "text": "Matthias Schunter"
+                    }
+                ]
+            },
+            "title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AberaBB0SS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/diat-data-integrity-attestation-for-resilient-collaboration-of-autonomous-systems/",
+            "url": "https://dblp.org/rec/conf/ndss/AberaBB0SS19"
+        },
+        "url": "URL#2737633"
+    },
+    {
+        "@score": "1",
+        "@id": "2737634",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/3202",
+                        "text": "Adil Ahmad"
+                    },
+                    {
+                        "@pid": "183/1504",
+                        "text": "Byunggill Joe"
+                    },
+                    {
+                        "@pid": "152/3962-1",
+                        "text": "Yuan Xiao 0001"
+                    },
+                    {
+                        "@pid": "77/3503",
+                        "text": "Yinqian Zhang"
+                    },
+                    {
+                        "@pid": "45/4154",
+                        "text": "Insik Shin"
+                    },
+                    {
+                        "@pid": "45/7986",
+                        "text": "Byoungyoung Lee"
+                    }
+                ]
+            },
+            "title": "OBFUSCURO: A Commodity Obfuscation Engine on Intel SGX.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AhmadJXZSL19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/obfuscuro-a-commodity-obfuscation-engine-on-intel-sgx/",
+            "url": "https://dblp.org/rec/conf/ndss/AhmadJXZSL19"
+        },
+        "url": "URL#2737634"
+    },
+    {
+        "@score": "1",
+        "@id": "2737635",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5254",
+                        "text": "Eihal Alowaisheq"
+                    },
+                    {
+                        "@pid": "95/4442-88",
+                        "text": "Peng Wang 0088"
+                    },
+                    {
+                        "@pid": "123/3274",
+                        "text": "Sumayah A. Alrwais"
+                    },
+                    {
+                        "@pid": "129/1113",
+                        "text": "Xiaojing Liao"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "239/8962",
+                        "text": "Tasneem Alowaisheq"
+                    },
+                    {
+                        "@pid": "192/2270",
+                        "text": "Xianghang Mi"
+                    },
+                    {
+                        "@pid": "44/10369",
+                        "text": "Siyuan Tang"
+                    },
+                    {
+                        "@pid": "89/10754",
+                        "text": "Baojun Liu"
+                    }
+                ]
+            },
+            "title": "Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AlowaisheqWAL0A19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/cracking-the-wall-of-confinement-understanding-and-analyzing-malicious-domain-take-downs/",
+            "url": "https://dblp.org/rec/conf/ndss/AlowaisheqWAL0A19"
+        },
+        "url": "URL#2737635"
+    },
+    {
+        "@score": "1",
+        "@id": "2737636",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "135/0878",
+                        "text": "Athanasios Andreou"
+                    },
+                    {
+                        "@pid": "65/2466",
+                        "text": "M\u00e1rcio Silva"
+                    },
+                    {
+                        "@pid": "90/2878",
+                        "text": "Fabr\u00edcio Benevenuto"
+                    },
+                    {
+                        "@pid": "88/10325",
+                        "text": "Oana Goga"
+                    },
+                    {
+                        "@pid": "10/7062",
+                        "text": "Patrick Loiseau"
+                    },
+                    {
+                        "@pid": "31/3833",
+                        "text": "Alan Mislove"
+                    }
+                ]
+            },
+            "title": "Measuring the Facebook Advertising Ecosystem.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AndreouSBGLM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/measuring-the-facebook-advertising-ecosystem/",
+            "url": "https://dblp.org/rec/conf/ndss/AndreouSBGLM19"
+        },
+        "url": "URL#2737636"
+    },
+    {
+        "@score": "1",
+        "@id": "2737637",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "133/5077",
+                        "text": "Daniele Antonioli"
+                    },
+                    {
+                        "@pid": "32/7125",
+                        "text": "Nils Ole Tippenhauer"
+                    },
+                    {
+                        "@pid": "01/4779",
+                        "text": "Kasper Bonne Rasmussen"
+                    }
+                ]
+            },
+            "title": "Nearby Threats: Reversing, Analyzing, and Attacking Google&apos;s &apos;Nearby Connections&apos; on Android.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AntonioliTR19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/nearby-threats-reversing-analyzing-and-attacking-googles-nearby-connections-on-android/",
+            "url": "https://dblp.org/rec/conf/ndss/AntonioliTR19"
+        },
+        "url": "URL#2737637"
+    },
+    {
+        "@score": "1",
+        "@id": "2737638",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/5502",
+                        "text": "Maria Apostolaki"
+                    },
+                    {
+                        "@pid": "225/5525",
+                        "text": "Gian Marti"
+                    },
+                    {
+                        "@pid": "220/5929",
+                        "text": "Jan M\u00fcller"
+                    },
+                    {
+                        "@pid": "51/7546",
+                        "text": "Laurent Vanbever"
+                    }
+                ]
+            },
+            "title": "SABRE: Protecting Bitcoin against Routing Attacks.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ApostolakiMMV19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/sabre-protecting-bitcoin-against-routing-attacks/",
+            "url": "https://dblp.org/rec/conf/ndss/ApostolakiMMV19"
+        },
+        "url": "URL#2737638"
+    },
+    {
+        "@score": "1",
+        "@id": "2737639",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7844",
+                        "text": "Cornelius Aschermann"
+                    },
+                    {
+                        "@pid": "189/1758",
+                        "text": "Tommaso Frassetto"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    },
+                    {
+                        "@pid": "224/9363",
+                        "text": "Patrick Jauernig"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    },
+                    {
+                        "@pid": "239/8837",
+                        "text": "Daniel Teuchert"
+                    }
+                ]
+            },
+            "title": "NAUTILUS: Fishing for Deep Bugs with Grammars.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AschermannFHJST19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/nautilus-fishing-for-deep-bugs-with-grammars/",
+            "url": "https://dblp.org/rec/conf/ndss/AschermannFHJST19"
+        },
+        "url": "URL#2737639"
+    },
+    {
+        "@score": "1",
+        "@id": "2737640",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "160/7844",
+                        "text": "Cornelius Aschermann"
+                    },
+                    {
+                        "@pid": "205/2072",
+                        "text": "Sergej Schumilo"
+                    },
+                    {
+                        "@pid": "205/2079",
+                        "text": "Tim Blazytko"
+                    },
+                    {
+                        "@pid": "150/5154",
+                        "text": "Robert Gawlik"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "REDQUEEN: Fuzzing with Input-to-State Correspondence.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/AschermannSBGH19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/redqueen-fuzzing-with-input-to-state-correspondence/",
+            "url": "https://dblp.org/rec/conf/ndss/AschermannSBGH19"
+        },
+        "url": "URL#2737640"
+    },
+    {
+        "@score": "1",
+        "@id": "2737641",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "239/9034",
+                        "text": "Xiaofei Bai"
+                    },
+                    {
+                        "@pid": "02/563",
+                        "text": "Jian Gao"
+                    },
+                    {
+                        "@pid": "239/8985",
+                        "text": "Chenglong Hu"
+                    },
+                    {
+                        "@pid": "50/6759-19",
+                        "text": "Liang Zhang 0019"
+                    }
+                ]
+            },
+            "title": "Constructing an Adversary Solver for Equihash.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/BaiGHZ19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/constructing-an-adversary-solver-for-equihash/",
+            "url": "https://dblp.org/rec/conf/ndss/BaiGHZ19"
+        },
+        "url": "URL#2737641"
+    },
+    {
+        "@score": "1",
+        "@id": "2737642",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5353",
+                        "text": "Muhammad Ahmad Bashir"
+                    },
+                    {
+                        "@pid": "68/1727",
+                        "text": "Umar Farooq"
+                    },
+                    {
+                        "@pid": "142/5450",
+                        "text": "Maryam Shahid"
+                    },
+                    {
+                        "@pid": "59/3605",
+                        "text": "Muhammad Fareed Zaffar"
+                    },
+                    {
+                        "@pid": "79/5135",
+                        "text": "Christo Wilson"
+                    }
+                ]
+            },
+            "title": "Quantity vs. Quality: Evaluating User Interest Profiles Using Ad Preference Managers.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/BashirFSZW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/quantity-vs-quality-evaluating-user-interest-profiles-using-ad-preference-managers/",
+            "url": "https://dblp.org/rec/conf/ndss/BashirFSZW19"
+        },
+        "url": "URL#2737642"
+    },
+    {
+        "@score": "1",
+        "@id": "2737643",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/5967",
+                        "text": "Ferdinand Brasser"
+                    },
+                    {
+                        "@pid": "164/2771",
+                        "text": "David Gens"
+                    },
+                    {
+                        "@pid": "224/9363",
+                        "text": "Patrick Jauernig"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    },
+                    {
+                        "@pid": "32/4934",
+                        "text": "Emmanuel Stapf"
+                    }
+                ]
+            },
+            "title": "SANCTUARY: ARMing TrustZone with User-space Enclaves.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/BrasserGJSS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/sanctuary-arming-trustzone-with-user-space-enclaves/",
+            "url": "https://dblp.org/rec/conf/ndss/BrasserGJSS19"
+        },
+        "url": "URL#2737643"
+    },
+    {
+        "@score": "1",
+        "@id": "2737644",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "143/2298",
+                        "text": "Z. Berkay Celik"
+                    },
+                    {
+                        "@pid": "91/6206",
+                        "text": "Gang Tan"
+                    },
+                    {
+                        "@pid": "m/PatrickDrewMcDaniel",
+                        "text": "Patrick D. McDaniel"
+                    }
+                ]
+            },
+            "title": "IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/CelikTM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/iotguard-dynamic-enforcement-of-security-and-safety-policy-in-commodity-iot/",
+            "url": "https://dblp.org/rec/conf/ndss/CelikTM19"
+        },
+        "url": "URL#2737644"
+    },
+    {
+        "@score": "1",
+        "@id": "2737645",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "162/1897",
+                        "text": "Or\u00e7un \u00c7etin"
+                    },
+                    {
+                        "@pid": "22/7256",
+                        "text": "Carlos Ga\u00f1\u00e1n"
+                    },
+                    {
+                        "@pid": "224/9124",
+                        "text": "Lisette Altena"
+                    },
+                    {
+                        "@pid": "119/1132",
+                        "text": "Takahiro Kasama"
+                    },
+                    {
+                        "@pid": "62/5563",
+                        "text": "Daisuke Inoue"
+                    },
+                    {
+                        "@pid": "227/4089",
+                        "text": "Kazuki Tamiya"
+                    },
+                    {
+                        "@pid": "226/0141",
+                        "text": "Ying Tie"
+                    },
+                    {
+                        "@pid": "66/3013",
+                        "text": "Katsunari Yoshioka"
+                    },
+                    {
+                        "@pid": "17/7444",
+                        "text": "Michel van Eeten"
+                    }
+                ]
+            },
+            "title": "Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/CetinGAKITTYE19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/cleaning-up-the-internet-of-evil-things-real-world-evidence-on-isp-and-consumer-efforts-to-remove-mirai/",
+            "url": "https://dblp.org/rec/conf/ndss/CetinGAKITTYE19"
+        },
+        "url": "URL#2737645"
+    },
+    {
+        "@score": "1",
+        "@id": "2737646",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/8155",
+                        "text": "Anrin Chakraborti"
+                    },
+                    {
+                        "@pid": "94/1554",
+                        "text": "Adam J. Aviv"
+                    },
+                    {
+                        "@pid": "83/5841",
+                        "text": "Seung Geol Choi"
+                    },
+                    {
+                        "@pid": "74/8292",
+                        "text": "Travis Mayberry"
+                    },
+                    {
+                        "@pid": "09/5926",
+                        "text": "Daniel S. Roche"
+                    },
+                    {
+                        "@pid": "s/RaduSion",
+                        "text": "Radu Sion"
+                    }
+                ]
+            },
+            "title": "rORAM: Efficient Range ORAM with O(log2 N) Locality.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ChakrabortiACMR19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/roram-efficient-range-oram-with-olog2-n-locality/",
+            "url": "https://dblp.org/rec/conf/ndss/ChakrabortiACMR19"
+        },
+        "url": "URL#2737646"
+    },
+    {
+        "@score": "1",
+        "@id": "2737647",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/8155",
+                        "text": "Anrin Chakraborti"
+                    },
+                    {
+                        "@pid": "s/RaduSion",
+                        "text": "Radu Sion"
+                    }
+                ]
+            },
+            "title": "ConcurORAM: High-Throughput Stateless Parallel Multi-Client ORAM.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ChakrabortiS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/concuroram-high-throughput-stateless-parallel-multi-client-oram/",
+            "url": "https://dblp.org/rec/conf/ndss/ChakrabortiS19"
+        },
+        "url": "URL#2737647"
+    },
+    {
+        "@score": "1",
+        "@id": "2737648",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9242",
+                        "text": "Sze Yiu Chau"
+                    },
+                    {
+                        "@pid": "162/6489",
+                        "text": "Moosa Yahyazadeh"
+                    },
+                    {
+                        "@pid": "53/7986",
+                        "text": "Omar Chowdhury"
+                    },
+                    {
+                        "@pid": "12/3394",
+                        "text": "Aniket Kate"
+                    },
+                    {
+                        "@pid": "l/NinghuiLi",
+                        "text": "Ninghui Li"
+                    }
+                ]
+            },
+            "title": "Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ChauYCKL19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/analyzing-semantic-correctness-with-symbolic-execution-a-case-study-on-pkcs1-v1-5-signature-verification/",
+            "url": "https://dblp.org/rec/conf/ndss/ChauYCKL19"
+        },
+        "url": "URL#2737648"
+    },
+    {
+        "@score": "1",
+        "@id": "2737649",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5333",
+                        "text": "Zheng Leong Chua"
+                    },
+                    {
+                        "@pid": "123/2365",
+                        "text": "Yanhao Wang"
+                    },
+                    {
+                        "@pid": "212/5599",
+                        "text": "Teodora Baluta"
+                    },
+                    {
+                        "@pid": "90/105",
+                        "text": "Prateek Saxena"
+                    },
+                    {
+                        "@pid": "99/4951",
+                        "text": "Zhenkai Liang"
+                    },
+                    {
+                        "@pid": "46/3714",
+                        "text": "Purui Su"
+                    }
+                ]
+            },
+            "title": "One Engine To Serve &apos;em All: Inferring Taint Rules Without Architectural Semantics.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ChuaWBSLS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/one-engine-to-serve-em-all-inferring-taint-rules-without-architectural-semantics/",
+            "url": "https://dblp.org/rec/conf/ndss/ChuaWBSLS19"
+        },
+        "url": "URL#2737649"
+    },
+    {
+        "@score": "1",
+        "@id": "2737650",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "17/2282",
+                        "text": "Cas Cremers"
+                    },
+                    {
+                        "@pid": "205/2144",
+                        "text": "Martin Dehnel-Wild"
+                    }
+                ]
+            },
+            "title": "Component-Based Formal Analysis of 5G-AKA: Channel Assumptions and Session Confusion.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/CremersD19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/component-based-formal-analysis-of-5g-aka-channel-assumptions-and-session-confusion/",
+            "url": "https://dblp.org/rec/conf/ndss/CremersD19"
+        },
+        "url": "URL#2737650"
+    },
+    {
+        "@score": "1",
+        "@id": "2737651",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "31/6808-1",
+                        "text": "Sourav Das 0001"
+                    },
+                    {
+                        "@pid": "91/44",
+                        "text": "Vinay Joseph Ribeiro"
+                    },
+                    {
+                        "@pid": "230/3651",
+                        "text": "Abhijeet Anand"
+                    }
+                ]
+            },
+            "title": "YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DasRA19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/yoda-enabling-computationally-intensive-contracts-on-blockchains-with-byzantine-and-selfish-nodes/",
+            "url": "https://dblp.org/rec/conf/ndss/DasRA19"
+        },
+        "url": "URL#2737651"
+    },
+    {
+        "@score": "1",
+        "@id": "2737652",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "239/8919",
+                        "text": "Abdallah Dawoud"
+                    },
+                    {
+                        "@pid": "31/7561",
+                        "text": "Sven Bugiel"
+                    }
+                ]
+            },
+            "title": "DroidCap: OS Support for Capability-based Permissions in Android.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DawoudB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/droidcap-os-support-for-capability-based-permissions-in-android/",
+            "url": "https://dblp.org/rec/conf/ndss/DawoudB19"
+        },
+        "url": "URL#2737652"
+    },
+    {
+        "@score": "1",
+        "@id": "2737653",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "120/5815",
+                        "text": "Martin Degeling"
+                    },
+                    {
+                        "@pid": "129/4413",
+                        "text": "Christine Utz"
+                    },
+                    {
+                        "@pid": "193/1473",
+                        "text": "Christopher Lentzsch"
+                    },
+                    {
+                        "@pid": "181/5389",
+                        "text": "Henry Hosseini"
+                    },
+                    {
+                        "@pid": "08/7562",
+                        "text": "Florian Schaub"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    }
+                ]
+            },
+            "title": "We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR&apos;s Impact on Web Privacy.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DegelingULHSH19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/we-value-your-privacy-now-take-some-cookies-measuring-the-gdprs-impact-on-web-privacy/",
+            "url": "https://dblp.org/rec/conf/ndss/DegelingULHSH19"
+        },
+        "url": "URL#2737653"
+    },
+    {
+        "@score": "1",
+        "@id": "2737654",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/1764",
+                        "text": "David Derler"
+                    },
+                    {
+                        "@pid": "55/9778",
+                        "text": "Kai Samelin"
+                    },
+                    {
+                        "@pid": "72/5883",
+                        "text": "Daniel Slamanig"
+                    },
+                    {
+                        "@pid": "128/5113",
+                        "text": "Christoph Striecks"
+                    }
+                ]
+            },
+            "title": "Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DerlerSSS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/fine-grained-and-controlled-rewriting-in-blockchains-chameleon-hashing-gone-attribute-based/",
+            "url": "https://dblp.org/rec/conf/ndss/DerlerSSS19"
+        },
+        "url": "URL#2737654"
+    },
+    {
+        "@score": "1",
+        "@id": "2737655",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "234/6067",
+                        "text": "Kostas Drakonakis"
+                    },
+                    {
+                        "@pid": "129/9582",
+                        "text": "Panagiotis Ilia"
+                    },
+                    {
+                        "@pid": "33/2939",
+                        "text": "Sotiris Ioannidis"
+                    },
+                    {
+                        "@pid": "47/8412",
+                        "text": "Jason Polakis"
+                    }
+                ]
+            },
+            "title": "Please Forget Where I Was Last Summer: The Privacy Risks of Public Location (Meta)Data.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DrakonakisIIP19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/please-forget-where-i-was-last-summer-the-privacy-risks-of-public-location-metadata/",
+            "url": "https://dblp.org/rec/conf/ndss/DrakonakisIIP19"
+        },
+        "url": "URL#2737655"
+    },
+    {
+        "@score": "1",
+        "@id": "2737656",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "117/4491",
+                        "text": "Ruian Duan"
+                    },
+                    {
+                        "@pid": "21/7434",
+                        "text": "Ashish Bijlani"
+                    },
+                    {
+                        "@pid": "72/1056-2",
+                        "text": "Yang Ji 0002"
+                    },
+                    {
+                        "@pid": "127/7110",
+                        "text": "Omar Alrawi"
+                    },
+                    {
+                        "@pid": "129/6327",
+                        "text": "Yiyuan Xiong"
+                    },
+                    {
+                        "@pid": "239/8948",
+                        "text": "Moses Ike"
+                    },
+                    {
+                        "@pid": "150/5240",
+                        "text": "Brendan Saltaformaggio"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    }
+                ]
+            },
+            "title": "Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/DuanBJAXISL19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/automating-patching-of-vulnerable-open-source-software-versions-in-application-binaries/",
+            "url": "https://dblp.org/rec/conf/ndss/DuanBJAXISL19"
+        },
+        "url": "URL#2737656"
+    },
+    {
+        "@score": "1",
+        "@id": "2737657",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/7145",
+                        "text": "Sina Faezi"
+                    },
+                    {
+                        "@pid": "180/7182",
+                        "text": "Sujit Rokka Chhetri"
+                    },
+                    {
+                        "@pid": "239/9018",
+                        "text": "Arnav Vaibhav Malawade"
+                    },
+                    {
+                        "@pid": "239/9006",
+                        "text": "John Charles Chaput"
+                    },
+                    {
+                        "@pid": "170/6539",
+                        "text": "William H. Grover"
+                    },
+                    {
+                        "@pid": "12/2711",
+                        "text": "Philip Brisk"
+                    },
+                    {
+                        "@pid": "06/1521",
+                        "text": "Mohammad Abdullah Al Faruque"
+                    }
+                ]
+            },
+            "title": "Oligo-Snoop: A Non-Invasive Side Channel Attack Against DNA Synthesis Machines.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/FaeziCMCGBF19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/oligo-snoop-a-non-invasive-side-channel-attack-against-dna-synthesis-machines/",
+            "url": "https://dblp.org/rec/conf/ndss/FaeziCMCGBF19"
+        },
+        "url": "URL#2737657"
+    },
+    {
+        "@score": "1",
+        "@id": "2737658",
+        "info": {
+            "authors": {
+                "author": {
+                    "@pid": "01/2316",
+                    "text": "Deborah A. Frincke"
+                }
+            },
+            "title": "Keynote: Modern Challenges for Cyber Defense.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Frincke19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/auto-draft-49/",
+            "url": "https://dblp.org/rec/conf/ndss/Frincke19"
+        },
+        "url": "URL#2737658"
+    },
+    {
+        "@score": "1",
+        "@id": "2737659",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "69/711",
+                        "text": "Sergey Frolov"
+                    },
+                    {
+                        "@pid": "60/8733",
+                        "text": "Eric Wustrow"
+                    }
+                ]
+            },
+            "title": "The use of TLS in Censorship Circumvention.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/FrolovW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/the-use-of-tls-in-censorship-circumvention/",
+            "url": "https://dblp.org/rec/conf/ndss/FrolovW19"
+        },
+        "url": "URL#2737659"
+    },
+    {
+        "@score": "1",
+        "@id": "2737660",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/2659",
+                        "text": "Virgil D. Gligor"
+                    },
+                    {
+                        "@pid": "11/814",
+                        "text": "Shan Leung Maverick Woo"
+                    }
+                ]
+            },
+            "title": "Establishing Software Root of Trust Unconditionally.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/GligorW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/establishing-software-root-of-trust-unconditionally/",
+            "url": "https://dblp.org/rec/conf/ndss/GligorW19"
+        },
+        "url": "URL#2737660"
+    },
+    {
+        "@score": "1",
+        "@id": "2737661",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "232/3003",
+                        "text": "Inken Hagestedt"
+                    },
+                    {
+                        "@pid": "06/6785-16",
+                        "text": "Yang Zhang 0016"
+                    },
+                    {
+                        "@pid": "83/8816",
+                        "text": "Mathias Humbert"
+                    },
+                    {
+                        "@pid": "124/6255",
+                        "text": "Pascal Berrang"
+                    },
+                    {
+                        "@pid": "90/3951",
+                        "text": "Haixu Tang"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "XiaoFeng Wang 0001"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    }
+                ]
+            },
+            "title": "MBeacon: Privacy-Preserving Beacons for DNA Methylation Data.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Hagestedt0HBT0019",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/mbeacon-privacy-preserving-beacons-for-dna-methylation-data/",
+            "url": "https://dblp.org/rec/conf/ndss/Hagestedt0HBT0019"
+        },
+        "url": "URL#2737661"
+    },
+    {
+        "@score": "1",
+        "@id": "2737662",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "207/6588",
+                        "text": "HyungSeok Han"
+                    },
+                    {
+                        "@pid": "239/9051",
+                        "text": "DongHyeon Oh"
+                    },
+                    {
+                        "@pid": "49/8463",
+                        "text": "Sang Kil Cha"
+                    }
+                ]
+            },
+            "title": "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/HanOC19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/codealchemist-semantics-aware-code-generation-to-find-vulnerabilities-in-javascript-engines/",
+            "url": "https://dblp.org/rec/conf/ndss/HanOC19"
+        },
+        "url": "URL#2737662"
+    },
+    {
+        "@score": "1",
+        "@id": "2737663",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "184/8086",
+                        "text": "Wajih Ul Hassan"
+                    },
+                    {
+                        "@pid": "162/3606",
+                        "text": "Shengjian Guo"
+                    },
+                    {
+                        "@pid": "95/7132-1",
+                        "text": "Ding Li 0001"
+                    },
+                    {
+                        "@pid": "14/3744",
+                        "text": "Zhengzhang Chen"
+                    },
+                    {
+                        "@pid": "36/10085",
+                        "text": "Kangkook Jee"
+                    },
+                    {
+                        "@pid": "55/4022",
+                        "text": "Zhichun Li"
+                    },
+                    {
+                        "@pid": "126/3601",
+                        "text": "Adam Bates 0001"
+                    }
+                ]
+            },
+            "title": "NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/HassanGLCJL019",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/nodoze-combatting-threat-alert-fatigue-with-automated-provenance-triage/",
+            "url": "https://dblp.org/rec/conf/ndss/HassanGLCJL019"
+        },
+        "url": "URL#2737663"
+    },
+    {
+        "@score": "1",
+        "@id": "2737664",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "45/1437",
+                        "text": "Cormac Herley"
+                    },
+                    {
+                        "@pid": "s/SESchechter",
+                        "text": "Stuart E. Schechter"
+                    }
+                ]
+            },
+            "title": "Distinguishing Attacks from Legitimate Authentication Traffic at Scale.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/HerleyS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/distinguishing-attacks-from-legitimate-authentication-traffic-at-scale/",
+            "url": "https://dblp.org/rec/conf/ndss/HerleyS19"
+        },
+        "url": "URL#2737664"
+    },
+    {
+        "@score": "1",
+        "@id": "2737665",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2182",
+                        "text": "Stephen Herwig"
+                    },
+                    {
+                        "@pid": "205/2133",
+                        "text": "Katura Harvey"
+                    },
+                    {
+                        "@pid": "205/2195",
+                        "text": "George Hughey"
+                    },
+                    {
+                        "@pid": "140/7944",
+                        "text": "Richard Roberts"
+                    },
+                    {
+                        "@pid": "03/6428",
+                        "text": "Dave Levin"
+                    }
+                ]
+            },
+            "title": "Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/HerwigHHRL19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/measurement-and-analysis-of-hajime-a-peer-to-peer-iot-botnet/",
+            "url": "https://dblp.org/rec/conf/ndss/HerwigHHRL19"
+        },
+        "url": "URL#2737665"
+    },
+    {
+        "@score": "1",
+        "@id": "2737666",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "83/7270",
+                        "text": "Syed Rafiul Hussain"
+                    },
+                    {
+                        "@pid": "239/8831",
+                        "text": "Mitziu Echeverria"
+                    },
+                    {
+                        "@pid": "53/7986",
+                        "text": "Omar Chowdhury"
+                    },
+                    {
+                        "@pid": "l/NinghuiLi",
+                        "text": "Ninghui Li"
+                    },
+                    {
+                        "@pid": "b/ElisaBertino",
+                        "text": "Elisa Bertino"
+                    }
+                ]
+            },
+            "title": "Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/HussainECLB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/privacy-attacks-to-the-4g-and-5g-cellular-paging-protocols-using-side-channel-information/",
+            "url": "https://dblp.org/rec/conf/ndss/HussainECLB19"
+        },
+        "url": "URL#2737666"
+    },
+    {
+        "@score": "1",
+        "@id": "2737667",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "185/1661",
+                        "text": "Gabriel Kaptchuk"
+                    },
+                    {
+                        "@pid": "74/4531-1",
+                        "text": "Matthew Green 0001"
+                    },
+                    {
+                        "@pid": "129/9500",
+                        "text": "Ian Miers"
+                    }
+                ]
+            },
+            "title": "Giving State to the Stateless: Augmenting Trustworthy Computation with Ledgers.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Kaptchuk0M19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/giving-state-to-the-stateless-augmenting-trustworthy-computation-with-ledgers/",
+            "url": "https://dblp.org/rec/conf/ndss/Kaptchuk0M19"
+        },
+        "url": "URL#2737667"
+    },
+    {
+        "@score": "1",
+        "@id": "2737668",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/9887",
+                        "text": "Anastasis Keliris"
+                    },
+                    {
+                        "@pid": "56/1494",
+                        "text": "Michail Maniatakos"
+                    }
+                ]
+            },
+            "title": "ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/KelirisM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/icsref-a-framework-for-automated-reverse-engineering-of-industrial-control-systems-binaries/",
+            "url": "https://dblp.org/rec/conf/ndss/KelirisM19"
+        },
+        "url": "URL#2737668"
+    },
+    {
+        "@score": "1",
+        "@id": "2737669",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "98/3396",
+                        "text": "Amit Klein 0001"
+                    },
+                    {
+                        "@pid": "31/1735",
+                        "text": "Benny Pinkas"
+                    }
+                ]
+            },
+            "title": "DNS Cache-Based User Tracking.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/KleinP19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/dns-cache-based-user-tracking/",
+            "url": "https://dblp.org/rec/conf/ndss/KleinP19"
+        },
+        "url": "URL#2737669"
+    },
+    {
+        "@score": "1",
+        "@id": "2737670",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "155/5132",
+                        "text": "Katharina Kohls"
+                    },
+                    {
+                        "@pid": "185/1682",
+                        "text": "Kai Jansen"
+                    },
+                    {
+                        "@pid": "77/2192",
+                        "text": "David Rupprecht"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    },
+                    {
+                        "@pid": "11/3019",
+                        "text": "Christina P\u00f6pper"
+                    }
+                ]
+            },
+            "title": "On the Challenges of Geographical Avoidance for Tor.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/KohlsJRHP19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/on-the-challenges-of-geographical-avoidance-for-tor/",
+            "url": "https://dblp.org/rec/conf/ndss/KohlsJRHP19"
+        },
+        "url": "URL#2737670"
+    },
+    {
+        "@score": "1",
+        "@id": "2737671",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "44/10958",
+                        "text": "Platon Kotzias"
+                    },
+                    {
+                        "@pid": "15/6037",
+                        "text": "Leyla Bilge"
+                    },
+                    {
+                        "@pid": "122/8629",
+                        "text": "Pierre-Antoine Vervier"
+                    },
+                    {
+                        "@pid": "35/3587",
+                        "text": "Juan Caballero"
+                    }
+                ]
+            },
+            "title": "Mind Your Own Business: A Longitudinal Study of Threats and Vulnerabilities in Enterprises.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/KotziasBVC19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/mind-your-own-business-a-longitudinal-study-of-threats-and-vulnerabilities-in-enterprises/",
+            "url": "https://dblp.org/rec/conf/ndss/KotziasBVC19"
+        },
+        "url": "URL#2737671"
+    },
+    {
+        "@score": "1",
+        "@id": "2737672",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "78/6080",
+                        "text": "Jaeho Lee"
+                    },
+                    {
+                        "@pid": "59/146-1",
+                        "text": "Ang Chen 0001"
+                    },
+                    {
+                        "@pid": "w/DanSWallach",
+                        "text": "Dan S. Wallach"
+                    }
+                ]
+            },
+            "title": "Total Recall: Persistence of Passwords in Android.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LeeCW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/total-recall-persistence-of-passwords-in-android/",
+            "url": "https://dblp.org/rec/conf/ndss/LeeCW19"
+        },
+        "url": "URL#2737672"
+    },
+    {
+        "@score": "1",
+        "@id": "2737673",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "55/8846-1",
+                        "text": "Hyunwoo Lee 0001"
+                    },
+                    {
+                        "@pid": "224/2399",
+                        "text": "Zach Smith"
+                    },
+                    {
+                        "@pid": "239/8917",
+                        "text": "Junghwan Lim"
+                    },
+                    {
+                        "@pid": "239/9042",
+                        "text": "Gyeongjae Choi"
+                    },
+                    {
+                        "@pid": "217/4431",
+                        "text": "Selin Chun"
+                    },
+                    {
+                        "@pid": "90/8396",
+                        "text": "Taejoong Chung"
+                    },
+                    {
+                        "@pid": "14/2293-1",
+                        "text": "Ted Taekyoung Kwon"
+                    }
+                ]
+            },
+            "title": "maTLS: How to Make TLS middlebox-aware?",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LeeSLCCCK19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/matls-how-to-make-tls-middlebox-aware/",
+            "url": "https://dblp.org/rec/conf/ndss/LeeSLCCCK19"
+        },
+        "url": "URL#2737673"
+    },
+    {
+        "@score": "1",
+        "@id": "2737674",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "163/3449",
+                        "text": "Seunghyeon Lee"
+                    },
+                    {
+                        "@pid": "164/1673",
+                        "text": "Changhoon Yoon"
+                    },
+                    {
+                        "@pid": "164/1777",
+                        "text": "Heedo Kang"
+                    },
+                    {
+                        "@pid": "177/3037",
+                        "text": "Yeonkeun Kim"
+                    },
+                    {
+                        "@pid": "20/6892",
+                        "text": "Yongdae Kim"
+                    },
+                    {
+                        "@pid": "12/5388",
+                        "text": "Dongsu Han"
+                    },
+                    {
+                        "@pid": "09/3668",
+                        "text": "Sooel Son"
+                    },
+                    {
+                        "@pid": "84/3319-1",
+                        "text": "Seungwon Shin 0001"
+                    }
+                ]
+            },
+            "title": "Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LeeYKKKHSS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/cybercriminal-minds-an-investigative-study-of-cryptocurrency-abuses-in-the-dark-web/",
+            "url": "https://dblp.org/rec/conf/ndss/LeeYKKKHSS19"
+        },
+        "url": "URL#2737674"
+    },
+    {
+        "@score": "1",
+        "@id": "2737675",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/6946",
+                        "text": "Derek Leung"
+                    },
+                    {
+                        "@pid": "216/6745",
+                        "text": "Adam Suhl"
+                    },
+                    {
+                        "@pid": "84/7357",
+                        "text": "Yossi Gilad"
+                    },
+                    {
+                        "@pid": "99/5780",
+                        "text": "Nickolai Zeldovich"
+                    }
+                ]
+            },
+            "title": "Vault: Fast Bootstrapping for the Algorand Cryptocurrency.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LeungSGZ19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/vault-fast-bootstrapping-for-the-algorand-cryptocurrency/",
+            "url": "https://dblp.org/rec/conf/ndss/LeungSGZ19"
+        },
+        "url": "URL#2737675"
+    },
+    {
+        "@score": "1",
+        "@id": "2737676",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "76/7842",
+                        "text": "Jinfeng Li"
+                    },
+                    {
+                        "@pid": "07/8388",
+                        "text": "Shouling Ji"
+                    },
+                    {
+                        "@pid": "128/2982",
+                        "text": "Tianyu Du"
+                    },
+                    {
+                        "@pid": "50/3402-26",
+                        "text": "Bo Li 0026"
+                    },
+                    {
+                        "@pid": "12/2633-6",
+                        "text": "Ting Wang 0006"
+                    }
+                ]
+            },
+            "title": "TextBugger: Generating Adversarial Text Against Real-world Applications.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LiJDLW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/textbugger-generating-adversarial-text-against-real-world-applications/",
+            "url": "https://dblp.org/rec/conf/ndss/LiJDLW19"
+        },
+        "url": "URL#2737676"
+    },
+    {
+        "@score": "1",
+        "@id": "2737677",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "34/8146-1",
+                        "text": "Shasha Li 0001"
+                    },
+                    {
+                        "@pid": "154/7852",
+                        "text": "Ajaya Neupane"
+                    },
+                    {
+                        "@pid": "138/6200",
+                        "text": "Sujoy Paul"
+                    },
+                    {
+                        "@pid": "69/6818",
+                        "text": "Chengyu Song"
+                    },
+                    {
+                        "@pid": "k/SrikanthVKrishnamurthy",
+                        "text": "Srikanth V. Krishnamurthy"
+                    },
+                    {
+                        "@pid": "c/AmitKRoyChowdhury",
+                        "text": "Amit K. Roy-Chowdhury"
+                    },
+                    {
+                        "@pid": "89/5072",
+                        "text": "Ananthram Swami"
+                    }
+                ]
+            },
+            "title": "Stealthy Adversarial Perturbations Against Real-Time Video Classification Systems.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LiNPSKRS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/stealthy-adversarial-perturbations-against-real-time-video-classification-systems/",
+            "url": "https://dblp.org/rec/conf/ndss/LiNPSKRS19"
+        },
+        "url": "URL#2737677"
+    },
+    {
+        "@score": "1",
+        "@id": "2737678",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "16/3121-2",
+                        "text": "Meng Luo 0002"
+                    },
+                    {
+                        "@pid": "167/2160",
+                        "text": "Pierre Laperdrix"
+                    },
+                    {
+                        "@pid": "15/3991",
+                        "text": "Nima Honarmand"
+                    },
+                    {
+                        "@pid": "04/8280",
+                        "text": "Nick Nikiforakis"
+                    }
+                ]
+            },
+            "title": "Time Does Not Heal All Wounds: A Longitudinal Analysis of Security-Mechanism Support in Mobile Browsers.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/LuoLHN19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/time-does-not-heal-all-wounds-a-longitudinal-analysis-of-security-mechanism-support-in-mobile-browsers/",
+            "url": "https://dblp.org/rec/conf/ndss/LuoLHN19"
+        },
+        "url": "URL#2737678"
+    },
+    {
+        "@score": "1",
+        "@id": "2737679",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "172/8745",
+                        "text": "Shiqing Ma"
+                    },
+                    {
+                        "@pid": "92/10048",
+                        "text": "Yingqi Liu"
+                    },
+                    {
+                        "@pid": "88/10370-1",
+                        "text": "Guanhong Tao 0001"
+                    },
+                    {
+                        "@pid": "09/4057",
+                        "text": "Wen-Chuan Lee"
+                    },
+                    {
+                        "@pid": "95/3760-1",
+                        "text": "Xiangyu Zhang 0001"
+                    }
+                ]
+            },
+            "title": "NIC: Detecting Adversarial Samples with Neural Network Invariant Checking.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/MaLTL019",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/nic-detecting-adversarial-samples-with-neural-network-invariant-checking/",
+            "url": "https://dblp.org/rec/conf/ndss/MaLTL019"
+        },
+        "url": "URL#2737679"
+    },
+    {
+        "@score": "1",
+        "@id": "2737680",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "148/1304",
+                        "text": "Giulio Malavolta"
+                    },
+                    {
+                        "@pid": "128/4640",
+                        "text": "Pedro Moreno-Sanchez"
+                    },
+                    {
+                        "@pid": "215/5466",
+                        "text": "Clara Schneidewind"
+                    },
+                    {
+                        "@pid": "12/3394",
+                        "text": "Aniket Kate"
+                    },
+                    {
+                        "@pid": "25/3571",
+                        "text": "Matteo Maffei"
+                    }
+                ]
+            },
+            "title": "Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/MalavoltaMSKM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/anonymous-multi-hop-locks-for-blockchain-scalability-and-interoperability/",
+            "url": "https://dblp.org/rec/conf/ndss/MalavoltaMSKM19"
+        },
+        "url": "URL#2737680"
+    },
+    {
+        "@score": "1",
+        "@id": "2737681",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/4458",
+                        "text": "A. Theodore Markettos"
+                    },
+                    {
+                        "@pid": "159/0070",
+                        "text": "Colin Rothwell"
+                    },
+                    {
+                        "@pid": "239/8902",
+                        "text": "Brett F. Gutstein"
+                    },
+                    {
+                        "@pid": "145/4019",
+                        "text": "Allison Pearce"
+                    },
+                    {
+                        "@pid": "n/PeterGNeumann",
+                        "text": "Peter G. Neumann"
+                    },
+                    {
+                        "@pid": "m/SimonWMoore",
+                        "text": "Simon W. Moore"
+                    },
+                    {
+                        "@pid": "70/2118",
+                        "text": "Robert N. M. Watson"
+                    }
+                ]
+            },
+            "title": "Thunderclap: Exploring Vulnerabilities in Operating System IOMMU Protection via DMA from Untrustworthy Peripherals.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/MarkettosRGPNMW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/thunderclap-exploring-vulnerabilities-in-operating-system-iommu-protection-via-dma-from-untrustworthy-peripherals/",
+            "url": "https://dblp.org/rec/conf/ndss/MarkettosRGPNMW19"
+        },
+        "url": "URL#2737681"
+    },
+    {
+        "@score": "1",
+        "@id": "2737682",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "209/8703",
+                        "text": "Michael Meli"
+                    },
+                    {
+                        "@pid": "170/7852",
+                        "text": "Matthew R. McNiece"
+                    },
+                    {
+                        "@pid": "117/3983",
+                        "text": "Bradley Reaves"
+                    }
+                ]
+            },
+            "title": "How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/MeliMR19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/how-bad-can-it-git-characterizing-secret-leakage-in-public-github-repositories/",
+            "url": "https://dblp.org/rec/conf/ndss/MeliMR19"
+        },
+        "url": "URL#2737682"
+    },
+    {
+        "@score": "1",
+        "@id": "2737683",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/8997",
+                        "text": "Milad Nasr"
+                    },
+                    {
+                        "@pid": "151/8595",
+                        "text": "Sadegh Farhang"
+                    },
+                    {
+                        "@pid": "22/1797",
+                        "text": "Amir Houmansadr"
+                    },
+                    {
+                        "@pid": "28/3855",
+                        "text": "Jens Grossklags"
+                    }
+                ]
+            },
+            "title": "Enemy At the Gateways: Censorship-Resilient Proxy Distribution Using Game Theory.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/NasrFHG19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/enemy-at-the-gateways-censorship-resilient-proxy-distribution-using-game-theory/",
+            "url": "https://dblp.org/rec/conf/ndss/NasrFHG19"
+        },
+        "url": "URL#2737683"
+    },
+    {
+        "@score": "1",
+        "@id": "2737684",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "154/7852",
+                        "text": "Ajaya Neupane"
+                    },
+                    {
+                        "@pid": "25/1169",
+                        "text": "Nitesh Saxena"
+                    },
+                    {
+                        "@pid": "61/4143",
+                        "text": "Leanne M. Hirshfield"
+                    },
+                    {
+                        "@pid": "164/9614",
+                        "text": "Sarah E. Bratt"
+                    }
+                ]
+            },
+            "title": "The Crux of Voice (In)Security: A Brain Study of Speaker Legitimacy Detection.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/NeupaneSHB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/the-crux-of-voice-insecurity-a-brain-study-of-speaker-legitimacy-detection/",
+            "url": "https://dblp.org/rec/conf/ndss/NeupaneSHB19"
+        },
+        "url": "URL#2737684"
+    },
+    {
+        "@score": "1",
+        "@id": "2737685",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/2934",
+                        "text": "Panagiotis Papadopoulos"
+                    },
+                    {
+                        "@pid": "129/9582",
+                        "text": "Panagiotis Ilia"
+                    },
+                    {
+                        "@pid": "09/1231",
+                        "text": "Michalis Polychronakis"
+                    },
+                    {
+                        "@pid": "m/EvangelosPMarkatos",
+                        "text": "Evangelos P. Markatos"
+                    },
+                    {
+                        "@pid": "33/2939",
+                        "text": "Sotiris Ioannidis"
+                    },
+                    {
+                        "@pid": "41/2735",
+                        "text": "Giorgos Vasiliadis"
+                    }
+                ]
+            },
+            "title": "Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/PapadopoulosIPM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/master-of-web-puppets-abusing-web-browsers-for-persistent-and-stealthy-computation/",
+            "url": "https://dblp.org/rec/conf/ndss/PapadopoulosIPM19"
+        },
+        "url": "URL#2737685"
+    },
+    {
+        "@score": "1",
+        "@id": "2737686",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "222/3183",
+                        "text": "Victor Perrier"
+                    },
+                    {
+                        "@pid": "70/7706",
+                        "text": "Hassan Jameel Asghar"
+                    },
+                    {
+                        "@pid": "71/5612",
+                        "text": "Dali Kaafar"
+                    }
+                ]
+            },
+            "title": "Private Continual Release of Real-Valued Data Streams.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/PerrierAK19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/private-continual-release-of-real-valued-data-streams/",
+            "url": "https://dblp.org/rec/conf/ndss/PerrierAK19"
+        },
+        "url": "URL#2737686"
+    },
+    {
+        "@score": "1",
+        "@id": "2737687",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "221/3626",
+                        "text": "Victor Le Pochat"
+                    },
+                    {
+                        "@pid": "147/2244",
+                        "text": "Tom van Goethem"
+                    },
+                    {
+                        "@pid": "182/6692",
+                        "text": "Samaneh Tajalizadehkhoob"
+                    },
+                    {
+                        "@pid": "06/10585",
+                        "text": "Maciej Korczynski"
+                    },
+                    {
+                        "@pid": "13/86",
+                        "text": "Wouter Joosen"
+                    }
+                ]
+            },
+            "title": "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/PochatGTKJ19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/tranco-a-research-oriented-top-sites-ranking-hardened-against-manipulation/",
+            "url": "https://dblp.org/rec/conf/ndss/PochatGTKJ19"
+        },
+        "url": "URL#2737687"
+    },
+    {
+        "@score": "1",
+        "@id": "2737688",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "132/9407",
+                        "text": "Michael Rodler"
+                    },
+                    {
+                        "@pid": "29/4801-1",
+                        "text": "Wenting Li 0001"
+                    },
+                    {
+                        "@pid": "36/1531",
+                        "text": "Ghassan O. Karame"
+                    },
+                    {
+                        "@pid": "73/7564",
+                        "text": "Lucas Davi"
+                    }
+                ]
+            },
+            "title": "Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/RodlerLKD19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/sereum-protecting-existing-smart-contracts-against-re-entrancy-attacks/",
+            "url": "https://dblp.org/rec/conf/ndss/RodlerLKD19"
+        },
+        "url": "URL#2737688"
+    },
+    {
+        "@score": "1",
+        "@id": "2737689",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "94/7855",
+                        "text": "Nicol\u00e1s Rosner"
+                    },
+                    {
+                        "@pid": "233/6851",
+                        "text": "Ismet Burak Kadron"
+                    },
+                    {
+                        "@pid": "130/1704",
+                        "text": "Lucas Bang"
+                    },
+                    {
+                        "@pid": "07/3368",
+                        "text": "Tevfik Bultan"
+                    }
+                ]
+            },
+            "title": "Profit: Detecting and Quantifying Side Channels in Networked Applications.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/RosnerKBB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/profit-detecting-and-quantifying-side-channels-in-networked-applications/",
+            "url": "https://dblp.org/rec/conf/ndss/RosnerKBB19"
+        },
+        "url": "URL#2737689"
+    },
+    {
+        "@score": "1",
+        "@id": "2737690",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "41/506-1",
+                        "text": "Ahmed Salem 0001"
+                    },
+                    {
+                        "@pid": "06/6785-16",
+                        "text": "Yang Zhang 0016"
+                    },
+                    {
+                        "@pid": "83/8816",
+                        "text": "Mathias Humbert"
+                    },
+                    {
+                        "@pid": "124/6255",
+                        "text": "Pascal Berrang"
+                    },
+                    {
+                        "@pid": "07/5701",
+                        "text": "Mario Fritz"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    }
+                ]
+            },
+            "title": "ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Salem0HBF019",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/ml-leaks-model-and-data-independent-membership-inference-attacks-and-defenses-on-machine-learning-models/",
+            "url": "https://dblp.org/rec/conf/ndss/Salem0HBF019"
+        },
+        "url": "URL#2737690"
+    },
+    {
+        "@score": "1",
+        "@id": "2737691",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "195/0263",
+                        "text": "Lea Sch\u00f6nherr"
+                    },
+                    {
+                        "@pid": "155/5132",
+                        "text": "Katharina Kohls"
+                    },
+                    {
+                        "@pid": "43/8156",
+                        "text": "Steffen Zeiler"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    },
+                    {
+                        "@pid": "44/3463",
+                        "text": "Dorothea Kolossa"
+                    }
+                ]
+            },
+            "title": "Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SchonherrKZHK19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/adversarial-attacks-against-automatic-speech-recognition-systems-via-psychoacoustic-hiding/",
+            "url": "https://dblp.org/rec/conf/ndss/SchonherrKZHK19"
+        },
+        "url": "URL#2737691"
+    },
+    {
+        "@score": "1",
+        "@id": "2737692",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9868",
+                        "text": "Tohid Shekari"
+                    },
+                    {
+                        "@pid": "205/2026",
+                        "text": "Christian Bayens"
+                    },
+                    {
+                        "@pid": "43/2967",
+                        "text": "Morris Cohen"
+                    },
+                    {
+                        "@pid": "233/2579",
+                        "text": "Lukas Graber"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem Beyah"
+                    }
+                ]
+            },
+            "title": "RFDIDS: Radio Frequency-based Distributed Intrusion Detection System for the Power Grid.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ShekariBCGB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/rfdids-radio-frequency-based-distributed-intrusion-detection-system-for-the-power-grid/",
+            "url": "https://dblp.org/rec/conf/ndss/ShekariBCGB19"
+        },
+        "url": "URL#2737692"
+    },
+    {
+        "@score": "1",
+        "@id": "2737693",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "169/3386",
+                        "text": "Shiqi Shen"
+                    },
+                    {
+                        "@pid": "136/8404",
+                        "text": "Shweta Shinde"
+                    },
+                    {
+                        "@pid": "223/4052",
+                        "text": "Soundarya Ramesh"
+                    },
+                    {
+                        "@pid": "04/5884",
+                        "text": "Abhik Roychoudhury"
+                    },
+                    {
+                        "@pid": "90/105",
+                        "text": "Prateek Saxena"
+                    }
+                ]
+            },
+            "title": "Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ShenSRRS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/neuro-symbolic-execution-augmenting-symbolic-execution-with-neural-constraints/",
+            "url": "https://dblp.org/rec/conf/ndss/ShenSRRS19"
+        },
+        "url": "URL#2737693"
+    },
+    {
+        "@score": "1",
+        "@id": "2737694",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/8338",
+                        "text": "Jangseop Shin"
+                    },
+                    {
+                        "@pid": "130/9723",
+                        "text": "Donghyun Kwon"
+                    },
+                    {
+                        "@pid": "27/229",
+                        "text": "Jiwon Seo"
+                    },
+                    {
+                        "@pid": "130/9710",
+                        "text": "Yeongpil Cho"
+                    },
+                    {
+                        "@pid": "65/3751",
+                        "text": "Yunheung Paek"
+                    }
+                ]
+            },
+            "title": "CRCount: Pointer Invalidation with Reference Counting to Mitigate Use-after-free in Legacy C/C++.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ShinKSCP19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/crcount-pointer-invalidation-with-reference-counting-to-mitigate-use-after-free-in-legacy-c-c/",
+            "url": "https://dblp.org/rec/conf/ndss/ShinKSCP19"
+        },
+        "url": "URL#2737694"
+    },
+    {
+        "@score": "1",
+        "@id": "2737695",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "157/2295",
+                        "text": "Mridula Singh"
+                    },
+                    {
+                        "@pid": "183/1273",
+                        "text": "Patrick Leu"
+                    },
+                    {
+                        "@pid": "51/1639",
+                        "text": "Srdjan Capkun"
+                    }
+                ]
+            },
+            "title": "UWB with Pulse Reordering: Securing Ranging against Relay and Physical-Layer Attacks.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SinghLC19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/uwb-with-pulse-reordering-securing-ranging-against-relay-and-physical-layer-attacks/",
+            "url": "https://dblp.org/rec/conf/ndss/SinghLC19"
+        },
+        "url": "URL#2737695"
+    },
+    {
+        "@score": "1",
+        "@id": "2737696",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "168/9531",
+                        "text": "Suphannee Sivakorn"
+                    },
+                    {
+                        "@pid": "36/10085",
+                        "text": "Kangkook Jee"
+                    },
+                    {
+                        "@pid": "139/9789",
+                        "text": "Yixin Sun"
+                    },
+                    {
+                        "@pid": "266/8091",
+                        "text": "Lauri Korts-P\u00e4rn"
+                    },
+                    {
+                        "@pid": "55/4022",
+                        "text": "Zhichun Li"
+                    },
+                    {
+                        "@pid": "23/3990",
+                        "text": "Cristian Lumezanu"
+                    },
+                    {
+                        "@pid": "87/6581-3",
+                        "text": "Zhenyu Wu 0003"
+                    },
+                    {
+                        "@pid": "67/7788",
+                        "text": "Lu-An Tang"
+                    },
+                    {
+                        "@pid": "95/7132-1",
+                        "text": "Ding Li 0001"
+                    }
+                ]
+            },
+            "title": "Countering Malicious Processes with Process-DNS Association.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SivakornJSKLLWT19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/countering-malicious-processes-with-process-dns-association/",
+            "url": "https://dblp.org/rec/conf/ndss/SivakornJSKLLWT19"
+        },
+        "url": "URL#2737696"
+    },
+    {
+        "@score": "1",
+        "@id": "2737697",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "196/8836",
+                        "text": "Alexander Sj\u00f6sten"
+                    },
+                    {
+                        "@pid": "28/8877",
+                        "text": "Steven Van Acker"
+                    },
+                    {
+                        "@pid": "131/9757",
+                        "text": "Pablo Picazo-Sanchez"
+                    },
+                    {
+                        "@pid": "s/AndreiSabelfeld",
+                        "text": "Andrei Sabelfeld"
+                    }
+                ]
+            },
+            "title": "Latex Gloves: Protecting Browser Extensions from Probing and Revelation Attacks.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SjostenAPS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/latex-gloves-protecting-browser-extensions-from-probing-and-revelation-attacks/",
+            "url": "https://dblp.org/rec/conf/ndss/SjostenAPS19"
+        },
+        "url": "URL#2737697"
+    },
+    {
+        "@score": "1",
+        "@id": "2737698",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "210/0976",
+                        "text": "Dokyung Song"
+                    },
+                    {
+                        "@pid": "188/6046",
+                        "text": "Felicitas Hetzelt"
+                    },
+                    {
+                        "@pid": "90/3182-2",
+                        "text": "Dipanjan Das 0002"
+                    },
+                    {
+                        "@pid": "30/7555",
+                        "text": "Chad Spensky"
+                    },
+                    {
+                        "@pid": "37/9431",
+                        "text": "Yeoul Na"
+                    },
+                    {
+                        "@pid": "127/6103",
+                        "text": "Stijn Volckaert"
+                    },
+                    {
+                        "@pid": "v/GiovanniVigna",
+                        "text": "Giovanni Vigna"
+                    },
+                    {
+                        "@pid": "k/ChristopherKruegel",
+                        "text": "Christopher Kruegel"
+                    },
+                    {
+                        "@pid": "98/117",
+                        "text": "Jean-Pierre Seifert"
+                    },
+                    {
+                        "@pid": "f/MichaelFranz",
+                        "text": "Michael Franz"
+                    }
+                ]
+            },
+            "title": "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SongH0SNVVKSF19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/periscope-an-effective-probing-and-fuzzing-framework-for-the-hardware-os-boundary/",
+            "url": "https://dblp.org/rec/conf/ndss/SongH0SNVVKSF19"
+        },
+        "url": "URL#2737698"
+    },
+    {
+        "@score": "1",
+        "@id": "2737699",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "170/4315",
+                        "text": "Alberto Sonnino"
+                    },
+                    {
+                        "@pid": "184/4757",
+                        "text": "Mustafa Al-Bassam"
+                    },
+                    {
+                        "@pid": "03/10812",
+                        "text": "Shehar Bano"
+                    },
+                    {
+                        "@pid": "94/8813",
+                        "text": "Sarah Meiklejohn"
+                    },
+                    {
+                        "@pid": "11/1148",
+                        "text": "George Danezis"
+                    }
+                ]
+            },
+            "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SonninoABMD19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/coconut-threshold-issuance-selective-disclosure-credentials-with-applications-to-distributed-ledgers/",
+            "url": "https://dblp.org/rec/conf/ndss/SonninoABMD19"
+        },
+        "url": "URL#2737699"
+    },
+    {
+        "@score": "1",
+        "@id": "2737700",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "205/2051",
+                        "text": "Marius Steffens"
+                    },
+                    {
+                        "@pid": "08/6024",
+                        "text": "Christian Rossow"
+                    },
+                    {
+                        "@pid": "82/359",
+                        "text": "Martin Johns"
+                    },
+                    {
+                        "@pid": "136/8343",
+                        "text": "Ben Stock"
+                    }
+                ]
+            },
+            "title": "Don&apos;t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SteffensRJS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/dont-trust-the-locals-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/",
+            "url": "https://dblp.org/rec/conf/ndss/SteffensRJS19"
+        },
+        "url": "URL#2737700"
+    },
+    {
+        "@score": "1",
+        "@id": "2737701",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "41/10099",
+                        "text": "Shridatt Sugrim"
+                    },
+                    {
+                        "@pid": "18/5099-1",
+                        "text": "Can Liu 0001"
+                    },
+                    {
+                        "@pid": "239/8872",
+                        "text": "Meghan McLean"
+                    },
+                    {
+                        "@pid": "65/1182",
+                        "text": "Janne Lindqvist"
+                    }
+                ]
+            },
+            "title": "Robust Performance Metrics for Authentication Systems.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/SugrimLML19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/robust-performance-metrics-for-authentication-systems/",
+            "url": "https://dblp.org/rec/conf/ndss/SugrimLML19"
+        },
+        "url": "URL#2737701"
+    },
+    {
+        "@score": "1",
+        "@id": "2737702",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "238/9909",
+                        "text": "Kimia Tajik"
+                    },
+                    {
+                        "@pid": "238/0157",
+                        "text": "Akshith Gunasekaran"
+                    },
+                    {
+                        "@pid": "239/0126",
+                        "text": "Rhea Dutta"
+                    },
+                    {
+                        "@pid": "239/0168",
+                        "text": "Brandon Ellis"
+                    },
+                    {
+                        "@pid": "115/7959",
+                        "text": "Rakesh B. Bobba"
+                    },
+                    {
+                        "@pid": "r/MikeRosulek",
+                        "text": "Mike Rosulek"
+                    },
+                    {
+                        "@pid": "82/4065",
+                        "text": "Charles V. Wright"
+                    },
+                    {
+                        "@pid": "04/329",
+                        "text": "Wu-chi Feng"
+                    }
+                ]
+            },
+            "title": "Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/TajikGDEBRWF19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/balancing-image-privacy-and-usability-with-thumbnail-preserving-encryption/",
+            "url": "https://dblp.org/rec/conf/ndss/TajikGDEBRWF19"
+        },
+        "url": "URL#2737702"
+    },
+    {
+        "@score": "1",
+        "@id": "2737703",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "68/5101",
+                        "text": "Luis Vargas"
+                    },
+                    {
+                        "@pid": "183/1275",
+                        "text": "Logan Blue"
+                    },
+                    {
+                        "@pid": "224/9362",
+                        "text": "Vanessa Frost"
+                    },
+                    {
+                        "@pid": "201/6456",
+                        "text": "Christopher Patton"
+                    },
+                    {
+                        "@pid": "167/0436",
+                        "text": "Nolen Scaife"
+                    },
+                    {
+                        "@pid": "82/1935",
+                        "text": "Kevin R. B. Butler"
+                    },
+                    {
+                        "@pid": "14/3295",
+                        "text": "Patrick Traynor"
+                    }
+                ]
+            },
+            "title": "Digital Healthcare-Associated Infection: A Case Study on the Security of a Major Multi-Campus Hospital System.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/VargasBFPSBT19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/digital-healthcare-associated-infection-a-case-study-on-the-security-of-a-major-multi-campus-hospital-system/",
+            "url": "https://dblp.org/rec/conf/ndss/VargasBFPSBT19"
+        },
+        "url": "URL#2737703"
+    },
+    {
+        "@score": "1",
+        "@id": "2737704",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "236/6947",
+                        "text": "Jack Wampler"
+                    },
+                    {
+                        "@pid": "239/8918",
+                        "text": "Ian Martiny"
+                    },
+                    {
+                        "@pid": "60/8733",
+                        "text": "Eric Wustrow"
+                    }
+                ]
+            },
+            "title": "ExSpectre: Hiding Malware in Speculative Execution.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WamplerMW19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/exspectre-hiding-malware-in-speculative-execution/",
+            "url": "https://dblp.org/rec/conf/ndss/WamplerMW19"
+        },
+        "url": "URL#2737704"
+    },
+    {
+        "@score": "1",
+        "@id": "2737705",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "123/7149",
+                        "text": "Binghui Wang"
+                    },
+                    {
+                        "@pid": "24/5124-1",
+                        "text": "Jinyuan Jia 0001"
+                    },
+                    {
+                        "@pid": "03/9437",
+                        "text": "Neil Zhenqiang Gong"
+                    }
+                ]
+            },
+            "title": "Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WangJG19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/graph-based-security-and-privacy-analytics-via-collective-classification-with-joint-weight-learning-and-propagation/",
+            "url": "https://dblp.org/rec/conf/ndss/WangJG19"
+        },
+        "url": "URL#2737705"
+    },
+    {
+        "@score": "1",
+        "@id": "2737706",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "04/10838",
+                        "text": "Daimeng Wang"
+                    },
+                    {
+                        "@pid": "154/7852",
+                        "text": "Ajaya Neupane"
+                    },
+                    {
+                        "@pid": "31/8302",
+                        "text": "Zhiyun Qian"
+                    },
+                    {
+                        "@pid": "86/2654",
+                        "text": "Nael B. Abu-Ghazaleh"
+                    },
+                    {
+                        "@pid": "k/SrikanthVKrishnamurthy",
+                        "text": "Srikanth V. Krishnamurthy"
+                    },
+                    {
+                        "@pid": "87/2240",
+                        "text": "Edward J. M. Colbert"
+                    },
+                    {
+                        "@pid": "12/6699",
+                        "text": "Paul L. Yu"
+                    }
+                ]
+            },
+            "title": "Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Libraries.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WangNQAKCY19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/unveiling-your-keystrokes-a-cache-based-side-channel-attack-on-graphics-libraries/",
+            "url": "https://dblp.org/rec/conf/ndss/WangNQAKCY19"
+        },
+        "url": "URL#2737706"
+    },
+    {
+        "@score": "1",
+        "@id": "2737707",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "220/3081",
+                        "text": "Ke Coby Wang"
+                    },
+                    {
+                        "@pid": "r/MichaelKReiter",
+                        "text": "Michael K. Reiter"
+                    }
+                ]
+            },
+            "title": "How to End Password Reuse on the Web.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WangR19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/how-to-end-password-reuse-on-the-web/",
+            "url": "https://dblp.org/rec/conf/ndss/WangR19"
+        },
+        "url": "URL#2737707"
+    },
+    {
+        "@score": "1",
+        "@id": "2737708",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/2706",
+                        "text": "Samuel Weiser"
+                    },
+                    {
+                        "@pid": "59/8645",
+                        "text": "Mario Werner"
+                    },
+                    {
+                        "@pid": "117/5967",
+                        "text": "Ferdinand Brasser"
+                    },
+                    {
+                        "@pid": "197/5046",
+                        "text": "Maja Malenko"
+                    },
+                    {
+                        "@pid": "91/4831",
+                        "text": "Stefan Mangard"
+                    },
+                    {
+                        "@pid": "s/AhmadRezaSadeghi",
+                        "text": "Ahmad-Reza Sadeghi"
+                    }
+                ]
+            },
+            "title": "TIMBER-V: Tag-Isolated Memory Bringing Fine-grained Enclaves to RISC-V.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WeiserWBMMS19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/timber-v-tag-isolated-memory-bringing-fine-grained-enclaves-to-risc-v/",
+            "url": "https://dblp.org/rec/conf/ndss/WeiserWBMMS19"
+        },
+        "url": "URL#2737708"
+    },
+    {
+        "@score": "1",
+        "@id": "2737709",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "144/7556",
+                        "text": "Daoyuan Wu"
+                    },
+                    {
+                        "@pid": "60/206",
+                        "text": "Debin Gao"
+                    },
+                    {
+                        "@pid": "87/4986",
+                        "text": "Rocky K. C. Chang"
+                    },
+                    {
+                        "@pid": "209/6119",
+                        "text": "En He"
+                    },
+                    {
+                        "@pid": "198/0911",
+                        "text": "Eric K. T. Cheng"
+                    },
+                    {
+                        "@pid": "d/RobertHDeng",
+                        "text": "Robert H. Deng"
+                    }
+                ]
+            },
+            "title": "Understanding Open Ports in Android Applications: Discovery, Diagnosis, and Security Assessment.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/WuGCHCD19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/understanding-open-ports-in-android-applications-discovery-diagnosis-and-security-assessment/",
+            "url": "https://dblp.org/rec/conf/ndss/WuGCHCD19"
+        },
+        "url": "URL#2737709"
+    },
+    {
+        "@score": "1",
+        "@id": "2737710",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "213/7633",
+                        "text": "Fenghao Xu"
+                    },
+                    {
+                        "@pid": "149/2350",
+                        "text": "Wenrui Diao"
+                    },
+                    {
+                        "@pid": "62/4119-1",
+                        "text": "Zhou Li 0001"
+                    },
+                    {
+                        "@pid": "224/2480",
+                        "text": "Jiongyi Chen"
+                    },
+                    {
+                        "@pid": "66/6560",
+                        "text": "Kehuan Zhang"
+                    }
+                ]
+            },
+            "title": "BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/XuDLCZ19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/badbluetooth-breaking-android-security-mechanisms-via-malicious-bluetooth-peripherals/",
+            "url": "https://dblp.org/rec/conf/ndss/XuDLCZ19"
+        },
+        "url": "URL#2737710"
+    },
+    {
+        "@score": "1",
+        "@id": "2737711",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "218/6153",
+                        "text": "Jiyong Yu"
+                    },
+                    {
+                        "@pid": "227/7907",
+                        "text": "Lucas Hsiung"
+                    },
+                    {
+                        "@pid": "227/7804",
+                        "text": "Mohamad El Hajj"
+                    },
+                    {
+                        "@pid": "25/8166",
+                        "text": "Christopher W. Fletcher"
+                    }
+                ]
+            },
+            "title": "Data Oblivious ISA Extensions for Side Channel-Resistant and High Performance Computing.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/YuHHF19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/data-oblivious-isa-extensions-for-side-channel-resistant-and-high-performance-computing/",
+            "url": "https://dblp.org/rec/conf/ndss/YuHHF19"
+        },
+        "url": "URL#2737711"
+    },
+    {
+        "@score": "1",
+        "@id": "2737712",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/0702",
+                        "text": "Min Hong Yun"
+                    },
+                    {
+                        "@pid": "27/2552-1",
+                        "text": "Lin Zhong 0001"
+                    }
+                ]
+            },
+            "title": "Ginseng: Keeping Secrets in Registers When You Distrust the Operating System.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/Yun019",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/ginseng-keeping-secrets-in-registers-when-you-distrust-the-operating-system/",
+            "url": "https://dblp.org/rec/conf/ndss/Yun019"
+        },
+        "url": "URL#2737712"
+    },
+    {
+        "@score": "1",
+        "@id": "2737713",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "158/4724",
+                        "text": "Xiaokuan Zhang"
+                    },
+                    {
+                        "@pid": "69/7426",
+                        "text": "Jihun Hamm"
+                    },
+                    {
+                        "@pid": "r/MichaelKReiter",
+                        "text": "Michael K. Reiter"
+                    },
+                    {
+                        "@pid": "77/3503",
+                        "text": "Yinqian Zhang"
+                    }
+                ]
+            },
+            "title": "Statistical Privacy for Streaming Traffic.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhangHRZ19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/statistical-privacy-for-streaming-traffic/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhangHRZ19"
+        },
+        "url": "URL#2737713"
+    },
+    {
+        "@score": "1",
+        "@id": "2737714",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/7564",
+                        "text": "Bingsheng Zhang"
+                    },
+                    {
+                        "@pid": "95/10478",
+                        "text": "Roman Oliynykov"
+                    },
+                    {
+                        "@pid": "190/5268",
+                        "text": "Hamed Balogun"
+                    }
+                ]
+            },
+            "title": "A Treasury System for Cryptocurrencies: Enabling Better Collaborative Intelligence.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhangOB19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/a-treasury-system-for-cryptocurrencies-enabling-better-collaborative-intelligence/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhangOB19"
+        },
+        "url": "URL#2737714"
+    },
+    {
+        "@score": "1",
+        "@id": "2737715",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "164/2196",
+                        "text": "Yangyong Zhang"
+                    },
+                    {
+                        "@pid": "19/360-24",
+                        "text": "Lei Xu 0024"
+                    },
+                    {
+                        "@pid": "167/4353",
+                        "text": "Abner Mendoza"
+                    },
+                    {
+                        "@pid": "153/5855",
+                        "text": "Guangliang Yang 0001"
+                    },
+                    {
+                        "@pid": "183/4920",
+                        "text": "Phakpoom Chinprutthiwong"
+                    },
+                    {
+                        "@pid": "64/1147",
+                        "text": "Guofei Gu"
+                    }
+                ]
+            },
+            "title": "Life after Speech Recognition: Fuzzing Semantic Misinterpretation for Voice Assistant Applications.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhangXMYCG19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/life-after-speech-recognition-fuzzing-semantic-misinterpretation-for-voice-assistant-applications/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhangXMYCG19"
+        },
+        "url": "URL#2737715"
+    },
+    {
+        "@score": "1",
+        "@id": "2737716",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "87/734-12",
+                        "text": "Lei Zhao 0012"
+                    },
+                    {
+                        "@pid": "10/9994",
+                        "text": "Yue Duan"
+                    },
+                    {
+                        "@pid": "77/6178-1",
+                        "text": "Heng Yin 0001"
+                    },
+                    {
+                        "@pid": "86/4142",
+                        "text": "Jifeng Xuan"
+                    }
+                ]
+            },
+            "title": "Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhaoDYX19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/send-hardest-problems-my-way-probabilistic-path-prioritization-for-hybrid-fuzzing/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhaoDYX19"
+        },
+        "url": "URL#2737716"
+    },
+    {
+        "@score": "1",
+        "@id": "2737717",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "140/6495",
+                        "text": "Lianying Zhao"
+                    },
+                    {
+                        "@pid": "m/MohammadMannan",
+                        "text": "Mohammad Mannan"
+                    }
+                ]
+            },
+            "title": "TEE-aided Write Protection Against Privileged Data Tampering.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhaoM19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/tee-aided-write-protection-against-privileged-data-tampering/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhaoM19"
+        },
+        "url": "URL#2737717"
+    },
+    {
+        "@score": "1",
+        "@id": "2737718",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "156/1033",
+                        "text": "Qingchuan Zhao"
+                    },
+                    {
+                        "@pid": "149/8302",
+                        "text": "Chaoshun Zuo"
+                    },
+                    {
+                        "@pid": "35/9056",
+                        "text": "Giancarlo Pellegrino"
+                    },
+                    {
+                        "@pid": "49/4102-1",
+                        "text": "Zhiqiang Lin 0001"
+                    }
+                ]
+            },
+            "title": "Geo-locating Drivers: A Study of Sensitive Data Leakage in Ride-Hailing Services.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZhaoZPL19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/geo-locating-drivers-a-study-of-sensitive-data-leakage-in-ride-hailing-services/",
+            "url": "https://dblp.org/rec/conf/ndss/ZhaoZPL19"
+        },
+        "url": "URL#2737718"
+    },
+    {
+        "@score": "1",
+        "@id": "2737719",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "08/2047",
+                        "text": "Fei Zuo"
+                    },
+                    {
+                        "@pid": "45/1827-1",
+                        "text": "Xiaopeng Li 0001"
+                    },
+                    {
+                        "@pid": "225/5250",
+                        "text": "Patrick Young"
+                    },
+                    {
+                        "@pid": "153/5297",
+                        "text": "Lannan Luo"
+                    },
+                    {
+                        "@pid": "81/583-1",
+                        "text": "Qiang Zeng 0001"
+                    },
+                    {
+                        "@pid": "225/5264",
+                        "text": "Zhexin Zhang"
+                    }
+                ]
+            },
+            "title": "Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs.",
+            "venue": "NDSS",
+            "year": "2019",
+            "type": "Conference and Workshop Papers",
+            "access": "open",
+            "key": "conf/ndss/ZuoLYL0Z19",
+            "ee": "https://www.ndss-symposium.org/ndss-paper/neural-machine-translation-inspired-binary-code-similarity-comparison-beyond-function-pairs/",
+            "url": "https://dblp.org/rec/conf/ndss/ZuoLYL0Z19"
+        },
+        "url": "URL#2737719"
+    },
+    {
+        "@score": "1",
+        "@id": "2781652",
+        "info": {
+            "title": "26th Annual Network and Distributed System Security Symposium, NDSS 2019, San Diego, California, USA, February 24-27, 2019",
+            "venue": "NDSS",
+            "publisher": "The Internet Society",
+            "year": "2019",
+            "type": "Editorship",
+            "access": "open",
+            "key": "conf/ndss/2019",
+            "ee": "https://www.ndss-symposium.org/ndss2019/",
+            "url": "https://dblp.org/rec/conf/ndss/2019"
+        },
+        "url": "URL#2781652"
+    }
+]

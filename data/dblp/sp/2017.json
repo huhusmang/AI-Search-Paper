@@ -1,0 +1,2497 @@
+[
+    {
+        "@score": "1",
+        "@id": "3505161",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    },
+                    {
+                        "@pid": "124/6255",
+                        "text": "Pascal Berrang"
+                    },
+                    {
+                        "@pid": "201/9246",
+                        "text": "Matthias Bieg"
+                    },
+                    {
+                        "@pid": "63/1724",
+                        "text": "Roland Eils"
+                    },
+                    {
+                        "@pid": "70/2853",
+                        "text": "Carl Herrmann"
+                    },
+                    {
+                        "@pid": "83/8816",
+                        "text": "Mathias Humbert"
+                    },
+                    {
+                        "@pid": "201/9215",
+                        "text": "Irina Lehmann"
+                    }
+                ]
+            },
+            "title": "Identifying Personal DNA Methylation Profiles by Genotype Inference.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "957-976",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/0001BBEHHL17",
+            "doi": "10.1109/SP.2017.21",
+            "ee": "https://doi.org/10.1109/SP.2017.21",
+            "url": "https://dblp.org/rec/conf/sp/0001BBEHHL17"
+        },
+        "url": "URL#3505161"
+    },
+    {
+        "@score": "1",
+        "@id": "3505164",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "163/8698",
+                        "text": "Ruba Abu-Salma"
+                    },
+                    {
+                        "@pid": "s/MASasse",
+                        "text": "M. Angela Sasse"
+                    },
+                    {
+                        "@pid": "27/3087",
+                        "text": "Joseph Bonneau"
+                    },
+                    {
+                        "@pid": "201/9268",
+                        "text": "Anastasia Danilova"
+                    },
+                    {
+                        "@pid": "201/9227",
+                        "text": "Alena Naiakshina"
+                    },
+                    {
+                        "@pid": "88/5808-1",
+                        "text": "Matthew Smith 0001"
+                    }
+                ]
+            },
+            "title": "Obstacles to the Adoption of Secure Communication Tools.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "137-153",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Abu-SalmaSBDN017",
+            "doi": "10.1109/SP.2017.65",
+            "ee": "https://doi.org/10.1109/SP.2017.65",
+            "url": "https://dblp.org/rec/conf/sp/Abu-SalmaSBDN017"
+        },
+        "url": "URL#3505164"
+    },
+    {
+        "@score": "1",
+        "@id": "3505165",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "132/9687",
+                        "text": "Yasemin Acar"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    },
+                    {
+                        "@pid": "38/9378",
+                        "text": "Sascha Fahl"
+                    },
+                    {
+                        "@pid": "70/2101",
+                        "text": "Simson L. Garfinkel"
+                    },
+                    {
+                        "@pid": "133/4707",
+                        "text": "Doowon Kim"
+                    },
+                    {
+                        "@pid": "20/7983",
+                        "text": "Michelle L. Mazurek"
+                    },
+                    {
+                        "@pid": "184/6096",
+                        "text": "Christian Stransky"
+                    }
+                ]
+            },
+            "title": "Comparing the Usability of Cryptographic APIs.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "154-171",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Acar0FGKMS17",
+            "doi": "10.1109/SP.2017.52",
+            "ee": "https://doi.org/10.1109/SP.2017.52",
+            "url": "https://dblp.org/rec/conf/sp/Acar0FGKMS17"
+        },
+        "url": "URL#3505165"
+    },
+    {
+        "@score": "1",
+        "@id": "3505167",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "123/3274",
+                        "text": "Sumayah A. Alrwais"
+                    },
+                    {
+                        "@pid": "129/1113",
+                        "text": "Xiaojing Liao"
+                    },
+                    {
+                        "@pid": "192/2270",
+                        "text": "Xianghang Mi"
+                    },
+                    {
+                        "@pid": "95/4442-88",
+                        "text": "Peng Wang 0088"
+                    },
+                    {
+                        "@pid": "06/6268",
+                        "text": "Xiaofeng Wang 0006"
+                    },
+                    {
+                        "@pid": "54/476-1",
+                        "text": "Feng Qian 0001"
+                    },
+                    {
+                        "@pid": "12/6354",
+                        "text": "Raheem A. Beyah"
+                    },
+                    {
+                        "@pid": "58/4016",
+                        "text": "Damon McCoy"
+                    }
+                ]
+            },
+            "title": "Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "805-823",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/AlrwaisLMWWQBM17",
+            "doi": "10.1109/SP.2017.32",
+            "ee": "https://doi.org/10.1109/SP.2017.32",
+            "url": "https://dblp.org/rec/conf/sp/AlrwaisLMWWQBM17"
+        },
+        "url": "URL#3505167"
+    },
+    {
+        "@score": "1",
+        "@id": "3505169",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/5502",
+                        "text": "Maria Apostolaki"
+                    },
+                    {
+                        "@pid": "92/4269",
+                        "text": "Aviv Zohar"
+                    },
+                    {
+                        "@pid": "51/7546",
+                        "text": "Laurent Vanbever"
+                    }
+                ]
+            },
+            "title": "Hijacking Bitcoin: Routing Attacks on Cryptocurrencies.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "375-392",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ApostolakiZV17",
+            "doi": "10.1109/SP.2017.29",
+            "ee": "https://doi.org/10.1109/SP.2017.29",
+            "url": "https://dblp.org/rec/conf/sp/ApostolakiZV17"
+        },
+        "url": "URL#3505169"
+    },
+    {
+        "@score": "1",
+        "@id": "3505170",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "71/5678",
+                        "text": "Toshinori Araki"
+                    },
+                    {
+                        "@pid": "201/9244",
+                        "text": "Assi Barak"
+                    },
+                    {
+                        "@pid": "74/3729",
+                        "text": "Jun Furukawa 0001"
+                    },
+                    {
+                        "@pid": "201/9223",
+                        "text": "Tamar Lichter"
+                    },
+                    {
+                        "@pid": "l/YehudaLindell",
+                        "text": "Yehuda Lindell"
+                    },
+                    {
+                        "@pid": "167/3062",
+                        "text": "Ariel Nof"
+                    },
+                    {
+                        "@pid": "130/3617",
+                        "text": "Kazuma Ohara"
+                    },
+                    {
+                        "@pid": "201/9238",
+                        "text": "Adi Watzman"
+                    },
+                    {
+                        "@pid": "187/5510",
+                        "text": "Or Weinstein"
+                    }
+                ]
+            },
+            "title": "Optimized Honest-Majority MPC for Malicious Adversaries - Breaking the 1 Billion-Gate Per Second Barrier.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "843-862",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ArakiBFLLNOWW17",
+            "doi": "10.1109/SP.2017.15",
+            "ee": "https://doi.org/10.1109/SP.2017.15",
+            "url": "https://dblp.org/rec/conf/sp/ArakiBFLLNOWW17"
+        },
+        "url": "URL#3505170"
+    },
+    {
+        "@score": "1",
+        "@id": "3505171",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/5198",
+                        "text": "Tiffany Bao"
+                    },
+                    {
+                        "@pid": "127/9829",
+                        "text": "Ruoyu Wang 0001"
+                    },
+                    {
+                        "@pid": "119/7712",
+                        "text": "Yan Shoshitaishvili"
+                    },
+                    {
+                        "@pid": "40/2434",
+                        "text": "David Brumley"
+                    }
+                ]
+            },
+            "title": "Your Exploit is Mine: Automatic Shellcode Transplant for Remote Exploits.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "824-839",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BaoWSB17",
+            "doi": "10.1109/SP.2017.67",
+            "ee": "https://doi.org/10.1109/SP.2017.67",
+            "url": "https://dblp.org/rec/conf/sp/BaoWSB17"
+        },
+        "url": "URL#3505171"
+    },
+    {
+        "@score": "1",
+        "@id": "3505172",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "b/SebastienBardin",
+                        "text": "S\u00e9bastien Bardin"
+                    },
+                    {
+                        "@pid": "162/3665",
+                        "text": "Robin David"
+                    },
+                    {
+                        "@pid": "m/JeanYvesMarion",
+                        "text": "Jean-Yves Marion"
+                    }
+                ]
+            },
+            "title": "Backward-Bounded DSE: Targeting Infeasibility Questions on Obfuscated Codes.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "633-651",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BardinDM17",
+            "doi": "10.1109/SP.2017.36",
+            "ee": "https://doi.org/10.1109/SP.2017.36",
+            "url": "https://dblp.org/rec/conf/sp/BardinDM17"
+        },
+        "url": "URL#3505172"
+    },
+    {
+        "@score": "1",
+        "@id": "3505174",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "95/8429",
+                        "text": "Thomas Bauerei\u00df"
+                    },
+                    {
+                        "@pid": "142/3160",
+                        "text": "Armando Pesenti Gritti"
+                    },
+                    {
+                        "@pid": "89/2346-1",
+                        "text": "Andrei Popescu 0001"
+                    },
+                    {
+                        "@pid": "58/461",
+                        "text": "Franco Raimondi"
+                    }
+                ]
+            },
+            "title": "CoSMeDis: A Distributed Social Media Platform with Formally Verified Confidentiality Guarantees.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "729-748",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BauereissG0R17",
+            "doi": "10.1109/SP.2017.24",
+            "ee": "https://doi.org/10.1109/SP.2017.24",
+            "url": "https://dblp.org/rec/conf/sp/BauereissG0R17"
+        },
+        "url": "URL#3505174"
+    },
+    {
+        "@score": "1",
+        "@id": "3505175",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/3503",
+                        "text": "Karthikeyan Bhargavan"
+                    },
+                    {
+                        "@pid": "b/BrunoBlanchet",
+                        "text": "Bruno Blanchet"
+                    },
+                    {
+                        "@pid": "131/6696",
+                        "text": "Nadim Kobeissi"
+                    }
+                ]
+            },
+            "title": "Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "483-502",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BhargavanBK17",
+            "doi": "10.1109/SP.2017.26",
+            "ee": "https://doi.org/10.1109/SP.2017.26",
+            "url": "https://dblp.org/rec/conf/sp/BhargavanBK17"
+        },
+        "url": "URL#3505175"
+    },
+    {
+        "@score": "1",
+        "@id": "3505178",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "177/8590",
+                        "text": "Fraser Brown"
+                    },
+                    {
+                        "@pid": "201/9230",
+                        "text": "Shravan Narayan"
+                    },
+                    {
+                        "@pid": "150/9448",
+                        "text": "Riad S. Wahby"
+                    },
+                    {
+                        "@pid": "e/DREngler",
+                        "text": "Dawson R. Engler"
+                    },
+                    {
+                        "@pid": "47/4244",
+                        "text": "Ranjit Jhala"
+                    },
+                    {
+                        "@pid": "91/6118",
+                        "text": "Deian Stefan"
+                    }
+                ]
+            },
+            "title": "Finding and Preventing Bugs in JavaScript Bindings.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "559-578",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/BrownNWEJS17",
+            "doi": "10.1109/SP.2017.68",
+            "ee": "https://doi.org/10.1109/SP.2017.68",
+            "url": "https://dblp.org/rec/conf/sp/BrownNWEJS17"
+        },
+        "url": "URL#3505178"
+    },
+    {
+        "@score": "1",
+        "@id": "3505180",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "c/JanCamenisch",
+                        "text": "Jan Camenisch"
+                    },
+                    {
+                        "@pid": "22/150-2",
+                        "text": "Liqun Chen 0002"
+                    },
+                    {
+                        "@pid": "129/9841",
+                        "text": "Manu Drijvers"
+                    },
+                    {
+                        "@pid": "63/3592",
+                        "text": "Anja Lehmann"
+                    },
+                    {
+                        "@pid": "182/5136",
+                        "text": "David Novick"
+                    },
+                    {
+                        "@pid": "166/7758",
+                        "text": "Rainer Urian"
+                    }
+                ]
+            },
+            "title": "One TPM to Bind Them All: Fixing TPM 2.0 for Provably Secure Anonymous Attestation.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "901-920",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CamenischCDLNU17",
+            "doi": "10.1109/SP.2017.22",
+            "ee": "https://doi.org/10.1109/SP.2017.22",
+            "url": "https://dblp.org/rec/conf/sp/CamenischCDLNU17"
+        },
+        "url": "URL#3505180"
+    },
+    {
+        "@score": "1",
+        "@id": "3505181",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "145/1806",
+                        "text": "Nicholas Carlini"
+                    },
+                    {
+                        "@pid": "42/5626",
+                        "text": "David A. Wagner 0001"
+                    }
+                ]
+            },
+            "title": "Towards Evaluating the Robustness of Neural Networks.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "39-57",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Carlini017",
+            "doi": "10.1109/SP.2017.49",
+            "ee": "https://doi.org/10.1109/SP.2017.49",
+            "url": "https://dblp.org/rec/conf/sp/Carlini017"
+        },
+        "url": "URL#3505181"
+    },
+    {
+        "@score": "1",
+        "@id": "3505183",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9242",
+                        "text": "Sze Yiu Chau"
+                    },
+                    {
+                        "@pid": "53/7986",
+                        "text": "Omar Chowdhury"
+                    },
+                    {
+                        "@pid": "31/1431",
+                        "text": "Md. Endadul Hoque"
+                    },
+                    {
+                        "@pid": "141/5401",
+                        "text": "Huangyi Ge"
+                    },
+                    {
+                        "@pid": "12/3394",
+                        "text": "Aniket Kate"
+                    },
+                    {
+                        "@pid": "n/CristinaNitaRotaru",
+                        "text": "Cristina Nita-Rotaru"
+                    },
+                    {
+                        "@pid": "l/NinghuiLi",
+                        "text": "Ninghui Li"
+                    }
+                ]
+            },
+            "title": "SymCerts: Practical Symbolic Execution for Exposing Noncompliance in X.509 Certificate Validation Implementations.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "503-520",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ChauCHGKNL17",
+            "doi": "10.1109/SP.2017.40",
+            "ee": "https://doi.org/10.1109/SP.2017.40",
+            "url": "https://dblp.org/rec/conf/sp/ChauCHGKNL17"
+        },
+        "url": "URL#3505183"
+    },
+    {
+        "@score": "1",
+        "@id": "3505184",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "89/8201",
+                        "text": "Yaohui Chen"
+                    },
+                    {
+                        "@pid": "07/3804",
+                        "text": "Dongli Zhang"
+                    },
+                    {
+                        "@pid": "19/8917",
+                        "text": "Ruowen Wang"
+                    },
+                    {
+                        "@pid": "31/3517",
+                        "text": "Rui Qiao"
+                    },
+                    {
+                        "@pid": "09/2166",
+                        "text": "Ahmed M. Azab"
+                    },
+                    {
+                        "@pid": "81/7428",
+                        "text": "Long Lu"
+                    },
+                    {
+                        "@pid": "24/687",
+                        "text": "Hayawardh Vijayakumar"
+                    },
+                    {
+                        "@pid": "18/5040",
+                        "text": "Wenbo Shen"
+                    }
+                ]
+            },
+            "title": "NORAX: Enabling Execute-Only Memory for COTS Binaries on AArch64.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "304-319",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ChenZWQALVS17",
+            "doi": "10.1109/SP.2017.30",
+            "ee": "https://doi.org/10.1109/SP.2017.30",
+            "url": "https://dblp.org/rec/conf/sp/ChenZWQALVS17"
+        },
+        "url": "URL#3505184"
+    },
+    {
+        "@score": "1",
+        "@id": "3505186",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "161/3315",
+                        "text": "Geumhwan Cho"
+                    },
+                    {
+                        "@pid": "58/3207",
+                        "text": "Jun Ho Huh"
+                    },
+                    {
+                        "@pid": "167/5722",
+                        "text": "Junsung Cho"
+                    },
+                    {
+                        "@pid": "161/3110",
+                        "text": "Seongyeol Oh"
+                    },
+                    {
+                        "@pid": "150/8107",
+                        "text": "Youngbae Song"
+                    },
+                    {
+                        "@pid": "64/5383",
+                        "text": "Hyoungshick Kim"
+                    }
+                ]
+            },
+            "title": "SysPal: System-Guided Pattern Locks for Android.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "338-356",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ChoHCOSK17",
+            "doi": "10.1109/SP.2017.61",
+            "ee": "https://doi.org/10.1109/SP.2017.61",
+            "url": "https://dblp.org/rec/conf/sp/ChoHCOSK17"
+        },
+        "url": "URL#3505186"
+    },
+    {
+        "@score": "1",
+        "@id": "3505187",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/9046",
+                        "text": "Abraham A. Clements"
+                    },
+                    {
+                        "@pid": "175/4787",
+                        "text": "Naif Saleh Almakhdhub"
+                    },
+                    {
+                        "@pid": "176/4061",
+                        "text": "Khaled Saab 0002"
+                    },
+                    {
+                        "@pid": "201/9222",
+                        "text": "Prashast Srivastava"
+                    },
+                    {
+                        "@pid": "53/7540",
+                        "text": "Jinkyu Koo"
+                    },
+                    {
+                        "@pid": "57/95",
+                        "text": "Saurabh Bagchi"
+                    },
+                    {
+                        "@pid": "31/1273",
+                        "text": "Mathias Payer"
+                    }
+                ]
+            },
+            "title": "Protecting Bare-Metal Embedded Systems with Privilege Overlays.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "289-303",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ClementsASSKBP17",
+            "doi": "10.1109/SP.2017.37",
+            "ee": "https://doi.org/10.1109/SP.2017.37",
+            "url": "https://dblp.org/rec/conf/sp/ClementsASSKBP17"
+        },
+        "url": "URL#3505187"
+    },
+    {
+        "@score": "1",
+        "@id": "3505188",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "150/7970",
+                        "text": "Moritz Contag"
+                    },
+                    {
+                        "@pid": "224/2345",
+                        "text": "Vector Guo Li"
+                    },
+                    {
+                        "@pid": "164/7389",
+                        "text": "Andre Pawlowski"
+                    },
+                    {
+                        "@pid": "201/9263",
+                        "text": "Felix Domke"
+                    },
+                    {
+                        "@pid": "l/KirillLevchenko",
+                        "text": "Kirill Levchenko"
+                    },
+                    {
+                        "@pid": "h/ThorstenHolz",
+                        "text": "Thorsten Holz"
+                    },
+                    {
+                        "@pid": "s/StefanSavage",
+                        "text": "Stefan Savage"
+                    }
+                ]
+            },
+            "title": "How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "231-250",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ContagLPDLHS17",
+            "doi": "10.1109/SP.2017.66",
+            "ee": "https://doi.org/10.1109/SP.2017.66",
+            "url": "https://dblp.org/rec/conf/sp/ContagLPDLHS17"
+        },
+        "url": "URL#3505188"
+    },
+    {
+        "@score": "1",
+        "@id": "3505189",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "65/550",
+                        "text": "V\u00e9ronique Cortier"
+                    },
+                    {
+                        "@pid": "77/7303",
+                        "text": "Constantin Catalin Dragan"
+                    },
+                    {
+                        "@pid": "57/10027",
+                        "text": "Fran\u00e7ois Dupressoir"
+                    },
+                    {
+                        "@pid": "16/3338",
+                        "text": "Benedikt Schmidt"
+                    },
+                    {
+                        "@pid": "35/5080",
+                        "text": "Pierre-Yves Strub"
+                    },
+                    {
+                        "@pid": "09/6076",
+                        "text": "Bogdan Warinschi"
+                    }
+                ]
+            },
+            "title": "Machine-Checked Proofs of Privacy for Electronic Voting Protocols.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "993-1008",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/CortierDDSSW17",
+            "doi": "10.1109/SP.2017.28",
+            "ee": "https://doi.org/10.1109/SP.2017.28",
+            "url": "https://dblp.org/rec/conf/sp/CortierDDSSW17"
+        },
+        "url": "URL#3505189"
+    },
+    {
+        "@score": "1",
+        "@id": "3505191",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "121/1113",
+                        "text": "Antoine Delignat-Lavaud"
+                    },
+                    {
+                        "@pid": "f/CedricFournet",
+                        "text": "C\u00e9dric Fournet"
+                    },
+                    {
+                        "@pid": "12/2177",
+                        "text": "Markulf Kohlweiss"
+                    },
+                    {
+                        "@pid": "132/3972",
+                        "text": "Jonathan Protzenko"
+                    },
+                    {
+                        "@pid": "81/10809",
+                        "text": "Aseem Rastogi"
+                    },
+                    {
+                        "@pid": "11/5568",
+                        "text": "Nikhil Swamy"
+                    },
+                    {
+                        "@pid": "70/2200",
+                        "text": "Santiago Zanella B\u00e9guelin"
+                    },
+                    {
+                        "@pid": "80/3503",
+                        "text": "Karthikeyan Bhargavan"
+                    },
+                    {
+                        "@pid": "193/7408",
+                        "text": "Jianyang Pan"
+                    },
+                    {
+                        "@pid": "165/5496",
+                        "text": "Jean Karim Zinzindohoue"
+                    }
+                ]
+            },
+            "title": "Implementing and Proving the TLS 1.3 Record Layer.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "463-482",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/Delignat-Lavaud17",
+            "doi": "10.1109/SP.2017.58",
+            "ee": "https://doi.org/10.1109/SP.2017.58",
+            "url": "https://dblp.org/rec/conf/sp/Delignat-Lavaud17"
+        },
+        "url": "URL#3505191"
+    },
+    {
+        "@score": "1",
+        "@id": "3505192",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/5733",
+                        "text": "Brown Farinholt"
+                    },
+                    {
+                        "@pid": "128/3033",
+                        "text": "Mohammad Rezaeirad"
+                    },
+                    {
+                        "@pid": "61/1749",
+                        "text": "Paul Pearce"
+                    },
+                    {
+                        "@pid": "119/7663",
+                        "text": "Hitesh Dharmdasani"
+                    },
+                    {
+                        "@pid": "201/9272",
+                        "text": "Haikuo Yin"
+                    },
+                    {
+                        "@pid": "06/2286",
+                        "text": "Stevens Le Blond"
+                    },
+                    {
+                        "@pid": "58/4016",
+                        "text": "Damon McCoy"
+                    },
+                    {
+                        "@pid": "l/KirillLevchenko",
+                        "text": "Kirill Levchenko"
+                    }
+                ]
+            },
+            "title": "To Catch a Ratter: Monitoring the Behavior of Amateur DarkComet RAT Operators in the Wild.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "770-787",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FarinholtRPDYBM17",
+            "doi": "10.1109/SP.2017.48",
+            "ee": "https://doi.org/10.1109/SP.2017.48",
+            "url": "https://dblp.org/rec/conf/sp/FarinholtRPDYBM17"
+        },
+        "url": "URL#3505192"
+    },
+    {
+        "@score": "1",
+        "@id": "3505193",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "f/FelixFischer-1",
+                        "text": "Felix Fischer 0001"
+                    },
+                    {
+                        "@pid": "122/3548",
+                        "text": "Konstantin B\u00f6ttinger"
+                    },
+                    {
+                        "@pid": "51/8434",
+                        "text": "Huang Xiao"
+                    },
+                    {
+                        "@pid": "184/6096",
+                        "text": "Christian Stransky"
+                    },
+                    {
+                        "@pid": "132/9687",
+                        "text": "Yasemin Acar"
+                    },
+                    {
+                        "@pid": "b/MichaelBackes1",
+                        "text": "Michael Backes 0001"
+                    },
+                    {
+                        "@pid": "38/9378",
+                        "text": "Sascha Fahl"
+                    }
+                ]
+            },
+            "title": "Stack Overflow Considered Harmful? The Impact of Copy&amp;Paste on Android Application Security.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "121-136",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FischerBXSA0F17",
+            "doi": "10.1109/SP.2017.31",
+            "ee": "https://doi.org/10.1109/SP.2017.31",
+            "url": "https://dblp.org/rec/conf/sp/FischerBXSA0F17"
+        },
+        "url": "URL#3505193"
+    },
+    {
+        "@score": "1",
+        "@id": "3505194",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "11/10929",
+                        "text": "Yanick Fratantonio"
+                    },
+                    {
+                        "@pid": "147/2276",
+                        "text": "Chenxiong Qian"
+                    },
+                    {
+                        "@pid": "38/860",
+                        "text": "Simon P. Chung"
+                    },
+                    {
+                        "@pid": "29/5976",
+                        "text": "Wenke Lee"
+                    }
+                ]
+            },
+            "title": "Cloak and Dagger: From Two Permissions to Complete Control of the UI Feedback Loop.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1041-1057",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FratantonioQCL17",
+            "doi": "10.1109/SP.2017.39",
+            "ee": "https://doi.org/10.1109/SP.2017.39",
+            "url": "https://dblp.org/rec/conf/sp/FratantonioQCL17"
+        },
+        "url": "URL#3505194"
+    },
+    {
+        "@score": "1",
+        "@id": "3505195",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/10073",
+                        "text": "Benjamin Fuller 0001"
+                    },
+                    {
+                        "@pid": "59/6288",
+                        "text": "Mayank Varia"
+                    },
+                    {
+                        "@pid": "05/4233",
+                        "text": "Arkady Yerukhimovich"
+                    },
+                    {
+                        "@pid": "26/1767",
+                        "text": "Emily Shen"
+                    },
+                    {
+                        "@pid": "157/3800",
+                        "text": "Ariel Hamlin"
+                    },
+                    {
+                        "@pid": "86/7615",
+                        "text": "Vijay Gadepally"
+                    },
+                    {
+                        "@pid": "18/1031",
+                        "text": "Richard Shay"
+                    },
+                    {
+                        "@pid": "198/0835",
+                        "text": "John Darby Mitchell"
+                    },
+                    {
+                        "@pid": "73/2605",
+                        "text": "Robert K. Cunningham"
+                    }
+                ]
+            },
+            "title": "SoK: Cryptographically Protected Database Search.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "172-191",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/FullerVYSHGSMC17",
+            "doi": "10.1109/SP.2017.10",
+            "ee": "https://doi.org/10.1109/SP.2017.10",
+            "url": "https://dblp.org/rec/conf/sp/FullerVYSHGSMC17"
+        },
+        "url": "URL#3505195"
+    },
+    {
+        "@score": "1",
+        "@id": "3505198",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "134/7573",
+                        "text": "Nethanel Gelernter"
+                    },
+                    {
+                        "@pid": "201/9218",
+                        "text": "Senia Kalma"
+                    },
+                    {
+                        "@pid": "201/9224",
+                        "text": "Bar Magnezi"
+                    },
+                    {
+                        "@pid": "201/9254",
+                        "text": "Hen Porcilan"
+                    }
+                ]
+            },
+            "title": "The Password Reset MitM Attack.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "251-267",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GelernterKMP17",
+            "doi": "10.1109/SP.2017.9",
+            "ee": "https://doi.org/10.1109/SP.2017.9",
+            "url": "https://dblp.org/rec/conf/sp/GelernterKMP17"
+        },
+        "url": "URL#3505198"
+    },
+    {
+        "@score": "1",
+        "@id": "3505199",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/2372",
+                        "text": "Paul Grubbs"
+                    },
+                    {
+                        "@pid": "187/5561",
+                        "text": "Kevin Sekniqi"
+                    },
+                    {
+                        "@pid": "117/2526",
+                        "text": "Vincent Bindschaedler"
+                    },
+                    {
+                        "@pid": "120/9715-1",
+                        "text": "Muhammad Naveed 0001"
+                    },
+                    {
+                        "@pid": "26/3399",
+                        "text": "Thomas Ristenpart"
+                    }
+                ]
+            },
+            "title": "Leakage-Abuse Attacks against Order-Revealing Encryption.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "655-672",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/GrubbsSB0R17",
+            "doi": "10.1109/SP.2017.44",
+            "ee": "https://doi.org/10.1109/SP.2017.44",
+            "url": "https://dblp.org/rec/conf/sp/GrubbsSB0R17"
+        },
+        "url": "URL#3505199"
+    },
+    {
+        "@score": "1",
+        "@id": "3505201",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "45/1437",
+                        "text": "Cormac Herley"
+                    },
+                    {
+                        "@pid": "o/PCvOorschot",
+                        "text": "Paul C. van Oorschot"
+                    }
+                ]
+            },
+            "title": "SoK: Science, Security and the Elusive Goal of Security as a Scientific Pursuit.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "99-120",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HerleyO17",
+            "doi": "10.1109/SP.2017.38",
+            "ee": "https://doi.org/10.1109/SP.2017.38",
+            "url": "https://dblp.org/rec/conf/sp/HerleyO17"
+        },
+        "url": "URL#3505201"
+    },
+    {
+        "@score": "1",
+        "@id": "3505202",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "187/8973",
+                        "text": "Philipp Holzinger"
+                    },
+                    {
+                        "@pid": "147/7971",
+                        "text": "Ben Hermann"
+                    },
+                    {
+                        "@pid": "128/5813",
+                        "text": "Johannes Lerch"
+                    },
+                    {
+                        "@pid": "94/5744",
+                        "text": "Eric Bodden"
+                    },
+                    {
+                        "@pid": "m/MiraMezini",
+                        "text": "Mira Mezini"
+                    }
+                ]
+            },
+            "title": "Hardening Java&apos;s Access Control by Abolishing Implicit Privilege Elevation.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1027-1040",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/HolzingerHLBM17",
+            "doi": "10.1109/SP.2017.16",
+            "ee": "https://doi.org/10.1109/SP.2017.16",
+            "url": "https://dblp.org/rec/conf/sp/HolzingerHLBM17"
+        },
+        "url": "URL#3505202"
+    },
+    {
+        "@score": "1",
+        "@id": "3505204",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9255",
+                        "text": "Seulbae Kim"
+                    },
+                    {
+                        "@pid": "201/9210",
+                        "text": "Seunghoon Woo"
+                    },
+                    {
+                        "@pid": "75/4485",
+                        "text": "Heejo Lee"
+                    },
+                    {
+                        "@pid": "13/7537",
+                        "text": "Hakjoo Oh"
+                    }
+                ]
+            },
+            "title": "VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "595-614",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KimWLO17",
+            "doi": "10.1109/SP.2017.62",
+            "ee": "https://doi.org/10.1109/SP.2017.62",
+            "url": "https://dblp.org/rec/conf/sp/KimWLO17"
+        },
+        "url": "URL#3505204"
+    },
+    {
+        "@score": "1",
+        "@id": "3505205",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "k/RKusters",
+                        "text": "Ralf K\u00fcsters"
+                    },
+                    {
+                        "@pid": "157/2805-1",
+                        "text": "Daniel Rausch 0001"
+                    }
+                ]
+            },
+            "title": "A Framework for Universally Composable Diffie-Hellman Key Exchange.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "881-900",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/KustersR17",
+            "doi": "10.1109/SP.2017.63",
+            "ee": "https://doi.org/10.1109/SP.2017.63",
+            "url": "https://dblp.org/rec/conf/sp/KustersR17"
+        },
+        "url": "URL#3505205"
+    },
+    {
+        "@score": "1",
+        "@id": "3505206",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9209",
+                        "text": "James Larisch"
+                    },
+                    {
+                        "@pid": "48/6854",
+                        "text": "David R. Choffnes"
+                    },
+                    {
+                        "@pid": "03/6428",
+                        "text": "Dave Levin"
+                    },
+                    {
+                        "@pid": "m/BruceMMaggs",
+                        "text": "Bruce M. Maggs"
+                    },
+                    {
+                        "@pid": "31/3833",
+                        "text": "Alan Mislove"
+                    },
+                    {
+                        "@pid": "79/5135",
+                        "text": "Christo Wilson"
+                    }
+                ]
+            },
+            "title": "CRLite: A Scalable System for Pushing All TLS Revocations to All Browsers.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "539-556",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LarischCLMMW17",
+            "doi": "10.1109/SP.2017.17",
+            "ee": "https://doi.org/10.1109/SP.2017.17",
+            "url": "https://dblp.org/rec/conf/sp/LarischCLMMW17"
+        },
+        "url": "URL#3505206"
+    },
+    {
+        "@score": "1",
+        "@id": "3505207",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "151/0324",
+                        "text": "Kiron Lebeck"
+                    },
+                    {
+                        "@pid": "201/9217",
+                        "text": "Kimberly Ruth"
+                    },
+                    {
+                        "@pid": "k/TadayoshiKohno",
+                        "text": "Tadayoshi Kohno"
+                    },
+                    {
+                        "@pid": "23/2758",
+                        "text": "Franziska Roesner"
+                    }
+                ]
+            },
+            "title": "Securing Augmented Reality Output.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "320-337",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LebeckRKR17",
+            "doi": "10.1109/SP.2017.13",
+            "ee": "https://doi.org/10.1109/SP.2017.13",
+            "url": "https://dblp.org/rec/conf/sp/LebeckRKR17"
+        },
+        "url": "URL#3505207"
+    },
+    {
+        "@score": "1",
+        "@id": "3505208",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "130/0417",
+                        "text": "Mathias L\u00e9cuyer"
+                    },
+                    {
+                        "@pid": "123/9751",
+                        "text": "Riley Spahn"
+                    },
+                    {
+                        "@pid": "g/RoxanaGeambasu",
+                        "text": "Roxana Geambasu"
+                    },
+                    {
+                        "@pid": "22/1218",
+                        "text": "Tzu-Kuo Huang"
+                    },
+                    {
+                        "@pid": "58/968",
+                        "text": "Siddhartha Sen 0001"
+                    }
+                ]
+            },
+            "title": "Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "78-95",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LecuyerSGHS17",
+            "doi": "10.1109/SP.2017.60",
+            "ee": "https://doi.org/10.1109/SP.2017.60",
+            "url": "https://dblp.org/rec/conf/sp/LecuyerSGHS17"
+        },
+        "url": "URL#3505208"
+    },
+    {
+        "@score": "1",
+        "@id": "3505209",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "134/8710",
+                        "text": "Chaz Lever"
+                    },
+                    {
+                        "@pid": "44/10958",
+                        "text": "Platon Kotzias"
+                    },
+                    {
+                        "@pid": "56/490",
+                        "text": "Davide Balzarotti"
+                    },
+                    {
+                        "@pid": "35/3587",
+                        "text": "Juan Caballero"
+                    },
+                    {
+                        "@pid": "26/216",
+                        "text": "Manos Antonakakis"
+                    }
+                ]
+            },
+            "title": "A Lustrum of Malware Network Communication: Evolution and Insights.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "788-804",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/LeverKBCA17",
+            "doi": "10.1109/SP.2017.59",
+            "ee": "https://doi.org/10.1109/SP.2017.59",
+            "url": "https://dblp.org/rec/conf/sp/LeverKBCA17"
+        },
+        "url": "URL#3505209"
+    },
+    {
+        "@score": "1",
+        "@id": "3505215",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "73/2223",
+                        "text": "Paul Marinescu"
+                    },
+                    {
+                        "@pid": "201/9265",
+                        "text": "Chad Parry"
+                    },
+                    {
+                        "@pid": "143/5694",
+                        "text": "Marjori Pomarole"
+                    },
+                    {
+                        "@pid": "39/5423-1",
+                        "text": "Yuan Tian 0001"
+                    },
+                    {
+                        "@pid": "89/1945",
+                        "text": "Patrick Tague"
+                    },
+                    {
+                        "@pid": "45/4905",
+                        "text": "Ioannis Papagiannis"
+                    }
+                ]
+            },
+            "title": "IVD: Automatic Learning and Enforcement of Authorization Rules in Online Social Networks.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1094-1109",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MarinescuPPTTP17",
+            "doi": "10.1109/SP.2017.33",
+            "ee": "https://doi.org/10.1109/SP.2017.33",
+            "url": "https://dblp.org/rec/conf/sp/MarinescuPPTTP17"
+        },
+        "url": "URL#3505215"
+    },
+    {
+        "@score": "1",
+        "@id": "3505217",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "153/5802",
+                        "text": "Stephanos Matsumoto"
+                    },
+                    {
+                        "@pid": "09/7407",
+                        "text": "Raphael M. Reischuk"
+                    }
+                ]
+            },
+            "title": "IKP: Turning a PKI Around with Decentralized Automated Incentives.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "410-426",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MatsumotoR17",
+            "doi": "10.1109/SP.2017.57",
+            "ee": "https://doi.org/10.1109/SP.2017.57",
+            "url": "https://dblp.org/rec/conf/sp/MatsumotoR17"
+        },
+        "url": "URL#3505217"
+    },
+    {
+        "@score": "1",
+        "@id": "3505218",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "182/2006",
+                        "text": "Najmeh Miramirkhani"
+                    },
+                    {
+                        "@pid": "201/9250",
+                        "text": "Mahathi Priya Appini"
+                    },
+                    {
+                        "@pid": "04/8280",
+                        "text": "Nick Nikiforakis"
+                    },
+                    {
+                        "@pid": "09/1231",
+                        "text": "Michalis Polychronakis"
+                    }
+                ]
+            },
+            "title": "Spotless Sandboxes: Evading Malware Analysis Systems Using Wear-and-Tear Artifacts.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1009-1024",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MiramirkhaniANP17",
+            "doi": "10.1109/SP.2017.42",
+            "ee": "https://doi.org/10.1109/SP.2017.42",
+            "url": "https://dblp.org/rec/conf/sp/MiramirkhaniANP17"
+        },
+        "url": "URL#3505218"
+    },
+    {
+        "@score": "1",
+        "@id": "3505220",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "67/6496",
+                        "text": "Payman Mohassel"
+                    },
+                    {
+                        "@pid": "82/4816-1",
+                        "text": "Yupeng Zhang 0001"
+                    }
+                ]
+            },
+            "title": "SecureML: A System for Scalable Privacy-Preserving Machine Learning.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "19-38",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MohasselZ17",
+            "doi": "10.1109/SP.2017.12",
+            "ee": "https://doi.org/10.1109/SP.2017.12",
+            "url": "https://dblp.org/rec/conf/sp/MohasselZ17"
+        },
+        "url": "URL#3505220"
+    },
+    {
+        "@score": "1",
+        "@id": "3505221",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "80/1239-7",
+                        "text": "Jens M\u00fcller 0007"
+                    },
+                    {
+                        "@pid": "138/0964",
+                        "text": "Vladislav Mladenov"
+                    },
+                    {
+                        "@pid": "27/8331",
+                        "text": "Juraj Somorovsky"
+                    },
+                    {
+                        "@pid": "58/5730",
+                        "text": "J\u00f6rg Schwenk"
+                    }
+                ]
+            },
+            "title": "SoK: Exploiting Network Printers.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "213-230",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/MullerMSS17",
+            "doi": "10.1109/SP.2017.47",
+            "ee": "https://doi.org/10.1109/SP.2017.47",
+            "url": "https://dblp.org/rec/conf/sp/MullerMSS17"
+        },
+        "url": "URL#3505221"
+    },
+    {
+        "@score": "1",
+        "@id": "3505222",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "61/7355",
+                        "text": "Van Chan Ngo"
+                    },
+                    {
+                        "@pid": "201/9204",
+                        "text": "Mario Dehesa-Azuara"
+                    },
+                    {
+                        "@pid": "38/2612",
+                        "text": "Matthew Fredrikson"
+                    },
+                    {
+                        "@pid": "75/425",
+                        "text": "Jan Hoffmann 0002"
+                    }
+                ]
+            },
+            "title": "Verifying and Synthesizing Constant-Resource Implementations with Types.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "710-728",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/NgoDFH17",
+            "doi": "10.1109/SP.2017.53",
+            "ee": "https://doi.org/10.1109/SP.2017.53",
+            "url": "https://dblp.org/rec/conf/sp/NgoDFH17"
+        },
+        "url": "URL#3505222"
+    },
+    {
+        "@score": "1",
+        "@id": "3505224",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9235",
+                        "text": "Katarzyna Olejnik"
+                    },
+                    {
+                        "@pid": "82/5414",
+                        "text": "Italo Dacosta"
+                    },
+                    {
+                        "@pid": "201/9213",
+                        "text": "Joana Soares Machado"
+                    },
+                    {
+                        "@pid": "10/3024",
+                        "text": "K\u00e9vin Huguenin"
+                    },
+                    {
+                        "@pid": "58/10432",
+                        "text": "Mohammad Emtiyaz Khan"
+                    },
+                    {
+                        "@pid": "h/JPHubaux",
+                        "text": "Jean-Pierre Hubaux"
+                    }
+                ]
+            },
+            "title": "SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1058-1076",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/OlejnikDMHKH17",
+            "doi": "10.1109/SP.2017.25",
+            "ee": "https://doi.org/10.1109/SP.2017.25",
+            "url": "https://dblp.org/rec/conf/sp/OlejnikDMHKH17"
+        },
+        "url": "URL#3505224"
+    },
+    {
+        "@score": "1",
+        "@id": "3505226",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "61/1749",
+                        "text": "Paul Pearce"
+                    },
+                    {
+                        "@pid": "24/973",
+                        "text": "Roya Ensafi"
+                    },
+                    {
+                        "@pid": "53/10825",
+                        "text": "Frank Li 0001"
+                    },
+                    {
+                        "@pid": "87/840",
+                        "text": "Nick Feamster"
+                    },
+                    {
+                        "@pid": "p/VernPaxson",
+                        "text": "Vern Paxson"
+                    }
+                ]
+            },
+            "title": "Augur: Internet-Wide Detection of Connectivity Disruptions.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "427-443",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PearceELFP17",
+            "doi": "10.1109/SP.2017.55",
+            "ee": "https://doi.org/10.1109/SP.2017.55",
+            "url": "https://dblp.org/rec/conf/sp/PearceELFP17"
+        },
+        "url": "URL#3505226"
+    },
+    {
+        "@score": "1",
+        "@id": "3505227",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "201/9221",
+                        "text": "Mathias V. Pedersen"
+                    },
+                    {
+                        "@pid": "24/2197",
+                        "text": "Aslan Askarov"
+                    }
+                ]
+            },
+            "title": "From Trash to Treasure: Timing-Sensitive Garbage Collection.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "693-709",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PedersenA17",
+            "doi": "10.1109/SP.2017.64",
+            "ee": "https://doi.org/10.1109/SP.2017.64",
+            "url": "https://dblp.org/rec/conf/sp/PedersenA17"
+        },
+        "url": "URL#3505227"
+    },
+    {
+        "@score": "1",
+        "@id": "3505228",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "149/2447",
+                        "text": "Theofilos Petsios"
+                    },
+                    {
+                        "@pid": "68/5424",
+                        "text": "Adrian Tang"
+                    },
+                    {
+                        "@pid": "s/SalvatoreJStolfo",
+                        "text": "Salvatore J. Stolfo"
+                    },
+                    {
+                        "@pid": "k/AngelosDKeromytis",
+                        "text": "Angelos D. Keromytis"
+                    },
+                    {
+                        "@pid": "74/28",
+                        "text": "Suman Jana"
+                    }
+                ]
+            },
+            "title": "NEZHA: Efficient Domain-Independent Differential Testing.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "615-632",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/PetsiosTSKJ17",
+            "doi": "10.1109/SP.2017.27",
+            "ee": "https://doi.org/10.1109/SP.2017.27",
+            "url": "https://dblp.org/rec/conf/sp/PetsiosTSKJ17"
+        },
+        "url": "URL#3505228"
+    },
+    {
+        "@score": "1",
+        "@id": "3505234",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "90/130",
+                        "text": "Davide Quarta"
+                    },
+                    {
+                        "@pid": "152/9286",
+                        "text": "Marcello Pogliani"
+                    },
+                    {
+                        "@pid": "163/9937",
+                        "text": "Mario Polino"
+                    },
+                    {
+                        "@pid": "70/2534",
+                        "text": "Federico Maggi"
+                    },
+                    {
+                        "@pid": "13/8366",
+                        "text": "Andrea Maria Zanchettin"
+                    },
+                    {
+                        "@pid": "z/StefanoZanero",
+                        "text": "Stefano Zanero"
+                    }
+                ]
+            },
+            "title": "An Experimental Security Analysis of an Industrial Robot Controller.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "268-286",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/QuartaPPMZZ17",
+            "doi": "10.1109/SP.2017.20",
+            "ee": "https://doi.org/10.1109/SP.2017.20",
+            "url": "https://dblp.org/rec/conf/sp/QuartaPPMZZ17"
+        },
+        "url": "URL#3505234"
+    },
+    {
+        "@score": "1",
+        "@id": "3505236",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "180/7297",
+                        "text": "Eyal Ronen"
+                    },
+                    {
+                        "@pid": "s/AdiShamir",
+                        "text": "Adi Shamir"
+                    },
+                    {
+                        "@pid": "189/1578",
+                        "text": "Achi-Or Weingarten"
+                    },
+                    {
+                        "@pid": "77/3571",
+                        "text": "Colin O&apos;Flynn"
+                    }
+                ]
+            },
+            "title": "IoT Goes Nuclear: Creating a ZigBee Chain Reaction.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "195-212",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/RonenSWO17",
+            "doi": "10.1109/SP.2017.14",
+            "ee": "https://doi.org/10.1109/SP.2017.14",
+            "url": "https://dblp.org/rec/conf/sp/RonenSWO17"
+        },
+        "url": "URL#3505236"
+    },
+    {
+        "@score": "1",
+        "@id": "3505243",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "20/3101",
+                        "text": "Reza Shokri"
+                    },
+                    {
+                        "@pid": "117/3772",
+                        "text": "Marco Stronati"
+                    },
+                    {
+                        "@pid": "186/8335",
+                        "text": "Congzheng Song"
+                    },
+                    {
+                        "@pid": "46/6275",
+                        "text": "Vitaly Shmatikov"
+                    }
+                ]
+            },
+            "title": "Membership Inference Attacks Against Machine Learning Models.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "3-18",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ShokriSSS17",
+            "doi": "10.1109/SP.2017.41",
+            "ee": "https://doi.org/10.1109/SP.2017.41",
+            "url": "https://dblp.org/rec/conf/sp/ShokriSSS17"
+        },
+        "url": "URL#3505243"
+    },
+    {
+        "@score": "1",
+        "@id": "3505244",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "168/9531",
+                        "text": "Suphannee Sivakorn"
+                    },
+                    {
+                        "@pid": "145/1793",
+                        "text": "George Argyros"
+                    },
+                    {
+                        "@pid": "145/6061",
+                        "text": "Kexin Pei"
+                    },
+                    {
+                        "@pid": "k/AngelosDKeromytis",
+                        "text": "Angelos D. Keromytis"
+                    },
+                    {
+                        "@pid": "74/28",
+                        "text": "Suman Jana"
+                    }
+                ]
+            },
+            "title": "HVLearn: Automated Black-Box Analysis of Hostname Verification in SSL/TLS Implementations.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "521-538",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SivakornAPKJ17",
+            "doi": "10.1109/SP.2017.46",
+            "ee": "https://doi.org/10.1109/SP.2017.46",
+            "url": "https://dblp.org/rec/conf/sp/SivakornAPKJ17"
+        },
+        "url": "URL#3505244"
+    },
+    {
+        "@score": "1",
+        "@id": "3505245",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "04/5072",
+                        "text": "Adam D. Smith 0001"
+                    },
+                    {
+                        "@pid": "31/8315",
+                        "text": "Abhradeep Thakurta"
+                    },
+                    {
+                        "@pid": "23/10309",
+                        "text": "Jalaj Upadhyay"
+                    }
+                ]
+            },
+            "title": "Is Interaction Necessary for Distributed Private Learning?",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "58-77",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SmithTU17",
+            "doi": "10.1109/SP.2017.35",
+            "ee": "https://doi.org/10.1109/SP.2017.35",
+            "url": "https://dblp.org/rec/conf/sp/SmithTU17"
+        },
+        "url": "URL#3505245"
+    },
+    {
+        "@score": "1",
+        "@id": "3505246",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "124/3091",
+                        "text": "Yunpeng Song"
+                    },
+                    {
+                        "@pid": "05/7884",
+                        "text": "Zhongmin Cai"
+                    },
+                    {
+                        "@pid": "07/5905",
+                        "text": "Zhi-Li Zhang"
+                    }
+                ]
+            },
+            "title": "Multi-touch Authentication Using Hand Geometry and Behavioral Information.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "357-372",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SongCZ17",
+            "doi": "10.1109/SP.2017.54",
+            "ee": "https://doi.org/10.1109/SP.2017.54",
+            "url": "https://dblp.org/rec/conf/sp/SongCZ17"
+        },
+        "url": "URL#3505246"
+    },
+    {
+        "@score": "1",
+        "@id": "3505247",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "134/8950",
+                        "text": "Oleksii Starov"
+                    },
+                    {
+                        "@pid": "04/8280",
+                        "text": "Nick Nikiforakis"
+                    }
+                ]
+            },
+            "title": "XHOUND: Quantifying the Fingerprintability of Browser Extensions.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "941-956",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/StarovN17",
+            "doi": "10.1109/SP.2017.18",
+            "ee": "https://doi.org/10.1109/SP.2017.18",
+            "url": "https://dblp.org/rec/conf/sp/StarovN17"
+        },
+        "url": "URL#3505247"
+    },
+    {
+        "@score": "1",
+        "@id": "3505248",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "139/9789",
+                        "text": "Yixin Sun"
+                    },
+                    {
+                        "@pid": "126/2313",
+                        "text": "Anne Edmundson"
+                    },
+                    {
+                        "@pid": "87/840",
+                        "text": "Nick Feamster"
+                    },
+                    {
+                        "@pid": "61/5309",
+                        "text": "Mung Chiang"
+                    },
+                    {
+                        "@pid": "39/6266",
+                        "text": "Prateek Mittal"
+                    }
+                ]
+            },
+            "title": "Counter-RAPTOR: Safeguarding Tor Against Active Routing Attacks.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "977-992",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SunEFCM17",
+            "doi": "10.1109/SP.2017.34",
+            "ee": "https://doi.org/10.1109/SP.2017.34",
+            "url": "https://dblp.org/rec/conf/sp/SunEFCM17"
+        },
+        "url": "URL#3505248"
+    },
+    {
+        "@score": "1",
+        "@id": "3505249",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "12/7905",
+                        "text": "Ewa Syta"
+                    },
+                    {
+                        "@pid": "14/11314",
+                        "text": "Philipp Jovanovic"
+                    },
+                    {
+                        "@pid": "176/5301",
+                        "text": "Eleftherios Kokoris-Kogias"
+                    },
+                    {
+                        "@pid": "176/5570",
+                        "text": "Nicolas Gailly"
+                    },
+                    {
+                        "@pid": "122/9716",
+                        "text": "Linus Gasser"
+                    },
+                    {
+                        "@pid": "176/5341",
+                        "text": "Ismail Khoffi"
+                    },
+                    {
+                        "@pid": "f/MichaelJFischer",
+                        "text": "Michael J. Fischer"
+                    },
+                    {
+                        "@pid": "f/BryanFord",
+                        "text": "Bryan Ford"
+                    }
+                ]
+            },
+            "title": "Scalable Bias-Resistant Distributed Randomness.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "444-460",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/SytaJKGGKFF17",
+            "doi": "10.1109/SP.2017.45",
+            "ee": "https://doi.org/10.1109/SP.2017.45",
+            "url": "https://dblp.org/rec/conf/sp/SytaJKGGKFF17"
+        },
+        "url": "URL#3505249"
+    },
+    {
+        "@score": "1",
+        "@id": "3505250",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "119/7737",
+                        "text": "Alin Tomescu"
+                    },
+                    {
+                        "@pid": "14/3973",
+                        "text": "Srinivas Devadas"
+                    }
+                ]
+            },
+            "title": "Catena: Efficient Non-equivocation via Bitcoin.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "393-409",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/TomescuD17",
+            "doi": "10.1109/SP.2017.19",
+            "ee": "https://doi.org/10.1109/SP.2017.19",
+            "url": "https://dblp.org/rec/conf/sp/TomescuD17"
+        },
+        "url": "URL#3505250"
+    },
+    {
+        "@score": "1",
+        "@id": "3505254",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "14/1915-7",
+                        "text": "Junjie Wang 0007"
+                    },
+                    {
+                        "@pid": "61/9197",
+                        "text": "Bihuan Chen 0001"
+                    },
+                    {
+                        "@pid": "99/4916",
+                        "text": "Lei Wei"
+                    },
+                    {
+                        "@pid": "51/3710-3",
+                        "text": "Yang Liu 0003"
+                    }
+                ]
+            },
+            "title": "Skyfire: Data-Driven Seed Generation for Fuzzing.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "579-594",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/WangCWL17",
+            "doi": "10.1109/SP.2017.23",
+            "ee": "https://doi.org/10.1109/SP.2017.23",
+            "url": "https://dblp.org/rec/conf/sp/WangCWL17"
+        },
+        "url": "URL#3505254"
+    },
+    {
+        "@score": "1",
+        "@id": "3505255",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "56/4499-23",
+                        "text": "Liang Wang 0023"
+                    },
+                    {
+                        "@pid": "139/2372",
+                        "text": "Paul Grubbs"
+                    },
+                    {
+                        "@pid": "96/939",
+                        "text": "Jiahui Lu"
+                    },
+                    {
+                        "@pid": "117/2526",
+                        "text": "Vincent Bindschaedler"
+                    },
+                    {
+                        "@pid": "68/158",
+                        "text": "David Cash"
+                    },
+                    {
+                        "@pid": "26/3399",
+                        "text": "Thomas Ristenpart"
+                    }
+                ]
+            },
+            "title": "Side-Channel Attacks on Shared Search Indexes.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "673-692",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/WangGLBCR17",
+            "doi": "10.1109/SP.2017.50",
+            "ee": "https://doi.org/10.1109/SP.2017.50",
+            "url": "https://dblp.org/rec/conf/sp/WangGLBCR17"
+        },
+        "url": "URL#3505255"
+    },
+    {
+        "@score": "1",
+        "@id": "3505257",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "162/0214",
+                        "text": "Primal Wijesekera"
+                    },
+                    {
+                        "@pid": "161/9928",
+                        "text": "Arjun Baokar"
+                    },
+                    {
+                        "@pid": "180/5452",
+                        "text": "Lynn Tsai"
+                    },
+                    {
+                        "@pid": "04/8882",
+                        "text": "Joel Reardon"
+                    },
+                    {
+                        "@pid": "07/1108",
+                        "text": "Serge Egelman"
+                    },
+                    {
+                        "@pid": "42/5626",
+                        "text": "David A. Wagner 0001"
+                    },
+                    {
+                        "@pid": "47/6517",
+                        "text": "Konstantin Beznosov"
+                    }
+                ]
+            },
+            "title": "The Feasibility of Dynamically Granted Permissions: Aligning Mobile Privacy with User Preferences.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "1077-1093",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/WijesekeraBTREW17",
+            "doi": "10.1109/SP.2017.51",
+            "ee": "https://doi.org/10.1109/SP.2017.51",
+            "url": "https://dblp.org/rec/conf/sp/WijesekeraBTREW17"
+        },
+        "url": "URL#3505257"
+    },
+    {
+        "@score": "1",
+        "@id": "3505258",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "158/2764",
+                        "text": "Dongpeng Xu 0001"
+                    },
+                    {
+                        "@pid": "09/6585-2",
+                        "text": "Jiang Ming 0002"
+                    },
+                    {
+                        "@pid": "54/2696",
+                        "text": "Dinghao Wu"
+                    }
+                ]
+            },
+            "title": "Cryptographic Function Detection in Obfuscated Binaries via Bit-Precise Symbolic Loop Mapping.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "921-937",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/XuMW17",
+            "doi": "10.1109/SP.2017.56",
+            "ee": "https://doi.org/10.1109/SP.2017.56",
+            "url": "https://dblp.org/rec/conf/sp/XuMW17"
+        },
+        "url": "URL#3505258"
+    },
+    {
+        "@score": "1",
+        "@id": "3505259",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "54/4089",
+                        "text": "Hao Yang"
+                    },
+                    {
+                        "@pid": "201/9243",
+                        "text": "Xiulin Ma"
+                    },
+                    {
+                        "@pid": "150/8306",
+                        "text": "Kun Du"
+                    },
+                    {
+                        "@pid": "62/4119-1",
+                        "text": "Zhou Li 0001"
+                    },
+                    {
+                        "@pid": "36/5143",
+                        "text": "Hai-Xin Duan"
+                    },
+                    {
+                        "@pid": "13/9969",
+                        "text": "XiaoDong Su"
+                    },
+                    {
+                        "@pid": "193/2510",
+                        "text": "Guang Liu"
+                    },
+                    {
+                        "@pid": "201/9253",
+                        "text": "Zhifeng Geng"
+                    },
+                    {
+                        "@pid": "82/4905",
+                        "text": "Jianping Wu"
+                    }
+                ]
+            },
+            "title": "How to Learn Klingon without a Dictionary: Detection and Measurement of Black Keywords Used by the Underground Economy.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "751-769",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/YangMDLDSLGW17",
+            "doi": "10.1109/SP.2017.11",
+            "ee": "https://doi.org/10.1109/SP.2017.11",
+            "url": "https://dblp.org/rec/conf/sp/YangMDLDSLGW17"
+        },
+        "url": "URL#3505259"
+    },
+    {
+        "@score": "1",
+        "@id": "3505261",
+        "info": {
+            "authors": {
+                "author": [
+                    {
+                        "@pid": "82/4816-1",
+                        "text": "Yupeng Zhang 0001"
+                    },
+                    {
+                        "@pid": "98/8283",
+                        "text": "Daniel Genkin"
+                    },
+                    {
+                        "@pid": "k/JonathanKatz",
+                        "text": "Jonathan Katz"
+                    },
+                    {
+                        "@pid": "18/9002",
+                        "text": "Dimitrios Papadopoulos 0001"
+                    },
+                    {
+                        "@pid": "p/CharalamposPapamanthou",
+                        "text": "Charalampos Papamanthou"
+                    }
+                ]
+            },
+            "title": "vSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases.",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "pages": "863-880",
+            "year": "2017",
+            "type": "Conference and Workshop Papers",
+            "access": "closed",
+            "key": "conf/sp/ZhangGKPP17",
+            "doi": "10.1109/SP.2017.43",
+            "ee": "https://doi.org/10.1109/SP.2017.43",
+            "url": "https://dblp.org/rec/conf/sp/ZhangGKPP17"
+        },
+        "url": "URL#3505261"
+    },
+    {
+        "@score": "1",
+        "@id": "3524115",
+        "info": {
+            "title": "2017 IEEE Symposium on Security and Privacy, SP 2017, San Jose, CA, USA, May 22-26, 2017",
+            "venue": "IEEE Symposium on Security and Privacy",
+            "publisher": "IEEE Computer Society",
+            "year": "2017",
+            "type": "Editorship",
+            "key": "conf/sp/2017",
+            "ee": "https://ieeexplore.ieee.org/xpl/conhome/7957740/proceeding",
+            "url": "https://dblp.org/rec/conf/sp/2017"
+        },
+        "url": "URL#3524115"
+    }
+]
